@@ -1,0 +1,256 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 21,
+ "side": "right",
+ "folio": "18b",
+ "catchword": "מזמור",
+ "signature": null,
+ "printed_folio": null,
+ "units": [
+  "end of Wednesday psalm (Ps. 94 close: ויצמיתם... + ויבטחו + אמר ר' אלעזר)",
+  "rubric + Thursday psalm Ps. 81 (למנצח על הגתית) + ויבטחו + אמר ר' אלעזר",
+  "rubric + Friday psalm Ps. 93 (יהוה מלך) + ויבטחו + אמר ר' אלעזר",
+  "rubric for Shabbat psalm"
+ ],
+ "page_image_dpi": 300,
+ "ocr": {
+  "engine": "kraken 7.1.1",
+  "model": "BiblIA_01 (10.5281/zenodo.5468286)",
+  "input": "img/spread21_right_masked.png",
+  "outer_margin_masked": true
+ },
+ "transcription_scope": "consonantal text + print punctuation (\":\" sof pasuq, \"·\" stop). Print is vocalized; nikkud NOT transcribed. Rubrics are in small semi-cursive type.",
+ "conventions": {
+  "יי": "print abbreviation kept",
+  "[?]": "reading uncertain",
+  "|": "table column break",
+  "initial words": "large initial word merged into first line"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות החול",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "עליהם את אונם וברעתם יצמיתם יצמיתם יהוה אלהינו : ויבטחו בך יודעי שמך כי לא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "עזבת דורשיך יהוה : אמר רבי אלעזר אמר רבי חנינא תלמידי חכמים מרבים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "שלום בעולם שנאמר וכל בניך למודי יהוה ורב שלום בניך אל תקרי בניך אלא בוניך יהי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "שלום בחילך שלוה בארמנותיך למען אחי ורעי אדברה נא שלום בך למען בית יהוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "אלהינו אבקשה טוב לך וראה בנים לבניך שלום על ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "בחמישי היו אומרים הרנינו לאלהים עוזנו",
+   "confidence": "medium",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "למנצח על הגתית לאסף : הרנינו לאלהים עוזנו הריעו לאלהי יעקב :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "שאו זמרה ותנו תף כנור נעים עם נבל : תקעו בחדש שופר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "בכסה ליום חגנו : כי חק לישראל הוא משפט לאלהי יעקב : עדות ביהוסף שמו בצאתו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "על ארץ מצרים שפת לא ידעתי אשמע : הסירתי מסבל שכמו כפיו מדוד תעברנה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "בצרה קראת ואחלצך אענך בסתר רעם אבחנך על מי מריבה סלה : שמע עמי ואעידה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "בך ישראל אם תשמע לי : לא יהיה בך אל זר ולא תשתחוה לאל נכר : אנכי יהוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "אלהיך המעלך מארץ מצרים הרחב פיך ואמלאהו : ולא שמע עמי לקולי וישראל לא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "אבה לי : ואשלחהו בשרירות לבם ילכו במועצותיהם : לו עמי שומע לי ישראל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "בדרכי יהלכו : כמעט אויביהם אכניע ועל צריהם אשיב ידי : משנאי יהוה יכחשו לו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "ויהי עתם לעולם : ויאכילהו מחלב חטה ומצור דבש אשביעך : ויבטחו בך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "יודעי שמך כי לא עזבת דורשיך יהוה : אמר רבי אלעזר אמר רבי חנינא תלמידי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "חכמים מרבים שלום בעולם שנאמר וכל בניך למודי יהוה ורב שלום בניך אל תקרי בניך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "אלא בוניך יהי שלום בחילך שלוה בארמנותיך למען אחי ורעי אדברה נא שלום בך למען",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "בית יהוה אלהינו אבקשה טוב לך וראה בנים לבניך שלום על ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "בששי היו אומרים יי מלך גאות לבש ·",
+   "confidence": "medium",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "יהוה מלך גאות לבש לבש יהוה עוז התאזר אף תכון תבל בל תמוט :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "נכון כסאך מאז מעולם אתה : נשאו נהרות יהוה נשאו נהרות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "קולם ישאו נהרות דכים : מקולות מים רבים אדירים משברי ים אדיר במרום יהוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "עדתיך נאמנו מאד לביתך נאוה קדש יהוה לארך ימים : ויבטחו בך יודעי שמך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "כי לא עזבת דורשיך יהוה : אמר רבי אלעזר אמר רבי חנינא תלמידי חכמים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "מרבים שלום בעולם שנאמר וכל בניך למודי יהוה ורב שלום בניך אל תקרי בניך אלא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "בוניך יהי שלום בחילך שלוה בארמנותיך למען אחי ורעי אדברה נא שלום בך למען בית",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "יהוה אלהינו אבקשה טוב לך וראה בנים לבניך שלום על ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "בשבת היו אומרי' מזמור שיר ליום השבת מזמור שיר לעתיד לבא[?] ליום שכלו שבת ובו מנוחה לחי העולמי'",
+   "confidence": "low",
+   "uncertain_spans": [
+    "לבא[?]"
+   ]
+  },
+  {
+   "n": 32,
+   "text": "מזמור",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 31,
+   "span": "לבא[?]"
+  }
+ ],
+ "marginalia_regions": [
+  {
+   "bbox_xywh": [
+    1780,
+    0,
+    240,
+    3006
+   ],
+   "description": "outer (right) margin: pencil page no. \"36\" top-right; Hebrew cursive note (~2 words) at ~y2050 beside Ps. 93 (masked before OCR)",
+   "included_in_main_text": false
+  }
+ ],
+ "sha256_text": "9e6d6c4834ac731a3e7f10d5b5d6e5062de932ffc43f1344efd3de85b0a63437",
+ "sha256_image": "04945319dfb43595d84d31f653e89407fe4b402b013d14acba6eaac82af1a805",
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.028,
+   "edits": 56,
+   "ref_chars": 2002,
+   "bag_WER": 0.1036
+  }
+ },
+ "text_file": "../text/fol18b_spread21_right.txt"
+}

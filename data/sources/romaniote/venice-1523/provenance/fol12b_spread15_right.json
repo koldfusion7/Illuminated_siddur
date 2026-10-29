@@ -1,0 +1,289 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 15,
+ "side": "right",
+ "folio": "12b",
+ "printed_folio_number": null,
+ "running_head": "תפלות החול",
+ "catchword": "את",
+ "signature": null,
+ "pencil_page_number": "24",
+ "content_summary": "Yotzer: ברוך...יוצר אור, המאיר לארץ, אל ברוך, תתברך, קדושה דיוצר, לאל ברוך, chatimah יוצר המאורות; אהבה רבה through ולאהבה",
+ "page_image_dpi": 300,
+ "ocr": {
+  "engine": "kraken 7.1.1",
+  "segmenter": "blla default baseline",
+  "model": "BiblIA_01 (10.5281/zenodo.5468286)"
+ },
+ "transcription_scope": "consonantal text + print punctuation (\":\" sof pasuq/stop). Print is VOCALIZED; nikkud NOT transcribed. Exact print spellings kept; nothing filled from other siddurim.",
+ "conventions": {
+  "יהוה": "print spells the Name in full on these leaves (not יי); kept as printed",
+  "[?]": "reading uncertain",
+  "initial words": "large initial word merged into first line of its block",
+  "line order": "visual lines top to bottom; Song of the Sea brick layout read right-to-left per visual line"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות החול",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "ברוך אתה יהוה אלהינו מלך העולם יוצר אור ובורא חשך עושה שלום",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "ובורא את הכל : המאיר לארץ ולדרים עליה המחדש טבו בכל יום",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "תמיד מעשה בראשית מה רבו מעשיך יהוה כלם בחכמה עשית מלאה הארץ קנינך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "המלך המרומם שמו לבדו מאז המהלל המשבח המפואר והמתנשא מימות עולם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "אלהי עולם מלכנו ברחמיך הרבים רחם עלינו אדון עוזנו צור משגבנו מגן ישענו משגב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "בעדנו : אל ברוך גדול דעה הכין ופעל זהרי חמה : טוב יצר כבוד לשמו מאורות נתן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "סביבות עוזו פנות צבאות קדושים רוממי שדי תמיד יספרו[?] לאל קדושתו : תתברך",
+   "confidence": "low",
+   "uncertain_spans": [
+    "יספרו[?]"
+   ]
+  },
+  {
+   "n": 9,
+   "text": "יהוה אלהינו בשמים ממעל ועל הארץ מתחת ועל כל שבח מעשה ידיך ועל המאורות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "אשר עשית גם הם יפארוך סלה תתברך לנצח צורינו מלכינו[?] וגואלנו בורא קדושים",
+   "confidence": "low",
+   "uncertain_spans": [
+    "מלכינו[?]"
+   ]
+  },
+  {
+   "n": 11,
+   "text": "יתרומם וישתבח שמך מלכנו יוצר משרתים אל אשר משרתיו כלם עומדים ברום עולם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "ומשמיעים ביראה יחד בקול דברי אלהים חיים ומלך עולם כלם אהובים כלם ברורים כלם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "גבורים כלם עושים באימה וביראה רצון קוניהם : וכלם פותחים את פיהם בקדושה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "ובטהרה מברכים משבחים מעריצים ומקדישים לשם האל המלך הגדול הגבור והנורא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "קדוש הוא וכלם מקבלים עליהם עול מלכות שמים באהבה זה מזה ונותנים רשות זה לזה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "להעריץ להקדיש ליוצרם בנחת רוח בשפה ברורה בנעימה ובקדושה וכלם כאחד עונים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "ביראה ואומרים קדוש קדוש קדוש יהוה צבאות מלא כל הארץ כבודו : והאופנים וחיות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "הקדש ברעש גדול מתנשאים לעומתם משבחים ואומרים ברוך כבוד יהוה ממקומו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "לאל הברוך נעימות יתנו למלך אל חי וקיים זמירות יאמרו שירות ותושבחות לפניו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "ישמיעו כי הוא לבדו פועל גבורות ועושה חדשות איש מלחמות זורע צדקות נורא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "תהלות בורא רפואות מצמיח ישועות אדון הנפלאות המחדש טובו בכל יום תמיד מעשה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "בראשית כאמור לעושה אורים גדולים כי לעולם חסדו חסדו נתנם להאיר על הארץ",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "ברוך אתה יהוה יוצר המאורות : אהבה רבה אהבתנו יהוה אלהינו חמלה גדולה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "יתירה חמלת עלינו אבינו מלכנו חננו בעבור אבותינו אשר בטחו בך ותלמדם לעשות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "מצות וחוקי חיים כן תחננו ותלמדנו אבינו אב הרחמן המרחם רחם נא עלינו ותן בלבנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "להבין ולהשכיל לשמוע ללמוד וללמד לשמור ולעשות ולקיים את כל דברי תורתך באהבה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "והאירה עינינו במצותיך ודבק לבנו ביראתך ויחד לבבינו לאהבה וליראה את שמך כי שם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "קדשך הגדול באמת נקרא עלינו עשה עמנו חסד ורחמים בעבור כבוד שמך האל הגדול",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "הגבור והנורא מהרה באהבה תרים ותגביה קרננו ותמלוך עלינו לעולם ועד ותושיענו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "למען שמך : כי בך בטחנו אל נא נבוש ובשמך הגדול חסינו לא נכלם ולא נכשל לעד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "ולעולמי עד כי אבינו ואלהינו אתה ורחמיך וחסדיך הרבים לא יעזבונו אל יעזבונו נצח סלה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "לעד ונגילה ונשמחה בישועתך : והבא עלינו ישועה ושלום ובשורות טובות מהרה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "תשמיענו מארבע כנפות כל הארץ ותוליכנו קוממיות לארצנו כי אל פועל ישועות אתה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "ובנו בחרת מכל עם ולשון וקרבתנו לשמך הגדול באהבה להודות לך וליחדך ולאהבה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "את",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 8,
+   "span": "יספרו[?]"
+  },
+  {
+   "line": 10,
+   "span": "מלכינו[?]"
+  }
+ ],
+ "marginalia_regions": [
+  {
+   "bbox_xywh": [
+    1835,
+    0,
+    185,
+    3006
+   ],
+   "description": "outer (right) margin masked; pencil \"24\"; Hebrew cursive notes along the whole margin (~15 entries)",
+   "included_in_main_text": false
+  },
+  {
+   "bbox_xywh": [
+    700,
+    1530,
+    200,
+    40
+   ],
+   "description": "handwritten note \"כי...\" beside אהבה רבה, excluded",
+   "included_in_main_text": false
+  },
+  {
+   "bbox_xywh": [
+    1450,
+    680,
+    60,
+    30
+   ],
+   "description": "small mark \"כי\" (likely manuscript) before תתברך, excluded",
+   "included_in_main_text": false
+  }
+ ],
+ "sha256_text": "69ff547397610aab953933a96b21e3afb7f6e77e505f2a166ff50b65f5f05249",
+ "sha256_image": "d20661e4ffb1723fb522ca7fea714a9013b2f55ea048fae3f66e5fce270edb43",
+ "ocr_error_rates_vs_proofed_text": {},
+ "text_file": "../text/fol12b_spread15_right.txt"
+}

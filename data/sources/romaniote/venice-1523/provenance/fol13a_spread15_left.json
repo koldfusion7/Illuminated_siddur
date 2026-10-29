@@ -1,0 +1,314 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 15,
+ "side": "left",
+ "folio": "13a",
+ "printed_folio_number": "יג",
+ "running_head": "תפלות החול",
+ "catchword": null,
+ "signature": null,
+ "pencil_page_number": "25",
+ "content_summary": "Chatimah הבוחר בעמו ישראל באהבה; Shema (Deut 6:4-9, ברוך שם, 11:13-21, Num 15:37-41); אמת ויציב through ...בכורך גאלת",
+ "page_image_dpi": 300,
+ "ocr": {
+  "engine": "kraken 7.1.1",
+  "segmenter": "blla default baseline",
+  "model": "BiblIA_01 (10.5281/zenodo.5468286)"
+ },
+ "transcription_scope": "consonantal text + print punctuation (\":\" sof pasuq/stop). Print is VOCALIZED; nikkud NOT transcribed. Exact print spellings kept; nothing filled from other siddurim.",
+ "conventions": {
+  "יהוה": "print spells the Name in full on these leaves (not יי); kept as printed",
+  "[?]": "reading uncertain",
+  "initial words": "large initial word merged into first line of its block",
+  "line order": "visual lines top to bottom; Song of the Sea brick layout read right-to-left per visual line"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות החול",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "יג",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "את שמך הגדול באמת וביושר לבב ברוך אתה יהוה הבוחר בעמו ישראל באהבה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "שמע ישראל יהוה אלהינו יהוה אחד : ברוך שם כבוד מלכותו לעולם ועד :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ואהבת את יהוה אלהיך בכל לבבך ובכל נפשך ובכל מאדך : והיו הדברים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "האלה אשר אנכי מצוך היום על לבבך : ושננתם לבניך ודברת בם בשבתך בביתך ובלכתך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "בדרך ובשכבך ובקומך : וקשרתם לאות על ידיך[?] והיו לטוטפות בין עיניך : וכתבתם על",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ידיך[?]"
+   ]
+  },
+  {
+   "n": 8,
+   "text": "מזוזות ביתך ובשעריך : והיה אם שמע תשמעו אל מצותי אשר אנכי מצוה אתכם היום",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "לאהבה את יהוה אלהיכם ולעבדו בכל לבבכם ובכל נפשכם : ונתתי מטר ארצכם בעתו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "יורה ומלקוש ואספת דגנך ותירושך ויצהרך : ונתתי עשב בשדך לבהמתך ואכלת ושבעת :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "השמרו לכם פן יפתה לבבכם וסרתם ועבדתם אלהים אחרים והשתחויתם להם : וחרה אף",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "יהוה בכם ועצר את השמים ולא יהיה מטר והאדמה לא תתן את יבולה ואבדתם מהרה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "מעל הארץ הטובה אשר יהוה נותן לכם : ושמתם את דברי אלה על לבבכם ועל נפשכם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "וקשרתם אותם לאות על ידכם והיו לטוטפות בין עיניכם : ולמדתם אותם את בניכם לדבר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "בם בשבתך בביתך ובלכתך בדרך ובשכבך ובקומך : וכתבתם על מזוזות ביתך ובשעריך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "למען ירבו ימיכם וימי בניכם על האדמה אשר נשבע יהוה לאבותיכם לתת להם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "כימי השמים על הארץ : ויאמר יהוה אל משה לאמר : דבר אל בני ישראל ואמרת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "אליהם ועשו להם ציצת על כנפי בגדיהם לדורותם ונתנו על ציצת הכנף פתיל תכלת :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "והיה לכם לציצית וראיתם אותו וזכרתם את כל מצות יהוה ועשיתם אותם ולא תתורו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "אחרי לבבכם ואחרי עיניכם אשר אתם זונים אחריהם : למען תזכרו ועשיתם את כל מצותי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "והייתם קדשים לאלהיכם : אני יהוה אלהיכם אשר הוצאתי אתכם מארץ מצרים להיות לכם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "לאלהים אני יהוה אלהיכם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "אמת יהוה אלהיכם",
+   "confidence": "medium",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "ויציב ונכון וקיים וישר ונאמן ואהוב וחביב ונחמד ונעים ונורא ואדיר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "ומתוקן ומקובל וטוב ויפה הדבר הזה עלינו לעולם ועד : אמת הוא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "לעולם אלהי עולם צור יעקב מגן ישענו לדור ודור הוא קיים ושמו קיים וכסאו נכון [?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 27,
+   "text": "ומלכותו ואמונתו לעדי עד קיימת ודבריו חיים וקיימים ונחמדים ונאהבים לעד ולעולמי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "עולמים : עלינו על אבותינו על בנינו ועל דורותינו כל דורות זרע ישראל עבדיך על",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "הראשונים ועל האחרונים דבר טוב וקיים אמת ואמונה חק נתן ולא יעבור : אמת שאתה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "הוא יהוה אלהינו ואלהי אבותינו לעולם ועד : אתה הוא מלכנו מלך אבותינו ואתה הוא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "למען שמך מהר וגאלנו כגאלת את אבותינו אמת מעולם אתה ושמך הגדול עלינו נקרא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "באהבה ואין לנו אלהים עוד זולתך : עזרת אבותינו אתה הוא מעולם מגן ומושיע",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "לבניהם אחריהם בכל דור ודור ברום עולם מושבך ומשפטיך וצדקתך עד אפסי ארץ :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "אמת אשרי איש שישמע למצותיך חוקיך ותורתך ודברך ישים על לבו אמת אתה הוא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "אדון לעמך ומלך גדול וגבור לריב ריבם אמת אתה הוא ראשון ואתה הוא אחרון",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 36,
+   "text": "ומבלעדיך אין לנו מלך גואל ומושיע אמת במצרים[?] נגלית כל בכוריהם הרגת בכורך גאלת",
+   "confidence": "low",
+   "uncertain_spans": [
+    "במצרים[?]"
+   ]
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 7,
+   "span": "ידיך[?]"
+  },
+  {
+   "line": 26,
+   "span": "[?]"
+  },
+  {
+   "line": 36,
+   "span": "במצרים[?]"
+  }
+ ],
+ "marginalia_regions": [
+  {
+   "bbox_xywh": [
+    0,
+    0,
+    335,
+    3006
+   ],
+   "description": "outer (left) margin masked; pencil \"25\"; Hebrew cursive notes (~12)",
+   "included_in_main_text": false
+  },
+  {
+   "bbox_xywh": [
+    1915,
+    0,
+    186,
+    3006
+   ],
+   "description": "inner (gutter-side) notes masked",
+   "included_in_main_text": false
+  },
+  {
+   "bbox_xywh": [
+    900,
+    1580,
+    350,
+    40
+   ],
+   "description": "handwritten \"...המעריב\" between Shema end and אמת, excluded",
+   "included_in_main_text": false
+  }
+ ],
+ "sha256_text": "da376737577bae03d07edac2db300c2d611d8ecdc31585b91b35fdb60fdeeaa0",
+ "sha256_image": "76b820f49044cb8be72673076f4e760226201e56c58187ad2cb8e63eebf66572",
+ "recheck_note": "Text revised in re-check against the page image (plene yod/vav readings); see CHANGES.md.",
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.1943,
+   "bag_WER": 0.1579,
+   "ref_chars": 2357
+  },
+  "recheck_deskew_baseline_order": {
+   "deskew_deg": -3.0,
+   "cer": 0.0547,
+   "bag_WER": 0.1304,
+   "ref_chars": 2357
+  }
+ },
+ "text_file": "../text/fol13a_spread15_left.txt"
+}

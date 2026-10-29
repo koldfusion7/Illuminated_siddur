@@ -1,0 +1,318 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 17,
+ "side": "left",
+ "folio": "15a",
+ "printed_folio_number": "טו",
+ "folio_note": "Printed Hebrew folio number appears on recto (left side) only; verso folio inferred.",
+ "pencil_page_number": "29 (inferred from sequence; faint)",
+ "catchword": "וקמים ואומרים (closing rubric; no separate catchword seen)",
+ "page_image_dpi": 300,
+ "ocr": {
+  "engine": "kraken 7.1.1",
+  "model": "BiblIA_01 (10.5281/zenodo.5468286)",
+  "segmentation": "default baseline (blla)",
+  "margin_mask_xywh": [
+   [
+    0,
+    0,
+    300,
+    3006
+   ],
+   [
+    2080,
+    0,
+    21,
+    3006
+   ]
+  ]
+ },
+ "transcription_scope": "consonantal text + print punctuation (\":\" sof pasuq, \"·\" stop). Print is VOCALIZED; nikkud NOT transcribed. Exact transcription; no correction from other sources.",
+ "conventions": {
+  "יי/יהוה": "Name kept as printed",
+  "[?]": "reading uncertain",
+  "|": "column break",
+  "initial words": "large initial word merged into first line of its section",
+  "column order": "two-column blocks transcribed right column first, then left column"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות החול טו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "ועל כלם יתרומם ויתברך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "וישתבח שמך מלכנו לעולם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "ועד וכל החיים יודוך סלה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ויהללו ויברכו ויודו לשמך הטוב באמת חי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "העולמים ונודה לך ברוך אתה יהוה הטוב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "שמך ולך נאה להודות :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "ועננו והושיענו כי אליך עינינו כי אל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "מלך חנון ורחום אתה : ותחזינה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "בעשרת ימי תשובה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "וכתוב לחיים טובים את כל בני",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "בריתך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "אלהינו ואלהי אבותינו ברכנו בברכה המשולשת בתורה הכתובה על",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "ידי משה עבדך האמורה לאהרן ולבניו כהנים לעם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "קדושיך כאמור יברכך יהוה וישמרך : יאר יהוה פניו אליך ויחנך : ישא יהוה פניו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "אליך וישם ל[?] שלום : ונאמר ושמו את שמי על בני ישראל ואני אברכם :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ל[?]"
+   ]
+  },
+  {
+   "n": 17,
+   "text": "שים שלום טובה וברכה חיים חן וחסד וריוח ורחמים עלינו ועל כל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "ישראל עמך ברכנו אבינו כולנו יחד באור פניך כי באור",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "פניך נתת לנו תורת חיים חן וחסד צדקה ברכה ישועה רחמים רבים ושלום וטוב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "יהיה בעיניך לברך את כל עמך ישראל תמיד בשלומך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "ברוך אתה יהוה המברך את עמו ישראל בשלום :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "יהיו לרצון אמרי פי והגיון לבי לפניך יהוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "צורי וגואלי · ופוסע שלש פסיעות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "ונופלים על פניהם ואומרים זה המזמור",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "ובספר חיים טובה וישועה נחמה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "ופרנסה וכלכלה חן וחסד ורחמים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "נזכר ונפקד ונכתב אנו וכל עמך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "ישראל לחיים טובים ולשלום :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "לדוד אליך יהוה נפשי אשא : אלהי בך בטחתי אל אבושה אל יעלצו איבי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "לי : גם כל קויך לא יבשו יבשו הבגדים ריקם : דרכיך יהוה הודיעני",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "וארחתיך למדני : הדריכני באמתך ולמדני כי אתה אלהי ישעי אותך קויתי כל היום :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "זכר רחמיך יהוה וחסדיך כי מעולם המה : חטאת נעורי ופשעי אל תזכר כחסדך זכר לי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "אתה למען טובך יהוה : טוב וישר יהוה על כן יורה חטאים בדרך : ידרך ענוים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "במשפט וילמד ענוים דרכו : כל ארחות יהוה חסד ואמת לנצרי בריתו ועדתיו : למען",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "שמך יהוה וסלחת לעוני כי רב הוא : מי זה האיש ירא יהוה יורנו בדרך יבחר : נפשו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 36,
+   "text": "בטוב תלין וזרעו יירש ארץ : סוד יהוה ליראיו ובריתו להודיעם : עיני תמיד אל יהוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 37,
+   "text": "כי הוא יוציא מרשת רגלי : פנה אלי וחנני כי יחיד ועני אני : צרות לבבי הרחיבו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 38,
+   "text": "ממצוקותי הוציאני : ראה עניי ועמלי ושא לכל חטאתי : ראה איבי כי רבו ושנאת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 39,
+   "text": "חמס שנאוני : שמרה נפשי והצילני אל אבוש כי חסיתי בך : תם וישר יצרוני כי קויתיך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 40,
+   "text": "פדה אלהים את ישראל מכל צרותיו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 41,
+   "text": "אבינו מלכנו אבינו אתה : אבינו מלכנו עשה עמנו למען שמך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 42,
+   "text": "אבינו מלכנו קבל ברחמים וברצון את תפלתנו : וקמים ואומרים",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 16,
+   "span": "ל[?]"
+  }
+ ],
+ "marginalia_regions": [
+  {
+   "bbox_xywh": [
+    0,
+    0,
+    300,
+    3006
+   ],
+   "description": "outer (left) margin: dense cursive notes ~y500-1450 (~15 lines); interlinear cursive after הודות / בשלומך; excluded.",
+   "included_in_main_text": false
+  }
+ ],
+ "sha256_text": "22f3637b53ea5b5a180f08cd8107247dc8ed122e179f031ecd16d67f2ed99b7d",
+ "sha256_image": "3f5eb260ff97734362dc875ad168d35952f03ae113ba50602decbe7d15c46b04",
+ "ocr_error_rates_vs_proofed_text": {},
+ "text_file": "../text/fol15a_spread17_left.txt"
+}

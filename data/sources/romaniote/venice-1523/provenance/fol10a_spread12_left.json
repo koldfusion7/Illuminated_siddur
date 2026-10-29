@@ -1,0 +1,258 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 12,
+ "side": "left",
+ "folio": "10a",
+ "page_image_dpi": 300,
+ "transcription_scope": "consonantal text + print punctuation (\":\" sof pasuq, \"·\" stop). Print is VOCALIZED (nikkud); vocalization NOT yet transcribed in pilot. No cantillation observed.",
+ "conventions": {
+  "יי": "print abbreviation for the Name kept as printed",
+  "[?]": "reading uncertain",
+  "|": "column break (two-column verse layout)",
+  "initial words": "large initial word set at line start is merged into first line"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות החול",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "רנתם ויזכור להם בריתו וינחם כרוב חסדיו ויתן אותם לרחמים לפני כל שוביהם הושיענו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "יהוה אלהינו וקבצנו מן הגוים להודות לשם קדשך להשתבח בתהלתיך[?] :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "בתהלתיך[?]"
+   ]
+  },
+  {
+   "n": 4,
+   "text": "בשני ובחמישי אומר עד אתה תקום ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "יהוה אלהינו בעלונו אדונים זולתך לבד בך נזכיר שמך · היינו מעולם לא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "משלת בם לא נקרא שמך עליהם · לוא קרעת שמים ירדת מפניך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "הרים נזולו · ונהי כטמא כלנו וכבגד עדים כל צדקותינו ונבל כעלה כלנו ועוננו כרוח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "ישאונו · ערי קדשך היו מדבר ציון מדבר היתה ירושלם שממה · בית קדשנו ותפארתנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "אשר הללוך אבותינו היה לשרפת אש וכל מחמדינו היה לחרבה : ואין קורא בשמך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "מתעורר להחזיק בך כי הסתרת פניך ממנו ותמוגנו ביד עונינו : למה פניך תסתיר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "תשכח ענינו[?] ולחצנו : ואתה יהוה אל רחום וחנון ארך אפים ורב חסד ואמת : שובה",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ענינו[?]"
+   ]
+  },
+  {
+   "n": 12,
+   "text": "יהוה עד מתי והנחם על עבדיך : כי לך הוחלתי אתה תענה יהוה אלהי : יהוה תשפת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "שלום לנו כי גם כל מעשינו פעלת לנו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "אלהים אל דמי לך אל תחרש ואל תשקט אל : כי הנה אויביך יהמיון",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "ומשנאיך נשאו ראש : על עמך יערימו סוד ויתיעצו על",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "צפוניך : אמרו לכו ונכחידם מגוי ולא יזכר שם ישראל עוד : כי נועצו לב יחדו עליך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "ברית יכרותו : אהלי אדום וישמעאלים מואב והגרים : גבל ועמון ועמלק פלשת עם יושבי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "צור : גם אשור נלוה עמם היו זרוע לבני לוט סלה : עשה להם כמדין כסיסרא כיבין בנחל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "קישון : נשמדו בעין דאר היו דמן לאדמה : שיתמו נדיבמו כערב וכזאב וכזבח וכצלמנע",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "כל נסיכמו : אשר אמרו נירשה לנו את נאות אלהים : אלהי שיתמו כגלגל כקש לפני רוח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "כאש תבער יער וכלהבה תלהט הרים : כן תרדפם בסערך ובסופתך תבהלם : מלא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "פניהם קלון ויבקשו שמך יהוה : יבשו ויבהלו עדי עד ויחפרו ויאבדו : וידעו כי אתה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "שמך יהוה לבדך עליון על כל הארץ : אתה תקום תרחם ציון כי עת לחננה כי בא מועד :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "וחפרה הלבנה ובושה החמה כי מלך יהוה צבאות בהר ציון ובירושלם ונגד זקניו כבוד :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "ואמר ביום ההוא הנה אלהינו זה קוינו לו ויושיענו זה יהוה קוינו לו נגילה ונשמחה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "בישועתו : ברוך יהוה לעולם אמן ואמן : ברוך יהוה יום יום יעמוס לנו האל ישועתנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "סלה : ברוך יהוה אלהי ישראל מן העולם ועד העולם ואמר כל העם אמן הללויה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "נפשנו חכתה ליהוה עזרנו ומגיננו הוא : כי בו ישמח לבנו כי בשם קדשו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "בטחנו : יהי חסדך יהוה עלינו כאשר יחלנו לך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "ואני בחסדך בטחתי יגל לבי בישועתך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "אשירה ליהוה כי גמל עלי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "מזמור לתודה הריעו ליהוה כל הארץ : עבדו את יהוה בשמחה בואו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "לפניו ברננה : דעו כי יהוה הוא אלהים הוא עשנו ולא אנחנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "עמו וצאן מרעיתו : באו שעריו בתודה חצרותיו בתהלה הודו לו ברכו שמו : כי טוב יהוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "ב ב",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 3,
+   "span": "בתהלתיך[?]"
+  },
+  {
+   "line": 11,
+   "span": "ענינו[?]"
+  }
+ ],
+ "marginalia_regions": [
+  {
+   "bbox_xywh": [
+    0,
+    150,
+    420,
+    2800
+   ],
+   "description": "outer (left) margin: pencil page no. \"19\"; Hebrew cursive notes lower-left (~6 lines)",
+   "included_in_main_text": false
+  }
+ ],
+ "sha256_text": "161a7d9ea553a18f50ca6b3fe2c6b377317be4905fd381ee095fc80db6694417",
+ "sha256_image": "ff01ea681f46dbb78b1da54093c2784810e42831e0dd05d6b2124be9ab60d7f3",
+ "ocr_error_rates_vs_proofed_text": {},
+ "text_file": "../text/fol10a_spread12_left.txt"
+}

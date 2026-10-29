@@ -1,0 +1,280 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 14,
+ "side": "right",
+ "folio": "11b",
+ "printed_folio_number": null,
+ "running_head": "תפלות החול",
+ "catchword": "תהומות",
+ "signature": null,
+ "pencil_page_number": "22",
+ "content_summary": "Ps. 149:3-9 (end), Ps. 150, ברוך יהוה לעולם אמן ואמן / ימלוך, ויברך דוד (1 Chr 29:10-13), Neh 9:6-11, אז ישיר (Ex 14:30-15:4 start)",
+ "page_image_dpi": 300,
+ "ocr": {
+  "engine": "kraken 7.1.1",
+  "segmenter": "blla default baseline",
+  "model": "BiblIA_01 (10.5281/zenodo.5468286)"
+ },
+ "transcription_scope": "consonantal text + print punctuation (\":\" sof pasuq/stop). Print is VOCALIZED; nikkud NOT transcribed. Exact print spellings kept; nothing filled from other siddurim.",
+ "conventions": {
+  "יהוה": "print spells the Name in full on these leaves (not יי); kept as printed",
+  "[?]": "reading uncertain",
+  "initial words": "large initial word merged into first line of its block",
+  "line order": "visual lines top to bottom; Song of the Sea brick layout read right-to-left per visual line"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות החול",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "וכנור יזמרו לו : כי רוצה יהוה בעמו יפאר ענוים בישועה : יעלזו חסידים בכבוד ירננו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "על משכבותם : רוממות אל בגרונם וחרב פיפיות בידם : לעשות נקמה בגוים תוכחות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "בלאמים : לאסור מלכיהם בזיקים ונכבדיהם בכבלי ברזל : לעשות בהם משפט כתוב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "הדר הוא לכל חסידיו הללויה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "הללויה הללו אל בקדשו הללוהו ברקיע עזו : הללוהו בגבורותיו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "הללוהו כרוב גדלו : הללוהו בתקע שופר הללוהו בנבל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "וכנור : הללוהו בתוף ומחול הללוהו במנים ועגב : הללוהו בצלצלי שמע הללוהו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "בצלצלי תרועה : כל הנשמה תהלל יה הללויה : ברוך יהוה לעולם אמן ואמן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "ימלוך יהוה לעולם אמן ואמן :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "ויברך דוד את יהוה לעיני כל הקהל ויאמר דוד ברוך אתה יהוה אלהי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "ישראל אבינו מעולם ועד עולם : לך יהוה הגדולה והגבורה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "והתפארת והנצח וההוד : כי כל בשמים ובארץ לך יהוה הממלכה והמתנשא לכל לראש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": ": והעושר והכבוד מלפניך ואתה מושל בכל : ובידך כח וגבורה ובידך לגדל ולחזק לכל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "ועתה אלהינו מודים אנחנו לך ומהללים לשם תפארתך : ויברכו שם כבודך ומרומם על",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "כל ברכה ותהלה : אתה הוא יהוה לבדך אתה עשית את השמים שמי השמים וכל צבאם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "הארץ וכל אשר עליה הימים וכל אשר בהם ואתה מחיה את כלם וצבא השמים לך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "משתחוים : ואתה קדוש יושב תהלות ישראל : בך בטחו אבותינו בטחו ותפלטמו : אליך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "זעקו ונמלטו בך בטחו ולא בשו : בך בטחנו אל נא נבוש אליך זעקו ונמלטו לך זעקנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "מלטנו מכל צרותינו והושיענו למען שמך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "אתה הוא יהוה האלהים אשר בחרת באברם : והוצאתו מאור כשדים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "ושמת שמו אברהם : ומצאת את לבבו נאמן לפניך : וכרות עמו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "הברית לתת את ארץ הכנעני : החתי האמרי והפריזי והיבוסי והגרגשי לתת לזרעו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "ותקם את דבריך כי צדיק אתה : ותרא את עני אבותינו במצרים ואת זעקתם שמעת על",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "ים סוף : ותתן אותות ומופתים בפרעה ובכל עבדיו ובכל עם ארצו : כי ידעת כי הזידו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "עליהם ותעש לך שם כהיום הזה : והים בקעת לפניהם ויעברו בתוך הים ביבשה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "ואת רודפיהם השלכת במצולות כמו אבן במים עזים : ויושע יהוה ביום ההוא את",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "ישראל מיד מצרים : וירא ישראל את מצרים מת על שפת הים : וירא ישראל את היד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "הגדולה אשר עשה יהוה במצרים וייראו העם את יהוה ויאמינו ביהוה ובמשה עבדו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "אז ישיר משה ובני ישראל את השירה הזאת ליהוה ויאמרו לאמר אשירה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "ליהוה כי גאה גאה סוס ורכבו רמה בים : עזי וזמרת יה ויהי לי לישועה זה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "אלי ואנוהו אלהי אבי וארוממנהו : יהוה איש מלחמה יהוה שמו : מרכבות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "פרעה וחילו ירה בים ומבחר שלשיו טבעו בים סוף :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "תהומות",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "marginalia_regions": [
+  {
+   "bbox_xywh": [
+    1975,
+    0,
+    45,
+    3006
+   ],
+   "description": "outer (right) margin masked before OCR; pencil page no. \"22\" top-right; no ink notes in margin",
+   "included_in_main_text": false
+  },
+  {
+   "bbox_xywh": [
+    1450,
+    1440,
+    250,
+    90
+   ],
+   "description": "interlinear handwritten gloss beside initial ויברך (e.g. \"...ושלום\"?), excluded",
+   "included_in_main_text": false
+  },
+  {
+   "bbox_xywh": [
+    1540,
+    470,
+    120,
+    40
+   ],
+   "description": "small handwritten note over \"בידם\" (line 3), excluded",
+   "included_in_main_text": false
+  },
+  {
+   "bbox_xywh": [
+    1300,
+    1100,
+    120,
+    40
+   ],
+   "description": "handwritten mark beside הללויה, excluded",
+   "included_in_main_text": false
+  }
+ ],
+ "sha256_text": "08e6f1d02079e8580434ab2ed8395aa502c24fa5abf72659f48f939181476da4",
+ "sha256_image": "ef0c45b85e5971908ad4f27b14a350de3d7dcd4f68946a25c801e38530b501e8",
+ "ocr_error_rates_vs_proofed_text": {},
+ "text_file": "../text/fol11b_spread14_right.txt"
+}

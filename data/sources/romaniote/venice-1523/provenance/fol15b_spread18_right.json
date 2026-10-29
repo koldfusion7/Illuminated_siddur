@@ -1,0 +1,277 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 18,
+ "side": "right",
+ "folio": "15b",
+ "folio_number_printed": null,
+ "catchword": "ויעבור",
+ "signature": null,
+ "sections_identified": [
+  "end of Tachanun-type supplication (ואנחנו לא נדע...)",
+  "יהי שם / יהוה אדונינו verses",
+  "full Kaddish (to ואמרו אמן)",
+  "מודים דרבנן",
+  "rubric: Mon/Thu supplications",
+  "אם עונינו ענו בנו ... אל מלך יושב ... (13 attributes intro)"
+ ],
+ "page_image_dpi": 300,
+ "ocr": {
+  "engine": "kraken 7.1.1",
+  "segmenter": "default baseline (blla)",
+  "model": "BiblIA_01 (10.5281/zenodo.5468286)",
+  "input": "img/masked_spread18_right.png",
+  "margin_mask_xywh": [
+   [
+    1960,
+    0,
+    60,
+    3006
+   ]
+  ]
+ },
+ "transcription_scope": "consonantal text + print punctuation (\":\" sof pasuq, \"·\" stop). Print is VOCALIZED; nikkud NOT transcribed. יהוה written in full as printed; \"יי\" kept where the print abbreviates (rubrics).",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "initial words": "large initial word merged into its first line",
+  "rubrics": "small-type instructions kept inline as separate lines in print position"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות החול",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "ואנחנו לא נדע מה נעשה כי עליך עינינו : זכור רחמיך יהוה וחסדיך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "כי מעולם המה : אל תזכור לנו עוונות ראשונים מהר יקדמונו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "רחמיך כי דלונו מאד : חננו יהוה חננו כי רב שבענו בוז ברוגז רחם תזכור כי הוא ידע",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "יצרנו זכור כי עפר אנחנו : עזרנו אלהי ישענו על דבר כבוד שמך והצילנו וכפר על",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "חטאתינו למען שמך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "יהי שם יהוה מבורך מעתה ועד עולם ממזרח שמש עד מבואו מהלל שם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "יהוה : יהוה אדונינו מה אדיר שמך בכל הארץ :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "יתגדל ויתקדש שמיה רבה בעלמא דברא כרעותיה וימליך מלכותיה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "ויצמח פורקניה ויקרב משיחיה ויפרוק עמיה ברחמתיה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "בחייכון וביומיכון ובחיי דכל בית ישראל בעגלא ובזמן קריב ואמרו אמן : יהא שמיה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "רבה מברך לעלם ולעלמי עלמיא ויתברך וישתבח ויתפאר ויתרומם ויתנשא ויתהדר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "ויתעלה ויתהלל שמיה דקודשא בריך הוא : לעילא ולעילא מן כל ברכתא שירתא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "שבחתא ונחמתא דאמירן בעלמא ואמרו אמן : מודים דרבנן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "מודים אנחנו לך שאתה הוא יהוה אלהינו ואלהי אבותינו אלהי כל בשר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "יוצרנו יוצר בראשית ברכות והודאות לשמך הגדול והקדוש על",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "שהחייתנו וקיימתנו כן תחיינו ותחננו ותאסוף גליותינו לחצרות קדשך לשמור חוקיך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "ולעשות רצונך ולעבדך בלבב שלם על שאנו מודים לך ברוך אתה יהוה אל ההודאות :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "בשני ובחמשי מתחננין אחר עקירת רגליהם[?] זה",
+   "confidence": "low",
+   "uncertain_spans": [
+    "רגליהם[?]"
+   ]
+  },
+  {
+   "n": 20,
+   "text": "אם עונינו ענו בנו יהוה עשה למען שמך : כי רבו משובותינו לך חטאנו סלח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "לנו · אם עונות תשמור יה יהוה מי יעמוד · כי עמך הסליחה למען תורא ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "חוסה יהוה על עמך ואל תתן נחלתך לחרפה למשול בם גוים · למה יאמרו בעמים איה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "אלהיהם · לא לנו יהוה לא לנו כי לשמך תן כבוד על חסדך על אמתך · למה יאמרו הגוים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "איה נא אלהיהם · ידענו יהוה כי חטאנו ואין מי יעמד לפניך לכפר בעדנו כי אם שמך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "הגדול יעמד לנו בעת צרה ידענו כי אין בנו מעשים עשה עמנו צדקה · כרחם אב על בנים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "רחם עלינו והושיענו · אמנם אלהינו רבו אשמינו אין קץ ואין מספר לעונותינו · רחום",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "רחמנו וזכור לנו את ברית אבותינו · זכור לעבדיך לאברהם ליצחק וליעקב אל תפן אל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "קשיינו אל רשענו ואל חטאתינו : שוב מחרון אפך והנחם על הרעה לעמך · והסר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "מעלינו מכת המות ועול הגוים כי רחום אתה וכן דרכך עושה חנם פודה ומציל גואל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "ומושיע אדיר וחזק ומחזיק בכל דור ודור : אל מלך יושב על כסא רחמים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "מתנהג בחסידות מוחל עונות עמו מעביר ראשון ראשון מרבה מחילה לחטאים וסליחה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "לפושעים ועשה צדקה עם כל בשר ורוח כרעתינו אל תגמול עלינו : אל הוריתנו לומר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "שלש עשרה זכור לנו היום ובכל יום ברית שלש עשרה כמו שהודעת לענו מקדם וכן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "כתוב בתורתך וירד יהוה בענן ויתיצב עמו שם ויקרא בשם יהוה ושם נאמר :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "ויעבור",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 19,
+   "span": "רגליהם[?]"
+  }
+ ],
+ "marginalia_regions": [
+  {
+   "bbox_xywh": [
+    1880,
+    40,
+    140,
+    140
+   ],
+   "description": "pencil page no. \"30\" top outer corner; no ink notes in outer margin",
+   "included_in_main_text": false
+  }
+ ],
+ "sha256_text": "0ec46338a698ad1eb7000a5eb0c087d6b4e4a439e9a95afcae3da712272df6f2",
+ "sha256_image": "9bb1d041549eeb29f989f79d2a3d1fbae59a55c3643bcff84b835e0253a7c8c0",
+ "proofed": "visual line-by-line proof against 300 dpi half-width bands; no text supplied from memory or other siddurim",
+ "ocr_error_rates_vs_proofed_text": {},
+ "text_file": "../text/fol15b_spread18_right.txt"
+}

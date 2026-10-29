@@ -1,0 +1,265 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 8,
+ "side": "right",
+ "folio": "5b",
+ "page_image_dpi": 300,
+ "transcription_scope": "consonantal text + print punctuation (\":\" sof pasuq, \"·\" stop). Print is VOCALIZED (nikkud); vocalization NOT yet transcribed in pilot. No cantillation observed.",
+ "conventions": {
+  "יי": "print abbreviation for the Name kept as printed",
+  "[?]": "reading uncertain",
+  "|": "column break (two-column verse layout)",
+  "initial words": "large initial word set at line start is merged into first line"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות החול",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "יהי כבוד יי לעולם ישמח יי במעשיו : | אודה יי בכל לבב בסוד ישרים ועדה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "כי שם יי אקרא הבו גודל לאלהינו : | יהי שם יי מבורך מעתה ועד עולם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "יי בשמים הכין כסאו ומלכותו בכל משלה : | ממזרח שמש ועד מבואו מהלל שם יי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "רם על כל גוים יי על השמים כבודו : | יי שמך לעולם יי זכרך לדור ודור :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "יראי יי בטחו ביי עזרם ומגנם[?] הוא : | כל גוים סבבוני בשם יי כי אמילם :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ומגנם[?]"
+   ]
+  },
+  {
+   "n": 7,
+   "text": "ובשם יי אקרא אנא יי מלטה נפשי : | אהבתי כי ישמע יי את קולי תחנוני :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "לא אמות כי אחיה ואספר מעשה יה : | יסור יסרני יה ולמות לא נתנני :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "הודו ליי כי טוב כי לעולם חסדו : | שובה יי עד מתי והנחם על עבדיך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "שמע יי וחנני יי היה עוזר לי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "למנצח בנגינות מזמור לדוד : בקראי ענני אלהי צדקי בצר הרחבת לי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "חנני ושמע תפלתי : בני איש עד מה כבודי לכלמה תאהבון",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "ריק תבקשו כזב סלה : ודעו כי הפלה יהוה חסיד לו יהוה ישמע בקראי אליו : רגזו ואל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "תחטאו אמרו בלבבכם על משכבכם ודומו סלה : זבחו זבחי צדק ובטחו אל יהוה : רבים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "אומרים מי יראנו טוב נסה עלינו אור פניך יהוה : נתתה שמחה בלבי מעת דגנם ותירושם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "רבו : בשלום יחדו אשכבה ואישן כי אתה יהוה לבדד לבטח תושיבני :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "יהי רצון מלפניך יה וה[?] השם הגדול הגבור והנורא העזוז והאמיץ האדיר",
+   "confidence": "low",
+   "uncertain_spans": [
+    "וה[?]"
+   ]
+  },
+  {
+   "n": 18,
+   "text": "והחזק היוצא מן המזמור הזה שכשם ששמעת לתפלת מי שהתפלל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "לפניך בזה המזמור כן תשמע לתפלתי ותקשיב לתחנתי ביום הזה : יום ראשון",
+   "confidence": "medium",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "מזלו סרטן ומלאכו גבריאל יום שני שמזלו אריה ומלאכו רפאל ומשרתו חמה :",
+   "confidence": "medium",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "ומשרתו לבנה : יום שלישי מזלו טלה ועקרב ומלאכו סמאל ומשרתו מאדים :",
+   "confidence": "medium",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "יום חמישי מזלו תאומים ובתולה ומלאכו מיכאל ומשרתו כוכב : יום רביעי",
+   "confidence": "medium",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "מזלו שור ומאזנים יום ששי מזלו קשת ודגים ומלאכו צדקיאל ומשרתו צדק :",
+   "confidence": "medium",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "מזלו גדי ודלי ומלאכו קפציאל יום שביעי ומלאכו ענאל ומשרתו נוגה :",
+   "confidence": "medium",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "ומשרתו שבתאי :",
+   "confidence": "medium",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "יהי רצון מלפניך יי אלהי ואלהי אבותי שתהא שעה זו שאני עומד להתפלל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "לפניך על נפשי ועל נפשות ביתי שעת רצון שעת רחמים שעת הקשבה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "ושעת האזנה אקראך ותענני אעתר לך ותעתר לי וצוה למלאכיך הממונים על עניני בני",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "אדם שיהיו עמי לעזור להועיל ולהושיע ולהציל ולהטה[?] כל לבות בני אדם שיש לי עסק",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ולהטה[?]"
+   ]
+  },
+  {
+   "n": 30,
+   "text": "עמהם לכל אשר אחפוץ והשב רצונם לכל אשר ארצה ובטל כל מחשבות שונאי והפר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "כל עצת אויבי ומלא כל משאלותי לטובה ככתוב יתן לך כלבבך וכל עצתך ימלא ותהיה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "עם לבבי בעת מחשבותי ועם ידי בעת מעבדי ותשכילני ותורני בכל דרכי ותצליחני בכל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "מהלכי ותשלח ברכה בכל מעשה ידי ואל תצריכני לידי מתנות בשר ודם אלא לידך ה[?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ה[?]"
+   ]
+  },
+  {
+   "n": 34,
+   "text": "הרחבה",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 6,
+   "span": "ומגנם[?]"
+  },
+  {
+   "line": 17,
+   "span": "וה[?]"
+  },
+  {
+   "line": 29,
+   "span": "ולהטה[?]"
+  },
+  {
+   "line": 33,
+   "span": "ה[?]"
+  }
+ ],
+ "marginalia_regions": [
+  {
+   "bbox_xywh": [
+    1700,
+    100,
+    348,
+    2500
+   ],
+   "description": "outer (right) margin: pencil page no. \"10\"; few/no ink notes",
+   "included_in_main_text": false
+  }
+ ],
+ "sha256_text": "7a40c4710c9102e424eefda51ac9bf63ef67cbd0d81969076035642dd054fbb3",
+ "sha256_image": "4441e899d36dd392bdb895d7da7c3cf1b0e21248abb163146986d6c101524fa8",
+ "layout_note": "Lines 19-25: day-of-week grid (mazal/angel/planet). Visual rows given right-to-left as printed; logical per-day reading order needs editorial structuring.",
+ "ocr_error_rates_vs_proofed_text": {},
+ "text_file": "../text/fol05b_spread08_right.txt"
+}
