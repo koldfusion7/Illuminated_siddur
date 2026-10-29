@@ -1,0 +1,306 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 16,
+ "side": "right",
+ "folio": "13b",
+ "printed_folio_number": null,
+ "folio_note": "Printed Hebrew folio number appears on recto (left side) only; verso folio inferred.",
+ "pencil_page_number": "26 (read from image)",
+ "catchword": "השיבנו",
+ "page_image_dpi": 300,
+ "ocr": {
+  "engine": "kraken 7.1.1",
+  "model": "BiblIA_01 (10.5281/zenodo.5468286)",
+  "segmentation": "default baseline (blla)",
+  "margin_mask_xywh": [
+   [
+    1960,
+    0,
+    60,
+    3006
+   ],
+   [
+    0,
+    0,
+    120,
+    3006
+   ]
+  ]
+ },
+ "transcription_scope": "consonantal text + print punctuation (\":\" sof pasuq, \"·\" stop). Print is VOCALIZED; nikkud NOT transcribed. Exact transcription; no correction from other sources.",
+ "conventions": {
+  "יי/יהוה": "Name kept as printed",
+  "[?]": "reading uncertain",
+  "|": "column break",
+  "initial words": "large initial word merged into first line of its section",
+  "column order": "two-column blocks transcribed right column first, then left column"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות החול",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "ים סוף בקעת זדים טבעת ים יבשה עשית וידידים עברו ויכסו מים צריהם אחד מהם לא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "נותר · ועל זאת שבחו אהובים לאל ונתנו ידידים זמירות שירות ותושבחות ברכות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "והודאות למלך אל רם ונשא חי וקיים גדול ונורא משפיל גאים מגביה שפלים מוציא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "אסירים פודה ענוים עוזר דלים ועונה לעמו בעת שועם אליו · תהלות לאל עליון ברוך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "הוא משה ובני ישראל לך ענו שירה בשמחה רבה כשעלו מן הים ענו ואמרו כלם · מי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "כמוכה באלים יהוה מי כמוכה נאדר בקדש נורא תהלות עושה פלא · שירה חדשה שבחו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "גאולים לשמך על שפת הים יחד כלם הודו והמליכו ענו ואמרו יהוה ימלוך לעולם ועד ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "בגלל אבות הושעת בנים ותביא גאולה לבני בניהם · כי מעולם אתה גואל ככתוב גואלנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "יהוה צבאות שמו קדוש ישראל ברוך אתה יהוה גאל ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "אדני שפתי תפתח ופי יגיד תהלתך · ברוך אתה יהוה אלהינו ואלהי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "אבותינו אלהי אברהם אלהי יצחק ואלהי יעקב האל הגדול",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "הגבור והנורא אל עליון גומל חסדים טובים וקונה את הכל וזוכר חסדי אבות ומביא גואל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "לבני בניהם למען שמו באהבה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "בעשרת ימי תשובה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "מלך רחמן אל חי גואל עוזר | זכרנו לחיים מלך חפץ בחיים וכתבנו בספר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "ומושיע ומגן ברוך אתה יהוה | החיים למענך אלהים חיים מלך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "מגן אברהם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "אתה גבור לעולם יהוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "מחיה מתים אתה רב להושיע",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "מוריד הטל ובחורף משיב הרוח ומוריד הגשם מכלכל חיים בחסד מחיה מתים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "ברחמים רבים סומך נופלים רופא חולים מתיר אסורים משען לאביונים ומקיים אמונתו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "לישני עפר מי כמוך אדון הגבורות ומי דומה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "לך מלך ממית ומחיה ומצמיח לנו ישועה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "בעשרת ימי תשובה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "בקרוב ונאמן אתה להחיות מתים ברוך | מי כמוך אב הרחמים זוכר יצוריך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "אתה יהוה מחיה המתים : | לחיים ברחמים וכ[?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "וכ[?]"
+   ]
+  },
+  {
+   "n": 28,
+   "text": "נקדישך ונעריצך מלכנו ונשלש לך קדושה כסוד אילי קדש וכן כתוב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "על יד נביאך וקרא זה אל זה ואמר קדוש קדוש קדוש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "יהוה צבאות מלא כל הארץ כבודו : לעומתם משבחים ואומרים ברוך כבוד יהוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "ממקומו : ובדברי קדשך כתוב לאמר ימלוך יהוה לעולם אלהיך ציון לדור ודור",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "הללויה : לדור ודור נגיד גדלך ולנצח נצחים קדושתך נקדיש ושבחך יהוה אלהינו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "מפינו לא ימוש לעולם ועד כי אל מלך גדול וקדוש אתה ברוך אתה יהוה האל הקדוש :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "מר[?] השנה עד יום הכיפורים חותם המלך הקדוש",
+   "confidence": "low",
+   "uncertain_spans": [
+    "מר[?]"
+   ]
+  },
+  {
+   "n": 35,
+   "text": "אתה חונן לאדם דעת המלמד לאנוש בינה וחננו מאתך דיעה בינה והשכל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 36,
+   "text": "ברוך אתה יהוה חונן הדעת :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 37,
+   "text": "השיבנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 27,
+   "span": "וכ[?]"
+  },
+  {
+   "line": 34,
+   "span": "מר[?]"
+  }
+ ],
+ "marginalia_regions": [
+  {
+   "bbox_xywh": [
+    1960,
+    0,
+    60,
+    3006
+   ],
+   "description": "outer (right) margin: pencil page no. \"26\"; Hebrew cursive notes beside אדני/אתה (Amidah opening) and at ~y1830. Inner (gutter) margin also carries cursive notes ~y500-1100. Many interlinear cursive notes above/between printed lines (Avot, Gevurot, Kedusha) - not maskable, excluded from main text.",
+   "included_in_main_text": false
+  }
+ ],
+ "sha256_text": "0e9e71129da51ab2cfad2bda81c94d163f19220d93f8d92508f6e28353057f22",
+ "sha256_image": "2bec4fe6e2b01bb5c1edd3e925ae63a29da09586e1d58fd6ff49ce4825e70ef9",
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.1764,
+   "bag_WER": 0.1068,
+   "ref_chars": 1916
+  },
+  "recheck_deskew_baseline_order": {
+   "deskew_deg": -0.5,
+   "cer": 0.2035,
+   "bag_WER": 0.1068,
+   "ref_chars": 1916
+  }
+ },
+ "text_file": "../text/fol13b_spread16_right.txt"
+}

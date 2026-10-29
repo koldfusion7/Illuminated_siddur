@@ -1,0 +1,280 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 19,
+ "side": "right",
+ "folio": "16b",
+ "folio_number_printed": null,
+ "catchword": "יהללו",
+ "signature": null,
+ "sections_identified": [
+  "הכל הבו גודל / ברוך שנתן תורה / תורת יהוה תמימה",
+  "rubric: hagbaha; וזאת התורה; verses",
+  "rubric: Torah reading (3 readers, min. 10 verses)",
+  "Torah blessings (before & after)",
+  "rubric: Kaddish, rolling; four יהי רצון; מי שבירך; אחינו",
+  "rubric: יהי חסדך, אשרי (abbrev.)"
+ ],
+ "page_image_dpi": 300,
+ "ocr": {
+  "engine": "kraken 7.1.1",
+  "segmenter": "default baseline (blla)",
+  "model": "BiblIA_01 (10.5281/zenodo.5468286)",
+  "input": "img/masked_spread19_right.png",
+  "margin_mask_xywh": [
+   [
+    1960,
+    0,
+    60,
+    3006
+   ]
+  ]
+ },
+ "transcription_scope": "consonantal text + print punctuation (\":\" sof pasuq, \"·\" stop). Print is VOCALIZED; nikkud NOT transcribed. יהוה written in full as printed; \"יי\" kept where the print abbreviates (rubrics).",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "initial words": "large initial word merged into its first line",
+  "rubrics": "small-type instructions kept inline as separate lines in print position"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות החול",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "הכל הבו גודל לאלהינו ותנו כבוד לתורה · ברוך שנתן תורה לעמו ישראל בקדושה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "ובטהרה : תורת יהוה תמימה משיבת נפש עדות יהוה נאמנה מחכימת פתי פקודי יהוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "ישרים משמחי לב · מצות יהוה ברה מאירת עינים · אחד אלהינו גדול אדוננו קדוש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ונורא שמו לעולם ועד : ופותחו ומראה לימין ולשמאל ואומר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "וזאת התורה אשר שם משה לפני בני ישראל : יהוה עוז לעמו יתן יהוה יברך את עמו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "בשלום · צדקתך צדק לעולם ותורתך אמת · האל תמים דרכו אמרת יהוה צרופה מגן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "הוא לכל החוסים בו · יהוה חפץ למען צדקו יגדיל תורה ויאדיר :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "ומניחו על התיבה וקורין בו שלשה בני אדם כהן ולוי וישראל ושלשתם אין פוחתין מעשרה פסוקים וכל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "הקורא בו מברך לפני קריאתו ואחר קריאתו הברכה שלפני קריאתו היא זו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "ברכו את יהוה המבורך : ועונין ברוך יהוה המבורך לעולם ועד : וחוזר ואומר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "ברוך אתה יהוה אלהינו מלך העולם אשר בחר בנו מכל העמים ונתן לנו את תורתו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "ברוך אתה יהוה נותן התורה : והברכה שלאחריה ברוך אתה יהוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "אלהינו מלך העולם אשר נתן לנו תורתו שהיא תורת אמת וחיי עולם נטע בתוכנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "ברוך אתה יהוה נותן התורה : ואחר הקריאה אומר קדיש עד דאמירן וכו וגוללין את",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "הספר ואומר השליח אלו הבקשות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "יהי רצון מלפני אבינו שבשמים לכונן את בית חיינו להשיב שכינתו לתוכו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "במהרה בימינו ברחמיו הרבים ואמרו אמן :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "יהי רצון מלפני אבינו שבשמים לרחם על פליטתינו לעצור את המגפה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "והמשחית מעלינו ומעל בתינו ומעל בתי כל עדת ישראל ברחמיו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "הרבים ואמרו אמן :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "יהי רצון מלפני אבינו שבשמים לקיים בנו כל חכמי ישראל הם ובניהם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "ותלמידיהם ותלמידי תלמידיהם שבכל מקומות מושבותיהם ברחמיו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "הרבים ואמרו אמן :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "יהי רצון מלפני אבינו שבשמים שנשמע ונתבשר בשורות טובות ישועות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "ונחמות מארבע כנפות כל הארץ ונאמר אמן :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "מי שבירך את אבותינו אברהם יצחק ויעקב משה ואהרן דוד ושלמה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "הוא יברך את אחינו ואחיותינו הבאים להתפלל הקדוש ברוך הוא ישמע",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "בקול תפלתם ויענה שועתם וימלא שאלותיהם ושאלותינו בטוב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "ונאמר אמן :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "אחינו ישראל ואנוסי ישראל הנתונים בצרה בשביה ובגולה האל ירחמם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "וירחמנו ויחון אותם ואותנו בעבור שמו הגדול ויושיעם ויושיענו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "ויוציאם ויוציאנו מצרה לרוחה מאפילה לאורה ומטומאה לטהרה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "ומעניות ונאמר אמן : יהי חסדך יי עלינו כו אשרי יושבי כו ואחר כך אומרים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "יהללו",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "marginalia_regions": [
+  {
+   "bbox_xywh": [
+    1500,
+    600,
+    460,
+    140
+   ],
+   "description": "cursive note interlinear after line 5 (between Torah verses and rubric), right half",
+   "included_in_main_text": false
+  },
+  {
+   "bbox_xywh": [
+    1540,
+    840,
+    420,
+    150
+   ],
+   "description": "cursive note in indented rubric area right of lines 9-10",
+   "included_in_main_text": false
+  }
+ ],
+ "sha256_text": "7faea24b3e66a5b012d3173e136d88fee3459292e095150f46304293e6503a62",
+ "sha256_image": "e55f1ab779ee25beddc37a5b6b0333193de3ad18f0a084e13ee34c881a6c653d",
+ "proofed": "visual line-by-line proof against 300 dpi half-width bands; no text supplied from memory or other siddurim",
+ "ocr_error_rates_vs_proofed_text": {},
+ "text_file": "../text/fol16b_spread19_right.txt"
+}

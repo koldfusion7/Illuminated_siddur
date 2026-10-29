@@ -1,0 +1,264 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 12,
+ "side": "right",
+ "folio": "9b",
+ "page_image_dpi": 300,
+ "transcription_scope": "consonantal text + print punctuation (\":\" sof pasuq, \"·\" stop). Print is VOCALIZED (nikkud); vocalization NOT yet transcribed in pilot. No cantillation observed.",
+ "conventions": {
+  "יי": "print abbreviation for the Name kept as printed",
+  "[?]": "reading uncertain",
+  "|": "column break (two-column verse layout)",
+  "initial words": "large initial word set at line start is merged into first line"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלת החול",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "הבו ליהוה כבוד שמו שאו מנחה ובואו לפניו : השתחוו ליהוה בהדרת קדש חילו מלפניו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "כל הארץ אף תכון תבל בל תמוט : ישמחו השמים ותגל הארץ ויאמרו בגוים יהוה מלך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "ירעם הים ומלואו יעלוץ השדה וכל אשר בו : אז ירננו עצי היער מלפני יהוה כי בא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "לשפוט את הארץ : הודו ליהוה כי טוב כי לעולם חסדו : ואמרו הושיענו אלהי ישענו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "וקבצנו והצילנו מן הגוים להודות לשם קדשך להשתבח בתהלתך : ברוך יהוה אלהי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "ישראל מן העולם ועד העולם ויאמרו כל העם אמן והלל ליהוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "למנצח מזמור לדוד : השמים מספרים כבוד אל ומעשה ידיו מגיד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "הרקיע : יום ליום יביע אמר ולילה ללילה יחוה דעת : אין אמר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "ואין דברים בלי נשמע קולם : בכל הארץ יצא קום ובקצה תבל מליהם לשמש שם אהל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "בהם : והוא כחתן יצא מחפתו ישיש כגבור לרוץ ארח : מקצה השמים מוצאו ותקופתו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "על קצתם ואין נסתר מחמתו : תורת יהוה תמימה משיבת נפש עדות יהוה נאמנה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "מחכימת פתי : פיקודי יהוה ישרים משמחי לב מצות יהוה ברה מאירת עינים : יראת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "יהוה טהורה עמדת לעד משפטי יהוה אמת צדקו יחדו : הנחמדים מזהב ומפז רב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "ומתוקים מדבש ונפת צופים : גם עבדך נזהר בהם בשמרם עקב רב : שגיאות מי יבין",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "מנסתרות נקני : גם מזדים חשוך עבדך אל ימשלו בי אז איתם ונקתי מפשע רב : יהיו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "לרצון אמרי פי והגיון לבי לפניך יהוה צורי וגאלי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "רוממו יהוה אלהינו והשתחוו להדום רגליו קדוש הוא משה ואהרן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "בכהניו ושמואל בקראי שמו קוראים אל יהוה והוא יענם ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "בעמוד ענן ידבר אליהם שמרו עדותיו וחק נתן למו · יהוה אלהינו אתה עניתם אל נושא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "היית להם ונוקם על עלילותם : רוממו יהוה אלהינו והשתחוו להר קדשו כי קדוש יהוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "אלהינו · והוא רחום יכפר עון ולא ישחית והרבה להשיב אפו ולא יעיר כל חמתו : זכור",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "רחמיך יהוה וחסדיך כי מעולם המה · אתה יהוה לא תכלא רחמיך ממני חסדך ואמתך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "תמיד יצרוני · ממלכות הארץ שירו לאלהים זמרו יהוה[?] סלה · לרוכב בשמי שמי קדם",
+   "confidence": "low",
+   "uncertain_spans": [
+    "יהוה[?]"
+   ]
+  },
+  {
+   "n": 25,
+   "text": "הן יתן בקולו קול עוז · תנו עוז לאלהים על ישראל גאותו ועזו בשחקים · נורא אלהים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "ממקדשיך אל ישראל הוא נותן עוז ותעצמות לעם ברוך אלהים · עשה עמי אות לטובה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "ויראו שונאי ויבשו כי אתה יהוה עזרתני ונחמתני · תהלת יהוה ידבר פי ויברך כל בשר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "שם קדשו לעולם ועד · עזרנו בשם יהוה עושה שמים וארץ : אל נקמות יהוה אל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "נקמות הופיע הנשא שופט הארץ השב גמול על גאים · יהוה הפיר עצת גוים הניא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "מחשבות עמים · עצת יהוה לעולם תעמוד מחשבות לבו לדור ודור · יהוה צבאות אשרי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "אדם בוטח בך · יהוה צבאות עמנו משגב לנו אלהי יעקב סלה · יהוה הושיעה המלך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "יעננו ביום קראנו · יהוה שמך לעולם יהוה זכרך לדור ודור · יהוה אדונינו[?] מה אדיר",
+   "confidence": "low",
+   "uncertain_spans": [
+    "אדונינו[?]"
+   ]
+  },
+  {
+   "n": 33,
+   "text": "שמך בכל הארץ אשר תנה הודך על השמים · ליהוה הישועה על עמך ברכתך[?] סלה ·",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ברכתך[?]"
+   ]
+  },
+  {
+   "n": 34,
+   "text": "הושיעה את עמך וברך את נחלתך ורעם ונשאם עד העולם · וירא בצר להם בשמעו את",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "רנתם",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 24,
+   "span": "יהוה[?]"
+  },
+  {
+   "line": 32,
+   "span": "אדונינו[?]"
+  },
+  {
+   "line": 33,
+   "span": "ברכתך[?]"
+  }
+ ],
+ "marginalia_regions": [
+  {
+   "bbox_xywh": [
+    1700,
+    100,
+    348,
+    2500
+   ],
+   "description": "outer (right) margin: pencil page no. \"18\"; Hebrew cursive notes at ~y440, ~y1960-2200",
+   "included_in_main_text": false
+  }
+ ],
+ "sha256_text": "f4da655ddaf27347caba72190126e5754bdf986fe211b0397ff4bbd3017e84df",
+ "sha256_image": "e8f8415d11f4e9fa1178788fe888b22552f4c181aea112d119ea34027be13c86",
+ "ocr_error_rates_vs_proofed_text": {},
+ "text_file": "../text/fol09b_spread12_right.txt"
+}

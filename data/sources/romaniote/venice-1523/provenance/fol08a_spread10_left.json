@@ -1,0 +1,287 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 10,
+ "side": "left",
+ "folio": "8a",
+ "printed_folio_number": "ח",
+ "catchword": null,
+ "page_image_dpi": 300,
+ "ocr_engine": "kraken 7.1.1, default blla segmenter, BiblIA_01 (10.5281/zenodo.5468286)",
+ "transcription_scope": "consonantal text + print punctuation (\":\" sof pasuq, \"·\" stop). Print is VOCALIZED; vocalization NOT transcribed.",
+ "conventions": {
+  "יי / יהוה": "both abbreviations of the Name kept as printed",
+  "[?]": "reading uncertain",
+  "initial words": "large initial word merged into first line"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות החול ח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "שלא בראת את העולם אתה הוא משבראת את העולם · אתה הוא בעולם הזה אתה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "הוא בעולם הבא קדש שמך על עם מקדשי שמך וקדש את שמך בעולמך ובישועתך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "תרים ותגביה קרננו ברוך אתה יהוה המקדש את שמו ברבים : אתה הוא יהוה האלהים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "בשמים ממעל ובשמי השמים העליונים אתה הוא ראשון ואתה הוא אחרון ומבלעדיך אין",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "אלהים קבץ קוויך מארבע כנפות כל הארץ יכירו וידעו כל באי העולם כי אתה הוא האלהים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "לבדך בכל ממלכות הארץ אתה עשית את השמים ואת הארץ ומי בכל מעשה ידיך או",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "בעליונים או בתחתונים שיאמר לך מה תעשה אבינו שבשמים עשה עמנו חסד ורחמים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "בעבור כבוד שמך האל הגדול הגבור והנורא וקיים עלינו מה שאמרת על ידי נביאיך בעת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "ההיא אביא אתכם ובעת קבצי אתכם כי אתן אתכם לשם ולתהלה בכל עמי הארץ בשובי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "את שבותיכם לעיניכם אמר יהוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "עלינו לשבח לאדון הכל לתת גדולה ליוצר בראשית שלא עשנו כגויי",
+   "confidence": "medium",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "הארץ ולא שמנו כמשפחות הארצות שלא שם חלקנו כהם",
+   "confidence": "medium",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "וגורלנו ככל המונם שהם משתחוים",
+   "confidence": "medium",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "ואנו משתחוים",
+   "confidence": "medium",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "למלך מלכי המלכים הקדוש ברוך הוא נוטה שמים ויוסד הארץ ומושב יקרו בשמים",
+   "confidence": "medium",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "ממעל ושכינת עזו בגבהי מרומים ·",
+   "confidence": "medium",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "הוא יהוה אלהינו אין עוד",
+   "confidence": "medium",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "הוא מלכנו ואין זולתו ככתוב בתורתך וידעת היום והשבות אל לבבך מלבדו אמת",
+   "confidence": "medium",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "כי יהוה הוא",
+   "confidence": "medium",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "האלהים בשמים ממעל ועל הארץ מתחת אין עוד :",
+   "confidence": "medium",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "אוחילה לאל אחלה פניו אשאלה ממנו מענה לשון אשר בקהל עם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "אשירה עזו אביעה רננות בעד מפעליו ככתוב בדברי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "קדשך לאדם מערכי לב ומיהוה מענה לשון · ונאמר בצדק כל אמרי פי אין בהם נפתל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "ועקש · ונאמר אדני שפתי תפתח ופי יגיד תהלתך · ונאמר יהיו לרצון אמרי פי והגיון",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "לבי לפניך יהוה צורי וגואלי · ונאמר ברוך אתה יהוה למדני חקיך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "על כן נקוה לך יהוה אלהינו לראות מהרה בתפארת עזך להעביר גלולים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "מן הארץ והאלילים כרות יכרתון לתקן עולם במלכות שדי וכל בני בשר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "יקראו בשמך להפנות אליך כל רשעי ארץ יכירו וידעו כל יושבי תבל כי לך תכרע כל ברך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "תשבע כל לשון לפניך יהוה אלהינו יכרעו ויפלו ולכבוד שמך יקר יתנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "עול מלכותך ותמלוך עליהם מהרה לעולם ועד כי המלכות שלך היא ולעולמי עד תמלוך ויקבלו כלם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "בכבוד ככתוב בתורתך יהוה ימלוך לעולם ועד :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "יהוה מלך יהוה מלך יהוה ימלוך לעולם ועד ואומרין אותו שלשה פעמים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "תראה מלכותך בציון ועל עמך ישראל תופיע בהוד השגחתך ויראו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "שונאינו ויבושו ויכלמו כל מבקשי נפשנו יסגו אחור ויחפרו כל חפצי רעתינו תרום ידך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 36,
+   "text": "על צריך וכל אויביך יכרתו ואוהבי שמך ישישו ויעלצו בכבוד ויראו גוים את שם יהוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "marginalia_regions": [
+  {
+   "bbox_xywh": [
+    0,
+    0,
+    380,
+    3006
+   ],
+   "description": "outer (left) margin: pencil page no. \"15\" top-left",
+   "included_in_main_text": false
+  },
+  {
+   "bbox_xywh": [
+    1940,
+    1700,
+    182,
+    400
+   ],
+   "description": "inner/right margin beside Yehi ratzon/Yehovah malakh: Hebrew cursive notes (~3 lines)",
+   "included_in_main_text": false
+  },
+  {
+   "bbox_xywh": [
+    1100,
+    2150,
+    500,
+    60
+   ],
+   "description": "interlinear cursive gloss above \"בכבוד ככתוב\" line; excluded",
+   "included_in_main_text": false
+  }
+ ],
+ "sha256_text": "b2d4cc91327fb69eab7832b641257a4236efaf55fa7ba393368ee02bf98c4a34",
+ "sha256_image": "2fe4a772f3f11b1956e874c8f84ff1ba5221d7ab4895d3bdebf1980462dd2c03",
+ "proofed": "2026-10-29, visual band proof at 300 dpi",
+ "layout_note": "Lines 12-21 (Aleinu close): print sets phrases (\"שהם משתחוים\", \"ואנו משתחוים\", \"הוא יהוה אלהינו אין עוד\", \"כי יהוה הוא\") as displaced short rows with gaps; given in visual row order. Logical order needs editorial structuring. A small printed \"ק\" sits at the start of the \"ועקש\" row (purpose unclear).",
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.2075,
+   "bag_WER": 0.1612,
+   "ref_chars": 2063
+  },
+  "recheck_deskew_baseline_order": {
+   "deskew_deg": -3.0,
+   "cer": 0.0664,
+   "bag_WER": 0.1587,
+   "ref_chars": 2063
+  }
+ },
+ "text_file": "../text/fol08a_spread10_left.txt"
+}

@@ -1,0 +1,282 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 13,
+ "side": "left",
+ "folio": "11a",
+ "folio_number_printed": "יא",
+ "signature_mark": "ב ג",
+ "catchword": null,
+ "contents": "Ps. 145:17-21, Ps. 146, Ps. 147, Ps. 148, Ps. 149:1-3",
+ "page_image_dpi": 300,
+ "ocr": {
+  "engine": "kraken 7.1.1",
+  "segmenter": "default baseline (-bl)",
+  "model": "BiblIA_01 (doi:10.5281/zenodo.5468286)",
+  "preprocessing": "300 dpi pdftoppm; split at 51% width; outer margin masked white (masked/)"
+ },
+ "transcription_scope": "consonantal text + print punctuation (\":\" sof pasuq, \"·\" stop). Print is VOCALIZED; vocalization NOT transcribed. Small rabbinic-type rubrics transcribed in square letters.",
+ "conventions": {
+  "יי/יהוה": "Name kept as printed",
+  "[?]": "reading uncertain",
+  "initial words": "large initial word merged into first line",
+  "folio/signature": "header folio number kept at end of line 1; signature mark kept as last line, as in pilot"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות החול יא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "יהוה בכל דרכיו וחסיד בכל מעשיו : קרוב יהוה לכל קוראיו לכל אשר יקראהו באמת :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "רצון יראיו יעשה ואת שועתם ישמע ויושיעם : שומר יהוה את כל אוהביו ואת כל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "הרשעים ישמיד : תהלת יהוה ידבר פי ויברך כל בשר שם קדשו לעולם ועד : ואנחנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "נברך יה מעתה ועד עולם הללויה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "הללויה הללי נפשי את יהוה : אהללה יהוה בחיי אזמרה לאלהי בעודי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "אל תבטחו בנדיבים בבן אדם שאין לו תשועה : תצא רוחו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "ישב לאדמתו ביום ההוא אבדו עשתונותיו : אשרי שאל יעקב בעזרו שברו על יהוה",
+   "confidence": "low",
+   "uncertain_spans": [
+    "עשתנותיו[?]"
+   ]
+  },
+  {
+   "n": 9,
+   "text": "אלהיו : עושה שמים וארץ את הים ואת כל אשר בם השומר אמת לעולם : עושה משפט",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "לעשוקים נותן לחם לרעבים יהוה מתיר אסורים : יהוה פוקח עורים יהוה זוקף כפופים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "יהוה אוהב צדיקים : יהוה שומר את גרים יתום ואלמנה יעודד ודרך רשעים יעות : ימלוך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "יהוה לעולם אלהיך ציון לדור ודור הללויה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "הללויה כי טוב זמרה אלהינו כי נעים נאוה תהלה : בונה ירושלם יהוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "נדחי ישראל יכנס : הרופא לשבורי לב ומחבש לעצבותם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "מונה מספר לכוכבים לכלם שמות יקרא : גדול אדונינו ורב כח לתבונתו אין מספר :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "מעודד ענוים יהוה משפיל רשעים עדי ארץ : ענו ליהוה בתודה זמרו לאלהינו בכנור :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "המכסה שמים בעבים המכין לארץ מטר המצמיח הרים חציר : נותן לבהמה לחמה לבני",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "עורב אשר יקראו : לא בגבורת הסוס יחפץ ולא בשוקי האיש ירצה : רוצה יהוה את",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "יראיו את המיחלים לחסדו : שבחי ירושלם את יהוה הללי אלהיך ציון : כי חזק בריחי[?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "בריחי[?]"
+   ]
+  },
+  {
+   "n": 20,
+   "text": "שעריך ברך בניך בקרבך : השם גבולך שלום חלב חטים ישביעך : השולח אמרתו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "ארץ עד מהרה ירוץ דברו : הנותן שלג כצמר כפור כאפר יפזר : משליך קרחו כפתים לפני",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "קרתו מי יעמוד : ישלח דברו וימסם ישב רוחו יזלו מים : מגיד דבריו ליעקב חקיו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "ומשפטיו לישראל : לא עשה כן לכל גוי ומשפטים בל ידעום הללויה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "הללויה הללו את יהוה מן השמים הללוהו במרומים : הללוהו כל מלאכיו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "הללוהו כל צבאיו : הללוהו שמש וירח הללוהו כל כוכבי אור : הללוהו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "שמי השמים והמים אשר מעל השמים : יהללו את שם יהוה כי הוא צוה ונבראו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "ויעמידם לעד לעולם חק נתן ולא יעבור : הללו את יהוה מן הארץ תנינים וכל תהומות :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "אש וברד שלג וקיטור רוח סערה עושה דברו : ההרים וכל גבעות עץ פרי וכל ארזים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "החיה וכל בהמה רמש וצפור כנף : מלכי ארץ וכל לאמים שרים וכל שופטי ארץ :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "בחורים וגם בתולות זקנים עם נערים : יהללו את שם יהוה כי נשגב שמו לבדו הודו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "על ארץ ושמים : וירם קרן לעמו תהלה לכל חסידיו לבני ישראל עם קרובו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "הללויה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "הללויה שירו ליהוה שיר חדש תהלתו בקהל חסידים : ישמח ישראל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "בעושיו בני ציון יגילו במלכם : יהללו שמו במחול בתוף",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "ב ג",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 8,
+   "span": "עשתנותיו[?]"
+  },
+  {
+   "line": 19,
+   "span": "בריחי[?]"
+  }
+ ],
+ "marginalia_regions": [
+  {
+   "bbox_xywh": [
+    0,
+    0,
+    360,
+    3006
+   ],
+   "description": "outer (left) margin, masked: pencil page no. \"21\"; no substantial ink notes",
+   "included_in_main_text": false
+  }
+ ],
+ "sha256_text": "c6e07edd8e09f72d2cd6bd01ff7a9aa0149d4e449ddbd312431d1f532414a3fd",
+ "sha256_image": "84d17be446b400c4d1df1b9fed34c9c851adf33415d0ba8de7770270a61dacfb",
+ "proofed": "visual, line by line against 300-dpi bands; zoom checks on rubrics and doubtful words",
+ "recheck_note": "Text revised in re-check against the page image (plene yod/vav readings); see CHANGES.md.",
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.2003,
+   "bag_WER": 0.1687,
+   "ref_chars": 2157
+  },
+  "recheck_deskew_baseline_order": {
+   "deskew_deg": -3.0,
+   "cer": 0.0473,
+   "bag_WER": 0.1414,
+   "ref_chars": 2157
+  }
+ },
+ "text_file": "../text/fol11a_spread13_left.txt"
+}

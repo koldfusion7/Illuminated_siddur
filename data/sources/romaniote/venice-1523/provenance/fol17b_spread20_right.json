@@ -1,0 +1,249 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 20,
+ "side": "right",
+ "folio": "17b",
+ "printed_folio_number": "none (verso)",
+ "running_head": "תפלות החול",
+ "catchword": "תרשיש",
+ "signature": "none visible",
+ "page_image_dpi": 300,
+ "transcription_scope": "consonantal text + print punctuation (\":\" sof pasuq). Print is VOCALIZED; nikkud NOT transcribed.",
+ "conventions": {
+  "יהוה": "Name printed in full as יהוה except where print has יי (kept as printed)",
+  "[?]": "reading uncertain",
+  "initial words": "large initial word merged into first line"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות החול",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "יהא שלמא רבא מן שמיא וחיים טובים עלינו ועל כל עדת עמו בית ישראל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "ואמרו אמן : עושה שלום במרומיו הוא ברחמיו יעשה שלום עלינו ועל כל עמו ישראל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "ואמרו אמן :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "השיר שהיו הלוים אומרים בבית המקדש מהרה יבנה בימינו : ביום הראשון",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "היו אומרים ליהוה הארץ ומלואה תבל ויושבי בה : בשני היו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "אומרים גדול יהוה ומהולל מאד בעיר אלהינו הר קדשו : בשלישי היו אומרים אלהים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "נצב בעדת אל בקרב אלהים ישפוט : ברביעי היו אומרים אל נקמות יהוה אל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "נקמות הופיע : בחמשי היו אומרים הרנינו לאלהים עוזנו הריעו לאלהי יעקב :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "בששי היו אומרים יהוה מלך גאות לבש לבש יהוה עוז התאזר אף תכון תבל בל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "תמוט : בשבת היו אומרים מזמור שיר ליום השבת מזמור שיר לעתיד לבא ליום",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "שכולו שבת ובו מנוהה[?] לחי העולמים : אמר רבי אלעזר אמר רבי חנינא",
+   "confidence": "low",
+   "uncertain_spans": [
+    "מנוהה[?]"
+   ]
+  },
+  {
+   "n": 13,
+   "text": "תלמידי חכמים מרבים שלום בעולם שנאמר וכל בניך למודי יהוה ורב שלום בניך אל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "תקרי בניך אלא בוניך יהי שלום בחילך שלוה בארמנותיך למען אחי ורעי אדברה נא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "שלום בך למען בית יהוה אלהינו אבקשה טוב לך וראה בנים לבניך שלום על ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "לדוד מזמור ליהוה הארץ ומלואה תבל ויושבי בה : כי הוא על ימים יסדה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "ועל נהרות יכוננה : מי יעלה בהר יהוה ומי יקום במקום קדשו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "נקי כפים ובר לבב אשר לא נשא לשוא נפשו ולא נשבע למרמה : ישא ברכה מאת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "יהוה וצדקה מאלהי ישעו : זה דור דורשיו מבקשי פניך יעקב סלה : שאו שערים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "ראשיכם והנשאו פתחי עולם ויבא מלך הכבוד : מי זה מלך הכבוד יהוה עזוז וגבור",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "יהוה גבור מלחמה : שאו שערים ראשיכם ושאו פתחי עולם ויבא מלך הכבוד :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "מי הוא זה מלך הכבוד יהוה צבאות הוא מלך הכבוד סלה : ויבטחו בך יודעי שמך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "כי לא עזבת דורשיך יהוה : אמר רבי אלעזר אמר רבי חנינא תלמידי חכמים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "מרבים שלום בעולם שנאמר וכל בניך למודי יהוה ורב שלום בניך אל תקרי בניך אלא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "בוניך יהי שלום בחילך שלוה בארמנותיך למען אחי ורעי אדברה נא שלום בך למען בית",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "יהוה אלהינו אבקשה טוב לך וראה בנים לבניך שלום על ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "שיר מזמור לבני קרח : גדול יהוה ומהלל מאד בעיר אלהינו הר קדשו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "יפה נוף משוש כל הארץ הר ציון ירכתי צפון קרית מלך רב :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "אלהים בארמנותיה נודע למשגב : כי הנה המלכים נועדו עברו יחדו : המה ראו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "כן תמהו נבהלו נחפזו : רעדה אחזתם שם חיל כיולדה : ברוח קדים תשבר אניות",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 12,
+   "span": "מנוהה[?]"
+  }
+ ],
+ "marginalia_regions": [
+  {
+   "bbox_xywh": [
+    1900,
+    100,
+    120,
+    2700
+   ],
+   "description": "outer (right) margin: pencil folio no. \"34\" top-right; masked x>=1940 before OCR",
+   "included_in_main_text": false
+  },
+  {
+   "bbox_xywh": [
+    150,
+    1230,
+    1450,
+    90
+   ],
+   "hand": "manuscript cursive, interlinear",
+   "reading_tentative": "ויש קהלות שנוהגים לומר באחד בשבת · ביום הראשון היו אומרים לה' הארץ ומלואה וכו'",
+   "included_in_main_text": false,
+   "note": "handwritten rubric between print lines; tentative reading, not proofed to print standard"
+  },
+  {
+   "bbox_xywh": [
+    500,
+    2110,
+    700,
+    100
+   ],
+   "hand": "manuscript cursive, interlinear",
+   "reading_tentative": "בשני היו אומרים גדול ה' ומהולל מאד וכו'",
+   "included_in_main_text": false,
+   "note": "handwritten rubric between print lines; tentative reading, not proofed to print standard"
+  }
+ ],
+ "sha256_text": "6eed48bd4ddc988f6b779280ee6f5b0275e25e6374be4b34b69344aaf9431336",
+ "sha256_image": "164a7b78036648abe7a177be616064b598bb40382ddb2559e1876e8c6466663a",
+ "ocr_error_rates_vs_proofed_text": {},
+ "text_file": "../text/fol17b_spread20_right.txt"
+}

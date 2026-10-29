@@ -1,0 +1,295 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 21,
+ "side": "left",
+ "folio": "19a",
+ "catchword": null,
+ "signature": "ג ג",
+ "printed_folio": "יט",
+ "units": [
+  "Shabbat psalm Ps. 92 + ויבטחו + אמר ר' אלעזר",
+  "rubric: ואומר קדיש שלם ומתחיל החזן אין כאלהינו",
+  "Ein keloheinu (5-row table) + אתה תקום",
+  "Aleinu (first paragraph only, ends אין עוד)",
+  "יהי יהוה אלהינו עמנו (1 Kgs 8:57-60) + closing verses (ברוך יהוה לעולם... יהוה יברך את עמו בשלום)"
+ ],
+ "page_image_dpi": 300,
+ "ocr": {
+  "engine": "kraken 7.1.1",
+  "model": "BiblIA_01 (10.5281/zenodo.5468286)",
+  "input": "img/spread21_left_masked.png",
+  "outer_margin_masked": true
+ },
+ "transcription_scope": "consonantal text + print punctuation (\":\" sof pasuq, \"·\" stop). Print is vocalized; nikkud NOT transcribed. Rubrics are in small semi-cursive type.",
+ "conventions": {
+  "יי": "print abbreviation kept",
+  "[?]": "reading uncertain",
+  "|": "table column break",
+  "initial words": "large initial word merged into first line"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות החול יט",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "מזמור שיר ליום השבת : טוב להודות ליהוה ולזמר לשמך עליון : להגיד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "בבקר חסדך ואמונתך בלילות : עלי עשור ועלי נבל עלי הגיון",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "בכנור : כי שמחתני יהוה בפעליך במעשי ידיך ארנן : מה גדלו מעשיך יהוה מאד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "עמקו מחשבתיך : איש בער לא ידע וכסיל לא יבין את זאת : בפרח רשעים כמו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "עשב ויציצו כל פעלי און להשמדם עדי עד : ואתה מרום לעולם יהוה : כי הנה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "איביך יהוה כי הנה איביך יאבדו יתפרדו כל פעלי און : ותרם כראים קרני בלתי בשמן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "רענן : ותבט עיני בשורי בקמים עלי מרעים תשמענה אזני : צדיק כתמר יפרח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "כארז בלבנון ישגה : שתולים בבית יהוה בחצרות אלהינו יפריחו : עוד ינובון בשיבה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "דשנים ורעננים יהיו : להגיד כי ישר יהוה צורי ולא עולתה בו : ויבטחו בך יודעי שמך כי לא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "עזבת דורשיך יהוה : אמר רבי אלעזר אמר רבי חנינא תלמידי חכמים מרבים שלום בעולם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "שנאמר וכל בניך למודי יהוה ורב שלום בניך אל תקרי בניך אלא בוניך יהי שלום בחילך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "שלוה בארמנותיך למען אחי ורעי אדברה נא שלום בך למען בית יי אלהינו אבקשה טוב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "לך וראה בנים לבניך שלום על ישראל : ואומר קדיש שלם ומתחיל החזן אין כאלהינו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "אין כאלהינו | אין כאדונינו | אין כמלכנו | אין כמושיענו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "מי כאלהינו | מי כאדונינו | מי כמלכנו | מי כמושיענו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "נודה לאלהינו | נודה לאדונינו | נודה למלכנו | נודה למושיענו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "ברוך ארהינו[?] | ברוך ארוננו[?] | ברוך מלכנו | ברוך מושיענו :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ארהינו[?]",
+    "ארוננו[?]"
+   ]
+  },
+  {
+   "n": 19,
+   "text": "אתה הוא אלהינו | אתה הוא אדוננו | אתה הוא מלכנו | אתה הוא מושיענו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "אתה תקום תרחם ציון כי עת לחננה כי בא מועד :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "עלינו לשבח לאדון הכל לתת גדולה ליוצר בראשית שלא עשנו כגויי הארץ",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "ולא שמנו כמשפחות הארצות שלא שם חלקנו כהם וגורלנו ככל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "המונם שהם משתחוים ואנו משתחוים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "למלך מלכי המלכים הקדוש ברוך הוא נוטה שמים ויוסד ארץ ומושב יקרו בשמים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "ממעל ושכינת עוזו בגבהי מרומים הוא יהוה אלהינו אין עוד מלבדו אמת הוא מלכנו ואין",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "זולתו ככתוב בתורתו וידעת היום והשבות אל לבבך כי יהוה הוא האלהים בשמים ממעל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "ועל הארץ מתחת אין עוד :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "יהי יהוה אלהינו עמנו כאשר היה עם אבותינו אל יעזבנו ואל יטשנו להטות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "לבבינו אליו ללכת בכל דרכיו ולשמור מצותיו וחקיו ומשפטיו אשר צוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "את אבתינו ויהיו דברי אלה אשר התחננתי לפני יהוה קרובים אל יהוה אלהינו יומם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "ולילה לעשות משפט עבדו ומשפט עמו ישראל דבר יום ביומו למען דעת כל עמי הארץ",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "כי יהוה הוא האלהים אין עוד : ברוך יהוה לעולם אמן אמן · ימלוך יהוה לעולם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "אמן ואמן : יהוה ימלוך לעולם ועד : יהוה ימלוך לעולם ועד · יהוה עוז לעמו יתן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "יהוה יברך את עמו בשלום :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "ג ג",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 18,
+   "span": "ארהינו[?]"
+  },
+  {
+   "line": 18,
+   "span": "ארוננו[?]"
+  }
+ ],
+ "marginalia_regions": [
+  {
+   "bbox_xywh": [
+    0,
+    0,
+    400,
+    3006
+   ],
+   "description": "outer (left) margin: pencil page no. \"37\" top-left; Hebrew cursive notes beside Ein keloheinu (~y1180-1260) and beside Aleinu (~y1680-1800, ~4 lines) (masked before OCR)",
+   "included_in_main_text": false
+  },
+  {
+   "bbox_xywh": null,
+   "description": "interlinear handwritten marks above לאדון הכל / בראשית / הארצות in Aleinu (in-text, not masked)",
+   "included_in_main_text": false
+  },
+  {
+   "bbox_xywh": null,
+   "description": "pen stroke over/near \"אין עוד\" in line \"הוא יהוה אלהינו אין עוד מלבדו\" (in-text)",
+   "included_in_main_text": false
+  },
+  {
+   "bbox_xywh": null,
+   "description": "handwritten cursive line inside text block below \"ועד הארץ מתחת אין עוד\" (~y1925-1960, in-text; bled into OCR)",
+   "included_in_main_text": false
+  }
+ ],
+ "sha256_text": "242b4277abb54c5df97ef777576bb4d12c51d4754b6b3b9983650d069726f834",
+ "sha256_image": "3c1ba44856b0245a412832f40c8fc989585a11ff69a69078b7c7fbb5a4a7b7e7",
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.046,
+   "edits": 97,
+   "ref_chars": 2107,
+   "bag_WER": 0.1136
+  }
+ },
+ "text_file": "../text/fol19a_spread21_left.txt"
+}

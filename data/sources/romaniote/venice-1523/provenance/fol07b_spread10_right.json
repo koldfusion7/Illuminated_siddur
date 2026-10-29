@@ -1,0 +1,268 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 10,
+ "side": "right",
+ "folio": "7b",
+ "printed_folio_number": null,
+ "catchword": "סלח[?]",
+ "page_image_dpi": 300,
+ "ocr_engine": "kraken 7.1.1, default blla segmenter, BiblIA_01 (10.5281/zenodo.5468286)",
+ "transcription_scope": "consonantal text + print punctuation (\":\" sof pasuq, \"·\" stop). Print is VOCALIZED; vocalization NOT transcribed.",
+ "conventions": {
+  "יי / יהוה": "both abbreviations of the Name kept as printed",
+  "[?]": "reading uncertain",
+  "initial words": "large initial word merged into first line"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות החול",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "שלם וזכנו לרמוד[?] וללמד לשמור ולעשות ולקיים את כל דברי תלמוד תורתך באהבה[?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "לרמוד[?]",
+    "באהבה[?]"
+   ]
+  },
+  {
+   "n": 3,
+   "text": "בקרוב בימינו ונאמר אמן :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "חנני אלהים כחסדך כרוב רחמיך מחה פשעי : הרב כבסני מעוני",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ומחטאתי טהרני : כי פשעי אני אדע וחטאתי נגדי תמיד :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "לך לבדך חטאתי והרע בעיניך עשיתי למען תצדק בדבריך תזכה בשפטיך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "הן בעון חוללתי ובחטא יחמתני אמי : הן אמת חפצת בטחות ובסתם חכמה תודיעני :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "תחטאני באזוב ואטהר תכבסני ומשלג אלבין : תשמיעני ששון ושמחה תגלנה עצמות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "דכית : הסתר פניך מחטאי וכל עונותי מחה : לב טהור ברא לי אלהים ורוח נכון חדש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "בקרבי : אל תשליכני מלפניך ורוח קדשך אל תקח ממני : השיבה לי ששון ישעך ורוח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "נדיבה תסמכני : אלמדה פושעים דרכיך וחטאים אליך ישובו : הצילני מדמים אלהים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "אלהי תשועתי תרנן לשוני צדקתך : אדני שפתי תפתח ופי יגיד תהלתך : כי לא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "תחפוץ זבח ואתנה עולה לא תרצה : זבחי אלהים רוח נשברה לב נשבר ונדכה אלהים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "לא תבזה : היטיבה ברצונך את ציון תבנה חומות ירושלם : אז תחפוץ זבחי צדק",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "עולה וכליל אז יעלו על מזבחך פרים : יהוה חננו לך קוינו היה זרועם לבקרים אף",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "ישועתנו בעת צרה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "מזמור לדוד יהוה מי יגור באהלך ומי ישכון בהר קדשך : הולך תמים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "ופועל צדק ודובר אמת בלבבו : לא רגל על לשונו לא עשה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "לרעהו רעה וחרפה לא נשא על קרובו : נבזה בעיניו נמאס ואת יראי יהוה יכבד נשבע",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "להרע ולא ימיר : כספו לא נתן בנשך ושחד על נקי לא לקח עושה אלה לא ימוט",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "לעולם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "לעולם יהא אדם ירא שמים בסתר ומודה על האמת ודובר אמת בלבבו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "ישכים ויאמר רבון כל העולמים לא על צדקותינו אנחנו מפילים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "תחנונינו לפניך כי על רחמיך הרבים מה אנו מה חיינו מה חסדינו מה צדקנו מה כחנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "מה גבורתנו לפניך יי אלהינו ואלהי אבותינו הלא כל הגבורים כאין נגדך אנשי השם כלא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "היו וחכמים כבלי מדע ונבונים כבלי השכל הלא כל מעשימו תהו וימי חיימו הבל לפניך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "שכן כתוב בדברי קדשך ומותר האדם מן הבהמה אין כי הכל הבל : אבל אנחנו עמך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "בני בריתך בני אברהם אוהבך שנשבעת לו בהר המוריה זרע יצחק הנעקד על גבי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "מזבחך עדת יעקב בנך בכורך ומאהבתך שאהבת אותו ומשמחתך ששמחת בו קראת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "שמו ישראל וישורון : לפיכך אנו חייבים להודות לך ולשבחך ולפארך ולתן שבח והודאה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "לשמך וחייבים אנחנו לומר לפניך בכל יום אשרינו מה טוב חלקנו מה נעים גורלנו מה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "יפה מאד ירושתנו אשרנו שאנו משכימים ומעריבים ומיחדים את כבוד שמך ערב ובקר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "פעמים באהבה ואומרים בכל יום שמע ישראל יהוה אלהינו יהוה אחד : אתה הוא עד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "סלח[?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "סלח[?]"
+   ]
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 2,
+   "span": "לרמוד[?]"
+  },
+  {
+   "line": 2,
+   "span": "באהבה[?]"
+  },
+  {
+   "line": 34,
+   "span": "סלח[?]"
+  }
+ ],
+ "marginalia_regions": [
+  {
+   "bbox_xywh": [
+    1650,
+    0,
+    390,
+    3006
+   ],
+   "description": "outer (right) margin: pencil page no. \"14\" top-right; no ink notes observed",
+   "included_in_main_text": false
+  }
+ ],
+ "sha256_text": "040009dc0207aacf3a01c16f5f9d717e7af61e35c96abc3bd16c652e8c55a968",
+ "sha256_image": "4a5a97494c2be4fa385723380588b5de6b90c9df47b294a7d131016950dab76f",
+ "proofed": "2026-10-29, visual band proof at 300 dpi",
+ "layout_note": "Catchword read \"סלח\" but small type; next page begins \"שלא\" (ס/ש small-type confusion likely). Marked [?].",
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0267,
+   "edits": 55,
+   "ref_chars": 2062,
+   "bag_WER": 0.0946
+  }
+ },
+ "text_file": "../text/fol07b_spread10_right.txt"
+}

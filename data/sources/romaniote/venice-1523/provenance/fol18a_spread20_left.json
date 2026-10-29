@@ -1,0 +1,249 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 20,
+ "side": "left",
+ "folio": "18a",
+ "printed_folio_number": "יח (18), on recto",
+ "running_head": "תפלות החול",
+ "catchword": "וישב",
+ "signature": "ג ב",
+ "page_image_dpi": 300,
+ "transcription_scope": "consonantal text + print punctuation (\":\" sof pasuq). Print is VOCALIZED; nikkud NOT transcribed.",
+ "conventions": {
+  "יהוה": "Name printed in full as יהוה except where print has יי (kept as printed)",
+  "[?]": "reading uncertain",
+  "initial words": "large initial word merged into first line"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות החול",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "תרשיש : כאשר שמענו כן ראינו בעיר יהוה צבאות בעיר אלהינו אלהים יכוננה עד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "עולם סלה : דמינו אלהים חסדך בקרב היכלך : כשמך אלהים כן תהלתך על קצוי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "ארץ צדק מלאה ימינך : ישמח הר ציון תגלנה בנות יהודה למען משפטיך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "סבו ציון והקיפוה ספרו מגדליה : שיתו לבכם לחילה פסגו ארמנתיה למען תספרו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "לדור אחרון : כי זה אלהים אלהינו עולם ועד הוא ינהגנו עלמות : ויבטחו בך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "יודעי שמך כי לא עזבת דורשיך יהוה : אמר רבי אלעזר אמר רבי חנינא תלמידי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "חכמים מרבים שלום בעולם שנאמר וכל בניך למודי יהוה ורב שלום בניך אל תקרי בניך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "אלא בוניך יהי שלום בחילך שלוה בארמנותיך למען אחי ורעי אדברה נא שלום בך למען",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "בית יהוה אלהינו אבקשה טוב לך וראה בנים לבניך שלום על ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "מזמור לאסף אלהים נצב בעדת אל בקרב אלהים ישפט : עד מתי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "תשפטו עול ופני רשעים תשאו סלה : שפטו דל ויתום עני ורש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "הצדיקו : פלטו דל ואביון מיד רשעים הצילו : לא ידעו ולא יבינו בחשכה יתהלכו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "ימוטו כל מוסדי ארץ : אני אמרתי אלהים אתם ובני עליון כלכם : אכן כאדם תמותון",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "וכאחד השרים תפלו : קומה אלהים שפטה הארץ כי אתה תנחל בכל הגוים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "ויבטחו בך יודעי שמך כי לא עזבת דורשיך יהוה : אמר רבי אלעזר אמר רבי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "חנינא תלמידי חכמים מרבים שלום בעולם שנאמר וכל בניך למודי יהוה ורב שלום בניך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "אל תקרי בניך אלא בוניך יהי שלום בחילך שלוה בארמנותיך למען אחי ורעי אדברה נא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "שלום בך למען בית יהוה אלהינו אבקשה טוב לך וראה בנים לבניך שלום על ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "אל נקמות יהוה אל נקמות הופיע : הנשא שפט הארץ השב גמול על גאים ועד[?] מתי",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ועד[?]"
+   ]
+  },
+  {
+   "n": 21,
+   "text": "רשעים יי עד מתי רשעים יעלזו : יביעו ידברו עתק יתאמרו כל פעלי און : עמך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "יהוה ידכאו ונחלתך יענו : אלמנה וגר יהרגו ויתומים ירצחו : ויאמרו לא יראה יה ולא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "יבין אלהי יעקב : בינו בערים בעם וכסילים מתי תשכילו : הנטע אזן הלא ישמע אם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "יצר עין הלא יביט : היסר גוים הלא יוכיח המלמד אדם דעת : יהוה יודע מחשבות אדם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "כי המה הבל : אשרי הגבר אשר תיסרנו יה ומתורתך תלמדנו : להשקיט לו מימי רע עד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "יכרה לרשע שחת : כי לא יטש יהוה עמו ונחלתו לא יעזב : כי עד צדק ישוב משפט",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "ואחריו כל ישרי לב : מי יקום לי עם מרעים מי יתיצב לי עם פעלי און : לולי יהוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "עזרתה לי כמעט שכנה דומה נפשי : אם אמרתי מטה רגלי חסדך יהוה יסעדני : ברב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "שרעפי בקרבי תנחומיך ישעשעו נפשי : היחברך כסא הוות יצר עמל עלי חק :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "יגודו על נפש צדיק ודם נקי ירשיעו : ויהי יהוה לי למשגב ואלהי לצור מחסי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 20,
+   "span": "ועד[?]"
+  }
+ ],
+ "marginalia_regions": [
+  {
+   "bbox_xywh": [
+    0,
+    0,
+    380,
+    3006
+   ],
+   "description": "outer (left) margin: pencil folio no. \"35\" top-left; masked x<200 before OCR",
+   "included_in_main_text": false
+  },
+  {
+   "bbox_xywh": [
+    860,
+    870,
+    640,
+    90
+   ],
+   "hand": "manuscript cursive, interlinear",
+   "reading_tentative": "בשלישי היו אומרים אלהים נצב בעדת אל",
+   "included_in_main_text": false,
+   "note": "handwritten rubric between print lines; tentative reading, not proofed to print standard"
+  },
+  {
+   "bbox_xywh": [
+    880,
+    1595,
+    520,
+    95
+   ],
+   "hand": "manuscript cursive, interlinear",
+   "reading_tentative": "ברביעי היו אומרים אל נקמות ה'",
+   "included_in_main_text": false,
+   "note": "handwritten rubric between print lines; tentative reading, not proofed to print standard"
+  }
+ ],
+ "sha256_text": "487bb54de7735355a2ca9312a4b36fb00ceb971cbc0d3ffd6c95b02828a06eec",
+ "sha256_image": "c014faf3ee85fc116f6d63d740ae1e99dd1190f4d3350b4bd006ff0d2767d0dc",
+ "ocr_error_rates_vs_proofed_text": {},
+ "text_file": "../text/fol18a_spread20_left.txt"
+}

@@ -1,0 +1,222 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 8,
+ "side": "left",
+ "folio": "6a",
+ "page_image_dpi": 300,
+ "transcription_scope": "consonantal text + print punctuation (\":\" sof pasuq, \"·\" stop). Print is VOCALIZED (nikkud); vocalization NOT yet transcribed in pilot. No cantillation observed.",
+ "conventions": {
+  "יי": "print abbreviation for the Name kept as printed",
+  "[?]": "reading uncertain",
+  "|": "column break (two-column verse layout)",
+  "initial words": "large initial word set at line start is merged into first line"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות החול",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "הרחבה והמלאה[?] ומעפר עניי תקימני ומאשפות דלותי תרימני ותסמכני בידי נדיבותיך",
+   "confidence": "low",
+   "uncertain_spans": [
+    "והמלאה[?]"
+   ]
+  },
+  {
+   "n": 3,
+   "text": "ותסעדני בימין ברכותיך ותגמלני חסדים טובים ברוך אתה יהוה הגומל חסדים טובים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "סדר תפלות השנה למנהג קהלות רומניא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ברוך אתה יי אלהינו מלך העולם אשר קדשנו במצותיו וצונו על נטילת ידים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "ברוך אתה יי אלהינו מלך העולם אשר יצר את האדם בחכמה וברא בו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "נקבים נקבים וחלולים חלולים מהם סתומים ומהם פתוחים גלוי וידוע לפניך יי אלהי ואלהי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "אבותי שאם יסתם אחד מהם או אם יפתח אחד מהם אין שום בריה יכולה להתקיים ברוך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "אתה יי רופא כל בשר ומפליא לעשות :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "אלהי הנשמה שנתת בי טהורה היא אתה נתתה בי ואתה משמרה בקרבי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "ואתה עתיד לטלה ממני ולהחזירה לי לעתיד לבוא כל זמן שהנשמה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "בקרבי מודה אני לפניך יי אלהי ואלהי אבותי אדון כל הנשמות ברוך אתה יי המחזיר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "נשמות לפגרים מתים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "ברוך אתה יי אלהינו מלך העולם פוקח עורים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "ברוך אתה יי אלהינו מלך העולם מתיר אסורים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "ברוך אתה יי אלהינו מלך העולם זוקף כפופים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "ברוך אתה יי אלהינו מלך העולם מלביש ערומים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "ברוך אתה יי אלהינו מלך העולם רוקע הארץ על המים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "ברוך אתה יי אלהינו מלך העולם שעשה לי כל צרכי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "ברוך אתה יי אלהינו מלך העולם המכין מצעדי גבר :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "ברוך אתה יי אלהינו מלך העולם אוזר ישראל בגבורה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "ברוך אתה יי אלהינו מלך העולם עוטר ישראל בתפארה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "ברוך אתה יי אלהינו מלך העולם שלא עשאני גוי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "ברוך אתה יי אלהינו מלך העולם שלא עשאני עבד :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "ברוך אתה יי אלהינו מלך העולם שלא עשאני אשה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "ברוך אתה יי אלהינו מלך העולם הנותן לשכוי בינה להבחין בין יום ובין לילה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "ברוך אתה יי אלהינו מלך העולם המעביר חבלי שינה מעיני ותנומה מעפעפי ומאיר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "לאישון בת עין :",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 2,
+   "span": "והמלאה[?]"
+  }
+ ],
+ "marginalia_regions": [
+  {
+   "bbox_xywh": [
+    0,
+    700,
+    400,
+    1800
+   ],
+   "description": "outer (left) margin: Hebrew cursive notes, ~12 entries; pencil page no. \"11\" top-left",
+   "included_in_main_text": false
+  }
+ ],
+ "sha256_text": "ec07ed506cbb8859a4a02890fbfee15198c7ea5c49c8dd4145d03ec931f09216",
+ "sha256_image": "edabd259f0925bb9e7192e5277103475d256a44a9892e42560ed73f2f199b931",
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.2287,
+   "bag_WER": 0.1439,
+   "ref_chars": 1430
+  },
+  "recheck_deskew_baseline_order": {
+   "deskew_deg": -2.6,
+   "cer": 0.0706,
+   "bag_WER": 0.0923,
+   "ref_chars": 1430
+  }
+ },
+ "text_file": "../text/fol06a_spread08_left.txt"
+}

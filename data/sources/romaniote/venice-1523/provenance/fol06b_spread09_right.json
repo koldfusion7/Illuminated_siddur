@@ -1,0 +1,256 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 9,
+ "side": "right",
+ "folio": "6b",
+ "printed_folio_number": null,
+ "catchword": "עד חצות",
+ "page_image_dpi": 300,
+ "ocr_engine": "kraken 7.1.1, default blla segmenter, BiblIA_01 (10.5281/zenodo.5468286)",
+ "transcription_scope": "consonantal text + print punctuation (\":\" sof pasuq, \"·\" stop). Print is VOCALIZED; vocalization NOT transcribed.",
+ "conventions": {
+  "יי / יהוה": "both abbreviations of the Name kept as printed",
+  "[?]": "reading uncertain",
+  "initial words": "large initial word merged into first line"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות החול",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "ויהי רצון מלפניך יי אלהי ואלהי אבותי שתרגילני לדבר מצוה ואל תרגילני",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "לדבר עבירה · ואל תביאני לא לידי חטא ולא לידי נסיון ובזיון · והצילני",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "מעזי פנים ומעזות פנים ומדין קשה ומבעל דין קשה ומחבר רע ומשכן רע · וימשול בי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "יצר טוב ואל ימשול בי יצר הרע ורחקני מכל מה ששנאת ודבקני בכל מה שאהבת ותנני",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "לחן ולחסד ולרחמים בעיניך ובעיני כל רואי וגמלני חסדים טובים · ברוך אתה יי הגומל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "חסדים טובים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "ברוך אתה יי אלהינו מלך העולם אשר קדשנו במצותיו וצונו על דברי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "התורה : והערב נא יי אלהינו את דברי תורתך בפינו ובפיפיות[?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ובפיפיות[?]"
+   ]
+  },
+  {
+   "n": 10,
+   "text": "עמך בית ישראל ונהיה אנחנו כלנו וצאצאינו וצאצאי צאצאינו לומדי תורתך ויודעי עדותך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "עד סוף כל הדורות ברוך אתה יי המלמד תורה לעמו ישראל : ברוך אתה יי אלהינו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "מלך העולם אשר בחר בנו מכל העמים ונתן לנו את תורתו ברוך אתה יי נותן התורה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "וידבר יי אל משה לאמר : צו את בני ישראל ואמרת אליהם את קרבני לחמי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "לאשי ריח ניחוחי תשמרו להקריב לי במועדו : ואמרת להם זה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "האשה אשר תקריבו ליי כבשים בני שנה תמימים שנים ליום עולה תמיד : את הכבש אחד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "תעשה בבקר ואת הכבש השני תעשה בין הערבים : ועשירית האיפה סלת למנחה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "בלולה בשמן כתית רביעית ההין : עולת תמיד העשויה בהר סיני לריח ניחח אשה ליי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "ונסכו רביעית ההין לכבש האחד בקדש הסך נסך שכר ליי : ואת הכבש השני תעשה בין",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "הערבים כמנחת הבקר וכנסכו תעשה אשה ריח ניחח ליי : ובשבת אומר זה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "וביום השבת שני כבשים בני שנה תמימים ושני עשרונים סלת מנחה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "בלולה בשמן ונסכו : עולת שבת בשבתו על עולת התמיד ונסכה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "וערבה ליי מנחת יהודה וירושלם כימי עולם וכשנים קדמוניות : וידבר יי אל משה לאמר :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "דבר אל אהרן ואל בניו לאמר כה תברכו את בני ישראל אמור להם : יברכך יי וישמרך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "יאר יי פניו אליך ויחנך : ישא יי פניו אליך וישם לך שלום : ושמו את שמי על בני",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "ישראל ואני אברכם : ושמרתם את דברי הברית הזאת ועשיתם אותם למען תשכילו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "את כל אשר תעשון : לא ימוש ספר התורה הזה מפיך והגית בו יומם ולילה למען תשמור",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "לעשות ככל הכתוב בו כי אז תצליח את דרכיך ואז תשכיל : הלא צויתיך חזק ואמץ אל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "תערוץ ואל תחת כי עמך יי אלהיך בכל אשר תלך : גואלינו יי צבאות שמו קדוש ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "אשרי האיש אשר לא הלך בעצת רשעים ובדרך חטאים לא עמד ובמושב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "לצים לא ישב : כי אם בתורת יי חפצו ובתורתו יהגה יומם ולילה : והיה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "כעץ שתול על פלגי מים אשר פריו יתן בעתו ועלהו לא יבול וכל אשר יעשה יצליח :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "מאימתי קורין את שמע בערבין משעה שהכהנים נכנסים לאכול בתרומתן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "עד סוף האשמורת הראשונה דברי רבי אליעזר · וחכמים אומרים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "עד חצות",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 9,
+   "span": "ובפיפיות[?]"
+  }
+ ],
+ "marginalia_regions": [
+  {
+   "bbox_xywh": [
+    1640,
+    300,
+    400,
+    2500
+   ],
+   "description": "outer (right) margin: Hebrew cursive notes (~8 short lines) beside Barukh/Vaydaber block; pencil page no. \"12\" top-right",
+   "included_in_main_text": false
+  }
+ ],
+ "sha256_text": "d4aee99b3e6d6a0c03e62648f537e5e043627baa1d1de6ffb168186d15628816",
+ "sha256_image": "f897a7648339142933307780159821046bbbfcb088aeb14762719850e0a22af4",
+ "proofed": "2026-10-29, visual band proof at 300 dpi",
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.046,
+   "edits": 100,
+   "ref_chars": 2173,
+   "bag_WER": 0.1021
+  }
+ },
+ "text_file": "../text/fol06b_spread09_right.txt"
+}

@@ -1,0 +1,301 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 14,
+ "side": "left",
+ "folio": "12a",
+ "printed_folio_number": "יב",
+ "running_head": "תפלות החול",
+ "catchword": null,
+ "signature": "ב ד",
+ "pencil_page_number": "23",
+ "content_summary": "Song of the Sea cont. (Ex 15:5-18, brick layout), כי ליהוה המלוכה / ועלו מושיעים / והיה יהוה למלך, מלכותך יהוה..., יהוה אדנינו, ישתבח with chatimah, Kaddish (half), ברכו and response",
+ "page_image_dpi": 300,
+ "ocr": {
+  "engine": "kraken 7.1.1",
+  "segmenter": "blla default baseline",
+  "model": "BiblIA_01 (10.5281/zenodo.5468286)"
+ },
+ "transcription_scope": "consonantal text + print punctuation (\":\" sof pasuq/stop). Print is VOCALIZED; nikkud NOT transcribed. Exact print spellings kept; nothing filled from other siddurim.",
+ "conventions": {
+  "יהוה": "print spells the Name in full on these leaves (not יי); kept as printed",
+  "[?]": "reading uncertain",
+  "initial words": "large initial word merged into first line of its block",
+  "line order": "visual lines top to bottom; Song of the Sea brick layout read right-to-left per visual line"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות החול",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "יב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "תהומות יכסימו ירדו במצולת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "כמו אבן : ימינך יהוה נאדרי בכח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ימינך יהוה תרעץ אויב : וברוב גאונך תהרוס קמיך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "תשלח חרנך יאכלמו כקש : וברוח אפך נערמו מים נצבו כמו נד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "נזלים קפאו תהמת בלב ים : אמר אויב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "ארדף אשיג אחלק שלל תמלאמו נפשי אריק חרבי תורישמו ידי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "נשפת ברוחך כסמו ים צללו כעופרת במים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "אדירים : מי כמכה באלם יהוה מי כמוכה נאדר בקדש נורא תהלות עשה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "פלא : נטית ימינך תבלעמו ארץ : נחית",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "בחסדך עם זו גאלת נהלת בעזך אל נוה קדשך : שמעו עמים ירגזון",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "חיל אחז יושבי פלשת : אז נבהלו אלופי אדום",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "אילי מואב יאחזמו רעד נמגו כל יושבי כנען : תפל עליהם אימתה ופחד בגדול",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "זרועך ידמו כאבן עד יעבר עמך יהוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "עד יעבר עם זו קנית : תביאמו ותטעמו בהר נחלתך מכון לשבתך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "פעלת יהוה מקדש אדני כוננו ידיך : יהוה ימלך לעלם ועד :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "כי ליהוה המלוכה ומושל בגוים ועלו מושיעים בהר ציון לשפוט את הר עשו והיתה ליהוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "המלוכה ונאמר והיה יהוה למלך על כל הארץ ביום ההוא יהיה יהוה אחד ושמו אחד :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "מלכותך יהוה אלהינו מלכות כל עולמים וממשלתך מלכנו בכל דור ודור שאתה הוא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "אדיר בקדושה ולך יאתה המלוכה יהי שם יהוה מבורך מעתה ועד עולם ממזרח שמש עד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "מבואו מהלל שם יהוה : יהוה אדנינו מה אדיר שמך בכל הארץ :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "ישתבח שמך לעד מלכנו האל המלך הגדול והקדוש בשמים ובארץ כי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "לך לבדך נאה יהוה אלהינו ואלהי אבותינו שיר ושבח הלל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "וזמרה עוז וממשלה נצח גדולה וגבורה מלכות תפארת ועטרת והוד והדר וכבוד מעתה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "ועד עולם : ברוך אתה יהוה האל המלך גדול השבחות רב ההודאות ואל ההודאות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "אדון הנפלאות אדיר בכל המעשים הבוחר בשירי זמרה מלך נאמן יחידי העולמים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "אמן :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "יתגדל ויתקדש שמיה רבה בעלמא דברא כרעותיה וימליך מלכותיה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "ויצמח פורקניה ויקרב משיחיה ויפרוק עמיה ברחמתיה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "בחייכון וביומיכון ובחיי דכל בית ישראל בעגלא ובזמן קריב ואמרו אמן : יהא שמיה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "רבה מברך לעלם ולעלמי עלמיא ויתברך[?] וישתבח ויתפאר ויתרומם ויתנשא ויתהדר",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ויתברך[?]"
+   ]
+  },
+  {
+   "n": 33,
+   "text": "ויתעלה ויתהלל שמיה דקודשא בריך הוא : לעילא ולעילא מן כל ברכתא שירתא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "שבחתא ונחמתא דאמירן בעלמא ואמרו אמן : ברכו את יהוה המבורך : ועונין",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "ברוך יהוה המבורך לעולם ועד :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 36,
+   "text": "ב ד",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 32,
+   "span": "ויתברך[?]"
+  }
+ ],
+ "marginalia_regions": [
+  {
+   "bbox_xywh": [
+    0,
+    0,
+    265,
+    3006
+   ],
+   "description": "outer (left) margin masked before OCR; pencil page no. \"23\"; Hebrew cursive notes bottom-left",
+   "included_in_main_text": false
+  },
+  {
+   "bbox_xywh": [
+    260,
+    1505,
+    1800,
+    110
+   ],
+   "description": "two-line rubric in cursive hand between ...בכל הארץ and ישתבח: \"ומתעטף בטלית ומברך ברוך אתה יי אלהינו מלך העולם אקב\"ו להתעטף בציצית ומתחיל\" / \"ועומד שליח צבור\". Script looks manuscript, NOT print; excluded from main text pending editorial check",
+   "included_in_main_text": false
+  },
+  {
+   "bbox_xywh": [
+    260,
+    2500,
+    1800,
+    500
+   ],
+   "description": "dense handwritten interlinear/bottom-margin additions around Kaddish/Barekhu (several lines), excluded",
+   "included_in_main_text": false
+  }
+ ],
+ "sha256_text": "b9907c11c2f8d96e38d6b3fb86ea56dc45ab7cecb594b7f5015c6bdfd0422d23",
+ "sha256_image": "a6adda76d27e20295d80e6550b706cd83070e590ad3859f09164eb6db46dca45",
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.2231,
+   "bag_WER": 0.1018,
+   "ref_chars": 1797
+  },
+  "recheck_deskew_baseline_order": {
+   "deskew_deg": -2.9,
+   "cer": 0.0946,
+   "bag_WER": 0.1287,
+   "ref_chars": 1797
+  }
+ },
+ "text_file": "../text/fol12a_spread14_left.txt"
+}

@@ -1,0 +1,360 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 17,
+ "side": "right",
+ "folio": "14b",
+ "printed_folio_number": null,
+ "folio_note": "Printed Hebrew folio number appears on recto (left side) only; verso folio inferred.",
+ "pencil_page_number": "28 (read from image)",
+ "catchword": "ועל כלם",
+ "page_image_dpi": 300,
+ "ocr": {
+  "engine": "kraken 7.1.1",
+  "model": "BiblIA_01 (10.5281/zenodo.5468286)",
+  "segmentation": "default baseline (blla)",
+  "margin_mask_xywh": [
+   [
+    1960,
+    0,
+    60,
+    3006
+   ],
+   [
+    0,
+    0,
+    120,
+    3006
+   ]
+  ]
+ },
+ "transcription_scope": "consonantal text + print punctuation (\":\" sof pasuq, \"·\" stop). Print is VOCALIZED; nikkud NOT transcribed. Exact transcription; no correction from other sources.",
+ "conventions": {
+  "יי/יהוה": "Name kept as printed",
+  "[?]": "reading uncertain",
+  "|": "column break",
+  "initial words": "large initial word merged into first line of its section",
+  "column order": "two-column blocks transcribed right column first, then left column"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות החול",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "והכופרים והמוסרים כולם כרגע יאבדו וכל אויבינו וכל אויבי עמך מהרה מארץ חיים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "יכרתון ומלכות זדון מהרה תעקר ותשבר ותכניע אותם במהרה בימינו ברוך אתה יהוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "שובר רשעים ומכניע זדים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "על החסידים ועל הצדיקים ועל גירי הצדק ועלינו יהמו רחמיך הרבים יהוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "אלהינו ותן להם שכר טוב ולכל הבוטחים בשמך הטוב באמת ושים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "חלקנו עמהם לעולם לא נבוש כי בשמך הגדול בטחנו ועל חסדיך נשענו ברוך אתה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "יהוה משען ומבטח לצדיקים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "על ירושלם עירך ברחמים תשוב ותבנה אותה בנין עולם במהרה בימינו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "ברוך אתה יהוה בונה ירושלם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "את צמח דוד עבדך מהרה תצמיח וקרנו תרים בישועתך כי לישועתך קוינו כל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "היום ברוך אתה יהוה מצמיח קרן ישועה לעמו ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "שמע קולנו יהוה אלהינו חוס וחננו ורחם עלינו והושיענו וקבל ברחמים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "וברצון את תפלתנו ואת תחנתנו כי אליך עינינו כי אל שומע תפלה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "ותחנונים אתה הוא מעולם לא נשוב ריקם מלפניך כי אב מלא רחמים רבים ונאמן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "אתה ושמע נא אל בקול תפלתנו כאשר שמעת לתפלת אבותינו הצדיקים בימי קדם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "ברוך אתה יהוה שומע תפלה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "רצה יהוה אלהינו בעמך ישראל ובתפלתם שעה והשב עבודת כהנים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "לדביר ביתך ואישי ישראל בעבודתם ותפלתם מהרה באהבה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "תקבל ברצון ותהי לרצון תמיד עבודת עמך כל בית ישראל בימינו ותחזינה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "עינינו בשובך לציון ברחמים כמאז וכשנים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "קדמוניות ברוך אתה יהוה המשיב שכינתו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "לציון :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "מודים אנחנו לך שאתה הוא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "יהוה אלהינו ואלהי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "אבותינו על חיינו המסורים בידיך ועל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "נשמותינו הפקודות לך הטוב כי לא כלו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "רחמיך המרחם וכי לא תמו חסדיך כי מעולם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "רבות קוינוך לא הכלמתנו יהוה אלהינו ולא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "עזבתנו ולא הסתרת פניך ממנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "בעשרת ימי תשובה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "זכור רחמיך וכבוס[?] כעסך וכלה דבר חרב רעב",
+   "confidence": "low",
+   "uncertain_spans": [
+    "וכבוס[?]"
+   ]
+  },
+  {
+   "n": 33,
+   "text": "ומשחית ומגפה ועבודה זרה וחלאים רעים וייסורים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "קשים וכל מחלה וכל תקלה וכל גזירה רעה תבטל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "מעלינו ומעל כל בני בריתך : ועל כלם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 36,
+   "text": "אלהינו ואלהי אבותינו יעלה ויבא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 37,
+   "text": "יגיע יראה וירצה ישמע יפקד ויזכר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 38,
+   "text": "זכרוננו וזכרון אבותינו וזכרון",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 39,
+   "text": "ירושלם עירך וזכרון משיח בן דוד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 40,
+   "text": "עבדך וזכרון כל עמך בית ישראל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 41,
+   "text": "יעלה לפניך לטובה ולרחמים ביום",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 42,
+   "text": "ראש חדש הזה ביום חג המצות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 43,
+   "text": "ביום חג הסכות זכרנו יהוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 44,
+   "text": "אלהינו בו לטובה ופקדנו בו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 45,
+   "text": "לברכה והושיענו בו לחיים טובים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 46,
+   "text": "בדבר ישועה ורחמים חוס וחננו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 47,
+   "text": "ורחם עלינו והושיענו מלטנו מכל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 48,
+   "text": "צרה ומחלה מיגון ואנחה חננו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 49,
+   "text": "ועננו",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 32,
+   "span": "וכבוס[?]"
+  }
+ ],
+ "marginalia_regions": [
+  {
+   "bbox_xywh": [
+    1960,
+    0,
+    60,
+    3006
+   ],
+   "description": "outer (right) margin: pencil page no. \"28\"; cursive notes beside מודים ~y1700-1950; interlinear cursive after several berakha seals; excluded.",
+   "included_in_main_text": false
+  }
+ ],
+ "sha256_text": "df187c5677a1534bbb2b2cd00acf6cdc1c9601e5e3f5dbee00149dcd02ae2261",
+ "sha256_image": "98e2e2bf521757c48b7df992a3a561e82683f43a3aaec7c93375972b1266bdd9",
+ "ocr_error_rates_vs_proofed_text": {},
+ "text_file": "../text/fol14b_spread17_right.txt"
+}

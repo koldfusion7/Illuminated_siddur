@@ -1,0 +1,395 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 16,
+ "side": "left",
+ "folio": "14a",
+ "printed_folio_number": "יד",
+ "folio_note": "Printed Hebrew folio number appears on recto (left side) only; verso folio inferred.",
+ "pencil_page_number": "27 (inferred from sequence; faint)",
+ "catchword": null,
+ "page_image_dpi": 300,
+ "ocr": {
+  "engine": "kraken 7.1.1",
+  "model": "BiblIA_01 (10.5281/zenodo.5468286)",
+  "segmentation": "default baseline (blla)",
+  "margin_mask_xywh": [
+   [
+    0,
+    0,
+    300,
+    3006
+   ],
+   [
+    2080,
+    0,
+    21,
+    3006
+   ]
+  ]
+ },
+ "transcription_scope": "consonantal text + print punctuation (\":\" sof pasuq, \"·\" stop). Print is VOCALIZED; nikkud NOT transcribed. Exact transcription; no correction from other sources.",
+ "conventions": {
+  "יי/יהוה": "Name kept as printed",
+  "[?]": "reading uncertain",
+  "|": "column break",
+  "initial words": "large initial word merged into first line of its section",
+  "column order": "two-column blocks transcribed right column first, then left column"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות החול יד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "השיבנו אבינו לתורתך ודבקנו במצותיך וקרבנו מלכנו לעבודתך והשיבנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "בתשובה שלימה לפניך ברוך אתה יהוה הרוצה בתשובה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "סלח לנו אבינו כי חטאנו מחול לנו מלכנו כי פשענו כי אל טוב וסלח אתה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ברוך אתה יהוה חנון המרבה לסלוח :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "ראה בענייננו יהוה אלהינו וריבה ריבנו וגאלנו מהרה למען שמך כי אל מלך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "גואל וחזק אתה ברוך אתה יהוה גואל עמו ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "רפאנו יהוה ונרפא הושיענו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "ונושעה כי תהלתנו אתה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "והעלה רפואה שלימה לכל מכותינו ולכל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "תחלואינו לחיים ולשלום כי אל מלך רופא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "רחמן ונאמן אתה ברוך אתה יהוה רופא חולי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "עמו ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "ברך עלינו יהוה אלהינו את השנה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "הזאת הבאה עלינו לטובה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "ואת כל מיני תבואתה מיום ס אחר תקופת תשרי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "עד ערב הפסח אומרים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "ותן טל ומטר לברכה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "על כל פני האדמה ושבע את העולם כולו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "מברכות טוביך ורוה את פני תבל מעושר מתנות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "ידיך שמור והצל את השנה הזאת מכל מיני",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "משחית ומכל מיני פורענות ותהי אחריתה חיים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "ושבע ושלום · ותן ברכה והצלחה והרוחה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "בכל מעשה ידינו כי אל טוב ומטיב אתה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "ותברכנו ותברך את שנותינו כברכת השנים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "הטובות והמבורכות ברוך אתה יהוה מברך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "השנים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "עננו לשליח ציבור",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "עננו יהוה עננו ביום",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "צום תעניתנו בעת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "ובעונה הזאת כי בצרה גדולה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "אנחנו אל תסתר פניך ממנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "ואל תתעלם מתחנתנו האזינך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "לרותתנו ולשועתנו כי אתה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "יהוה העונה בעת צרה פודה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 36,
+   "text": "ומציל בכל עת צרה וצוקה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 37,
+   "text": "כאמור ויצעקו אל יהוה בצר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 38,
+   "text": "להם וממצוקותיהם יוציאם ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 39,
+   "text": "וכתוב והיה טרם יקראו ואני",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 40,
+   "text": "אענה עוד הם מדברים ואני",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 41,
+   "text": "אשמע טרם נקרא אתה תענה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 42,
+   "text": "טרם נדבר אתה תשמע ברוך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 43,
+   "text": "אתה יהוה העונה בעת צרה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 44,
+   "text": "ומושיע : רפאנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 45,
+   "text": "תקע בשופר גדול לחרותינו ושא נס לקבוץ גליותינו וקרא דרור לקבצנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 46,
+   "text": "יחד מהרה מארבע כנפות כל הארץ אל נוה קדשך ברוך אתה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 47,
+   "text": "יהוה מקבץ נדחי עמו ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 48,
+   "text": "השיבה שופטינו כבראשונה ויועצינו כבתחלה ותמלוך עלינו אתה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 49,
+   "text": "לבדך בחסד וברחמים וצדקנו במשפט ואל נא תרשיענו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 50,
+   "text": "בדין ברוך אתה יהוה מלך אוהב צדקה ומשפט :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 51,
+   "text": "בעשרת ימי תשובה חותם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 52,
+   "text": "המלך המשפט :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 53,
+   "text": "למשומדים אל תהי להם תקוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 54,
+   "text": "והמינים והמלשינים",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "marginalia_regions": [
+  {
+   "bbox_xywh": [
+    0,
+    0,
+    300,
+    3006
+   ],
+   "description": "outer (left) margin: pencil page no.; cursive notes at line ends (after each berakha seal) ~y380-2290 and lower-left; excluded.",
+   "included_in_main_text": false
+  }
+ ],
+ "sha256_text": "68526a32c8576220279ebbeb6d7a0c8d6754d37f865305c8896aa63ce13674d9",
+ "sha256_image": "23a86f39c844149d64a58f973a5a910230bad06c9dd96b348dc02837ca0162a9",
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.4795,
+   "bag_WER": 0.1487,
+   "ref_chars": 1685
+  },
+  "recheck_deskew_baseline_order": {
+   "deskew_deg": -1.8,
+   "cer": 0.5009,
+   "bag_WER": 0.1519,
+   "ref_chars": 1685
+  }
+ },
+ "text_file": "../text/fol14a_spread16_left.txt"
+}
