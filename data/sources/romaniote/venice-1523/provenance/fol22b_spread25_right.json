@@ -1,0 +1,288 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 25,
+ "side": "right",
+ "folio": "22b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות החול",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "מלך העולם המפיל חבלי שינה על עיני ותנומה על עפעפי ומאיר לאישון בת עין יהי רצון מלפניך ה' אלהי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "שתשכיבני לשלום ותעמידני לחיים ולשלום ושלוט[?] בי יצר טוב ואל ישלוט בי יצר רע ותצילני מפגע רע",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ושלוט[?]"
+   ]
+  },
+  {
+   "n": 4,
+   "text": "ומחלאים רעים ואל יבהלוני חלומו' רעים והרהורים רעים ותהא מטתי שלימה לפניך והאר עיני פן אישן המו'",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ברוך אתה ה' המאיר לעולם כולו בכבודו ויכוין מקום מטתו דתנן אבא בנימין אומר על שני דברים הייתי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "מצטער כל ימי על תפלתי שתהא סמוך למטתי ועל מטתי שתהא נתונה בין צפון לדרום והעושה כך הוין[?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "הוין[?]"
+   ]
+  },
+  {
+   "n": 7,
+   "text": "לו בנים זכרים שנאמר וצפונך תמלא בטנם ישבעו בנים וכו' :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "הלכות שבת צריך אדם לערוך שלחנו מבעוד יום ולהדליק נר · והדלקת נר בשבת חובה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "אבל איזה[?] קבלת שבת אם התנה או טעה וכתב הרמב\"ם ור\"ת שצריך לברך",
+   "confidence": "low",
+   "uncertain_spans": [
+    "איזה[?]"
+   ]
+  },
+  {
+   "n": 10,
+   "text": "להדליק נר של שבת · כתב רבי אבי\"ה שאין להדליק פחות מב' נרות אחד כנגד זכור ואחד כנגד שמור",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "גם אין לאכול אלא במקום הנר וחייב אדם לקבל שבת מבעוד יום כדאלפינן מ\"מ אמר רבי יוסי יהא חלקי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "ממכניסי שבת בטבריא ומוציאי שבת בצפורי · ותוספת זה אין לו שיעור למטה ולמעלה הם פלג המנחה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "כתב ר\"י[?] שאם הקהל קבלו שבת והתחילו להתפלל ערבית אין ליחיד לעשות מלאכה אפילו יש שהות",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ר\"י[?]"
+   ]
+  },
+  {
+   "n": 14,
+   "text": "ביום ומתפללין מנחה כשאר הימים אלא שאין נופלים על פניהם לא בערב שבת ולא בערב יום טוב ואם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "חל תענית עשרה[?] בטבת יום ששי[?] במנחה אין אומרים וידוי :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "עשרה[?]",
+    "ששי[?]"
+   ]
+  },
+  {
+   "n": 16,
+   "text": "ערבית מדליק נר של שבת ומברך ברוך אתה ה' אלהינו מלך העולם אשר קדשנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "במצותיו וצונו להדליק נר של שבת ומתחיל ואומר :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "במה מדליקין ובמה אין מדליקין אין מדליקין לא בלכש ולא בחוסן ולא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "בכלך ולא בפתילת האידן ולא בפתילת המדבר ולא בירוקה שעל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "פני המים : לא בזפת ולא בשעוה ולא בשמן קיק ולא בשמן שריפה ולא באליה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "ולא בחלב : נחום המדי אומר מדליקין בחלב מבושל וחכמים אומרים אחד מבושל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "ואחד שאינו מבושל אין מדליקין בו : אין מדליקין בשמן שרפה ביום טוב רבי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "ישמעאל אומר אין מדליקין בעטרן מפני כבוד השבת וחכמים מתירין בכל השמנים בשמן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "שומשמין בשמן אגוזים בשמן צנונות בשמן דגים בשמן פקועות בעטרן ובנפט",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "רבי טרפון אומר אין מדליקין אלא בשמן זית בלבד כל היוצא מן העץ אין מדליקין בו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "אלא פשתן : וכל היוצא מן העץ אינו מיטמא טומאת אוהלים אלא פשתן :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "פתילת הבגד שקפלה ולא הבהבה רבי אליעזר אומר טמאה היא ואין מדליקין בה רבי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "עקיבא אומר טהורה היא ומדליקין בה : לא יקוב אדם שפופרת של ביצה וימלאנה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "שמן ויתננה על פי הנר בשביל שתהא מנטפת ואפילו היא של חרס ורבי יהודה מתיר :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "אם חברה היוצר מתחלה מותר מפני שהוא כלי אחד : לא ימלא אדם קערה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "שמן ויתננה בצד הנר ויתן ראש הפתילה בתוכה בשביל שתהא שואבת ורבי יהודה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "מתיר : המכבה את הנר מפני שהוא מתירא מפני גוים מפני לסטים מפני רוח רעה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "ואם בשביל החולה שישן פטור : כחס על הנר כחס על השמן כחס על הפתילה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "חייב רבי יוסי פוטר בכלן חוץ מן הפתילה מפני שהוא עושה פחם : על שלש עבירות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "נשים מתות בשעת לדתן על שאינן זהירות בנדה ובחלה ובהדלקת הנר : שלשה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 36,
+   "text": "דברים צריך אדם לומר בתוך ביתו ערב שבת עם חשכה עשרתם ערבתם הדליקו את הנר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 37,
+   "text": "ספק",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 3,
+   "span": "ושלוט[?]"
+  },
+  {
+   "line": 6,
+   "span": "הוין[?]"
+  },
+  {
+   "line": 9,
+   "span": "איזה[?]"
+  },
+  {
+   "line": 13,
+   "span": "ר\"י[?]"
+  },
+  {
+   "line": 15,
+   "span": "עשרה[?]"
+  },
+  {
+   "line": 15,
+   "span": "ששי[?]"
+  }
+ ],
+ "sha256_text": "7f070078e9a41f1fe1e0491c537e07a570b97f26a20c8f6532533b1a46c8061b",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.1026,
+   "bag_WER": 0.3427,
+   "ref_chars": 2563
+  }
+ },
+ "text_file": "../text/fol22b_spread25_right.txt"
+}

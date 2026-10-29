@@ -1,0 +1,228 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 38,
+ "side": "left",
+ "folio": "36a",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של שבת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "היו בירושלם חד קבעה סעודתי' בע\"ש וחד קבעה סעודה בשבת ושניהם נעקרו' כת' הרמב\"ם אסור לקרוא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "בכתובים בשבת מפני שמבטל מן המדרש וכ\"ש כשמדבר אדם בחלק האסור מהדבור וק\"ו בלשון הרע אמ'",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "בירושלמי בשבת פר' קמא ר\"ש ב\"י אמר אילו הוינא קאים על טורא דסיני בשעת' דאתיהיבת אוריתא לישראל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "הוינא מתבע מן קמי רחמנא דיתברי להדין בר נש תרין פומין חד דלהוי לעי באוריתא · וחד דלהוי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "עביד בה כל צרכיה חזר ואמר מה אם חד הוא ולית עלמא יכול קיים בה מן דלטורא דידיה אילו הוו תרין",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "על אחת כמה וכמה כל שכן שיהיו שבתות וימים טובים עקר דלטוריא והוא לשון הרע הפך כוונה האלהית",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "ועל כיוצא בזה נאמר וגם אני נתתי להם חקים לא טובים כו' ואמר רשב\"י אילו היה מי שיתמנה עמי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "הייתי מתיר מלאכה במועד שהתורה אסרה כדי לעסוק בתורה והם עסוקין בדברים בטלים וכן כת' הרב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "במורה לפי שיהיו שביעית ימיו בעבודת השם והארכתי בו מעט ושם דרך אראנו בישע אלהים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "סדר מנחה של שבת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "אם תשיב משבת רגלך עשות חפציך ביום קדשי · וקראת לשבת ענג לקדוש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "יהוה מכובד וכבדתו מעשות דרכיך ממצוא חפצך ודבר דבר · אז תתענג",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "על יהוה והרכבתיך על במתי ארץ והאכלתיך נחלת יעקב אביך כי פי יהוה דבר · מה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "נאוו על ההרים רגלי מבשר משמיע שלום מבשר טוב משמיע ישועה אומר לציון מלך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "אלהיך · גילי מאד בת ציון הריעי בת ירושלם הנה מלכך יבוא לך צדיק ונושע הוא עני",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "ורכב על חמור ועל עיר בן אתונות · הנני שולח מלאכי ופנה דרך לפני פתאום יבא אל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "היכלו האדון אשר אתם מבקשים ומלאך הברית אשר אתם חפצים הנה בא אמר יהוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "צבאות · הנה אנכי שולח לכם את אליהו הנביא לפני בוא יום הגדול והנורא והשיב לב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "אבות על בנים ולב בנים על אבותם · הנה ימים באים נאם יהוה והקימותי לדוד צמח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "צדיק ומלך מלך והשכיל ועשה משפט וצדקה בארץ · בימיו תושע יהודה וישראל ישכון",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "לבטח וזה שמו אשר יקראו יהוה צדקנו וישבו על הארץ אשר נתתי לעבדי ליעקב אשר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "ישבו בה אבותיכם וישבו עליה המה ובניהם ובני בניהם עד עולם ודוד עבדי נשיא להם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "לעולם וכרתי להם ברית שלום ברית עולם יהיה אותם ונתתים והרביתי אותם ונתתי את",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "מקדשי בתוכם לעולם והיה משכני עליהם והייתי להם לאלהים והמה יהיו לי לעם וידעו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "הגוים כי אני יהוה מקדש את ישראל בהיות מקדשי בתוכם לעולם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "אשרי יושבי ביתך וגו' ועומד השליח ומתעטף בטליתו ואומר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "ובא לציון גואל ולשבי פשע ביעקב נאם יהוה · ואני זאת בריתי אותם אמר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "יהוה רוחי אשר עליך ודברי אשר שמתי בפיך לא ימושו מפיך ומפי זרעך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "ומפי זרע זרעך אמר יהוה מעתה ועד עולם ואתה קדוש יושב תהלות ישראל וקרא זה אל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "זה ואמר קדוש קדוש קדוש יהוה צבאות מלא כל הארץ כבודו ומקבלין דין מדין ואמרין",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "קדיש בשמי מרומא עילאה בית שכינתיה קדיש על ארעא עובד גבורתיה קדיש לעלם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "ולעלמי עלמיא יהוה צבאות מליא כל ארעא זיו יקריה · ותשאני רוח ואשמע אחרי קול",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "5664d14c85e7108a4478673249f5b829ddcbe9ff47a883ac5b7d4f52624ed2da",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0696,
+   "bag_WER": 0.2344,
+   "ref_chars": 2370
+  }
+ },
+ "text_file": "../text/fol36a_spread38_left.txt"
+}

@@ -1,0 +1,245 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 71,
+ "side": "left",
+ "folio": "69a",
+ "printed_folio_number": "סט",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של ארבע ערכים | סט",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "אחריך ממצות דר גבוהים ˙ | ידך רפית על כן תהים ˙ | ואתה עיף ויגע ולא ירא אלהים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "חילו וזכרו תמחה בחילך ˙ | טירתו לשמה תהיה למולך ˙ | והיה בהניח ידוה אלהיך לך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "יהיה עמלק לחרץ ולכלה ˙ | כל ימי חייך בארץ תחלה ˙ | אשר ידוה אלהיך נותן לך נחלה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "לא תשכח בא באש ובמים ˙ | מלחמות עד חיותך מיומים ˙ | תמחה את זכר עמלק ˙ מתחת השמים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "השמים יתנו טלם ˙ | והארץ תתן יבולה ומאורים חילם ˙ | ושבו בנים לגבולם ˙ | קדוש :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "אפיקרון | בתוך חלק ˙ | אזכור נצח שור סולק ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "בצאת עמי מכור דולק ˙ | בא עלי צר עמלק :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "גונב דעת בא בעצה ˙ | גזור גפן שחת נצה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "דופי בטול גרם חריצה ˙ | היגאה גומא בלא ביצה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "התעיב עלילה זרע מרעים ˙ | עם כל שכני הרעים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "ועל חמשה חזר מרעים ˙ | לפרוץ גדר עדר רועים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "זה האיש כזה ראה ˙ | את משרתו צוה בקנאה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "חלוץ לנו בני לאה ˙ | בעלי חכמה בעלי יראה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "טוב למעוז יושב סתרים ˙ | שומר פתאים מבין עתרים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "יזכור לנו ברית כתרים ˙ | שמור ראשך הלום בכתרים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "כעת מחר אנכי נצב ˙ | בנקרת בור צור מחצב ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "לא תמוש מתוך מצב ˙ | נגד צורר בא לקצב :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "משוי ידיו היו תמוכות ˙ | בשני פרחים סומכי סמוכות ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "נביא מזכיר ראש ממלכות ˙ | וזה שלישי אב הממלכות :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "שר הצבא ראש העזרה ˙ | מצא חיל מצא עזרה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "ענו בצום קדשו עצרה ˙ | הנה יד ידוה. לא קצרה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "פרח זדון עלי שושן ˙ | אחריו קם ואז יעשן ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "צמתו אל עזר ישן ˙ | הנה לא ינום ולא ישן :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "קשר רשעים עזי מצח ˙ | לא תשכח עד נצח ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "רעי ודודי אדום וצח ˙ | מלך מהולל בכל פה צח :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "שמו אהלל בשיר תופי ˙ | תהלת ידוה ידבר פי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "חסד גמלני בימי חרפי ˙ | לא כתומי וכנקיון כפי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "ידוה ביה צור עולמים ˙ | צר ואור ונבכי ימים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "חבש נהרות ישוב ליקומים ˙ | קדש שביעי מכל הימים : | קדוש ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "ויאמר | המן למלך אחשורוש ישנו עם אחד מפורד ומפוזר ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "ומכסא מלוכה נטרד ונגזר ˙ | וראש פתנים אכזר :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "ורצוני אם תעשה ואלי תכסף ˙ | הא לך מחמד הייתי מאסף ˙ | עשרת אלפים ככר כסף :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "סורם[?] אם גריתי אליך ˙ | היית נבהל[?] אתה וקהלך ˙ | והקל מעליך :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "סורם[?]",
+    "נבהל[?]"
+   ]
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 34,
+   "span": "סורם[?]"
+  },
+  {
+   "line": 34,
+   "span": "נבהל[?]"
+  }
+ ],
+ "sha256_text": "c71b73415cca4117b043baabf7a1068f88012d8c7c05974eb946559d2630f306",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.1611,
+   "wer": 0.3117
+  }
+ },
+ "text_file": "../text/fol69a_spread71_left.txt"
+}

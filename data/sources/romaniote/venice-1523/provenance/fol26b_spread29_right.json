@@ -1,0 +1,258 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 29,
+ "side": "right",
+ "folio": "26b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של שבת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "הרחמן הוא יתהדר לעולמי עולמים : | הרחמן הוא יפרנסנו בכבוד :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "הרחמן הוא יצילנו מעניות · מאכסניות : | הרחמן הוא יצילנו ממיתה משונה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "הרחמן הוא יצילנו ממיתה חטופה : | הרחמן יצילנו מדינה של גיהנם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "הרחמן יטע תורתו ויראתו בלבנו : | הרחמן יהיה לנו עזר וסמך מעוז ומחסה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "הרחמן ישבור עול הגוים מעל צוארנו : | הרחמן יוליכנו קוממיות לארצנו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "הרחמן ישלח לנו את אליה הנביא זכרונו לברכה ויבשרנו בשורות טובות :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "הרחמן ישים בינינו אהבה ושלום : | הרחמן ישפיל שונאנו ואויבנו מטה מטה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "הרחמן יגביה קרננו ומזלנו מעלה מעלה : | הרחמן יברך השלחן שאכלנו עליו כ[?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "כ[?]"
+   ]
+  },
+  {
+   "n": 10,
+   "text": "בשלחנו של אברהם אבינו כל רעב ממנו יאכל וכל צמא ממנו ישתה : ואם אורח מברך אומ'[?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "אומ'[?]"
+   ]
+  },
+  {
+   "n": 11,
+   "text": "הרחמן יברך בעל הבית הזה בבנים שלא ימותו ונכסים שלא יתמו כמו שהתברכו בתיהם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "של שלשה אבות אברהם בכל יצחק מכל יעקב כל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "הרחמן הוא ישים עלינו שלום עושה שלום במרומיו הוא יעשה שלום עלינו ועל כל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "ישראל אמן : מגדול ישועות מלכו ועושה חסד למשיחו לדוד ולזרעו עד עולם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "טעמו וראו כי טוב יהוה אשרי הגבר יחסה בו : יראו את יהוה קדושיו כי אין מחסור",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "ליריאיו : כפירים רשו ורעבו ודורשי יהוה לא יחסרו כל טוב : נער הייתי גם זקנתי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "ולא ראיתי צדיק נעזב וזרעו מבקש לחם : כל היום חונן ומלוה וזרעו לברכה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "אלהים יחננו ויברכנו יאר פניו אתנו סלה : ליהוה הישועה על עמך ברכתך סלה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "מה שאכלנו יהא לשבעה מה ששתינו יהא לברכה כאמור ויאכלו ויותירו כדבר יהוה ברוך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "יהוה לעולם אמן ואמן : ברוך אתה יהוה אלהינו מלך העולם בורא פרי הגפן : ושותה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "ומברך · ברוך אתה יהוה אלהינו מלך העולם על הגפן ועל פרי הגפן ועל תנובת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "השדה ועל ארץ חמדה טובה ורחבה שרצית והנחלת לאבותינו לאכול מפריה ולשבוע",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "מטובה ורחם יהוה אלהינו עלינו ועל ישראל עמך ועל ירושלם עירך ועל ציון משכן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "כבודך ועל מלכות בית דוד משיחך והעלנו בתוכה ושמחנו בבנינה כי אל טוב ומטיב אתה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "ברוך אתה יהוה על הגפן ועל פרי הגפן :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "בבקר ביום השבת משכים החזן בב\"ה ומברך ברכות התורה וקורא פרשת התמיד שהיא צו את בני",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "ישראל וביום השבת וגומר ואומר כל הסדר עד יעשה יכליח[?] ומתחיל רננו צדיקים וכו' ויש[?] נוהגים להתחיל",
+   "confidence": "low",
+   "uncertain_spans": [
+    "יכליח[?]",
+    "ויש[?]"
+   ]
+  },
+  {
+   "n": 28,
+   "text": "מתפלה לעני וכו' :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "רננו צדיקים ביהוה לישרים נאוה תהלה : הודו ליהוה בכנור בנבל עשור",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "זמרו לו : שירו לו שיר חדש היטיבו נגן בתרועה : כי ישר דבר יהוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "וכל מעשהו באמונה · אוהב צדקה ומשפט חסד יהוה מלאה הארץ : בדבר יהוה שמים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "נעשו וברוח פיו כל צבאם : כונס כנד מי הים נותן באוצרות תהומות : ייראו מיהוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "כל הארץ ממנו יגורו כל יושבי תבל : כי הוא אמר ויהי הוא צוה ויעמוד : יהוה הפיר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "עצת",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 9,
+   "span": "כ[?]"
+  },
+  {
+   "line": 10,
+   "span": "אומ'[?]"
+  },
+  {
+   "line": 27,
+   "span": "יכליח[?]"
+  },
+  {
+   "line": 27,
+   "span": "ויש[?]"
+  }
+ ],
+ "sha256_text": "f73090d3b445699d08f89c53b9ddd7b622171d5ce64c7c6cd3845c21245b90bf",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0357,
+   "bag_WER": 0.1411,
+   "ref_chars": 2184
+  }
+ },
+ "text_file": "../text/fol26b_spread29_right.txt"
+}

@@ -1,0 +1,246 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 43,
+ "side": "right",
+ "folio": "40b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של שבת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "נוסח הבדלה | יש נוהגין לומר זמר להבדלה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "בשיר אענה · כי הנה · | מבשר טוב · וחיש יסעד :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "אליהו · התשבי · | מתושבי · גלעד :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "אל חלי · בך גילי · בשש ימי המעשה : | יום ראשון · כבת אישון · בצל כנפיך · אחסה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "בכל ענין · ובכל קנין · וכן בשני · אעשה : | ובשלישי · אשא ראשי · ולא אגור · משוסה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "וברביעי · את ישעי · עמי גיל · יגון אמסה : | ובחמשי · ובששי · ובכל אפנה · אנשא :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "ונרונן · ברוב רנן · בדת זכור · אשר נעשה : | והבשר · אל יחסר · ולחם לב · אנוש יסעד :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "אליהו · התשבי · | מתושבי · גלעד :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "בכל חדש · גיל חדש · ותשרי · בוא בשמחה : | ממרחשון · עדי סיון · אחי שקט · ובבטחה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "ובכסלו · אחי שלו · טבת ושבט · במנוחה : | חדש אדר · הנהדר · גבורות אל · אשיחה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "וניסן בא · בנס אהבה · ונס יגון · ואנחה : | אייר הוא · כמוהו · סיון תמוז · ברוחה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "ולא אראב · בחדש אב · ובאלול · אין צוחה : | כל שני · בידוה · בטחתי · לא אמעד :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "אליהו · התשבי · | מתושבי · גלעד :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "ראה מלכי · לעולם כי · בך שת עמך כסלו : | שנת תחלה · לגאולה · לדברך · קרא נא לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "וקם ראובן · והוא הבן · הראשון · לגורלו : | בהתאסף · בית יוסף · ושב שמעון · לגבולו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "ויהודה · בקול תודה · ולוי ישא קולו : | וגד ואשר · ביושר · ונפתלי · בהיכלו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "ויש שכר · ליששכר · ולי זבולון · בזבולון : | ולבנימן · קץ ימין · בבקר · יאכל עד :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "אליהו · התשבי · | מתושבי · גלעד :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "מלוך על עם · אשר הועם · מנשוא את אימיך : | היה עמו · וצו שלומו · מכוכבי · מרומיך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "והוד טלה · אל יכלה · והדר שור · הדומיך : | בעד תאומים · התמימים · יהמו נא · רחמיך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "ואין שטן · בעוד סרטן · אבל רובי · שלומיך : | ומאריה · בנך החיה · ותן בלבו · אימיך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "והבתולה · תהי בעולה · בחזיונך · ונועמך : | ולמאזנים · פי שנים · תת מטוב · נועמיך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "זאת עקרב · נגיד הון רב · למלאת את אסמיך : | ותת קשת · באף השת · בלב אויבים · וקמיך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "גדי ודלי · והלי · ישיתון על · רחומיך : | כמו דגים · וכל פלגים · ידגו ל[?] · רוב לעד :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ל[?]"
+   ]
+  },
+  {
+   "n": 26,
+   "text": "אליהו · התשבי · | מתושבי · גלעד :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "כוס ישועות אשא ובשם יהוה אקרא : | אנא ידוה הושיעה נא אנא ידוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "הצליחה נא : | הבה לנו עזרת מצר ושוא תשועת אדם : | באלהים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "נעשה חיל והוא יבוס צרינו : | באלהים נעשה חיל והוא יבוס קמינו : | באלהים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "בטחתי לא אירא מה יעשה בשר לי : | באלהים בטחתי לא אירא מה יעשה אדם לי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "באלהים אהלל דבר בידוה אהלל דבר : | באלהים הללנו כל היום ובשמך לעולם נודה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "סלה [?] : | ויש אומרים אליהו הנביא | ויש אומרים ז' [?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]",
+    "[?]"
+   ]
+  },
+  {
+   "n": 33,
+   "text": "אלהינו",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 25,
+   "span": "ל[?]"
+  },
+  {
+   "line": 32,
+   "span": "[?]"
+  },
+  {
+   "line": 32,
+   "span": "[?]"
+  }
+ ],
+ "sha256_text": "ff58fb50a2805f5588aa38e652a8fcf1a9bc8f3adcd3df50b0930911723e1557",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0621,
+   "bag_WER": 0.137,
+   "ref_chars": 2060
+  }
+ },
+ "text_file": "../text/fol40b_spread43_right.txt"
+}

@@ -1,0 +1,247 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 42,
+ "side": "left",
+ "folio": "40a",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של שבת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "בישועתו · הנה אל ישועתי אבטח ולא אפחד כי עזי וזמרת יה ויהי לי לישועה ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "ושאבתם מים בששון ממעייני הישועה · | ואמרתם ביום ההוא הודו לידוה קראו בשמו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "הודיעו בעמים עלילותיו הזכירו כי נשגב שמו זמרו ידוה כי גאות עשה מדעת זאת בכל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "הארץ · צהלי ורני יושבת ציון כי גדול בקרבך קדוש ישראל · | ישראל נושע בידוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "תשועת עולמים לא תבושו ולא תכלמו עד עולמי עד · | כי כל העמים ילכו איש בשם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "אלהיו ואנחנו נלך בשם יהוה אלהינו לעולם ועד · | בית יעקב לכו ונלכה באור ידוה ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "ויהי דוד בכל דרכיו משכיל ויהוה עמו · | ואמרתם כה לחי ואתה שלום וביתך שלום וכל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "אשר לך שלום · | הנני שולח מלאכי ופנה דרך לפני פתאום יבוא אל היכלו האדון אשר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "אתם מבקשים ומלאך הברית אשר אתם חפצים הנה בא אמר ידוה צבאות · | אחרי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "ידוה אלהיכם תלכו ואותו תיראו ואת מצותיו תשמרו ובקולו תשמעו ואותו תעבדו ובו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "תדבקון · | ואתם הדבקים בידוה אלהיכם חיים כלכם היום · | כי בשמחה תצאו ובשלום",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "תובלון ההרים והגבעות יפצחו לפניכם רנה וכל עצי השדה ימחאו כף : | שיר למעלות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "עלינו לשבח · | יהי רצון ברחמים מלפניך יהוה אלהינו ואלהי אבותינו שיכבשו רחמיך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "את כעסך וטובך הגדול ישיב את חרון אפך מעירך מארצך מעמך ומנחלתך ויגולו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "רחמיך על מדותיך ותכנס עמנו לפנים משורת הדין ואל תדיננו כחטאתנו ואל תשלם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "לנו כגמולינו ותבוא לפניך תפלתינו וזכור לנו ברית אבותינו אברהם יצחק ויעקב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "ותפקדנו בפקודת ישועה ורחמים משמי שמי קדם למענך ולמען קדושת שמך האל הגדול",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "הגבור והנורא : | ואומר ברוך יי וקדיש שלם וברכו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "סדר הבדלה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "במוצאי שבת | מוסיפין מחול על הקדש ומבדילין על כוס של יין או שכר שהוא יין מדינה אבל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "לא על הפת ומי שהיה אוכל מבעוד יום אינו מפסיק אלא גומר סעודתו ומברך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "ברכת המזון ואחר כך מבדיל דאמר רבי יוחנן שלשה נוחלי העולם הבא הדר בארץ ישראל והמגדל בניו [?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 24,
+   "text": "לת\"ת והמבדיל על היין במוצאי שבת ומברך על הבשמים משום אבדת נפש יתירה ואין מברכין על ריח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "המתים ושל בית הכסא ואחר כך מברך על האור מפני שאז תחלת ברייתו כמו שאמר בב\"ר כשראה אדם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "ששקעה חמה בשבת אמר אך חשך ישופני זמן לו הקב\"ה ב' רעפי' והכה זה בזה ויצאה אש מביניהם וברך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "עליו הה\"ד ולילה אור בעדני · ואין מברכין אלא על אור ששבת ממלאכה הילכך אור של גוים אין",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "מברכין עליו אלא אם כן הדליק הישראל ממנו ואפילו הדליק גוי אחר ישראל מברכין עליו חוץ מ\"ה [?] שאין",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 29,
+   "text": "מברכין אלא מאור ששבת אפילו הדליקו כמה ישראלים זה אחר זה מאור שלא שבת אין מברכין והטעם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "שעקר ברכה ב\"ה [?] אינה אלא מפני שהדלקתה היתה אסורה לנו ולכן צריך אור שהיה שובת אבל לא היוצא",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 31,
+   "text": "מן העצים והאבנים גם כן וכתב הטור שאם שהודלק [?] לחולה בשבת הרי ואין מברכין על אור שאינו להאיר",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 32,
+   "text": "כגון אור של מתים ואור הדלקה וכבשן :",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 23,
+   "span": "[?]"
+  },
+  {
+   "line": 28,
+   "span": "[?]"
+  },
+  {
+   "line": 30,
+   "span": "[?]"
+  },
+  {
+   "line": 31,
+   "span": "[?]"
+  }
+ ],
+ "sha256_text": "40059518b234594cc2f95c2155b04935d833f509fd72a837cc72f3f3553ce4e6",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0896,
+   "bag_WER": 0.3158,
+   "ref_chars": 2277
+  }
+ },
+ "text_file": "../text/fol40a_spread42_left.txt"
+}

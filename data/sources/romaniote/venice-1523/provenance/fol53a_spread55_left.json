@@ -1,0 +1,257 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 55,
+ "side": "left",
+ "folio": "53a",
+ "printed_folio_number": "נג",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של חנוכה | נג",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "והגיון דת לבטלה ˙ ושבתות לחללה ˙ ועם נדות לקלקלה ˙ ובנים שלא למולה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "זוהמת חזיר ונבלה ˙ בכרח אותם להאכילה ˙ בריחי בתים לבטלה ˙ ואם לא אותם לקטולה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "חרותי בקרני שורים תחלה ˙ בלי היות באל למו נחלה ˙ ועמדו ישראל בבהלה ˙ ומכרו משור ועד עגלה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "טמאת עור בבתולה ˙ גזרו על כל כלה ˙ כשתנשא לבעלה ˙ תבעל להגמון תחלה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "יעצו חכמי גורן עגולה ˙ להטמין במגרפות אכילה ˙ רמז שבע ברכות הלולה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "ונעשה נס ואחת מהנה לא נפסלה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "כמו כן עשו בחכמה ˙ להזמין בנירות בתי איומה ˙ מצות מילה לקיימה ˙ כצווי תורה תמימה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "לחץ יונה תמה ˙ כשר שוכן רומה ˙ לבש בגדי נקמה ˙ בצרים להלחמה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "מתתיה וחשמונים ˙ אז חוברו בחתונים ˙ וכשהרגישו יונים ˙ הנה ההגמון עם המונים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "נגד ביתם חונים ˙ כלה לטמאה בזנונים ˙ וסנהדרין יושבים אנונים ˙ עומדים בתפלה ותחנונים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "סוכלחנת [?] היתה וחכמה ˙ נערה וחנה שמה ˙ קרעה בגדי רקמה ˙ ועמדה ערומה :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 13,
+   "text": "עיניהם כבשו לאדמה [?] ˙ והיא קולה הרימה ˙ לערל תמסרוני בזמה ˙ ולכם אחי בשת וכלימה :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 14,
+   "text": "פץ מתתיא לחשמונאי ˙ אתם כהני ידוה ˙ ואני ושבעה בני ˙ כמספר שבטי אמוני :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "צרי לאבד ומוני ˙ נדגול בשם ידוה ˙ ומיד התיז אלעזר ראש הזנאי ˙ שהוא ארום וקנאי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "קמו כדבורים ˙ יהודה ושאר גבורים ˙ כאיש אחד חברים ˙ במחנה יונים מפגרים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "רוצצים ומשברים ˙ משנים עשר עברים ˙ זה מכה וזה מחרים ˙ ורדפום מעכו ועד נמרים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "צעק אנטיוכוס איככה ˙ ככה סיעתו לא רככה ˙ וכשמעו בכה ובכה ˙ חמתו לא שככה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "תרגל פיל לערוכה ˙ וכלי קרב לחרכה ˙ וקשתותיו לדרכה ˙ בחוזק יד לפרכה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "מצבא אמון נוא ˙ גבר חיל חסונו ˙ ולבש שריונו ˙ ועלה על פיל בגאונו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "שאג יהודה בענינו ˙ ואלעזר ירה חץ שנונו ˙ ויך את הפיל בשריר בטנו ˙ ונפל ונשבר הוא ואדונו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "התחנן מלך בבכיה ˙ התפללו עלי לתחיה ˙ ואבנה לו בית בפז וטרקיא ˙ ולא אבו חכמי תושיה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "חילו אבדו כלא היה והורד לשאול תחתיה ˙ ובת קול מכרזת נצחו טליא ˙ דאגחו קרבא באנטוכיא :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "זמן יציאת דובים ˙ מאחד באב היו מחריבים ˙ ובחג האסיף כלו כל אויבים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "ובחמשה ועשרים בכסלו לביתם היו שבים ˙ קריאת הלל נובבים ˙ כי מטביעת לובים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "לא היתה כזאת לחביבים ˙ ועל זאת שבחו אהובים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "#R מי כמוך לרבי [?] סליחה [?] מרבינו [?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]",
+    "[?]",
+    "[?]"
+   ]
+  },
+  {
+   "n": 28,
+   "text": "מי | כמוך שבת וחנכה נגשו ויריבון לפני ˙ זה יאמר לידוה אני וזה יקרא באזני ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "מה אעשה לאלה היום נגד נכוני ˙ עשיר ורש נפגשו עושה כלם ידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "אמר שבת לחנכה לי משפט הבכורה ˙ ומי את ומי משפחתך הצעירה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "כי בי שבת אל גדול ונורא ˙ מכל מלאכתו אשר ברא :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "אמרה חנכה לשבת מה תתנפל עלי ותתגולל ˙ כי שמנה ימים גומרין בי ההלל ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "ואת ביום אחד ברא זה ומה תמלל ˙ שומר מה מלילה שומר מה מליל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 12,
+   "span": "[?]"
+  },
+  {
+   "line": 13,
+   "span": "[?]"
+  },
+  {
+   "line": 27,
+   "span": "[?]"
+  },
+  {
+   "line": 27,
+   "span": "[?]"
+  },
+  {
+   "line": 27,
+   "span": "[?]"
+  }
+ ],
+ "sha256_text": "c7cc0f45ab779c2b74a0281e4217e5781ae0fadc6794f984fd696c4b2044d223",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0644,
+   "wer": 0.2062,
+   "ref_chars": 2205
+  }
+ },
+ "text_file": "../text/fol53a_spread55_left.txt"
+}

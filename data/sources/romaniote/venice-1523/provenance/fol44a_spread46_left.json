@@ -1,0 +1,216 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 46,
+ "side": "left",
+ "folio": "44a",
+ "printed_folio_number": "מד",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של ראש חדש | מד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "לבקש ולתור לך ˙ מנוחה ברום דרשי ˙ מקום אור בלי חשך ˙ וחיים בלי מדה : | איומה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "עשי את רצון קונך ˙ ואל תחמדי בלתו ˙ ויהיה יקר תבל ˙ בעיניך כמו נדה : | איומה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "זמנך באף יכלה ˙ בחיים והוא יכלה ˙ ויבאש ותהיי את ˙ כקנה וכקדה : | איומה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ראי לעלות מעלה ˙ וסור משאול מטה ˙ ועזבי גוית גם ˙ בזקנה וגם ילדה : | איומה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "פתיחה אחרת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "שירו | לאל נכוני ˙ שירי רנני ˙ שבת וראש חדש ˙ יום זה לידוה : | שירו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "יקר שמו הודיעו ˙ לכל והשמיעו ˙ זמרו הריעו ˙ לפני המלך ידוה : | שירו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "עוז לו במקדשו ˙ תנו חושו לדרשו ˙ התהללו בשם קדשו ˙ ישמח לב מבקשי ידוה : | שירו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "קדושים שמך יהודו ˙ וחסדך יגידו ˙ אף יהללו ויודו ˙ שמים פלאך ידוה : | שירו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "באתי וקדשתי ˙ שמך ושירים שרתי ˙ ואלה הגשתי ˙ בכורים לידוה : | שירו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "פתיחה אחרת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "ימים | מאז הקדשו ˙ לפני אל והוחזקו ˙ חדש ושבת יירשו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "בהתיחדם נחשקו ˙ אחד באחד יגשו ˙ ואיש באחיו ידבקו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "חסד ואמת נפגשו ˙ צדק ושלום נשקו : | חסד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "האחד שם למנוח ˙ ואחד שם לכפרה ˙ להזכיר שבועת מי נח ˙ אשר נצח לא הופרה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "ועם לא זנחתם זנוח ˙ ואם איבתם ספרה ˙ זה אלף לא חבשו ˙ מן העבודה ויזעקו : | חסד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "ויום יום דבקו בקדושתם ˙ וזרע קדש מצבתם ˙ באשר גלו חק קדשם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "ושמרו חגם ושבתם ˙ מגמת פניהם בית קדשם ˙ וטעמם וטובתם ˙ ואם מגויהם גורשו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "ומכלי אל כלי הורקו ˙ משנה בארצם ירשו ˙ ושפע ימים ינקו : | חסד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "דורשיך אל השיאם ˙ ברכות חדשים ושבתות ˙ ומבור ענים הוציאם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "במסות במופתים ואותות ˙ ובשמך ברחמים תקראם ˙ ותמשכם אהבה בעבותות ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "וירחי שלומים יחדשו ושד מלכים ינקו : | חסד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "יוצר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "אהלל | למאיר תוהו ובוהו ˙ ברא הכל ונח במעשהו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "על כן ברך ידוה את יום השבת ויקדשהו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "גוי קדושים ועם רבת ˙ דרשו אל באהבה ובחבת ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "ראו כי ידוה נתן לכם את השבת :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "הורוהו בראש ירח להקדישו ˙ ושפה תמור פרים לשמשו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "זאת עולת חדש בחדשו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "זכור ליום מכבד וכבדתו ˙ חדש ושבת יבא כל בשר להשתחותו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "5342be2308c4c7cf2177b46995ede172a30db4d6498216994a01e264b9bf8715",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0602,
+   "bag_WER": 0.1463,
+   "ref_chars": 1612
+  }
+ },
+ "text_file": "../text/fol44a_spread46_left.txt"
+}

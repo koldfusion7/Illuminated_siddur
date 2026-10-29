@@ -1,0 +1,271 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 62,
+ "side": "right",
+ "folio": "59b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של עשרה בטבת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "פאר ועוז לך יאות · וממשלה לך תדמה · צדקתך לנצח ומי בשחק לך ידמה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "קראתיך בכל לבי · וקרבי כחליל יהמה · ראה עניי ושים בכיי ותפלתי נקשבת : בחדש[?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "בחדש[?]"
+   ]
+  },
+  {
+   "n": 4,
+   "text": "שמך צור אילותה · תקותה בגלותה · תראה לפניך · שפלותה ודלותה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ומשחת להעלותה · ומרפש לדלותה · ושברה את ותוחלתה · פתחיך סובבת : בחדש[?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "בחדש[?]"
+   ]
+  },
+  {
+   "n": 6,
+   "text": "חטאנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "שקדו עם נדכא ונחבל · שפכו לב כנחל יובל · שיר חדש מפיכם יגבל · שי לידוה צבאות :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "מלך מכין פעולותי ודרכי · מהלליו יהגה חכי · משפטיו ישמרו עמי וידעו כי · מלך ידוה צבאות :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "רגזו עמי ואל תחטאו · רחקו פשע והתחטאו · רננות ערכו תחנות תבטאו · רוממו ידוה צבאות :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "יחדו שם שמים שוכן · יחד ייחד לבבכם בתוכן · יגננכם באברתו כי כן יגן · ידוה צבאות : חטאנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "הסירו מעליכם עון נאלח · התודו אל צור ופשעכם יסלח · וגואל לכם ישלח האדון ידוה צבאות :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "בחרו אותי בכושר · בררו לבבכם ביושר · ברוכים תקראו ועם אשר · ברכו ידוה צבאות : חטאנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "נא הבט בעם רווים נפזרים ומקדשיהם לעיים · נשמו עליהם גוים · נאספים ידוה צבאות :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "ראה שפלותם ורב דלותם · רעם ונהלם בגלותם · רפא שברם ומחלתם · רם ונשא ידוה צבאות :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "כי נשבעתי להושיעכם · בשמרכם חקי בדמעכם · בקלכם אשמע ושועכם · באזני ידוה צבאות :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "נתיבי ישמרו ויחיו · נדיבי וכנחלים נטיו · נגידי בני ישראל יהיו · נאם ידוה צבאות : חטאנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "אשיב שבות עמי וכסא מלכו · אכונן ואניה חשכו · אחדש ימיו כקדם כה · אמר יהוה[?] צבאות :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "יהוה[?]"
+   ]
+  },
+  {
+   "n": 18,
+   "text": "אדירי עמים כלכם בפחד · אותי הקדישו יחד · אין חפצי בסחיר ושוחד · אמר יי[?] אלהים צבאות :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "יי[?]"
+   ]
+  },
+  {
+   "n": 19,
+   "text": "לכן קרעו לבבכם · לפני צורכם ומלככם · למען יועיל לכם · לולי ידוה צבאות :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "קדוש ישראל וגואלם · קצפו יכלה עמים כולם · קמיהם יכחיד לעולם · קנאת ידוה צבאות : חטאנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "נשא ורם בעשוקים יבט · נוגשיהם וצריהם ילבט · נפלאותיו יעשה לישראל שבט · נחלתו ידוה צ[?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "צ[?]"
+   ]
+  },
+  {
+   "n": 22,
+   "text": "החסו בצלו ישרים · הכינו לפניו אמרים · היו איש אל רעהו אומרים · הודו את ידוה צבאות :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "חטאנו : אל מלך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "חטאנו אחר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "תשובי עשה אלי בטרם יבא צר וטיכס מחנותיו · בעשרה בטבת חשב מחשבותיו ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "רכבו הרגיש ופרשיו וכל חיילותיו · הנה בעננים יעלה וכסופה מרכבותיו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "מרכבותיו קלו מנשרים · | יום צר עלה לצודד[?] עזורים · חטאנו",
+   "confidence": "low",
+   "uncertain_spans": [
+    "לצודד[?]"
+   ]
+  },
+  {
+   "n": 28,
+   "text": "פתאום בא על זרע נמהרים · | אשפתו כקבר פתוח כולם גבורים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "גבורים עלו להחריב אולמו · | סמר אויב וחרד בזעמו ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "נהם ככפיר ויצא עלימו בהלחמו · | נוסע יצא ממקומו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "ממקומו מהר ועלה להלחמה · | דמה לשום ארצי לשמה ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "כל עמו עלו עלי בחמת[?] · | קומו ונקומה עליה למלחמה : חטאנו",
+   "confidence": "low",
+   "uncertain_spans": [
+    "בחמת[?]"
+   ]
+  },
+  {
+   "n": 33,
+   "text": "למלחמה",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 3,
+   "span": "בחדש[?]"
+  },
+  {
+   "line": 5,
+   "span": "בחדש[?]"
+  },
+  {
+   "line": 17,
+   "span": "יהוה[?]"
+  },
+  {
+   "line": 18,
+   "span": "יי[?]"
+  },
+  {
+   "line": 21,
+   "span": "צ[?]"
+  },
+  {
+   "line": 27,
+   "span": "לצודד[?]"
+  },
+  {
+   "line": 32,
+   "span": "בחמת[?]"
+  }
+ ],
+ "sha256_text": "9f7da281d02477e71523d812b3d1993efd3ef36919612cd15de90fb24d6298bb",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0601,
+   "bag_WER": 0.1313,
+   "ref_chars": 2097
+  }
+ },
+ "text_file": "../text/fol59b_spread62_right.txt"
+}

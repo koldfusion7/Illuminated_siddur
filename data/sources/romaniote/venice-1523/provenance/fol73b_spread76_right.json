@@ -1,0 +1,237 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 76,
+ "side": "right",
+ "folio": "73b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של ערכים [?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 2,
+   "text": "בעבורם פרעה וחילו ˙ טיבע בים סוף ומי זה יכילו ˙ ויעבר את אשר לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "קירבם לסיני ודתו הנחילם ˙ ויאכילם את המן ומעמים כלם ˙ סמוכים לעד לעולם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "לך מעלי רודף אביוניו ˙ פן יראה ידוה ורע בעיניו ˙ אל תלשן עבד אל אדוניו : יסרם [?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 5,
+   "text": "ויען המן ויאמר למלך אחשורוש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "עותו ממצות והרבו מועדים ושמחה ˙ היום שבת ומחר הנחה ˙ לא ידעו עשות נכוחה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "יחבוט בקרקע כוסו וימאסנו ˙ ואם תגע בו לא ישתנו ˙ טמא יטמאנו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "וזבוב אם יפול בתוכו וזיהמתו ˙ ישליכוהו ממנו ולא יחתו ˙ אך שמריה ימצו ישתו : פוכס [?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 9,
+   "text": "ויען המלך אחשורוש ויאמר להמן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "חקים טובים אנכי לא אבזה ˙ שלח מעל פני לא אוכל אחזה ˙ אין נפשי אל העם הזה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "זאת טבעתי הויה על ימינך ˙ ולך נתון כספך וקנינך ˙ והעם לעשות בו כטוב בעיניך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "קראתי בכל לב מרום מראשון ˙ כי לך לבדך נשאתי אישון ˙ לאדם מערכי לב ומיי מענה לשון [?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 13,
+   "text": "לשון הלשין ונמחה ˙ ובור אשר כרה שם נפל ונדחה ˙ ליהודים היתה אורה ושמחה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "מי כמוך באלים כו' ומתפללין תפלה כסדר ואומר קדיש ומוציאין ב' ספרים בא' קורין פרשת היום וב' קורא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "בפרשת כי תצא זכור את אשר עשה לך ומפטירין בשמואל כה אמר ה' צבאות פקדתי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "פרשת זכור",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "זכור | את אשר עשה לך עמלק בדרך בצאתכם ממצרים : אשר קרך בדרך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "ויזנב בך כל הנחשלים אחריך ואתה עיף ויגע ולא ירא אלהים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "והיה בהניח ידוה אלהיך לך מכל איביך מסביב בארץ אשר ידוה אלהיך נתן לך נחלה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "לרשתה תמחה את זכר עמלק מתחת השמים לא תשכח :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "הפטרת זכור בשמואל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "כה | אמר ידוה צבאות פקדתי את אשר עשה עמלק לישראל אשר שם לו בדרך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "בעלתו ממצרים : עתה לך והכיתה את עמלק והחרמתם את כל אשר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "לו ולא תחמול עליו והמתה מאיש עד אשה מעולל ועד יונק משור ועד שה מגמל ועד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "חמור : וישמע שאול את העם ויפקדם בטלאים מאתים אלף רגלי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "ועשרת אלפים את איש יהודה : ויבא שאול עד עיר עמלק וירב בנחל : ויאמר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "שאול אל הקיני לכו סרו רדו מתוך עמלקי פן אסיפך עמו ואתה עשיתה חסד [?] עם כל בני",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 28,
+   "text": "ישראל בעלותם ממצרים ויסר קיני מתוך עמלק : ויך שאול את עמלק מחוילה בואך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "שור",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 1,
+   "span": "[?]"
+  },
+  {
+   "line": 4,
+   "span": "[?]"
+  },
+  {
+   "line": 8,
+   "span": "[?]"
+  },
+  {
+   "line": 12,
+   "span": "[?]"
+  },
+  {
+   "line": 27,
+   "span": "[?]"
+  }
+ ],
+ "sha256_text": "19cf28cc398a542ac230cc5d6851107888b207418313740eada37bfa44ac2b7f",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0796,
+   "wer": 0.1848,
+   "ref_chars": 1697,
+   "overlap_excluded": true,
+   "dropped_lines": 7
+  }
+ },
+ "text_file": "../text/fol73b_spread76_right.txt"
+}

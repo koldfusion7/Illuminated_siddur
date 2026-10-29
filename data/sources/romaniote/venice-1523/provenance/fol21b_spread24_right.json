@@ -1,0 +1,247 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 24,
+ "side": "right",
+ "folio": "21b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות החול",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "מתנות ידך שמור והצל את השנה הזאת מכל מיני משחית ומכל מיני פורעניות ותהי אחריתה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "חיים ושבע ושלום ותן ברכה והצלחה והרוחה בכל מעשה ידינו וברכנו וברך את שנותינו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "כברכת השנים הטובות והמבורכות כי אל טוב ומטיב אתה ברוך אתה יהוה מברך השנים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "תקע בשופר גדול לחרותינו ושא נס לקבוץ גליותינו וקרא דרור לקבצנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "יחד מהרה מארבע כנפות כל הארץ לארצנו ברוך אתה יהוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "מקבץ נדחי עמו ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "השיבה שופטינו כבראשונה ויועצינו כבתחלה ותמלוך עלינו אתה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "לבדך בחסד וברחמים בצדק ובמשפט וצדקנו במשפט ואל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "נא תרשיענו בדין ברוך אתה יהוה מלך אוהב צדקה ומשפט :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "למשומדים אל תהי להם תקוה והמינים והמלשינים והכופרים והמסורות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "כולם כרגע יאבדו וכל אויבי עמך ישראל מהרה יכרתון",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "ומלכות זדון מהרה תעקר ותשבר ותכניע אותם במהרה בימינו ברוך אתה יהוה שובר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "רשעים ומכניע זדים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "על החסידים ועל הצדיקים ועל גירי הצדק ועל פלטת עמך בית ישראל ועלינו יהמו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "רחמיך יי אלהינו ותן שכר טוב לכל הבוטחים בשמך הטוב באמת ושים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "חלקנו עמהם לעולם לא נבוש כי בשמך הגדול בטחנו ועל חסדיך נשענו ברוך אתה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "יהוה משען ומבטח לצדיקים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "על ירושלם עירך ברחמים תשוב ובנה אותה בנין עולם במהרה בימינו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "ברוך אתה יהוה בונה ירושלם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "את צמח דוד עבדך במהרה תצמיח וקרנו תרים בישועתך כי לישועתך קוינו כל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "היום ברוך אתה יהוה מצמיח קרן ישועה לעמו ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "אב הרחמן שמע קולנו יהוה אלהינו חוס וחננו ורחם עלינו והושיענו וקבל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "ברחמים וברצון את תפלתנו ואת תחנתנו כי אליך עינינו כי אל שומע תפלה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "ותחנונים אתה[?] ומעולם לא נשוב ריקם מלפניך כי אב מלא רחמים רבים ונאמן",
+   "confidence": "low",
+   "uncertain_spans": [
+    "אתה[?]"
+   ]
+  },
+  {
+   "n": 26,
+   "text": "אתה ושמע נא אל בקול תפלתנו כאשר שמעת לתפלת אבותינו הצדיקים כימי קדם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "ברוך אתה יהוה שומע תפלה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "רצה יהוה אלהינו בעמך ישראל ובתפלתם שעה והשב עבודת כהנים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "לדביר ביתך ואישי ישראל בעבודתם ותפלתם מהרה באהבה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "תקבל ברצון ותהי לרצון תמיד עבודת עמך כל בית ישראל בימינו ותחזינה עינינו בשובך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "לציון ברחמים כמאז וכשנים קדמוניות ברוך אתה יהוה המשיב שכינתו לציון :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "מודים אנחנו לך שאתה הוא יהוה אלהינו ואלהי אבותינו על חיינו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "המסורים בידך ועל נשמותינו הפקודות לך הטוב כי לא כלו ר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "רחמיך המרחם וכי לא תמו חסדיך כי מעולם רבות קוינוך לא הכלמתנו יהוה אלהינו ולא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "עזבתנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 25,
+   "span": "אתה[?]"
+  }
+ ],
+ "sha256_text": "430fd75e839d5365c6e7eb27d0a0bab0950b452876ebc1d4869841c541a07ec4",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.054,
+   "bag_WER": 0.0831,
+   "ref_chars": 1906
+  }
+ },
+ "text_file": "../text/fol21b_spread24_right.txt"
+}

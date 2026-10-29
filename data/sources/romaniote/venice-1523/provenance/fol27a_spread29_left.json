@@ -1,0 +1,234 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 29,
+ "side": "left",
+ "folio": "27a",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של שבת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "עצת גוים הניא מחשבות עמים : עצת יהוה לעולם תעמוד מחשבות לבו לדור ודור :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "אשרי הגוי אשר יהוה אלהיו העם בחר לנחלה לו : משמים הביט יהוה ראה את כל בני",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "האדם : ממכון שבתו השגיח אל כל יושבי הארץ : היוצר יחד לבם המבין אל כל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "מעשיהם : אין המלך נושע ברב חיל גבור לא ינצל ברב כח : שקר הסוס לתשועה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "וברב חילו לא ימלט : הנה עין יהוה אל יריאיו למיחלים לחסדו : להציל ממות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "נפשם ולחיותם ברעב : נפשנו חכתה ליהוה עזרנו ומגיננו הוא : כי בו ישמח לבנו כי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "בשם קדשו בטחנו : יהי חסדך יהוה עלינו כאשר יחלנו לך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "לדוד בשנותו את טעמו לפני אבימלך ויגרשהו וילך : אברכה את יהוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "בכל עת תמיד תהלתו בפי : ביהוה תתהלל נפשי ישמעו ענוים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "וישמחו : גדלו ליהוה אתי ונרוממה שמו יחדו : דרשתי את יהוה וענני ומכל מגורותי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "הצילני : הביטו אליו ונהרו ופניהם אל יחפרו : זה עני קרא ויהוה שמע ומכל צרותיו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "הושיעו : חונה מלאך יהוה סביב ליריאיו ויחלצם : טעמו וראו כי טוב יהוה אשרי הגבר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "יחסה בו : יראו את יהוה קדושיו כי אין מחסור ליריאיו : כפירים רשו ורעבו ודרשי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "יהוה לא יחסרו כל טוב : לכו בנים שמעו לי יראת יהוה אלמדכם : מי האיש החפץ",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "חיים אוהב ימים לראות טוב : נצור לשונך מרע ושפתיך מדבר מרמה : סור מרע",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "ועשה טוב בקש שלום ורדפהו : עיני יהוה אל צדיקים ואזניו אל שועתם : פני יהוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "בעושי רע להכרית מארץ זכרם : צעקו ויהוה שמע ומכל צרותם הצילם : קרוב יהוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "לנשברי לב ואת דכאי רוח יושיע : רבות רעות צדיק ומכלם יצילנו יהוה : שומר כל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "עצמותיו אחת מהנה לא נשברה : תמותת רשע רעה ושונאי צדיק יאשמו : פודה יהוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "נפש עבדיו ולא יאשמו כל החוסים בו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "תפלה לעני כי יעטוף ולפני יהוה ישפוך שיחו : יהוה שמעה תפלתי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "ושועתי אליך תבא : אל תסתר פניך ממני ביום צר לי הטה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "אלי אזנך ביום אקרא מהר ענני : כי כלו בעשן ימי ועצמותי כמוקד נחרו : הוכה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "כעשב ויבש לבי כי שכחתי מאכול לחמי : מקול אנחתי דבקה עצמי לבשרי : דמיתי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "לקאת מדבר הייתי ככוס חרבות : שקדתי ואהיה כצפור בודד על גג : כל היום",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "חרפוני אויבי מהוללי בי נשבעו : כי אפר כלחם אכלתי ושקוי בבכי מסכתי : מפני",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "זעמך וקצפך כי נשאתני ותשליכני : ימי כצל נטוי ואני כעשב איבש : ואתה יהוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "לעולם תשב וזכרך לדור ודור : אתה תקום תרחם ציון כי עת לחננה כי בא מועד :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "כי רצו עבדיך את אבניה ואת עפרה יחננו : וייראו גוים את שם יהוה וכל מלכי הארץ",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "את כבודך : כי בנה יהוה ציון נראה בכבודו : פנה אל תפלת הערער ולא בזה את",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "תפלתם : תכתב זאת לדור אחרון ועם נברא יהלל יה : כי השקיף ממרום קדשו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "יהוה משמים אל ארץ הביט : לשמוע אנקת אסיר לפתח בני תמותה : לספר בציון",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "שם יהוה ותהלתו בירושלם : בהקבץ עמים יחדו וממלכות לעבוד את יהוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "259c48d43e313596aa3154c2e134afd530ed8b466800fb2a94cc0676217587d9",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.022,
+   "bag_WER": 0.06,
+   "ref_chars": 2270
+  }
+ },
+ "text_file": "../text/fol27a_spread29_left.txt"
+}

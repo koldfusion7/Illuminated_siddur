@@ -1,0 +1,277 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 62,
+ "side": "left",
+ "folio": "60a",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של עשרה בטבת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "למלחמה יעץ רעות כהרסיסיו · | טעה בעשרה בטבת מכל מעשיו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "חרש רעות בהתכוססיו · | מדן נשמע נחרת סוסיו ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "סוסיו זעף לרוץ במרץ · | ויחרד רשע ואכל בקרץ ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "הוא וכל עמו אוכלי שרץ · | מקול מצהלות אביריו רעשה כל הארץ : חטאנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "הארץ דריה וכל יושביה שחו · | געלו דרכם והדיחו בטחו[?] ·",
+   "confidence": "low",
+   "uncertain_spans": [
+    "בטחו[?]"
+   ]
+  },
+  {
+   "n": 7,
+   "text": "[?] על שקר וכזב שתו · | כי עברו איי כתיים וראו וקדר שלחו ·",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 8,
+   "text": "שלחו והתבוננו ההיתה כזאת · | העיר המהוללה תשב פרזות ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "ואיש רש כעשיר יענה עזות · | הסר המצנפת והרם העטרה זאת לא זאת :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "חטאנו יזכרנו סלח לנו וזכרנו · | אל מלך ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "ויש אומרים חטאנו אסכולות[?] בטלו וכו והוא כתוב בעשרת ימי תשובה :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "אסכולות[?]"
+   ]
+  },
+  {
+   "n": 12,
+   "text": "וכשחטאו אבותינו במדבר עמד משה בתפלה לפניך ובקש רחמים בעד עמך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "בית ישראל וכבש חרון אפך מעמך מארצך ומנחלתך וכן אמר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "משה בתפלתו מלכי ואלהי סלח נא לעון העם הזה כגודל חסדך וכאשר נשאת לעם הזה ממצרים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "ועד הנה ואף אתה השבות[?] לו בדרכי טובך ובשרתו ואמרת לו סלחתי כדבריך וכן כתוב ויאמר",
+   "confidence": "low",
+   "uncertain_spans": [
+    "השבות[?]"
+   ]
+  },
+  {
+   "n": 16,
+   "text": "ידוה סלחתי כדבריך : | ולירושלם עירך אמרת לה הנני נשפט אותך על אמרך לא חטאתי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "ואנו בושנו במעשינו ונכלמנו בעונותינו ונכפפה קומתינו מרוב אשמותינו ואין לנו פה להשיב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "ולא מצח להרים ראש והיאך נעיז פנינו ונקשה עורפנו בדבר הזה שנאמר לפניך מלכנו צורנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "צדיקים אנחנו ולא חטאנו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "ואומר זה הוידוי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "אלהינו ואלהי אבותינו · | איך ארמון היכלך · | מקום שבת גדרך · | בית זבול לך ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "נטשת ביד נכרים · | זרים אכזרים · | טואב[?] והגרים ·",
+   "confidence": "low",
+   "uncertain_spans": [
+    "טואב[?]"
+   ]
+  },
+  {
+   "n": 23,
+   "text": "ישבו בו האמים · | הלכו בו יתר עמים · | אשורים ולטושים ולאומים ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "בהר[?] הר גבוה הושם לשמות · | היום נתנו לגבוה ולבמות · | אשרות הפסגה ובית הישימות :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "בהר[?]"
+   ]
+  },
+  {
+   "n": 25,
+   "text": "לצבי קדש פתח העינים · | שסוהו עוברי דרך הזדונים | שארית אדום וכל הגוים ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "בנוי בצפורן שמיר | העלה בו שית ושמיר · | ונעזב כעזובת החורש והאמיר ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "בית מדין[?] עין הצופיה · | נצב בהר המוריה · | בעד מערות היה",
+   "confidence": "low",
+   "uncertain_spans": [
+    "מדין[?]"
+   ]
+  },
+  {
+   "n": 28,
+   "text": "רגזו לזאת מדכאים · | רעבים גם צמאים · | תהגו אך נכאים ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "בכי ואנחה כקול יונה · | שאו מספד וקנה · | ואבל כבנות יענה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "יליל נהי והי השמיעו · | אל נאות יעקב תזעקו והריעו · | כי נצו גם נעו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "שורש פרי מוקש אשמתינו · | חלל מעון צבי חמדתנו · | בית קדשנו ותפארתנו ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "לפאת ארץ זרה · | השליכנו לגבול עברה · | ארץ לא מטוהרה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "מאוס שמנו לכל עובר · | פחד ופחת על כל שבר · | היה לנו השאת והשבר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "חן מצאנו רוע מעללינו · | הואל רב מחול לנו · | ואתה צדיק על כל הבא עלינו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 6,
+   "span": "בטחו[?]"
+  },
+  {
+   "line": 7,
+   "span": "[?]"
+  },
+  {
+   "line": 11,
+   "span": "אסכולות[?]"
+  },
+  {
+   "line": 15,
+   "span": "השבות[?]"
+  },
+  {
+   "line": 22,
+   "span": "טואב[?]"
+  },
+  {
+   "line": 24,
+   "span": "בהר[?]"
+  },
+  {
+   "line": 27,
+   "span": "מדין[?]"
+  }
+ ],
+ "sha256_text": "d1cbf67e58707fcf11d0f288b4bf835620db7526ec9ae88a189ff12a4cb48122",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.1009,
+   "bag_WER": 0.1751,
+   "ref_chars": 1952
+  }
+ },
+ "text_file": "../text/fol60a_spread62_left.txt"
+}

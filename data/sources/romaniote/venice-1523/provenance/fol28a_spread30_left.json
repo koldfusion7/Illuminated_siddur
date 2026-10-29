@@ -1,0 +1,240 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 30,
+ "side": "left",
+ "folio": "28a",
+ "printed_folio_number": "כח",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של שבת כח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "להם ילקטון תפתח ידך ישבעון טוב : תסתיר פניך יבהלון תוסף רוחם יגועון ואל עפרם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "ישובון : תשלח רוחך יבראון ותחדש פני אדמה : יהי כבוד יהוה לעולם ישמח יהוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "במעשיו : המביט לארץ ותרעד יגע בהרים ויעשנו : אשירה ליהוה בחיי אזמרה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "לאלהי בעודי : יערב עליו שיחי אנכי אשמח ביהוה : יתמו חטאים מן הארץ ורשעים עוד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "אינם ברכי נפשי את יהוה הללויה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "לדוד אודך בכל לבי נגד אלהים אזמרך : אשתחוה אל היכל קדשך ואודה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "את שמך על חסדך ועל אמתך כי הגדלת על כל שמך אמרתך : ביום",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "קראתי ותענני תרהבני בנפשי עז : יודוך יהוה כל מלכי ארץ כי שמעו אמרי פיך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "וישירו בדרכי יהוה כי גדול כבוד יהוה : כי רם יהוה ושפל יראה וגבה ממרחק יידע :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "אם אלך בקרב צרה תחיני על אף איבי תשלח ידך ותושיעני ימינך : יהוה יגמר בעדי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "יהוה חסדך לעולם מעשי ידיך אל תרף :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "למנצח לדוד מזמור יהוה חקרתני ותדע : אתה ידעת שבתי וקומי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "בנתה לרעי מרחוק : ארחי ורבעי זרית וכל דרכי הסכנתה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "כי אין מלה בלשוני הן יהוה ידעת כלה : אחור וקדם צרתני ותשת עלי כפכה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "פליאה דעת ממני נשגבה לא אוכל לה : אנה אלך מרוחך ואנה מפניך אברח : אם אסק",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "שמים שם אתה ואציעה שאול הנך : אשא כנפי שחר אשכנה באחרית ים : גם שם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "ידך תנחני ותאחזני ימינך : ואמר אך חשך ישופני ולילה אור בעדני : גם חשך לא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "יחשיך ממך ולילה כיום יאיר כחשכה כאורה : כי אתה קנית כליתי תסכני בבטן אמי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "אודך על כי נוראות נפליתי נפלאים מעשיך ונפשי ידעת מאד : לא נכחד עצמי ממך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "אשר עשיתי בסתר רקמתי בתחתיות ארץ : גלמי ראו עיניך ועל ספרך כלם יכתבו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "ימים יצרו ולא אחד בהם : ולי מה יקרו רעיך אל מה עצמו ראשיהם : אספרם מחול",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "ירבון הקיצתי ועודי עמך : אם תקטל אלוה רשע ואנשי דמים סורו מני : אשר ימרוך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "למזמה נשוא לשוא עריך : הלא משנאיך יהוה אשנא ובתקוממך אתקוטט :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "תכלית שנאה שנאתים לאיבים היו לי : חקרני אל ודע לבבי בחנני ודע שרעפי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "וראה אם דרך עצב בי ונחני בדרך עולם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "למנצח מזמור לדוד : חלצני יהוה מאדם רע מאיש חמסים תנצרני :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "אשר חשבו רעות בלב כל יום יגורו מלחמות : שננו לשונם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "כמו נחש חמת עכשוב תחת שפתימו סלה : שמרני יהוה מידי רשע מאיש חמסים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "תנצרני אשר חשבו לדחות פעמי : טמנו גאים פח לי וחבלים פרשו רשת ליד מעגל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "מקשים שתו לי סלה : אמרתי ליהוה אלי אתה האזינה יהוה קול תחנוני : יהוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "אדני עז ישועתי סכתה לראשי ביום נשק : אל תתן יהוה מאויי רשע זממו אל תפק",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "ירומו סלה : ראש מסבי עמל שפתימו יכסומו : ימוטו עליהם גחלים באש יפילם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "במהמרות בל יקומו : איש לשון בל יכון בארץ איש חמס רע יצודנו למדחפות : ידעתי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "ד ד",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "bd2738ceefce81bcea3a527c6bf12f5d3e6b937d8d988e55449a9e78778cdb15",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0318,
+   "bag_WER": 0.0933,
+   "ref_chars": 2173
+  }
+ },
+ "text_file": "../text/fol28a_spread30_left.txt"
+}

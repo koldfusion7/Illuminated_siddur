@@ -1,0 +1,235 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 64,
+ "side": "right",
+ "folio": "61b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של עשרה בטבת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "ועתה | ידוה אלהינו אשר הוצאת את עמך מארץ מצרים ביד חזקה ותעש לך שם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "כיום הזה חטאנו רשענו ידוה ככל צדקותיך ישוב נא אפך וחמתך מעירך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "ירושלם מהר קדשך כי בחטאינו ובעונות אבותינו ירושלם ועמך לחרפה לכל סביבותינו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ועתה שמע אלהינו אל תפלת עבדך ואל תחנוניו והאר פניך על מקדשך השמם למען ידוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "הטה אלהי אזנך ושמע פקח עיניך וראה שוממתינו והעיר אשר נקרא שמך עליה כי לא על",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "צדקותינו אנחנו מפילים תחנונינו לפניך כי על רחמיך הרבים ידוה שמעה ידוה סלחה ידוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "הקשיבה ועשה אל תאחר למענך אלהי כי שמך נקרא על עירך ועל עמך ׃ אל מלך יושב על",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "כסא רחמים מתנהג בחסידות ומוחל עונות עמו מעביר ראשון ראשון מרבה מחילה לחטאים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "וסליחה לפושעים עושה צדקה עם כל בשר ורוח כרעתינו אל תגמול עלינו אל הוריתנו לומר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "שלש עשרה זכור לנו היום ברית שלש עשרה כמו שהודעת לענו מקדם וכן כתוב בתורתך וירד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "ידוה בענן ויתיצב עמו שם ויקרא בשם ידוה ׃",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "ויעבור | ידוה על פניו ויקרא ידוה ידוה אל רחום וחנון ארך אפים ורב חסד ואמת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "נוצר חסד לאלפים נושא עון ופשע וחטאה ונקה ˙ וסלחת לעוננו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "ולחטאתינו ונחלתנו אבינו מלכנו חננו ועננו כי אין בנו מעשים עשה עמנו צדקה למען שמך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "רחם נא קהל עדת ישורון סלח ומחול לעוננו והושיענו אלהי ישענו ׃",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "אלהינו | ואלהי אבותינו תבא לפניך תפלתינו ואל תתעלם מתחנתנו כי רבו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "משובותינו מלמנות וחטאתינו עצמו מספר ואין אנו עזי פנים וקשה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "עורף בדבר הזה שנאמר לפניך מלכנו צורנו צדיקים אנחנו ולא חטאנו ׃",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "ויש נוהגין לומר מה כדבר וכתוב בשחרית ׃",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "אבל | חטאנו ˙ אשמנו ˙ בגדנו ˙ גזלנו ˙ דברנו דופי ˙ העוינו והרשענו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "זדנו ˙ חמסנו ˙ טפלנו שקר ˙ יעצנו רע ˙ כזבנו ˙ לצנו ˙ מרדנו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "נאצנו ˙ סררנו ˙ עוינו ˙ פשענו ˙ צררנו ˙ קשינו עורף ˙ רשענו ˙ שחתנו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "תעינו ˙ תעבנו ˙ תעתענו ˙ וסרנו ממצותיך וממשפטיך הטובים והישרים ולא שוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "לנו ׃ ואתה צדיק על כל הבא עלינו כי אמת עשית ואנחנו הרשענו ˙ אל רחום שמך אל חנון",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "שמך אל ארך אפים שמך בנו נקרא שמך ידוה עשה למען שמך על עירך ועל עמך כרוב רחמיך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "הרבים וחסדיך הנאמנים רחמנא רחם עלינו והושיענו למען שמך האל הגדול הגבור והנורא ׃",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "זכור | ברית אברהם ועקידת יצחק ושוב ברחמים על שארית ישראל והושיענו למען",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "שמך ׃ זכור ברית אברהם ועקידת יצחק והשב שבות אהלי יעקב והושיענו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "למען שמך ˙ ידוה אלהי ישראל שוב מחרון אפך והנחם על הרעה לעמך ׃ ידוה הושיעה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "המלך יעננו ביום קראנו ׃ ואומר קדיש ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "ונותנין צדקה לעניים שאמ' חכמים אגרא דתעניתא צדקתא ˙ בחמשה עשר בשבט הוא ר\"ה לנטיעות ואין אומ'",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "בו וידוי ואין נופלים על פניהם ונשאל ריב\"א אם גזרו תענית בה\"ב ונפל ט\"ו בשבט באחד מהם אם יכולין להתענות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "והשיב",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "2d87f2e4c53faa8516c41ef07c05d520fe002b190ad5849b947115c8971ab8e2",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.1104,
+   "wer": 0.2068,
+   "ref_chars": 2228,
+   "scope": "facing-page overlap segments removed from raw"
+  }
+ },
+ "text_file": "../text/fol61b_spread64_right.txt"
+}

@@ -1,0 +1,227 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 59,
+ "side": "left",
+ "folio": "57a",
+ "printed_folio_number": "נז",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של עשרה בטבת | נז",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "טרוף טורף בו הנותן אמרי שפר ˙ | הוא עזרא הסופר :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "יום עשירי בו צוה בן בוזי החוזה ˙ | כתב לך את שם היום הזה בספר המחזה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "להיות לזכרון לעם נמס ונבזה ˙ | ואת עצם היום הזה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "מנין סדר חדשים בחמשה בו אעיר ˙ | נהי ויליל במו פי אבעיר ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "סדר פורענות כאש בתוך לבי יבעיר ˙ | בבא אלי הפליט לאמר הוכתה העיר :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "על כל אלה על פני אבק זריתי ˙ | ועל אלה הצרות קבר לי כריתי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "פציתי לכלי ארבעתן לו חץ בלבי יריתי ˙ | צדיק הוא ידוה כי פיהו מריתי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "קראתי שמך צור מנחם עלי רעתי ˙ | ראה עניי ושמע קול פגעתי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "שמע תחנתי חיש נא ישועתי ˙ | אל תעלם אזנך לרוחתי ולשועתי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "ירח שבט מאד לקיתי בו ˙ | ונשתנו עלי סדרי שמו ונתיבו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "סרדתי פשעתי גלה לי סדרי טובו ˙ | האומר לים עד פה תבא : אל מלך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "סליחה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "אזכור | ואאנח ואאנה במתמור ˙ | בדברי נהי תמורת כל מזמור ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "גם בזכרי נביא על הר הטור ˙ | ויהי דבר ידוה אלי לאמר ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "דורשי חקירות הלילו הה ליום ˙ | הקשה הנפלא מהיות בו פדיום ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "והוא יום קרא נורא ואיום ˙ | כתב לך את שם היום :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "עם יסובבני דם וחלב מרזה ˙ | חול אחול לחזון בן בוזי החוזה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "שף שדי בקראו כתב נא במחזה ˙ | את עצם היום הזה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "יללתי אגדיל כיללת אגלים ˙ | כי ממספד הדדרימון נכפלה כפלים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "לעת חשופי שולים השליכו נעלים ˙ | יום סמך מלך בבל ידו על ירושלם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "מיום זה והלאה המוני נשל ˙ | נכאב נדאב נחלש ונחשל ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "סוב לך חוזה וקרא לעם הנכשל ˙ | ומשול אל בית המרי משל ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "עד פה לא חזיתם אשפתות ˙ | פחדי ביעותה בוקר וערב ונשפות ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "ציר קרא לאמר שפות עלי חזפות ˙ | כה אמר ידוה שפות הסיר שפות :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "קראו שם המחכים היו מומים ˙ | שבתה אנחה ולא תקום צרה פעמים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "תשפות הסיר השמעתיך משמים ˙ | וגם יצוק בו מים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "יצוק בו מים לנתץ רתח ˙ | וסוב השלך בו מבחר כל נתח ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "פשעתי רשעתי לשוב אמתח ˙ | אבא כעני שואל על פתח : אל מלך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "יש אומרים אלה הסליחות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "אתא | צרי וסמך על עורי ˙ | במזי רעב וקטב מרירי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "גם שן בהמות שלח בבשרי ˙ | בטבת בעשירי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "ח א",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "13da3d0a8cb87c07e4d00c2195188cfeefe967d6d09e8ff837c20417ed3b649a",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.1046,
+   "wer": 0.2918
+  }
+ },
+ "text_file": "../text/fol57a_spread59_left.txt"
+}

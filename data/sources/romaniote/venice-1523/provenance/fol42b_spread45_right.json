@@ -1,0 +1,241 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 45,
+ "side": "right",
+ "folio": "42b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של ראש חדש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "מן המצר קראתי יה ענני במרחב יה : ידוה לי לא אירא מה יעשה לי אדם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "ידוה לי בעוזרי ואני אראה בשונאי : טוב לחסות בידוה מבטוח באדם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "טוב לחסות ביהוה מבטוח בנדיבים : כל גוים סבבוני בשם ידוה כי אמילם : סבוני",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "גם סבבוני בשם ידוה כי אמילם : סבוני כדבורים דועכו כאש קוצים בשם ידוה כי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "אמילם : דחה דחיתני לנפול וידוה עזרני : עזי וזמרת יה ויהי לי לישועה : קול רנה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "וישועה באהלי צדיקים ימין ידוה עושה חיל : ימין ידוה רוממה ימין ידוה עושה חיל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "לא אמות כי אחיה ואספר מעשה יה : יסור יסרני יה ולמות לא נתנני : פתחו לי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "שערי צדק אבא בם אודה יה : זה השער ליהוה צדיקים יבאו בו : אודך כי עניתני",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "ותהי לי לישועה : אבן מאסו הבונים היתה לראש פנה : מאת ידוה היתה זאת היא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "נפלאת בעינינו : זה היום עשה ידוה נגילה ונשמחה בו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "אנא ידוה הושיעה נא אנא ידוה הצליחה נא : ברוך הבא בשם ידוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "ברכנוכם מבית ידוה : אל ידוה ויאר לנו אסרו חג בעבותים עד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "קרנות המזבח : אלי אתה ואודך אלהי ארוממך : הודו ליהוה כי טוב כי לעולם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "חסדו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "יהללוך מעשיך ישבחוך עמוסיך יודוך חוסיך בפי גודל נסיך : וכתוב כל הנשמה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "תהלל יה הללויה · ברוך אתה ידוה מלך מהלל בתושבחות :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "ואומר יהי שם ה' וקדיש תתקבל ואין נופלין על פניהם ואין מתענין בו ולא מספידין וקורין ד' בתורה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "בפרשת פנחס מצו את בני ישראל עד ונסכו כהן קורא עד עולה תמיד לוי מדלג וחוזר ואמרת להם מפני",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "שאין בו אלא שמנה פסוקים עד רביעית ההין וג' קורא עד ונסכה וד' מתחיל ובראשי חדשיכם עד ונסכו ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "ויש מקומות שמדלגין וביום השבת ואינו נכון וכן כתב המנהיג :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "וידבר ידוה אל משה לאמר : צו את בני ישראל ואמרת אליהם את קרבני",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "לחמי לאשי ריח ניחחי תשמרו להקריב לי במועדו : ואמרת להם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "זה האשה אשר תקריבו ליהוה כבשים בני שנה תמימם שנים ליום עלה תמיד :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "את הכבש אחד תעשה בבקר ואת הכבש השני תעשה בין הערבים : ועשירית האיפה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "סלת למנחה בלולה בשמן כתית רביעת ההין : עלת תמיד העשיה בהר סיני לריח ניחח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "אשה לידוה : ונסכו רביעית ההין לכבש האחד בקדש הסך נסך שכר לידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "ואת הכבש השני תעשה בין הערבים כמנחת הבקר וכנסכו תעשה אשה ריח ניחח לידוה [?] :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 29,
+   "text": "וביום השבת שני כבשים בני שנה תמימים ושני עשרנים סלת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "מנחה בלולה בשמן ונסכו : עלת שבת בשבתו על עלת התמיד ונסכה : ובראשי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "חדשיכם תקריבו עלה לידוה פרים בני בקר שנים ואיל אחד כבשים בני שנה שבעה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "תמימם : ושלשה עשרנים סלת מנחה בלולה בשמן לפר האחד ושני עשרנים סלת מנחה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "בלולה בשמן לאיל האחד : ועשרון עשרון סלת מנחה בלולה בשמן לכבש האחד עלה ריח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "ניחח",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 28,
+   "span": "[?]"
+  }
+ ],
+ "sha256_text": "9e1c449a821d019b58feb0bc74bcddfbcacfe31ac14f0e4d581580b18d56b3bd",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0678,
+   "bag_WER": 0.1932,
+   "ref_chars": 2153
+  }
+ },
+ "text_file": "../text/fol42b_spread45_right.txt"
+}

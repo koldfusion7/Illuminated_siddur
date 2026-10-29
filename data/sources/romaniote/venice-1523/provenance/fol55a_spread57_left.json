@@ -1,0 +1,121 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 57,
+ "side": "left",
+ "folio": "55a",
+ "printed_folio_number": "נה",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של עשרה בטבת | נה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "עשה את עשר המכנות מוצק אחד מדה אחת קצב אחד לכלהנה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "ויעש עשרה כיורות נחשת ארבעים בת יכיל הכיור האחד ארבע באמה הכיור",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "האחד כיור אחד על המכונה האחת לעשר המכנות : ויתן את המכנות חמש על כתף",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "הבית מימין וחמש על כתף הבית משמאלו ואת הים נתן מכתף הבית הימנית קדמה ממול",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "נגב : ויעש חירום את הכירות ואת היעים ואת המזרקות ויכל חירם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "לעשות את כל המלאכה אשר עשה למלך שלמה בית ידוה : עמדים שנים וגלות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "הכתרת אשר על ראש העמודים שתים והשבכות שתים לכסות את שתי גלות הכתרת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "אשר על ראש העמודים : ואת הרמנים ארבע מאות לשתי השבכות שני טורים רמנים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "לשבכה האחת לכסות את שתי גלת הכתרת אשר על פני העמודים : ואת המכנות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "עשר ואת הכיורות עשרה על המכנות : ואת הים האחד ואת הבקר שנים עשר תחת הים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "ואת הסירות ואת היעים ואת המזרקות ואת כל הכלים האלה אשר עשה חירם למלך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "שלמה בית ידוה נחשת ממרט : בככר הירדן יצקם המלך במעבה האדמה בין סכות ובין",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "צרתן : וינח שלמה את כל הכלים מרב מאד מאד לא נחקר משקל הנחשת :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "סדר עשרה בטבת",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "c9b450e1e6a251ff89c4ba30f4c4d998bf84b7531b595bdc1ee8ce071b099c69",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0301,
+   "bag_WER": 0.0894,
+   "ref_chars": 897
+  }
+ },
+ "text_file": "../text/fol55a_spread57_left.txt",
+ "proofing_note": "The supplied corrected page text excludes a separate unproofed Rashi-type rubric; that rubric is not included here or in the supplied error rates."
+}

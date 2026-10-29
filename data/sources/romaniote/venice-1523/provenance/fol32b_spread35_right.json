@@ -1,0 +1,269 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 35,
+ "side": "right",
+ "folio": "32b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של שבת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "מודים אנחנו לך שאתה הוא יהוה אלהינו ואלהי אבותינו על חיינו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "המסורים בידך ועל נשמותינו הפקודות לך הטוב כי לא כלו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "רחמיך המרחם וכי לא תמו חסדיך כי מעולם רבות קוינוך לא הכלמתנו יהוה אלהינו ולא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "עזבתנו ולא הסתרת פניך ממנו : ועל כלם יתרומם ויתברך וישתבח שמך מלכנו לעולם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "ועד וכל החיים יודוך סלה ויהללו ויברכו ויורו לשמך הטוב באמת חי העולמים ונודה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "לך ברוך אתה יהוה הטוב שמך ולך נאה להודות :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "שים שלום טובה וברכה חיים חן וחסד וריוח ורחמים עלינו ועל כל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "ישראל עמך ברכנו אבינו כולנו יחד באור פניך כי באור",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "פניך נתת לנו יי אלהינו תורת חיים אהבה חן וחסד צדקה ברכה ישועה רחמים רבים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "ושלום וטוב יהיה בעיניך לברך את כל עמך ישראל תמיד בשלומך ברוך אתה יהוה המברך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "את עמו ישראל בשלום אמן : יהי שם[?] יי מבורך כו' יי אדונינו[?] מה אדיר וכו' ואומר קדיש",
+   "confidence": "low",
+   "uncertain_spans": [
+    "שם[?]",
+    "אדונינו[?]"
+   ]
+  },
+  {
+   "n": 13,
+   "text": "ותתקבל ומוציאין[?] ספר תורה ואומר החזן · והיה יהוה למלך על כל הארץ ביום ההוא",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ומוציאין[?]"
+   ]
+  },
+  {
+   "n": 14,
+   "text": "יהיה יהוה אחד ושמו אחד : כי גדול אתה ועושה נפלאות אתה אלהים לבדך : ועונים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "שמע ישראל יהוה אלהינו יהוה אחד : ועונים אחד אלהינו גדול אדוננו קדוש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "ונורא שמו : ועונים אחד אלהינו רחום מלכנו קדוש ונורא שמו לעולם ועד :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "אב הרחמים הטיבה כרצונך את ציון תבנה חומות ירושלם כי בך לבד בטחנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "מלך על כל העולמים : ועתה קומה יהוה אלהים למנוחתך אתה וארון",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "עוזך כהניך ילבשו צדק וחסידיך ירננו בעבור דוד עבדך אל תשב פני משיחך : הבו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "הבו גודל לאלהינו ותנו כבוד לתורה כי מציון תצא תורה ודבר יהוה מירושלם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "יהוה שמך לעולם יהוה זכרך לדור ודור : יהוה חפץ למען צדקו יגדיל תורה ויאדיר :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "גדלו ליהוה אתי ונרוממה שמו יחדו : רוממו יהוה אלהינו והשתחוו להדום רגליו קדוש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "הוא · יהוה מלך יהוה מלך יהוה ימלוך לעולם ועד : יהוה צבאות עמנו משגב לנו אלהי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "יעקב סלה : ואמר ביום ההוא הנה אלהינו זה קוינו לו ויושיענו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "זה יהוה קוינו לו נגילה ונשמחה בישועתו : אנא יהוה הושיעה נא אנא יהוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "הצליחה נא : אנא יהוה עננו ביום קראנו : אלהי האלהים הושיעה נא בוחן לבבות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "הצליחה נא : גואל ומושיע עננו ביום קראנו : דובר[?] צדקות[?] הושיעה נא : חנון",
+   "confidence": "low",
+   "uncertain_spans": [
+    "דובר[?]",
+    "צדקות[?]"
+   ]
+  },
+  {
+   "n": 28,
+   "text": "ורחום הצליחה נא : טוב לקויך עננו ביום קראנו : וצדקתך אלהים עד מרום אשר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "עשית גדולות אלהים מי כמוך : מי כמוך באלים יהוה ומי כמוך נאדר בקדש נורא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "תהלות עושה פלא הושיענו למען שמך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "מי כמוך אומר ומקים · ומי כמוך בחיר בשחקים ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "ומי כמוך גדלך בפי יונקים · הושיענו למען שמך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "מי כמוך דר בערבות · ומי כמוך הדור באלפי רבבות ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "ומי כמוך ושומר ברית אבות : הושיענו למען שמך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "מי",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 12,
+   "span": "שם[?]"
+  },
+  {
+   "line": 12,
+   "span": "אדונינו[?]"
+  },
+  {
+   "line": 13,
+   "span": "ומוציאין[?]"
+  },
+  {
+   "line": 27,
+   "span": "דובר[?]"
+  },
+  {
+   "line": 27,
+   "span": "צדקות[?]"
+  }
+ ],
+ "sha256_text": "dd04d4e985512d7ede39802d39fe151dce749439a944d7198da9d1adc3e6095d",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0737,
+   "wer": 0.1882,
+   "ref_chars": 2144
+  }
+ },
+ "text_file": "../text/fol32b_spread35_right.txt"
+}

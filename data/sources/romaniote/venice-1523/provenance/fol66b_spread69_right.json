@@ -1,0 +1,258 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 69,
+ "side": "right",
+ "folio": "66b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של ערבים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "למקדש היו שולחים השקלים מכל מדינה · | ומחליפים בזהב לבל ירב המשא כטעינה ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "ומשימים בלשכה וסוגרים דלתותיה באמונה · | כי כל לבבות דורש ידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "טעם נאה הורו חכמי תושיה · | ממלאים שלש קופות גדולות ראשונה ושניה ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "כל אחת להכיל תשע סאין גם השלישיה · | לעבודת בית ידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "ירימו תרומת השקלים בשנה שלש פעמים · בראש ניסן ובראש תשרי וקודם עצרת את הלשכה ח[?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ח[?]"
+   ]
+  },
+  {
+   "n": 7,
+   "text": "אחד לפנים והשומרים בחוץ ואומר אתרום והם משלשים ונואמים · | תרימו תרומת ידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "נעשו שלש קופות קטנות כל אחת תשע סאים · | ומן השלש הגדולות את הקטנות ממלאים ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "ומסתפק מהם עד שיכלו ולחוץ מוציאים · | ליושבים לפני ידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "עד שלא הגיע ניסן תורמים משירי הלשכה · | ובהגיעו תורמים מתרומה חדשה למלאכה ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "להיות בשנה האחרת שמורה וערוכה · | והיה סחרה ואתננה קדש לידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "חרט על הקטנות אבג לסימן · | יתחיל מן הראשונה עד שתכלה לאות נאמן ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "אחריכן מן השניה ואחר מן השלישית ולכל זמן · | והיה לאות ולעד לידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "מתרומת הלשכה לוקחים וקונים · | תמידין ומוספין וכל הקרבנים ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "והמלח והעצים והקטורת ולחם הפנים · | לעמוד לשרת בשם ידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "העומר ושתי הלחם ופרה אדומה · | ושעיר המשתלח ובגדי כהונה באים לתרומה ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "ומקוה המים שבירושלם והמגדלים והחומה · | ומזבח הנחשת אשר לפני ידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "בהיות בית מקדשנו לשם ולתהלה · | היינו מתבצרים[?] בשקלים ובקרבן ועולה ·",
+   "confidence": "low",
+   "uncertain_spans": [
+    "מתבצרים[?]"
+   ]
+  },
+  {
+   "n": 19,
+   "text": "ובעונות אבותינו חרב ואין לנו רק צדקה ותפלה · | לחלות[?] את פני ידוה :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "לחלות[?]"
+   ]
+  },
+  {
+   "n": 20,
+   "text": "אנא ברוב חסדיך תעורר רחמיך · | והוצא ידידיך ממאסר והשב שבות עמך ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "ויראו גודל מעשיך ויהללו שמך · | ויאמרו תמיד יגדל ידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "קדוש זכר נא בית מקדשך · | ובנהו והעלה ותטע בו עם קדושיך ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "לחזות בנועמך ולבקר בהיכל קדשך · | מי כמוך באלים ידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "מי כמוך לרבי אברהם בן עזרא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "מי כמוך באלים ידוה מי כמוך נאדר בקדש :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "מי כמוך אופני מעוני · | סומכים על פני · | השתחוו לידוה · | בהדרת קדש ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "מי כמוך בשם צבאיו קורא · | כי בשתים עשרה · | מעלות הם שומרי · | משמרת הקדש :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "מי כמוך רצים במעגליהם · | בלי יקרב אליהם · | נכרים עליהם · | עבודת הקדש :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "מי כמוך הא גלגל ינחם · | פתח עליו חי · | עולם פתוחי · | חותם קדש :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "מי כמוך מי יתן חבלי · | תמיד יראת לי · | הליכות אלי · | מלכי בקדש :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "שירה חדשה כו' ומתפללין תפלה ומוציאין ב' ספרים בא' קורין ענין[?] היום ובב' קורא המשלים[?] בפרשת כי תשא עד",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ענין[?]",
+    "המשלים[?]"
+   ]
+  },
+  {
+   "n": 32,
+   "text": "ועשית כיור והמפטיר חוזר וקורא ג' פסוקים מכי תשא ומפטיר בשקלים ביחזקאל ואם חל ר\"ח בשבת זו מוציאין",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "שלשה",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 6,
+   "span": "ח[?]"
+  },
+  {
+   "line": 18,
+   "span": "מתבצרים[?]"
+  },
+  {
+   "line": 19,
+   "span": "לחלות[?]"
+  },
+  {
+   "line": 31,
+   "span": "ענין[?]"
+  },
+  {
+   "line": 31,
+   "span": "המשלים[?]"
+  }
+ ],
+ "sha256_text": "d04a12505bfb96ea1712b161266d1bc77d5046879f08988972956cb9f33a5d4f",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0783,
+   "bag_WER": 0.1671,
+   "ref_chars": 2018
+  }
+ },
+ "text_file": "../text/fol66b_spread69_right.txt"
+}

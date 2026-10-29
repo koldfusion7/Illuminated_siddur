@@ -1,0 +1,235 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 47,
+ "side": "left",
+ "folio": "45a",
+ "printed_folio_number": "מה",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של ראש חדש | מה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "ואיכה תרבה לפני נאומים ˙ ואני שלושת ימים ממך קדומים ˙ כביר מאביך ימים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "שמני אלהים להעיד ולהחתים ˙ ויגלה סודי ואורי לא החתים ˙ לחכמים יודעי העיתים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "עיתים ותקופות בי וזמנים ˙ וסהר וחמה עלי נכונים ˙ לאותות ולימים ושנים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ויען | השבת ויאמר לחדש : פאר חבשו לי ילדי עתק",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "ולשלוש הרתיקוני רתק ˙ והחוט המשולש לא במהרה ינתק :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "בזכותי נוצל אדם הראשון מדבת ˙ בפותחו פיו ואמר בחבת ˙ מזמור שיר ליום השבת :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "ראת טרף ספק לילדי איום ˙ ובי נחו ומצאו פדיום ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "והיה משנה על אשר ילקטו יום יום : | שמחה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "ויען | החדש ויאמר לשבת : ידידים בצאתם ממצרים נפושים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "עלי הוזהרו אנשים ונשים ˙ החדש הזה לכם ראש חדשים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "עלי מברכים ילדי מוסר ˙ ומתחלת בריתי סודי להם נמסר ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "והיה לכם למשמרת עד ארבעה עשר :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "קדוש הקדימני ושמני לראש שורה ˙ וצדיק הראשון בי מצא עזרה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "חדש ושבת קרא מקרא : | עתים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "ויען | השבת ויאמר לחדש : בשלשה עולמות אלהים ברכני ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "לתורה ולמועדים ולמקראי קדש הקדימני ˙ זובח תודה יכבדנני[?] :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "יכבדנני[?]"
+   ]
+  },
+  {
+   "n": 18,
+   "text": "זכור נא פן תהי שוכח ˙ שער סגור ואלהים עלי שמח ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "וביום השבת יפתח :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "קנינים נעשו שותפים לבוראם ˙ בכבודו ובצל ידו החביאם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "ויכלו השמים והארץ וכל צבאם : | שמחה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "ויען | החדש ויאמר לשבת : לעתיד יברא אלהים לאום נטושה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "אשר היא בפח צורר יקושה ˙ שמים חדשים וארץ חדשה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "עדריו יקבץ לבית תפארתו ˙ ושמה יחוו הודו וממשלתו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "מדי חדש בחדשו ומדי שבת בשבתו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "ירונו וישמחו ויפרחו בלי כחד ˙ בשוב שבותם ויכונו יחד ˙ טובים השנים מן האחד :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "מה מתקו אמרי פי והגיוני ˙ בהתיצבי היום נגד המוני עד הנה עזרנו ידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "הכל יודוך והכל ישבחוך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "ויש אומרים אותו בשבת דחדש ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "אופן | לאל נערץ בסוד קדושים ˙ מעריצים ומקדישים : | לאל'",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "מלאכים מבורכים ˙ חבובי אש מקדשים ˙ ואראלים וחשמלים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "באור נוגה מלבשים ˙ וישראל עדת האל ˙ בשבתות ובחדשים : | לאל'",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "מיכאל וגבריאל ˙ וצורי אש בוערה ˙ והטפסר והנורא ˙ סנדלפון שמו נקרא ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 17,
+   "span": "יכבדנני[?]"
+  }
+ ],
+ "sha256_text": "2988972a87f45603d938ef88ac22462606da96b8abae312d9a0cc5aa0eb3ee05",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0791,
+   "bag_WER": 0.1331,
+   "ref_chars": 1630
+  }
+ },
+ "text_file": "../text/fol45a_spread47_left.txt"
+}

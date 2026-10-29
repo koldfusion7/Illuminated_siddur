@@ -1,0 +1,307 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 23,
+ "side": "left",
+ "folio": "21a",
+ "printed_folio_number": "כא",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות החול כא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "ויתעלה ויתהלל שמיה דקודשא בריך הוא : לעילא ולעילא מן כל ברכתא שירתא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "שבחתא ונחמתא דאמירן בעלמא ואמרו אמן :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "אדני שפתי תפתח ופי יגיד תהלתך · ברוך אתה יהוה אלהינו ואלהי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "אבותינו אלהי אברהם אלהי יצחק ואלהי יעקב האל הגדול",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "הגבור והנורא אל עליון גומל חסדים טובים וקונה את הכל וזוכר חסדי אבות ומביא גואל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "לבני בניהם למען שמו באהבה מלך רחמן אל חי גואל עוזר ומושיע ומגן ברוך אתה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "יהוה מגן אברהם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "אתה גבור לעולם יהוה מחיה מתים אתה רב להושיע מוריד הטל ובחורף",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "משיב הרוח ומוריד הגשם מכלכל חיים בחסד מחיה מתים ברחמים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "רבים סומך נופלים רופא חולים מתיר אסורים משען לאביונים ומקיים אמונתו לישני עפר מי כמוכה אדון הגבורות ומי דומה לך מלך ממית ומחיה ומצמיח לנו ישועה בקרוב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "ונאמן אתה להחיות מתים ברוך אתה יהוה מחיה המתים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "לדור ודור נגיד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "גדלך ולנצח נצחים קדושתך נקדיש ושבחך יהוה אלהינו מפינו לא ימוש לעולם ועד כי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "אל מלך גדול וקדוש אתה ברוך אתה יהוה האל הקדוש :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "אתה חונן לאדם דעת ומלמד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "לאנוש בינה וחננו מאתך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "דיעה בינה חכמה והשכל ברוך אתה יהוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "חונן הדעת :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "השיבנו אבינו לתורתך ודבקנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "במצותיך וקרבנו מלכנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "לעבודתך והשיבנו בתשובה שלימה לפניך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "ברוך אתה יהוה הרוצה בתשובה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "סלח לנו אבינו כי חטאנו מחול לנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "מלכנו כי פשענו כי אל טוב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "[SIDE COLUMN]",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "ובמוצאי שבתות וימים טובים אומר זה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "אתה הבדלת בין קדש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "לחול בין אור ל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "לחשך בין ישראל לגוים בין יום",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "השביעי לששת ימי המעשה וכשם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "שהבדלתנו יהוה אלהינו מכל גויי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "הארצות וממשפחות האדמה כן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "תבדילנו ותטהרנו מכל חטא ועון",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "ופשע ואשמה : וחננו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 36,
+   "text": "[/SIDE COLUMN]",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 37,
+   "text": "וסלח אתה ברוך אתה יהוה המרבה לסלוח :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 38,
+   "text": "ראה בענינו יהוה אלהינו וריבה ריבנו וגאלנו מהרה למען שמך כי אל מלך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 39,
+   "text": "גואל וחזק אתה ברוך אתה יהוה גואל ישראל ",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 40,
+   "text": "רפאנו יהוה ונרפא הושיענו ונושעה כי תהלתנו אתה והעלה רפואה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 41,
+   "text": "שלימה לכל מכותינו ולכל תחלואינו לחיים ולשלום כי אל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 42,
+   "text": "רופא רחמן ונאמן אתה ברוך אתה יהוה רופא חולי עמו ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 43,
+   "text": "ברך עלינו יהוה אלהינו את השנה הזאת הבאה עלינו לטובה ואת כל מיני",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 44,
+   "text": "תבואתה מס' יום אחר תקופת תשרי עד הפסח אומרים ותן טל ומטר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 45,
+   "text": "לברכה על כל פני האדמה ושבע את העולם כולו מברכות טובך ורוה את פני תכל מעושר",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "2b855d6dd7f55332ee4fd461a0ac19e63bd6e72efa543605202c8d815192e13a",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.2883,
+   "bag_WER": 0.1375,
+   "ref_chars": 1845
+  },
+  "recheck_deskew_baseline_order": {
+   "cer": 0.2087,
+   "edits": 384,
+   "ref_chars": 1840,
+   "bag_WER": 0.1236,
+   "deskew_deg": -1.4
+  }
+ },
+ "text_file": "../text/fol21a_spread23_left.txt"
+}

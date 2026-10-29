@@ -1,0 +1,253 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 67,
+ "side": "left",
+ "folio": "65a",
+ "printed_folio_number": "סה",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של ערכים | סה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "זדונות אל תחשבנו ˙ בכל קראנו הקשיבנו ˙ אלהים צבאות השיבנו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "חושה העת והשעה ˙ בכלי שיר נשתעשעה ˙ והאר פניך ונושעה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "טרפתי בעוד מצמיתי ˙ פורק אין מוסרותי ˙ אלהים צבאות עד מתי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "יקשתי מפני זעמך ˙ כליתי מחיל נועמך ˙ עשנת בתפלת עמך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "כבושים באוסר שמעה ˙ יותר מאלף קמעה ˙ האכלתם לחם דמעה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "לחוצים ביד מבליש ˙ נתתם ביד מחליש ˙ ותשקמו בדמעות שליש :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "משכן מקדש מכוננו ˙ חרב בעון זקיננו ˙ תשימנו מדון לשכננו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "נבעו מצפוני שובינו ˙ עתה לבצרון שובבנו ˙ אלהים צבאות השיבנו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "סוררים באף תשסיע ˙ לעדר מטעך תפסיע ˙ גפן ממצרים תסיע ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "עדינה גרש תגרש ˙ גפן תפקוד בכל דורש ˙ פנית לפניה ותשרש :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "פרחה ופירות הבשילה ˙ ותמלא כל מסולה ˙ כוסו הרים צלה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "צלחה לנסוך מסויים ˙ פני מלך קוים ˙ תשלח קציריה עד ים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "קפצו ופרצו סדריה ˙ כורתו התזו סמדריה ˙ למה פרצת גדריה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "רגע מעט מזער ˙ שחתה רשע נבער ˙ יכרסמנה חזיר מיער :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "שועל מחבל חשוב ˙ חבלו שקל בשיישוב ˙ אלהים צבאות שוב :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "תקיף רואה ולא נראה ˙ בחזון ולא במראה ˙ הבט משמים וראה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "וצירך חוקקי מזוזות ˙ נאלם כמנוף בבזות ˙ ופקוד גפן זאת : תם [?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 19,
+   "text": "זולת אחר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "אברכה | בצר רוחי אליך מלכי וקדושי ˙ לעבד אם נמכרתי מרוב עוני ופשעי [?] ˙",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 21,
+   "text": "יובלות כמה עברו מתי אצא חפשי ˙ אזכרה ואשפכה עלי נפשי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "קצי כמוס וחתום ואיבים מתהללים באליליהם ˙ ידי עבדיך מטים מכובד עול סובליהם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "מה תקוו באלהים מחרפים אותנו במיליהם ˙ אלה בני עשו ואלה אלופיהם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "ברית בתרים זכרת והוצאת את אבותינו מעבדותם ˙ ממצרים ומבבל ותביאם אל ארץ אחזתם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "משחת למשה בצבאותם ולעזרא בגלותם ˙ אלה קריאי העדה נשיאי מטות אבותם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "ישעך תנה לנו ימלא משאל השואל ˙ כאשר דבר בפיהו איש הנשאל לגואל ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "לא מאסתים לכלותם להפר בריתי נאם הואל ˙ אלה הדברים אשר דבר משה אל בני ישראל ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "סמוך את נפלאותינו השב לשכננו כפעלם ˙ תמוך במעגלותיך אשורנו גלה קץ הנעלם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "פגרח [?] אומרים בעדינו סר מהם צלם ˙ אלה רשעים ושלוי עולם :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 30,
+   "text": "אמן נא דברך ויהיו מצרי הגוים לאיים ˙ לפגוש ציים את איים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "נריע במצלתים אז בעלות מושיעים יאמרו מלכי הגוים ˙ אלה הם האלהים המכים את מצרים : עזרת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "מי כמוך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "ט א [?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 18,
+   "span": "[?]"
+  },
+  {
+   "line": 20,
+   "span": "[?]"
+  },
+  {
+   "line": 29,
+   "span": "[?]"
+  },
+  {
+   "line": 33,
+   "span": "[?]"
+  }
+ ],
+ "sha256_text": "a9ff8e756dc5443446f6846655369a5ac9dc55700c94ab7c4dfee9a19853754b",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0671,
+   "wer": 0.2051,
+   "ref_chars": 1669
+  }
+ },
+ "text_file": "../text/fol65a_spread67_left.txt"
+}

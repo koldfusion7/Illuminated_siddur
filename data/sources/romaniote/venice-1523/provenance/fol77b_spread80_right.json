@@ -1,0 +1,246 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 80,
+ "side": "right",
+ "folio": "77b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של צום אסתר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "אליך ידוה מושיב יחידים · | ביתה קוו עליהם יום שודדים ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "קמו ברפיון ידיהם מחסדים · | ויבא עמלק וילחם עם ישראל ברפידים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "נסוגו אחור הומים ומבקשים · | נפשי ומגדילים עלי עונשים ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ולהלחם בם צוה לקרושים[?] · | ויאמר משה אל יהושע בחר לנו אנשים :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "לקרושים[?]"
+   ]
+  },
+  {
+   "n": 6,
+   "text": "יעצו אנשים להדיחני ויטמינו מוקשי · | פחים ללוכדני צורר ונושה ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "וברגע כלוני אדונים קשה · | ויעש יהושע כאשר אמר לו משה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "יספת לגוי נכבדת אר · | ותחמול על יתר פליטת אריאל ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "יום צר גבר על עני ושואל · | והיה כאשר ירים משה ידו וגבר ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "ויהי ידיו אמונה כל עתיו · | ורגעיו ועונותיו וסרו חתחתיו ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "בעבור הוגים מאלף ועד תיו · | ויקחו אבן וישימו תחתיו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "סמך על רשעו פושע ואורב · | לעניך ונתלונן בצלך מחורב ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "ובכל יום ויום חסדך אלינו ירב · | ויחלש יהושע את עמלק ואת עמו לפי חרב :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "פנית לתפלת לובש שק ואפר · | ומשנאיו דכית ונתתם לבוש וחפר ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "ופדעתו[?] משחת כי מצא כופר · | כתוב זאת זכרון בספר :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ופדעתו[?]"
+   ]
+  },
+  {
+   "n": 16,
+   "text": "קדמוני רחמיך צורי ומחסי · | ואמשול במכמני צוררי ונוגשי ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "לחמת לוחמי ותוסף עלצי · | ויבן משה מזבח ויקרא שמו ידוה נסי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "עוררת חניתך על פגר דולק · | אחרי ויגיעו שללתי ואחלק ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "ירד ואעל ואהי לעלק · | ויאמר כי יד על כס יה מלחמה ליי בעמלק :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "חמל על עם דל שפך עתירתו · | זד יהיר הרסהו בעברתו ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "קורא ממצר אומר בשירתו · כן יאבדו כל אויביך ידוה ואוהביו כצאת השמש בגבורתו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "אל מלך : ה' הושיעה ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "תחנון",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "מזנב אז בראשית בא · | למול עמי ולצבאי ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "ונתן ראש בברותי · | ושם חומץ לצמאי ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "בעת נכשל אשר נחשל · | פלטם עב לחיל כאיל ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "ומשה נם למשרתו · | והחלישו עם קרואי ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "ידוה לי בעזרי ואני אראה בשונאי · | ה' לי בעוזרי ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "שעה צורי למול צרי · | אשר חשב להכריתו ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "לאומתי ועדתי · | בעת קצפו וחמתו ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "וכמהלך המלך · | בידו שם לטבעתו ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "ושק לבש וגם חבש · | ובאפר שם רפידתו ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "וכאור בהיר בן יאיר · | ושמע קול צעקתו ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "למול",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 5,
+   "span": "לקרושים[?]"
+  },
+  {
+   "line": 15,
+   "span": "ופדעתו[?]"
+  }
+ ],
+ "sha256_text": "5550b3cf6264c4869d22f093cec2cfa7e317eb79a507f3b969fdd8d36b77b877",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.036,
+   "wer": 0.146
+  }
+ },
+ "text_file": "../text/fol77b_spread80_right.txt"
+}

@@ -1,0 +1,266 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 22,
+ "side": "left",
+ "folio": "20a",
+ "printed_folio_number": "כ",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות החול כ",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "פותח שערים בתבונה משנה עתים מחליף את הזמנים מסדר את הככבים במשמרותיהם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "ברקיע כרצונו גולל אור מפני חשך וחשך מפני אור המעביר יום ומביא לילה המבדיל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "בין יום ובין לילה יהוה צבאות שמו ושמו אל חי וקיים תמיד הוא ימלוך עלינו לעולם ועד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ברוך אתה יהוה המעריב ערבים : אהבת עולם בית ישראל עמך אהבת תורה ומצוות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "חקים ומשפטים אותנו למדת על כן יהוה אלהינו בשכבנו ובקמנו חן בלבנו ונשיח בחקי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "רצונך ונשמח ונעלוז[?] בדברי תלמוד תורתך ובמצותיך לעולם ועד כי הם חיינו ואורך ימינו",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ונעלוז[?]"
+   ]
+  },
+  {
+   "n": 8,
+   "text": "ובהם נהגה יומם ולילה ואהבתך וחסדך אל תסר ממנו עד נצח נצחים ברוך אתה יהוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "אוהב את עמו ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "שמע ישראל יהוה אלהינו יהוה אחד : ברוך שם כבוד מלכותו לעולם ועד :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "ואהבת את יהוה אלהיך בכל לבבך ובכל נפשך ובכל מאדך : והיו הדברים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "האלה אשר אנכי מצוך היום על לבבך : ושננתם לבניך ודברת בם בשבתך בביתך ובלכתך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "בדרך ובשכבך ובקומך : וקשרתם לאות על ידיך והיו לטוטפות בין עיניך : וכתבתם על",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "מזזות ביתך ובשעריך : והיה אם שמע תשמעו אל מצותי אשר אנכי מצוה אתכם היום",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "לאהבה את יהוה אלהיכם ולעבדו בכל לבבכם ובכל נפשכם : ונתתי מטר ארצכם בעתו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "יורה ומלקוש ואספת דגנך ותירושך ויצהרך : ונתתי עשב בשדך לבהמתך ואכלת ושבעת :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "השמרו לכם פן יפתה לבבכם וסרתם ועבדתם אלהים אחרים והשתחויתם להם : וחרה אף",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "יהוה בכם ועצר את השמים ולא יהיה מטר והאדמה לא תתן את יבולה ואבדתם מהרה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "מעל הארץ הטובה אשר יהוה נותן לכם : ושמתם את דברי אלה על לבבכם ועל נפשכם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "וקשרתם אותם לאות על ידכם והיו לטוטפות בין עיניכם : ולמדתם אותם את בניכם לדבר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "בם בשבתך בביתך ובלכתך בדרך ובשכבך ובקומך : וכתבתם על מזוזות ביתך ובשעריך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "למען ירבו ימיכם וימי בניכם על האדמה אשר נשבע יהוה לאבותיכם לתת להם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "כימי השמים על הארץ : ויאמר יהוה אל משה לאמר : דבר אל בני ישראל ואמרת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "אליהם ועשו להם ציצת על כנפי בגדיהם לדורותם ונתנו על ציצת הכנף פתיל תכלת :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "והיה לכם לציצת וראיתם אותו וזכרתם את כל מצות יהוה ועשיתם אותם ולא תתורו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "אחרי לבבכם ואת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "ג דרי עיניכם אשר אתם זונים אחריהם : למען תזכרו ועשיתם את כל מצותי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "והייתם קדשים לאלהיכם : אני יהוה אלהיכם אשר הוצאתי אתכם מארץ מצרים להיות לכם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "לאלהים אני יהוה אלהיכם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "ואמונה כל זאת וקיים עלינו כי הוא יהוה אלהינו ואנחנו ישראל עמו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "אמת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "אמת הוא מלכנו ואין זולתו הפודנו מיד מלכים הגואלנו מלכנו מכף",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "כל העריצים האל הנפרע לנו מכל צרינו המשלם גמול לכל איבי נפשנו השם נפשנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "בחיים ולא נתן למוט רגלינו המדריכנו על במות אויבינו וירם קרננו על כל שנאינו האל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "העושה לנו נסים נקמה בפרעה באותות ומופתים באדמת בני חם המכה בעברתו כל בכרי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 36,
+   "text": "מצרים ויוצא עמו ישראל מתוכם לחירות עולם המעביר בניו בין גזרי ים סוף ואת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 37,
+   "text": "ג ד",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 7,
+   "span": "ונעלוז[?]"
+  }
+ ],
+ "sha256_text": "715f9c151bfb41f860f6836d1f4e651841d4f55027f68ff192eebb017b62df0d",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0516,
+   "bag_WER": 0.1019,
+   "ref_chars": 2304
+  },
+  "recheck_deskew_baseline_order": {
+   "cer": 0.0255,
+   "edits": 59,
+   "ref_chars": 2313,
+   "bag_WER": 0.0734,
+   "deskew_deg": -2.1
+  }
+ },
+ "text_file": "../text/fol20a_spread22_left.txt"
+}

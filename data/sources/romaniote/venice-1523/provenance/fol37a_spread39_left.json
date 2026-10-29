@@ -1,0 +1,228 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 39,
+ "side": "left",
+ "folio": "37a",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של שבת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "יהוה אלהינו באהבה וברצון את שבת קדשך וינוחו בו כל ישראל המקדשים את שמך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "ברוך אתה יהוה מקדש השבת : | רצה ומודים ושים שלום :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "ואחר התפלה אומר צדקתך וצדקתך צדקתך כסדר שכתוב בתילים והטעם י\"א מפני משה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "רבינו שמת בשב' מנחה ולכן אין קובעין מדרש בין מנחה לערבית משום חכם שמת כו' ויש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "מוכיחים שלא מת בשבת וזה אומ' מפני הרשעים שחוזרים לדין ולכן אם היה למחרת ר\"ח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "אין אומרי' שאינם נדונים בו שנאמר והיו דראון לכל בשר והיה מדי חדש בחדשו ומדי שבת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "כו' וכן אם היה י\"ט משום כבוד י\"ט אף על פי שבו נדונין וכן כל יום שאין בו צדוק הדין כגון",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "חנכה ופורים אין אומרי' אותו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "צדקתך כהררי אל משפטיך תהום רבה אדם ובהמה תושיע יהוה ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "וצדקתך אלהים עד מרום אשר עשית גדולות אלהים מי כ",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "כמוך · צדקתך צדק לעולם ותורתך אמת : | ואומר קדיש עם תתקבל ואחר כך אומר זה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "הללויה אודה יהוה בכל לבב בסוד ישרים ועדה : גדלים מעשי יהוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "דרושים לכל חפציהם : הוד והדר פעלו וצדקתו עמדת לעד :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "זכר עשה לנפלאתיו חנון ורחום יהוה : טרף נתן ליראיו יזכר לעולם בריתו : כח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "מעשיו הגיד לעמו לתת להם נחלת גוים : מעשי ידיו אמת ומשפט נאמנים כל פקודיו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "סמוכים לעד לעולם עשוים באמת וישר : פדות שלח לעמו צוה לעולם בריתו קדוש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "ונורא שמו : ראשית חכמה יראת יהוה שכל טוב לכל עשיהם תהלתו עמדת לעד :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "הללויה אשרי איש ירא את יהוה במצותיו חפץ מאד : גבור בארץ יהיה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "זרעו דור ישרים יברך : הון ועשר בביתו וצדקתו עמדת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "לעד : זרח בחשך אור לישרים חנון ורחום וצדיק : טוב איש חונן ומלוה יכלכל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "דבריו במשפט : כי לעולם לא ימוט לזכר עולם יהיה צדיק : משמועה רעה לא יירא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "נכון לבו בטוח ביהוה : סמוך לבו לא יירא עד אשר יראה בצריו : פזר נתן לאביונים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "צדקתו עמדת לעד קרנו תרום בכבוד : רשע יראה וכעס שניו יחרק ונמס תאות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "רשעים תאבד : וכל קרני רשעים אגדע תרוממנה קרנות צדיק : וירם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "קרן לעמו תהלה לכל חסידיו לבני ישראל עם קרובו הללויה : ברוך יהוה לעולם אמן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "ואמן ימלוך יהוה לעולם אמן ואמן :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "יש קהלות שנוהגין לומר אחר גמר תפלת המנחה הודינו לך אלהים הודינו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "למנצח אל תשחת מזמור לאסף שיר : הודינו לך אלהים הודינו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "וקרוב שמך ספרו נפלאותיך : כי אקח מועד אני מישרים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "אשפט : נמגים ארץ וכל ישביה אנכי תכנתי עמודיה סלה : אמרתי להוללים אל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "תהלו ולרשעים אל תרימו קרן : אל תרימו למרום קרנכם תדברו בצואר עתק :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "כי לא ממוצא וממערב ולא ממדבר הרים : כי אלהים שופט זה ישפיל וזה ירים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "e48fc5595cde262a84ca1b9f99693f65b43da258d4d11ca794274d339ebb649c",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0685,
+   "bag_WER": 0.2386,
+   "ref_chars": 2058
+  }
+ },
+ "text_file": "../text/fol37a_spread39_left.txt"
+}

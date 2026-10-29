@@ -1,0 +1,234 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 57,
+ "side": "right",
+ "folio": "54b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של חנוכה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "ידעת מה המה אלה ואמר לא אדני : ויען ויאמר אלי לאמר זה דבר ידוה אל זרבבל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "לאמר לא בחיל ולא בכח כי אם ברוחי אמר ידוה צבאות : מי אתה הר הגדול לפני",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "זרבבל למישור והוציא את האבן הראשה תשאות חן חן לה : ויהי דבר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ידוה אלי לאמר : ידי זרבבל יסדו ˙ הבית הזה וידיו תבצענה וידעת כי ידוה צבאות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "שלחני אליכם : כי מי בז ליום קטנות ושמחו וראו את האבן הבדיל ביד זרבבל שבעה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "אלה עיני ידוה המה משטטים בכל הארץ : ואען ואמר אליו מה שני הזתים האלה על",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "ימין המנורה ועל שמאלה : ואען שנית ואמר אליו מה שתי שבלי הזיתים אשר ביד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "שני צנתרות הזהב המריקים מעליהם הזהב : ויאמר אלי לאמר הלא ידעת מה אלה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "ואמר לא אדני : ויאמר אלה שני בני היצהר העומדים על אדון כל הארץ : ואשוב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "ואשא עיני ואראה והנה מגלה עפה : ויאמר אלי מה אתה ראה ואמר אני ראה מגלה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "עפה ארכה עשרים באמה ורחבה עשר באמה : ויאמר אלי זאת האלה היוצאת על",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "פני כל הארץ כי כל הגנב מזה כמוה נקה וכל הנשבע מזה כמוה נקה : הוצאתיה נאם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "ידוה צבאות ובאה אל בית הגנב ואל בית הנשבע בשמי לשקר ולנה בתוך ביתו וכלתו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "ואת עציו ואת אבניו : ויצא המלאך הדבר בי ויאמר אלי שא נא עיניך וראה מה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "היוצאת הזאת : ואמר מה היא ויאמר זאת האיפה היוצאת ויאמר זאת עינם בכל הארץ :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "והנה ככר עפרת נשאת וזאת אשה אחת יושבת בתוך האיפה : ויאמר זאת הרשעה וישלך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "אתה אל תוך האיפה וישלך את אבן העופרת אל פיה : ואשא עיני וארא והנה שתים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "נשים יוצאות ורוח בכנפיהם ולהנה כנפים ככנפי החסידה ותשנה את האיפה בין הארץ",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "ובין השמים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "הפטרה לשבת שניה דחנכה במלכים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "ויעש את המכנות עשר נחשת ארבע באמה ארך המכונה האחת וארבע",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "באמה רחבה ושלש באמה קומתה : וזה מעשה המכנה מסגרות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "להם ומסגרת בין השלבים : ועל המסגרות אשר בין השלבים אריות בקר וכרובים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "ועל השלבים כן ממעל ומתחת לאריות ולבקר ליות מעשה מורד : וארבעה אופני",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "נחשת למכונה האחת וסרני נחשת וארבעה פעמתיו כתפת להם מתחת לכיור הכתפות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "יצקות מעבר איש ליות : ופיהו מבית לכתרת ומעלה באמה ופיה עגל מעשה כן אמה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "וחצי האמה וגם על פיה מקלעות ומסגרתיהם מרבעות לא עגלות : וארבעת האופנים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "למתחת למסגרות וידות האופנים במכונה וקומת האופן האחד אמה וחצי האמה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "ומעשה האופנים כמעשה אופן המרכבה ידותם וגביהם וחשקיהם וחשריהם הכל מוצק :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "וארבע כתפות אל ארבע פנות המכנה האחת מן המכונה כתפיה : ובראש המכונה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "חצי האמה קומה עגל סביב ועל ראש המכנה ידתיה ומסגרתיה ממנה : ויפתח על",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "הלחת ידתיה ועל מסגרתיה כרובים אריות ותמרת כמער איש וליות סביב : כזאת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "עשה",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "4f577396e2552b2fedae493ff39e9a1a2036a109f548bc055946e179325d29bf",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0337,
+   "bag_WER": 0.1168,
+   "ref_chars": 2139
+  }
+ },
+ "text_file": "../text/fol54b_spread57_right.txt"
+}

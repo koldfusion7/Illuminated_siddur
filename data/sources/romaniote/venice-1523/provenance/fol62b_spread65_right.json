@@ -1,0 +1,242 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 65,
+ "side": "right",
+ "folio": "62b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של ערבים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "בבית נכון ונשא ˙ | ובצדק הגא ערך כי תשא ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "והחיינו בגשם אל רם ונשא ׃ | בא\"י מחיה המתים נקדישך ונעריצך עד כי אל מלך גדול וקדוש אתה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "דודי | זכור לי שקלי עפרון ˙ | אשר שקל אב במכפל חברון ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "חוקר שקלי יבוס משביתי חרון ˙ | זכרה לי לדור אחרון ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "טעם חין אשר אקרא בגרון ˙ | שעה מני אל לשוב לבצרון ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "אור פניך עלינו אדון נשא ˙ | בשקל אשא ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "בבית נכון ונשא ˙ | ובשקל הגא ערך כי תשא ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "ותוערץ ותוקדש אל רם ונשא ׃ | בא\"י האל הקדוש ˙ אתה אחד עד וינוחו בו כל זרע ישראל ומקדשים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "לי | ישא על אברת נשר ˙ | מי יגיד מליץ עלי שיח יושר ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "כופר משלו אתן לו חשר ˙ | כי מלפניו הוד וכבוד ועושר ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "להצדיק אנוש להמציא לו כושר ˙ | שת לו פדיון למצוא אושר ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "אור פניך עלינו אדון נשא ˙ | בשקל אשא ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "בבית נכון ונשא ˙ | ובצדק הגא ערך כי תשא ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "ותענגנו במנוחה אל רם ונשא ˙ | בא\"י מקדש השבת ׃ רצה ה' אלהינו עד בר חמים כמאז וכשנים קדמוניות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "בכרמי | מלון בין שני שדי ˙ | ארבע מאות ועשר הלינותי שדי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "נס בשכנם וגם יש די ˙ | ובכס והדום לו גם שדי [?] ˙",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 18,
+   "text": "סע ועף בבצע שקלי חשדי ˙ | ונשאו את רדידי מעלי שורדי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "אור פניך עלינו אדון נשא ˙ | בשקל אשא ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "בבית נכון ונשא ˙ | ובשקל הגא ערך כי תשא ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "ותרצנו בשי אל רם ונשא ˙ | ברוך אתה ה' שאותך לבדך ביראה נעבוד ׃ מודים אנחנו לך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "עין | עוצם המון שני עפרים ˙ | מי מנה ופקד בלחש ופורים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "פקדם פוקד בחמשה ספרים ˙ | וגם עוד חמש בכל הספרים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "צחות ניב שפתינו ישלם פרים ˙ | כי אפס כסף שקל כפורים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "אור פניך עלינו אדון נשא ˙ | בשקל אשא ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "בבית נכון ונשא ˙ | ובשקל הגא ערך כי תשא ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "ותשיבנו בטובך אל רם ונשא ˙ | ברוך אתה ה' הטוב שמך ולך נאה להודות ˙ שים שלום בכל רגע ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "גדי | קשור ידים ברכות לישא ˙ | כאהב עור גדיו שכינה נתעלסה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "רעה גדיותיו על אבן מעמסה ˙ | וצאנו על שכם וחוסן נעמסה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "שחוח כל מעניה באף מעמסה ˙ | תלבושת הוד עדי עדים מכוסה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "אור פניך עלינו אדון נשא ˙ | בשקל אשא ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "בבית נכון ונשא ˙ | ובצדק הגא ערך כי תשא ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "ותברכנו בשלום אל רם ונשא ׃ | ברוך אתה ה' המברך את עמו ישראל ׃ ואומר צדקתך ויקדים ׃",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "פתיחה",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 17,
+   "span": "[?]"
+  }
+ ],
+ "sha256_text": "9b9d79ae7458fcb674db100225f18cabcd952671cc7dd54c6cadd04b51833562",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.127,
+   "wer": 0.2186,
+   "ref_chars": 1708,
+   "scope": "facing-page overlap segments removed from raw"
+  }
+ },
+ "text_file": "../text/fol62b_spread65_right.txt"
+}

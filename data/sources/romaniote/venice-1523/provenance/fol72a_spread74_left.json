@@ -1,0 +1,234 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 74,
+ "side": "left",
+ "folio": "72a",
+ "printed_folio_number": "ע ב",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של ארבע ערכים ע ב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "אל נדרש בכל לב ידרשנו˙ | יכמרו רחמיו על עם יקראנו˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "ויאמר זכור אזכרנו˙ | על כן המו מעי לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "לבשה חן ביום השלישי ותלך˙ | ותיקר עוד בעיני המלך˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ויבז בעיניו בכל אשר הוא מולך˙ | ועל כל אשר יש לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "היפה בנשים נטע נעמן˙ | מה שאלתך כי הכל מזומן˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "ותאמר יבא המלך והמן˙ | אל המשתה אשר עשיתי לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "למחר קראתם לסוד נמלם˙ | ויצא המן ביום ההוא שמח ונעלס˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "והוא במלכים יתקלס˙ | ורוזנים משחק לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "ויבא אוהביו וזרש אשתו˙ | ויספר להם כבוד עשרו וממשלתו˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "וגזירה אמרה לעומתו˙ | הוי המרבה לא לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "יעצוהו אוהביו עשות עץ חמשים˙ | לתלות עליו קדש קדשים˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "ולהכינו מכל חרשים˙ | חרש חכם יבקש לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "אלהים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "עדר צאנו בקר˙ | ותדד שנת המלך עד יהי חוקר˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "בספר הזכרונות והיה בקר˙ | ויודע ידוה את אשר לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "במצאו דבר מרדכי מפורש˙ | מה נעשה יקר וגדולה דרש˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "ויאמר כי לא פורש˙ | מה יעשה לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "גלה אזן המן בדברו˙ | מה לעשות באיש אשר המלך חפץ ביקרו˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "ויען ויבקש במאמרו˙ | פי כסיל מחתה לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "דבר לעדותו בעדי מלכים˙ | וללכת לפניו אחד מהנסיכים˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "במחשביו הולך חשכים˙ | ואין נוגה לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "השיבו המלך כן דברת˙ | עשה כן למרדכי היהודי כאשר אמרת˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "כן משפטיך אתה חרצת˙ | כמשפט הזה יעשה לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "וישב מרדכי אל משמרתו˙ | והמן נדחף אל ביתו˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "ויועדו אוהביו וכל חבורתו˙ | לבא לנוד לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "זרע ישורון דברו נכוניו˙ | אם יש מרדכי אחד מבניו˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "אשר החלות לנפול לפניו˙ | לא תוכל לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "חכמיו עודם מדברים עמו˙ | וסריסי המלך הגיעו ויבהילו להקימו˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "ולא ידע כי בא יומו˙ | וידוה ישחק לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "טרם כלות משתה היין˙ | אמר המלך לאסתר יפת העין˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "מה שאלתך כי הכל נגדך כאין˙ | ותבך ותתחנן לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "ינתן לי נפשי בשאלתי˙ | ועמי ארוני המלך כבקשתי˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "כי נמכרנו לצורר להכריתי˙ | תאות לבו נתת לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "92351ecf723a85f0201c5c8d2f2efa6f4d47326b493f223666ba9c637928c05a",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.2362,
+   "bag_WER": 0.2924,
+   "ref_chars": 1435
+  }
+ },
+ "text_file": "../text/fol72a_spread74_left.txt"
+}

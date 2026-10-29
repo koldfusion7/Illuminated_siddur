@@ -1,0 +1,247 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 63,
+ "side": "right",
+ "folio": "60b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של עשרה בטבת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "מה נדבר ומה נצטדק פני כל חי לפניך לא יצדק ומה נענה לממנו מענה כי אין בפינו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "מענה גמלנו טובות ושלמנו רעות ומה יש לנו עוד צדקה ולזעוק עוד אל המלך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "ובכן נתן בעפר פינו אולי יש תקוה נתן למכנו לחי נשבע בחרפה נשכבה בבשתנו ותכסנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "כלמתנו כי לידוה אלהינו חטאנו אנחנו ואבותינו מנעורינו ועד היום הזה ולא שמענו בקול ידוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "אלהינו ותתך עלינו האלה והשבועה הכתובה בתורת משה כי חטאנו לו ואתה ידוה אלהינו אל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "תדיננו כחטאתינו ואל תשלם לנו כגמולנו ותבא לפניך תפלתינו ואל תתעלם מתחנתינו כי רבו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "משובותינו מלמנות וחטאתינו עצמו מספר ואין אנו עזי פנים וקשי ערף בדבר הזה שנאמר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "לפניך מלכנו צורנו צדיקים אנחנו ולא חטאנו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "אבל חטאנו · אשמנו · בגדנו · גזלנו · דברנו דופי · העוינו · והרשענו · זדנו ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "חמסנו · טפלנו שקר · יעצנו רע · כזבנו · לצנו · מרדנו ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "נאצנו · סררנו · עוינו · פשענו · צררנו · קשינו עורף · רשענו · שחתנו ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "תעינו · תעבנו · תעתענו · וסרנו ממצותיך הטובים והישרים ולא שוה לנו ואתה צדיק",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "על כל הבא עלינו כי אמת עשית ואנחנו הרשענו · | ודניאל איש חמודות אמר לפניך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "הטה אלהי אזנך ושמע פקח עיניך וראה שוממותינו והעיר אשר נקרא שמך עליה כי לא על",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "צדקותינו אנחנו מפילים תחנונינו לפניך : כי על רחמיך הרבים : ידוה שמעה ידוה סלחה ידוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "הקשיבה ועשה אל תאחר למענך אלהי כי שמך נקרא על עירך ועל עמך · | ועזרא הסופר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "אמר לפניך אלהי בשתי ונכלמתי להרים אלהי פני אליך כי עונותינו רבו למעלה ראש ואשמתינו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "גדלה עד לשמים : | ואתה אלוה הסליחות חנון ורחום ארך אפים ולא עזבתנו : | אל תעזבנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "אבינו · אל תטשנו בוראנו · אל תכלימנו יוצרנו · ואל תפר בריתך אתנו : וקיים לנו ידוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "אלהינו את הדבר שהבטחתנו בקבלה על ידי ירמיהו חוזך כאמור בימים ההם ובעת ההיא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "יבוקש עון ישראל ואיננו ואת חטאת יהודה ולא תמצאנה כי אסלח לאשר אשאיר : ואל יעכב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "דבר חטא ועון ועבירה את תפלתנו ושמע בקול תפלתינו כאמור כי שומע אל אביונים ידוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "ואת אסיריו לא בזה : כי לא בזה ולא שקץ ענות עני ולא הסתיר פניו ממנו ובשועו אליו שמע :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "מהר ענינו ופדנו מכל גזירות קשות והושע ברחמיך הרבים משיח צדקך לעמך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "אבינו מלכנו חוננו ועננו כי אין בנו מעשים עשה עמנו צדקה למען שמך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "ואנחנו לא נדע מה נעשה כי אליך עינינו : זכור רחמיך ידוה וחסדיך כי מעולם המה : אל תזכור",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "לנו עונות ראשונים מהר יקדמונו רחמיך כי דלונו מאד : חננו ידוה חננו כי רב שבענו בוז",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "ברוגז רחם תזכור : כי הוא ידע יצרנו זכור כי עפר אנחנו : עזרנו אלהי ישענו על דבר כבוד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "שמך והצילנו וכפר על חטאתינו למען שמך : ואומר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "למנצח מזמור לדוד : יענך ידוה ביום צרה ישגבך שם אלהי יעקב : ישלח עזרך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "מקדש ומציון יסעדך : יזכור כל מנחתיך ועולתך ידשנה סלה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "יתן לך כלבבך וכל עצתך ימלא : נרננה בישועתך ובשם אלהינו נדגל ימלא ידוה כל משאלותיך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "עתה ידעתי כי הושיע ידוה משיחו יעננו[?] משמי קדשו בגבורות ישע ימינו : | אלה ברכב ואלה",
+   "confidence": "low",
+   "uncertain_spans": [
+    "יעננו[?]"
+   ]
+  },
+  {
+   "n": 35,
+   "text": "בסוסים",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 34,
+   "span": "יעננו[?]"
+  }
+ ],
+ "sha256_text": "1928ff650bb613ef1522c897dddd2b1ae106cbe04a839c7d61be462f24bc087c",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0481,
+   "bag_WER": 0.1211,
+   "ref_chars": 2472
+  }
+ },
+ "text_file": "../text/fol60b_spread63_right.txt"
+}

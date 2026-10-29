@@ -1,0 +1,241 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 36,
+ "side": "left",
+ "folio": "34a",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של שבת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "לא יגעו לריק ולא ילדו לבהלה כי זרע ברוכי יהוה המה וצאצאיהם אתם : וכתוב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "והיה טרם יקראו ואני אענה עוד הם מדברים ואני אשמע : וכתוב והיה מספר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "בני ישראל כחול הים אשר לא ימד ולא יספר והיה במקום אשר יאמר להם לא עמי אתם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "יאמר להם בני אל חי : וכתוב והיה ביום ההוא יתקע בשופר גדול ובאו האובדים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "בארץ אשור והנדחים בארץ מצרים והשתחוו ליהוה בהר הקדש בירושלם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "והיה יהוה למלך על כל הארץ ביום ההוא יהיה יהוה אחד ושמו אחד : וכתוב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "והיה באחרית הימים נכון יהיה הר בית יהוה בראש ההרים ונשא מגבעות ונהרו אליו כל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "הגוים : וכתוב והלכו עמים רבים ואמרו לכו ונעלה אל הר יהוה אל בית אלהי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "יעקב ויורנו מדרכיו ונלכה בארחותיו כי מציון תצא תורה ודבר יהוה מירושלם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "וכתוב ושפט בין הגוים והוכיח לעמים רבים וכתתו חרבותם לאתים וחנתותיהם[?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "וחנתותיהם[?]"
+   ]
+  },
+  {
+   "n": 12,
+   "text": "למזמרות ולא ישא גוי אל גוי חרב ולא ילמדו עוד מלחמה : וכתוב בית יעקב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "לכו ונלכה באור יהוה : וכתוב והנה כבוד יהוה בא מדרך הקדים וקולו כקול",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "מים רבים והארץ האירה מכבודו · כן יאיר יהוה צבאות עלינו ועל כל עמו בית ישראל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "ואמרו אמן :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "הקול כל עמא הבו דעתכון למשמע קל קדוש ירחא הדין כמה דגזרו מרנן ורבנן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "חבורא קדישא דהוו יתבין בארעא דישראל אית לן ריש ירחא דפלוני",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "בכך וכך בשבת חושבניה ומניניה בכך בשבת מלכא דעלמא יעבדיניה לסימנא טבא לנא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "ולכל עמיה בית ישראל · ואמרו אמן :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "וחוזר הספר ואומר ובנחה יאמר כו ועומדין בתפלת מוסף ואומר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "יתגדל ויתקדש שמיה רבה בעלמא דברא כרעותיה וימליך מלכותיה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "ויצמח פורקניה ויקרב משיחיה ויפרוק עמיה ברחמתיה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "בחייכון וביומיכון ובחיי דכל בית ישראל בעגלא ובזמן קריב ואמרו אמן : יהא שמיה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "רבה מברך לעלם ולעלמי עלמיא יתברך וישתבח ויתפאר ויתרומם ויתנשא ויתהדר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "ויתעלה ויתהלל שמיה דקודשא בריך הוא לעילא לעילא מן כל ברכתא שירתא שבחתא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "ונחמתא דאמירן בעלמא ואמרו אמן :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "אדני שפתי תפתח ופי יגיד תהלתך · ברוך אתה יהוה אלהינו ואלהי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "אבותינו אלהי אברהם אלהי יצחק ואלהי יעקב האל הגדול",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "הגבור והנורא אל עליון גומל חסדים טובים וקונה את הכל וזוכר חסדי אבות ומביא גואל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "לבני בניהם למען שמו באהבה מלך רחמן אל חי גואל עוזר ומושיע ומגן ברוך אתה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "יהוה מגן אברהם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "אתה גבור לעולם יהוה מחיה מתים אתה רב להושיע משיב הרוח ומוריד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "הגשם בקיץ מוריד הטל מכלכל חיים בחסד מחיה מתים ברחמים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "רבים סומך נופלים רופא חולים מתיר אסורים משען לאביונים ומקיים אמונתו לישני",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 11,
+   "span": "וחנתותיהם[?]"
+  }
+ ],
+ "sha256_text": "b40ae071bf986f3f49a5de23dcb787bc8239997c1e0644dcc8f73a5b0a33ad61",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0373,
+   "bag_WER": 0.1132,
+   "ref_chars": 2040
+  }
+ },
+ "text_file": "../text/fol34a_spread36_left.txt"
+}

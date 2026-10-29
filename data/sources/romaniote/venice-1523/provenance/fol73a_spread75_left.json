@@ -1,0 +1,199 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 75,
+ "side": "left",
+ "folio": "73a",
+ "printed_folio_number": "ע ג",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של ארבע ערכים ע ג",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "העבירו ביבשה וצריו החריד˙ | בינו ובין אויביו הפריד˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "ובעמקי מצולה הוריד˙ | חוקקי בסלע משכן לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "ובשוב הים לאיתנו˙ | ניער פרעה וכל המונו˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ויסר מרכבות גאונו˙ | וירא כי לא יכול לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "דהרו אבירים באדירים נפלו˙ | וכעופרת כמים אדירים צללו˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "ודורשי ידוה שמו הללו˙ | בנבל עשור זמרו לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "הראנו ידו הנפלאה˙ | על שפת ים נוראה˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "שירו לידוה כי גאה גאה˙ | בזמירות נריע לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "ויש נוהגין לומר זה המי כמוך קודם היוצר ואומרים אחריו ויאמר המן למלך אחשורוש וכו˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "ויאמר המן למלך אחשורוש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "ישנו עם אחד מפורד ומפוזר˙ | ומכסא מלוכה נטרד ונגזר˙ | וראש פתנים אכזר :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "ורצוני אם תעשה ואלי תכסף˙ | הא לך מחמד הייתי מאסף˙ | ועשרת אלפים ככר כסף :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "סודם אם גליתי אליך˙ | היית נבהל אתה וקהליך˙ | והקל מעליך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "פונים אחרי לבם˙ | ואון ועמל בקרבם˙ | הן לא בידם טובם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "ויען המלך אחשורוש ויאמר להמן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "בנים לו קראם אלהיהם˙ | ואיך אוכל לנגוע בהם˙ | ידוה יריב ריבם וקובע את קובעיהם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "רדה עמים תחתם ובצר˙ | את בוצריהם ושמיהם לא עצר˙ | בכל צרתם לו צר :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "ביאר להם בספר תורתם˙ | ואף גם זאת בהיותם בארץ גלותם˙ | לא מאסתים ולא געלתים לכלותם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "טרם כאב לבנו˙ | וכתב להם בספר ענינו˙ | כל הנוגע בהם כנוגע בבבת עינו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "ויען המן ויאמר למלך אחשורוש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "ישנו ממצות והפרו חקים˙ | עם אחד ואין בהם צדיקים˙ | רחם משכיל ושדים צומקים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "עברו ממצותיך והחליפו דתיך˙ | מה תירא מהם והם ברשותך˙ | בכל מדינות מלכותך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "קימם הכחד ועקור נטעם˙ | כי לא איתחתנו בך ולא תתחתן בזרעם˙ | ודתיהם שונות מכל עם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "ויען המלך אחשורוש ויאמר להמן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "פוכים[?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "פוכים[?]"
+   ]
+  },
+  {
+   "n": 27,
+   "text": "ו א",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 26,
+   "span": "פוכים[?]"
+  }
+ ],
+ "sha256_text": "3e221c68bfaee26de2d1035507186acf633146e260e19cf90585f293087315da",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.143,
+   "bag_WER": 0.2449,
+   "ref_chars": 1315
+  }
+ },
+ "text_file": "../text/fol73a_spread75_left.txt"
+}

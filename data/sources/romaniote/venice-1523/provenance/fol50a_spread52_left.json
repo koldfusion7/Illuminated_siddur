@@ -1,0 +1,235 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 52,
+ "side": "left",
+ "folio": "50a",
+ "printed_folio_number": "נ",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של חנוכה | נ",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "כסף שבעים שקל בשקל הקדש שניהם מלאים סלת בלולה בשמן למנחה : כף אחת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "עשרה זהב מלאה קטרת : פר אחד בן בקר איל אחד כבש אחד בן שנתו לעלה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "שעיר עזים אחד לחטאת : ולזבח השלמים בקר שנים אילם חמשה עתודים חמשה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "כבשים בני שנה חמשה זה קרבן נחשון בן עמינדב :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "ביום שני קורין ביום השני הקריב ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "ביום | השני הקריב נתנאל בן צוער נשיא יששכר : הקריב את קרבנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "קערת כסף אחת שלשים ומאה משקלה מזרק אחד כסף שבעים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "שקל בשקל הקדש שניהם מלאים סלת בלולה בשמן למנחה : כף אחת עשרה זהב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "מלאה קטרת : פר אחד בן בקר איל אחד כבש אחד בן שנתו לעלה : שעיר עזים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "אחד לחטאת : ולזבח השלמים בקר שנים אילם חמשה כבשים בני שנה חמשה זה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "קרבן נתנאל בן צוער :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "ביום השלישי קורין ביום השלישי נשי[?]·",
+   "confidence": "low",
+   "uncertain_spans": [
+    "נשי[?]"
+   ]
+  },
+  {
+   "n": 14,
+   "text": "ביום | השלישי נשיא לבני זבולן אליאב בן חלן : קרבנו קערת כסף אחת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "שלשים ומאה משקלה מזרק אחד כסף שבעים שקל בשקל הקדש שניהם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "מלאים סלת בלולה בשמן למנחה : כף אחת עשרה זהב מלאה קטרת : פר אחד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "בן בקר איל אחד כבש אחד בן שנתו לעלה : שעיר עזים אחד לחטאת : ולזבח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "השלמים בקר שנים אילם חמשה עתודים חמשה כבשים בני שנה חמשה זה קרבן אליאב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "בן חלן :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "ביום הרביעי קורין ביום הרביעי נשי[?]·",
+   "confidence": "low",
+   "uncertain_spans": [
+    "נשי[?]"
+   ]
+  },
+  {
+   "n": 21,
+   "text": "ביום | הרביעי נשיא לבני ראובן אליצור בן שדיאור : קרבנו קערת כסף",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "אחת שלשים ומאה משקלה מזרק אחד כסף שבעים שקל בשקל הקדש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "שניהם מלאים סלת בלולה בשמן למנחה : כף אחת עשרה זהב מלאה קטרת : פר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "אחד בן בקר איל אחד כבש אחד בן שנתו לעלה : שעיר עזים אחד לחטאת : ולזבח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "השלמים בקר שנים אילם חמשה עתודים חמשה כבשים בני שנה חמשה זה קרבן אליצור",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "בן שדיאור :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "ביום החמישי קורין ביום החמישי נשי[?]·",
+   "confidence": "low",
+   "uncertain_spans": [
+    "נשי[?]"
+   ]
+  },
+  {
+   "n": 28,
+   "text": "ביום | החמישי נשיא לבני שמעון שלמיאל בן צורי שדי : קרבנו קערת כסף",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "אחת שלשים ומאה משקלה מזרק אחד כסף שבעים שקל בשקל הקדש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "שניהם מלאים סלת בלולה בשמן למנחה : כף אחת עשרה זהב מלאה קטרת : פר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "ז ב",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 13,
+   "span": "נשי[?]"
+  },
+  {
+   "line": 20,
+   "span": "נשי[?]"
+  },
+  {
+   "line": 27,
+   "span": "נשי[?]"
+  }
+ ],
+ "sha256_text": "195ee53de5548091fff8336e97c7cb9e38851e47a8aa17278fdba72c81adcd78",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0597,
+   "bag_WER": 0.1629,
+   "ref_chars": 1575
+  }
+ },
+ "text_file": "../text/fol50a_spread52_left.txt"
+}

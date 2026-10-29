@@ -1,0 +1,254 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 52,
+ "side": "right",
+ "folio": "49b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של חנוכה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "אנא | ידוה הושיעה נא אנא ידוה הצליחה נא : ברוך הבא בשם ידוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "ברכנוכם מבית ידוה : אל ידוה ויאר לנו אסרו חג בעבתים עד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "קרנות המזבח : אלי אתה ואודך אלהי ארוממך : הודו ליהוה כי טוב כי לעולם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "חסדו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "יהללוך | מעשיך ישבחוך עמוסיך יודוך חוסיך בפי גודל נסיך וכחזב[?] כל הנשמה",
+   "confidence": "low",
+   "uncertain_spans": [
+    "וכחזב[?]"
+   ]
+  },
+  {
+   "n": 7,
+   "text": "תהלל יה הללויה · ברוך אתה ידוה מלך מהלל בתושבחות :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "יהי שם ה' מבורך וכו וקדיש עד דאמירן ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "[Rashi-type rubric, 9 lines: UNPROOFED raw OCR follows; needs expert proofreader]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "וגומרים ההלל כל סמכה ימים דחר' יוחנן מסו רבי סמעון בן יהובדק זח ימים ולילה חחת יחיד גומר [בה/]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "חת הקלל ובגולה כ'ח' יום וסתי לילות והם סמנה ימי חנכק וסכי ימים רחסוכים סל פסח וסכי יט סל' עברת",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "וסבעה סל סכות וסני סמוכי עבדת וסתי לילות סל פסח וחחר כך מוביחין ספר חחד וקורין בפרסת כסחנ",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "וכקן את חיל מכה תברכו מפכי סהנם נעסה על ירי כקבים וקורין כהן ולויעד ויהי המקריב ויסרחל קורח",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "ויקי המקריב ביום קפני כקן קורח עד פר חחד ולוי עד ביום הסליסי ויסרחל חוזר ביום הסכי עד ביום [קג']",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "וכן בכל יום ˙ בסמיכי קור ביום הסמיכי עד סוף הפרס וים מקגין לקרוח גם כן פרסק רחסוכה מב העלותך",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "וברחס חדם טבת מוכיחין סכי ספרים וקורין ג' ברחם חרם מפכי סתדיר וסחינו תדיר תדור קודם [וחחד]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "קורא בחנוכה :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "[end unproofed]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "קריאות שמנה ימי חנוכה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "וידבר | ידוה אל משה לאמר : דבר אל אהרן ואל בניו לאמר כה תברכו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "את בני ישראל אמור להם : יברכך ידוה וישמרך : יאר ידוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "פניו אליך ויחנך : ישא ידוה פניו אליך וישם לך שלום : ושמו את שמי על",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "בני ישראל ואני אברכם : ויהי ביום כלת משה להקים את המשכן וימשח אתו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "ויקדש אתו ואת כל כליו ואת המזבח ואת כל כליו וימשחם ויקדש אתם : ויקריבו נשיאי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "ישראל ראשי בית אבתם הם נשיאי המטות הם העמדים על הפקדים : ויביאו את קרבנם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "לפני ידוה שש עגלת צב ושני עשר בקר עגלה על שני הנשאים ושור לאחד ויקריבו אותם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "לפני המשכן : ויאמר ידוה אל משה לאמר : קח מאתם והיו לעבד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "את עבדת אהל מועד ונתתה אותם אל הלוים איש כפי עבודתו : ויקח משה את העגלות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "ואת הבקר ויתן אתם אל הלוים : את שתי העגלת ואת ארבעת הבקר נתן לבני גרשון",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "כפי עבדתם : ואת ארבע העגלת ואת שמנת הבקר נתן לבני מררי כפי עבדתם ביד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "איתמר בן אהרן הכהן : ולבני קהת לא נתן כי עבדת הקדש עליהם בכתף ישאו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "ויקריבו הנשאים את חנכת המזבח ביום המשח אתו ויקריבו הנשאים את קרבנם לפני",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "המזבח : ויאמר ידוה אל משה נשיא אחד ליום נשיא אחד ליום יקריבו את קרבנם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "לחנכת המזבח : ויהי המקריב ביום הראשון את קרבנו נחשון בן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "עמינדב למטה יהודה : וקרבנו קערת כסף אחת שלשים ומאה משקלה מזרק אחד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 36,
+   "text": "כסף",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 6,
+   "span": "וכחזב[?]"
+  }
+ ],
+ "sha256_text": "37015ee4d0524e7c10f371d02fa49e920e857244c31559e398c14a229a8210e0",
+ "proofed": false,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0489,
+   "bag_WER": 0.1238,
+   "ref_chars": 2128
+  }
+ },
+ "text_file": "../text/fol49b_spread52_right.txt",
+ "proofing_note": "Mixed proofing scope: the explicitly marked UNPROOFED Rashi-type block is raw transcription and has not been proofed. Supplied error rates do not cover that block."
+}

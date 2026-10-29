@@ -1,0 +1,247 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 68,
+ "side": "right",
+ "folio": "65b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של ערבים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "מי כמוך שמים נטית כיריעה · | חלוקים אל נקדה והפרש ותנועה ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "והעברת סרן תנועת שבעה · | מה רבו מעשיך ידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "מי כמוך לבשת עטרת להשית · | על כן אפארך בספירה השלישית ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "אשר בסגלה האמצעית שבשלישית · | מי ימלא גבורות ידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "מי כמוך ותיק ועתיק יומין | הפונה וחותם לשש קצות בשש טבעות רשומים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "ואותיות השם הנכבד בהם נרשמים · | רבות עשית אתה ידוה ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "מי כמוך מכין שבעה כנגד שבעה · | אל מול פני המנורה יאירו שבעה ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "ושבעה נרותיה עליה שבעה ושבעה · | ברוך כבוד ידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "היודע סוד המצות ויודע דעת האל · | ידע סוד המצוה וצווי האל ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "שמהיותם במרכבה במחנה אוריאל · | על כן צוה ידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "מאהבתך שאהבתנו · | חמשה בחמשה פקדתנו ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "ובחצאי שקלים מניתנו · | כי מאהבת ידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "בזה הודו חכמי מליצה · | מלמד שהראהו למשה מטבע טכוסה ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "וממאמר זה יתנו מרוצה · | כל העובר על הפקדים יתן תרומת ידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "באחד באדר משמיעין על השקלים · | וממשכנין ותוכפין בפלילים ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "אכן לא מכהנים העולים · | לעבוד את עבודת ידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "מפרישין שלש קופות מחופות במין דכסף · | תשע תשע סאין מחזיק הסף ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "ונתנו שמה הכהנים שומרי הסף · | את כל הכסף המובא בית ידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "הנכנס כל שנה לתרום · | נכנס ערום ואומר שלש פעמים אתרום אתרום [?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 21,
+   "text": "והם עונים לו תרום תרום תרום · | את תרומת ידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "חלק בנחלה ולא חלק בשתפות דמיו · | חייב במעשר בהמה ופטור מקולבון[?] כל ימיו",
+   "confidence": "low",
+   "uncertain_spans": [
+    "מקולבון[?]"
+   ]
+  },
+  {
+   "n": 23,
+   "text": "והשוקל עין בעין נותנין לו את גרומיו · | כאשר צוה ידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "העשיר לא ירבה והדל · | מחצית השקל ממנו לא יחדל ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "ולא נכר שוע לפני דל · | לתת את תרומת ידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "המסרב במחצית השקל ישפר · | גובין מנכסיו משפר שפר ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "כי את מצות ידוה הפר · | אשר יובא בית ידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "שירה חדשה נשיר לאל אלים · | אשר הגיענו בערך שקלים ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "בענה ונאמר מי כמוך באלים · | ואין כמעשיך ידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "מי כמוך לרבי יהודה קולטי נ\"ע",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "מי כמוך אל אלהי הצבאות · | עושה גדולות ונוראות ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "לעמו עושה נפלאות · | אדיר במרום ידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "בערץ ונקדש בשמי שמי ערץ · | ומלאה מכבודו כל הארץ ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "ואופני",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 20,
+   "span": "[?]"
+  },
+  {
+   "line": 22,
+   "span": "מקולבון[?]"
+  }
+ ],
+ "sha256_text": "3de748996beb2e103735c6b4b735d19425ed280a6628db05c0ee707c58f52947",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.1349,
+   "bag_WER": 0.1331,
+   "ref_chars": 1631
+  }
+ },
+ "text_file": "../text/fol65b_spread68_right.txt"
+}

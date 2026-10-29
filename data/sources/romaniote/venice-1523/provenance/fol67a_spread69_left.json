@@ -1,0 +1,247 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 69,
+ "side": "left",
+ "folio": "67a",
+ "printed_folio_number": "סז",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של ארבע ערבים[?] | סז",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ערבים[?]"
+   ]
+  },
+  {
+   "n": 2,
+   "text": "ג' ספרים בא' קורין ו' בענין היום ובב' קורין ר\"ח וג' קורין המפטיר בשקלים ואם חל ר\"ח ביום א' אין מפטירין מחר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "חדש דשקלים הוי עקר הכרזה ואם חל שקלים בואתה תצוה קורין הכל בספר א' קורין עד ועשית כיור והמפטיר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "חוזר וקורא מכי תשא עד ועשית כיור ואם חל בכי תשא קורין ו' כל הפרשה ומפטיר חוזר וקורא בכי תשא עד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ועשית כיור במקום שהמפטיר עולה למנין[?] ז' אבל אנו אין מנהגנו כן וראוי שהז' יקרא בכי תשא והמפטיר חוזר",
+   "confidence": "low",
+   "uncertain_spans": [
+    "למנין[?]"
+   ]
+  },
+  {
+   "n": 6,
+   "text": "וקורא ג' פסוקים ולפי חלוק סדרינו לא יבא כי תשא בשבת שקלים לעולם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "פרשת שקלים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "וידבר ידוה אל משה לאמר : כי תשא את ראש בני ישראל לפקדיהם ונתנו איש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "כפר נפשו לידוה בפקד אתם ולא יהיה בהם נגף בפקד אתם : זה יתנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "כל העבר על הפקדים מחצית השקל בשקל הקדש עשרים גרה השקל מחצית השקל תרומה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "לידוה : כל העבר על הפקדים מבן עשרים שנה ומעלה יתן תרומת ידוה : העשיר לא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "ירבה והדל לא ימעיט ממחצית השקל לתת את תרומת ידוה לכפר על נפשותיכם : ולקחת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "את כסף הכפרים מאת בני ישראל ונתת אתו על עבדת אהל מועד והיה לבני ישראל לזכרון לפני",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "ידוה לכפר על נפשתיכם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "הפטרת שקלים ביחזקאל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "והשקל עשרים גרה עשרים שקלים חמשה ועשרים שקלים עשרה וחמשה שקל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "המנה יהיה לכם : זאת התרומה אשר תרימו ששית האיפה מחומר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "החטים וששיתם האיפה מחמר השערים : וחק השמן הבת השמן מעשר הבת מן הכר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "עשרת הבתים חמר כי עשרת הבתים חמר : ושה אחת מן הצאן מן המאתים ממשקה ישראל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "למנחה ולעולה ולשלמים לכפר עליהם נאם אדני ידוה : כל העם הארץ יהיו אל התרומה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "הזאת לנשיא בישראל : ועל הנשיא יהיה העולות והמנחה והנסך בחגים ובחדשים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "ובשבתות בכל מועדי בית ישראל הוא יעשה את החטאת ואת המנחה ואת העולה ואת השלמים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "לכפר בעד בית ישראל : כה אמר אדני ידוה בראשון באחד לחדש תקח פר בן בקר תמים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "וחטאת את המקדש : ולקח הכהן מדם החטאת ונתן אל מזוזת הבית ואל ארבע פנות העזרה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "למזבח ועל מזוזת שער החצר הפנימית : וכן תעשה בשבעה בחדש מאיש שגה ומפתי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "וכפרתם את הבית : בראשון בארבעה עשר יום לחדש יהיה לכם הפסח חג שבעות ימים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "מצות יאכל : ועשה הנשיא ביום ההוא בעדו ובעד כל עם הארץ פר חטאת : ושבעת ימי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "החג יעשה עולה לידוה שבעת פרים ושבעת אלים תמימם ליום שבעת הימים וחטאת שעיר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "עזים ליום : ומנחה איפה לפר ואיפה לאיל יעשה ושמן הין לאיפה : בשביעי בחמשה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "עשר יום לחדש בחג יעשה כאלה שבעת הימים כחטאת כעולה וכמנחה וכשמן :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "כה אמר אדני ידוה שער החצר הפנימית הפנה קדים יהיה סגור ששת ימי המעשה וביום",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "השבת יפתח וביום החדש יפתח : ובא הנשיא דרך אולם השער מחוץ ועמד על מזוזת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "השער ועשו הכהנים את עולתו ואת שלמיו והשתחוה על מפתן השער ויצא והשער לא יסגר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "טג",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 1,
+   "span": "ערבים[?]"
+  },
+  {
+   "line": 5,
+   "span": "למנין[?]"
+  }
+ ],
+ "sha256_text": "9c2ca7cf0e4cdf1cab7c76ffd6e8190a75650dfe5e38ec16a53d4574152c32c8",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0799,
+   "bag_WER": 0.2045,
+   "ref_chars": 2241
+  }
+ },
+ "text_file": "../text/fol67a_spread69_left.txt"
+}

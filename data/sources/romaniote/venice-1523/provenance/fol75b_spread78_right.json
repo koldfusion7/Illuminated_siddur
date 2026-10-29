@@ -1,0 +1,253 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 78,
+ "side": "right",
+ "folio": "75b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של צום אסתר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "זכור לאברהם ליצחק ולישראל עבדיך אשר נשבעת להם בך ותדבר אליהם ארבה את",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "זרעכם ככוכבי השמים וכל הארץ הזאת אשר אמרתי אתן לזרעכם ונחלו לעולם : וינחם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "ידוה על הרעה אשר דבר לעשות לעמו : זכור לעבדיך לאברהם ליצחק וליעקב אל תפן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "אל קשיינו ואל רשענו ואל חטאתינו זכור עדתך קנית קדם גאלת שבט נחלתך הר[?] ציון",
+   "confidence": "low",
+   "uncertain_spans": [
+    "הר[?]"
+   ]
+  },
+  {
+   "n": 6,
+   "text": "זה שכנת בו ˙ כי לא על צדקותינו אנחנו מפילים תחנונינו לפניך כי על רחמיך הרבים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "סליחה לרבי שלמה הקטן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "אחות | פתשגן פליאת רזות ˙ | את כל תוקף גבורת עליזות ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "אבאר היום בשקדי על מזוזות ˙ | את אגרת הפורים הזאת :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "נטות שלשה עשר באדר להתענה ˙ | נועם מגלה לילה ויום תשנה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "נותני טעמים מצאו בה מענה ˙ | אלהי אקרא יומם ולא תענה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "יען היות נס בנשים חויבו להשכירה ˙ | יוסדה בארבעה ברכות להגבילה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "יתחיל בשלש ויגמור באחת ואין להמעילה ˙ | ואם שלש אלה לא יעשה לה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "שקד וקרא למפרע מקצה ˙ | שפרת שיתו בפגול לא ירצה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "שבין כתובים ברבים לא ימצא ˙ | אם בגפו יבא בגפו יצא :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "להיגת מצחף פרע וחשוף ˙ | לשמיעת חרש שוטה וקטן אל תכסוף ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "לעת תשמע קורין חציה קרא ואסוף ˙ | את מעשה האלהים מראש ועד סוף :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "ממקרא שנים כאחד בל תאשם ˙ | מצות קורא ושומע לכוין נפשם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "משמיע אם שהה כדי לגמור כנרשם ˙ | אל מקומו שואף זורח הוא שם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "הורשמה על שלשה עשר בלי להמעיל ˙ | הגונים טומטום ואנדרוגינוס כלם להגעיל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "הן חובת רבים אין מוציאין להתעיל ˙ | הבל ואין בם מועיל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "חן חק אלה וחק חצי עבד נפרשו ˙ | קריאת נשים ואנשים נפגשו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "המונים אם לא בעתה דרשו ˙ | כל היום וכל הלילה תמיד לא יחשו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "קומוס וקלקנתוס וסם וסיקרא הסר עדיו ˙ קלף מסורגל מקום נייר[?] ודפתרא דרוש איו :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "נייר[?]"
+   ]
+  },
+  {
+   "n": 25,
+   "text": "קבע אשורית על ספר נרמז לדיו ˙ | ואני כותב על הספר בדיו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "טעם כתב לא במקרא על פה בל תמתק ˙ | תפורה בחוטי פשתן ראויה להנתק ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "טוב אם הטיל בה שלשה תיקי גידין לחרתק[?] | והחוט המשולש לא במהרה ינתק :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "לחרתק[?]"
+   ]
+  },
+  {
+   "n": 28,
+   "text": "נצור שיור התפר וכרוך קריאת עשרה בפגע ˙ נגידים שלשה לשמוע מגלה מבטלין יגע ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "נצרי אגגי העשרה בנשימה אחת במוצאם נגע ˙ | איך היו לשמה כרגע :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "חקתה מאחד עשר ועד חמשה עשר קצובה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "חוץ מכרכים המוקפין חומה מימות יהושע בן נון בחמשה עשר חשובה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "חשוך קריאת שבת פן תהי דתה עזובה ˙ | לבלתי תת יוצא ובא ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "זכירת יוצא בשיירה ומפרש בים נכוחה ˙ | זמנם מאחד עשר והלאה נלקחה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "זרות",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 5,
+   "span": "הר[?]"
+  },
+  {
+   "line": 24,
+   "span": "נייר[?]"
+  },
+  {
+   "line": 27,
+   "span": "לחרתק[?]"
+  }
+ ],
+ "sha256_text": "072952a5cc845ac2e8720cef6fe9232035b973bed478ee3c789a0b99ef530d55",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0572,
+   "bag_WER": 0.0972,
+   "ref_chars": 1923
+  }
+ },
+ "text_file": "../text/fol75b_spread78_right.txt"
+}

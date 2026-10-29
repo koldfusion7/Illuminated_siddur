@@ -1,0 +1,217 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 53,
+ "side": "left",
+ "folio": "51a",
+ "printed_folio_number": "נא",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של חנוכה | נא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "בקר שנים אילם חמשה עתדים חמשה כבשים בני שנה חמשה זה קרבן אבידן[?] בן גדעני :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "אבידן[?]"
+   ]
+  },
+  {
+   "n": 3,
+   "text": "ביום העשירי נשיא לבני דן אחיעזר בן עמי שדי : קרבנו קערת כסף אחת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "שלשים ומאה משקלה מזרק אחד כסף שבעים שקל בשקל הקדש שניהם מלאים סלת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "בלולה בשמן למנחה : כף אחת עשרה זהב מלאה קטרת : פר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "אחד בן בקר איל אחד כבש אחד בן שנתו לעלה : שעיר עזים אחד לחטאת : ולזבח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "השלמים בקר שנים אילם חמשה עתדים חמשה כבשים בני שנה חמשה זה קרבן אחיעזר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "בן עמי שדי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "ביום עשתי עשר יום נשיא לבני אשר פגעיאל בן עכרן : קרבנו קערת כסף אחת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "שלשים ומאה משקלה מזרק אחד כסף שבעים שקל בשקל הקדש שניהם מלאים סלת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "בלולה בשמן למנחה : כף אחת עשרה זהב מלאה קטרת : פר אחד בן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "בקר איל אחד כבש אחד בן שנתו לעלה : שעיר עזים אחד לחטאת :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "ולזבח השלמים בקר שנים אילם חמשה עתדים חמשה כבשים בני שנה חמשה זה קרבן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "פגעיאל בן עכרן :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "ביום שנים עשר יום נשיא לבני נפתלי אחירע בן עינן : קרבנו קערת כסף אחת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "שלשים ומאה משקלה מזרק אחד כסף שבעים שקל בשקל הקדש שניהם מלאים סלת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "בלולה בשמן למנחה : כף אחת עשרה זהב מלאה קטרת : פר אחד בן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "בקר איל אחד כבש אחד בן שנתו לעלה : שעיר עזים אחד לחטאת : ולזבח השלמים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "בקר שנים אילם חמשה עתדים חמשה כבשים בני שנה חמשה זה קרבן אחירע בן עינן :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "זאת חנכת המזבח ביום המשח אתו מאת נשיאי ישראל קערת כסף",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "שתים עשרה מזרקי כסף שנים עשר כפות זהב שתים עשרה : שלשים ומאה הקערה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "האחת כסף ושבעים המזרק האחד כל כסף הכלים אלפים וארבע מאות בשקל הקדש :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "כפות זהב שתים עשרה מלאת קטרת עשרה עשרה הכף בשקל הקדש כל זהב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "הכפות עשרים ומאה : כל הבקר לעלה שנים עשר פרים אילם שנים עשר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "כבשים בני שנה שנים עשר ומנחתם ושעירי עזים שנים עשר לחטאת : וכל בקר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "זבח השלמים עשרים וארבעה פרים אילם ששים עתדים ששים כבשים בני שנה ששים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "זאת חנכת המזבח אחרי המשח אתו : ובבא משה אל אהל מועד לדבר אתו וישמע את",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "הקול מדבר אליו מעל הכפרת אשר על ארן העדת מבין שני הכרבים וידבר אליו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "פ פ פ",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "ז ג",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 2,
+   "span": "אבידן[?]"
+  }
+ ],
+ "sha256_text": "054a6fd71de3b88e4440b40762a0fd133dad27f51d9a8707e88397fadd5d3e27",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0278,
+   "bag_WER": 0.0725,
+   "ref_chars": 1691
+  }
+ },
+ "text_file": "../text/fol51a_spread53_left.txt"
+}

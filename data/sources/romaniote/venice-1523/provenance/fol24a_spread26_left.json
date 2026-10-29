@@ -1,0 +1,241 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 26,
+ "side": "left",
+ "folio": "24a",
+ "printed_folio_number": "כד",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של שבת | כד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "והיה לכם לציצת וראיתם אותו וזכרתם את כל מצות יהוה ועשיתם אותם ולא תתורו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "אחרי לבבכם ואחרי עיניכם אשר אתם זונים אחריהם : למען תזכרו ועשיתם את כל מצותי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "והייתם קדושים לאלהיכם : אני יהוה אלהיכם אשר הוצאתי אתכם מארץ מצרים להיות לכם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "לאלהים אני יהוה אלהיכם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "אמת ואמונה כל זאת וקיים עלינו כי הוא יהוה אלהינו ואנחנו ישראל עמו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "אמת הוא מלכנו ואין זולתו הפודנו מיד מלכים הגואלנו מלכנו מכף",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "כל העריצים האל הנפרע לנו מכל צרינו המשלם גמול לכל איבי נפשנו השם נפשנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "בחיים ולא נתן למוט רגלינו המדריכנו על במות אויבינו וירם קרננו על כל שנאינו האל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "העושה לנו נסים נקמה בפרעה באתות ומופתים באדמת בני חם המכה בעברתו כל בכרי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "מצרים ויוצא עמו ישראל מתוכם לחירות עולם המעביר בניו בין גזרי ים סוף ואת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "רודפיהם בתהומות טבע · וראו בנים את גבורתו והודו לשמו ומלכותו ברצון קבלו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "עליהם משה ובני ישראל לך ענו שירה בשמחה רבה כשעלו מן הים ענו ואמרו כולם · מי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "כמוכה באלים יהוה מי כמוכה נאדר בקדש נורא תהלות עושה פלא · מפי עוללים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "ויונקים שירת שמעת ועל שפת הים יחד כולם הודו והמליכו ענו ואמרו יהוה ימלוך לעולם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "ועד · ונאמר כי פדה יהוה את יעקב וגאלו מיד חזק ממנו ברוך אתה יהוה גאל ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "ומתחיל בהשכיבנו וחותם תכף ופרוש ואומר ושמרו להודיע שהשבת הוא שומר את ישראל ולכך אינו אומר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "השכיבנו לחתום שומר ושאר פסוקים ומתפללין ברכה האמצעית אתה קדשת ומי ששכח והתחיל אתה חונן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "גומר אותה וחוזר לשל שבת ואם שכח של שבת כולה כתב רב עמרם שמחזירין אותו ורב משה גאון כתב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "שאם שמע משליח צבור ברכת מגן אחר כך יצא אמר[?] פרק כל כתבי אמ' רב המנונא המתפלל בע\"ש ואומר",
+   "confidence": "low",
+   "uncertain_spans": [
+    "אמר[?]"
+   ]
+  },
+  {
+   "n": 21,
+   "text": "ויכלו כאילו נעשה שותף להקב\"ה שנאמר ויכלו אל תקרי ויכלו אלא ויכלו כתב ראבן לכן אומר אותו שנית",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "בקול רם לפי שהוא עדות בתורה וגם להוציא שאין בקי ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "השכיבנו יהוה אלהינו לשלום והעמידנו מלכנו לחיים ולשלום ופרוס עלינו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "סכת שלומך ברוך אתה יהוה הפורס סכת שלום עלינו ועל כל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "עמו ישראל ועל ירושלם עיר הקדש : ושמרו בני ישראל את השבת לעשות את השבת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "לדורתם ברית עולם ביני ובין בני ישראל אות היא לעולם כי ששת ימים עשה יהוה את",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "השמים ואת הארץ וביום השביעי שבת וינפש :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "יתגדל ויתקדש שמיה רבה בעלמא דברא כרעותיה וימליך מלכותיה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "בחייכון וביומיכון ובחיי דכל בית ישראל בעגלא ובזמן קריב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "ואמרו אמן : יהא שמיה רבה מברך לעלם ולעלמי עלמיא : ויתברך וישתבח ויתפאר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "ויתרומם ויתנשא ויתהדר ויתעלה ויתהלל שמיה דקודשא בריך הוא לעילא ולעילא מן כל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "ברכתא שירתא שבחתא ונחמתא דאמירן בעלמא ואמרו אמן :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "אדני שפתי תפתח ופי יגיד תהלתך · ברוך אתה יהוה אלהינו ואלהי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "אבותינו אלהי אברהם אלהי יצחק ואלהי יעקב האל הגדול",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 20,
+   "span": "אמר[?]"
+  }
+ ],
+ "sha256_text": "cdb75b11f0a0376a2e26d924356374481c15e8e937664ad3f5056b3ebad35b90",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0576,
+   "bag_WER": 0.1776,
+   "ref_chars": 2274
+  }
+ },
+ "text_file": "../text/fol24a_spread26_left.txt"
+}

@@ -1,0 +1,248 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 61,
+ "side": "left",
+ "folio": "59a",
+ "printed_folio_number": "נט",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות עשרה בטבת | נט",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "ולחבל כל ˙ שאר אשכול ˙ וללקט ענבי נזירי ˙ ועוד קשור אני לאשור ˙ עדי נצב עלי צירי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "אני אנדע [?] ˙ ולא אדע ˙ למי אבכה ˙ הזה או זה : | כתב",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 4,
+   "text": "תמוך עמך ביום סמך ˙ ארי על עיר הקדש ˙ רפא נגעה ˙ מחה פשעה ˙ בעשירי לחדש ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ולתחלה ˙ כבתחלה ˙ שמך בהם תקדש ˙ והמלוכה ˙ הנסוכה ˙ כימי קדם תחדש ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "ושוב עליון ˙ לעיר ציון ˙ ועין בעין נחזה : | כתב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "[rashi-type rubric, 1 line — proofed from image at low confidence, excluded from scores]",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "ויש אומרין תחנון יה למתי והוא כתוב ביום כפור במוסף ואחר כך אומר חטאנו [?] ˙",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 9,
+   "text": "[/rashi-type]",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "תחנון",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "אלוה | מכין תבל ˙ ורוקע ארץ עלי מים ˙ וגבהו רום בלי חבל ˙ וכל מעשיו נפלאים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "שמע אנקת אסיר כבל ˙ בכי רחל וטלאים ˙ ביום סמך מלך בבל על ירושלם : | ביום סמך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "בדמעת עמך הבט ˙ ואל תחרש ואל תדום ˙ ומשבטו תמוך שבט ˙ והכן כסאו להדום ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "וגוי נבל ילבט ˙ וממלכתו הפוך כסדום ˙ דרוך פורה ויחבש ˙ ויז ללבושך דם ארום [?] ˙",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 15,
+   "text": "זכור ידוה לבני אדום ˙ את יום ירושלם : | ביום סמך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "רמסני ארי טורף ˙ ונכו שעריו בשאיה ˙ ונתתי למו טרף ˙ בשיני כפירים ולביה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "ונצרפתי בכור מצרף ˙ בלבת שלהבת יה ˙ ושם מפתיו לחץ תרף ˙ להחריב קריה יפיפיה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "ובימינו היה הקסם על ירושלם : | ביום סמך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "המאוס מאסת ˙ יהודה וציון נעדרו ˙ ומבצריו הרסת ˙ וסודותיו עורערו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "פרוס מסך פרשת ˙ לרגלם באורך יאורו ˙ וגל בשורות כמסת ˙ ומפי קדשך נאמרו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "נחמו נחמו עמי ˙ | דברו על לב ירושלם : | ביום סמך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "תחנון",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "לדוברת | יחודך ˙ ותפארתך דובבת ˙ | וסובלת אלהותך ˙ ושאו וכזב עוזבת :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "פנה נא אל והעתר למתענה ונעצבת בחדש העשירי בעשרה לחדש : | בחדש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "אשר צפה רחמיך ˙ ובטחונה בך צורה : | בך תמיד תהלתה ˙ ואת נזרה ואת פארה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "גמול טובה קהלתה ˙ הלא אתהו סברה : | דרוש עזרה ולעזרה היה מלחץ אויבת : | בחדש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "העתר לדורשת ˙ פניך צור גואל : | ושוחרת מבקשת ˙ רצונך יה האל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "זכור בנך יחידך ˙ בכורך ישראל : | חון קהלה עומדת ˙ מתענה שבת : | בחדש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "טרוף קמי סגלתך ˙ אשר שמוה לבוז : | יתת יחת וגם נחת ˙ ועוש יבוש ועוץ גם בוז :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "כנתך אשר שבעה ˙ לה הלעג חבוז : | להנחילה להובילה ˙ אל ארץ נושבת : | בחדש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "מרום יושב תהלה ˙ שוכן קדם סלה : | נאור נורא עלילה ˙ שמע נאקת עם סגלה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "סעדנה והושיעה ˙ ושימנה רק למעלה : | ענה עניה הומיה ˙ אשר בגלות יושבת : | בחדש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "ח ג",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 3,
+   "span": "[?]"
+  },
+  {
+   "line": 8,
+   "span": "[?]"
+  },
+  {
+   "line": 14,
+   "span": "[?]"
+  }
+ ],
+ "sha256_text": "2969920d20c51f2b2fa237ca9b224557266a4510c16acd1cc544fe1bce4ffd9b",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.1674,
+   "bag_WER": 0.2655,
+   "ref_chars": 1924
+  }
+ },
+ "text_file": "../text/fol59a_spread61_left.txt",
+ "proofing_note": "The one-line Rashi-type rubric is proofed at low confidence and excluded from the supplied error rates."
+}

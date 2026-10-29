@@ -1,0 +1,228 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 71,
+ "side": "right",
+ "folio": "68b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של ארבע ערכים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "לחזור חלילה ˙ | קץ פרות[?] ובא גואל : | כי מקום ˙",
+   "confidence": "low",
+   "uncertain_spans": [
+    "פרות[?]"
+   ]
+  },
+  {
+   "n": 3,
+   "text": "פתיחה אחרת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "יום | בהמן ˙ אף אל חרה ˙ וליהודים היתה אורה : | יום",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "יה חסדיו ˙ מאז הקרת ˙ אל עם סגלה ˙ לו קרא ˙ ויום ענות צר ˙ בהם צרה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "שב ונפל ˙ בשחת כרה ˙ וליהודים היתה אורה : | יום",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "צר בקראו ˙ חכמי דורו ˙ ויספר להם ˙ כבוד עשרו ˙ ולהכרית בן בכורו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "עם אשר אל ˙ יעקב בעזרו ˙ יעצו עצה ˙ נבערה ˙ וליהודים היתה אורה : | יום",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "חש וקרא סופרי המלך ˙ ויכתבו אל כל ˙ עיר ופלך ˙ להרוג עם דל והלך ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "אשר בכל מדינות המלך ˙ ולהכרית שה פזורה ˙ וליהודים היתה אורה : | יום",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "קול תחנות ˙ צאן קניניו ˙ בעלות אל כס מעוניו ˙ גברה ידו על מוניו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "ויתלו אותו ואת בניו ˙ ונהרגה זרש הארורה ˙ וליהודים היתה אורה : | יום",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "פתיחה אחרת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "יום | בשם בן יאיר קרא ˙ | וליהודים היתה אורה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "יום בהמון אף אל חרה ˙ | אהבת עם יפה וברה ˙ | יום בשם בן יאיר קרא :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "איך קדוש אל לזר נמכר ˙ | נין מזנב לזאת נעקר ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "לנגד אל חי נזכר ˙ | תת תחלה עשרים גרה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "באמת אל הוא היועץ ˙ | מה יחשב אויב רועץ ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "צר לנפשו עשה העץ ˙ | כי עצת נפתל נמהרה : | וליהודים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "רחפו בנים יום נושעו ˙ | מעשי יה בם נודעו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "אז אצילים פורים קבעו ˙ | נעשה על פי התורה : | וליהודים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "הגברת ביד האמה ˙ | היא ביד אח ישבה דומה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "עד שחקים ידה רמה ˙ | היא בתוכה מתגברה : | וליהודים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "מה תדבר למריביה ˙ | ריעיה עד תשביה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "כי תרחם ותשוביה ˙ | לך יובל שי למורא : | וליהודים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "יש אומרים ברכו ידידי אל כתוב בשבת הגדול ˙ ברכו את ה' המבורך ברוך אתה ה' אלהינו מלך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "יוצר אור ובורא חושך עושה שלום ובורא את הכל אור עולם אוצר חיים אורות מאפל אמר ויהי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "יוצר לרבי יוסף קלעי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "אגגי | עליך בפשטו כילק ˙ | בלעתו עצתו ויהי לעלק ˙ | זכור את אשר עשה לך עמלק :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "דבר להחשיך אור צהרים ˙ | הרוג אהרוג יהודה ואפרים ˙ | בדרך בצאתכם ממצרים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "ויתיעץ עם כל אומה בעבורך ˙ | זכרו לו נס ים סוף בעברך ˙ | ויזנב בך כל הנחשלים אחריך ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "אחריך",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 2,
+   "span": "פרות[?]"
+  }
+ ],
+ "sha256_text": "22c81acc1fc7dfc4e482148514afe87f6fea5ed01bdf7a12f7edb03591f979d5",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.1037,
+   "wer": 0.266
+  }
+ },
+ "text_file": "../text/fol68b_spread71_right.txt"
+}

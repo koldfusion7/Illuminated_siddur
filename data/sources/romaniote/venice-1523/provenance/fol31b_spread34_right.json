@@ -1,0 +1,240 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 34,
+ "side": "right",
+ "folio": "31b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של שבת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "האלה אשר אנכי מצוך היום על לבבך : ושננתם לבניך ודברת בם בשבתך בביתך ובלכתך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "בדרך ובשכבך ובקומך : וקשרתם לאות על ידיך והיו לטוטפות בין עיניך : וכתבתם על",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "מזזות ביתך ובשעריך : והיה אם שמע תשמעו אל מצותי אשר אנכי מצוה אתכם היום",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "לאהבה את יהוה אלהיכם ולעבדו בכל לבבכם ובכל נפשכם : ונתתי מטר ארצכם בעתו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "יורה ומלקוש ואספת דגנך ותירושך ויצהרך : ונתתי עשב בשדך לבהמתך ואכלת ושבעת :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "השמרו לכם פן יפתה לבבכם וסרתם ועבדתם אלהים אחרים והשתחויתם להם : וחרה אף",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "יהוה בכם ועצר את השמים ולא יהיה מטר והאדמה לא תתן את יבולה ואבדתם מהרה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "מעל הארץ הטובה אשר יהוה נותן לכם : ושמתם את דברי אלה על לבבכם ועל נפשכם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "וקשרתם אותם לאות על ידכם והיו לטוטפות בין עיניכם : ולמדתם אותם את בניכם לדבר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "בם בשבתך בביתך ובלכתך בדרך ובשכבך ובקומך : וכתבתם על מזוזות ביתך ובשעריך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "למען ירבו ימיכם וימי בניכם על האדמה אשר נשבע יהוה לאבותיכם לתת להם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "כימי השמים על הארץ : ויאמר יהוה אל משה לאמר : דבר אל בני ישראל ואמרת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "אליהם ועשו להם ציצת על כנפי בגדיהם לדורותם ונתנו על ציצת הכנף פתיל תכלת :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "והיה לכם לציצת וראיתם אותו וזכרתם את כל מצות יהוה ועשיתם אותם ולא תתורו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "אחרי לבבכם ואחרי עיניכם אשר אתם זונים אחריהם : למען תזכרו ועשיתם את כל מצותי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "והייתם קדושים לאלהיכם : אני יהוה אלהיכם אשר הוצאתי אתכם מארץ מצרים להיות לכם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "לאלהים אני יהוה אלהיכם : יהוה אלהיכם אמת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "אמת ויציב ונכון וקיים וישר ונאמן ואהוב וחביב ונחמד ונעים ונורא ואדיר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "ומתוקן ומקובל וטוב ויפה הדבר הזה : עלינו על אבותינו על בנינו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "ועל דורותינו ועל כל דורות זרע ישראל עבדיך על הראשונים ועל האחרונים לעולם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "ועד חק ולא יעבור · אמת שאתהו יהוה אלהינו ואלהי אבותינו לעולם ועד אתהו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "מלכנו מלך אבותינו ואתהו למען שמך מהר גאלנו כגאלת את אבותינו אמת מעולם שמך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "הגדול ועלינו נקרא באהבה ואין לנו אלהים עוד זולתך · עזרת אבותינו אתהו מעולם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "מגן ומושיע לבניהם אחריהם בכל דור ודור ברום עולם מושבך ומשפטיך וצדקתך עד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "אפסי ארץ : אמת אשרי איש שישמע למצותיך חוקיך ותורתך ודברך ישים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "על לבו אמת אתהו אדון לעמך ומלך גדול וגבור לריב ריבם · אמת אתהו ראשון ואתהו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "אחרון ומבלעדיך אין לנו מלך גואל עוזר ומושיע · אמת במצרים נגלית כל בכוריהם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "הרגת בכורך גאלת ים סוף בקעת זדים טבעת ים יבשה עשית וידידים עברו ויכסו מים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "צריהם אחד מהם לא נותר · ועל זאת שבחו אהובים לאל : ונתנו ידידים זמירות שירות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "ותושבחות ברכות והודאות למלך אל רם ונשא חי וקיים גדול ונורא משפיל גאים מגביה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "שפלים מוציא אסירים פודה ענוים ועוזר דלים ועונה לעמו בעת שועם אליו · תהלה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "לאל עליון ברוך הוא · משה ובני ישראל לך ענו שירה בשמחה רבה כשעלו מן הים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "ענו ואמרו כלם מי כמוך באלים יהוה מי כמוך נאדר בקדש נורא תהלות עושה פלא :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "שירת",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "793c45a94d98b6c7581c2727149b2a7471483145aaaae0478e690a07f4a3fe70",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0235,
+   "wer": 0.0892,
+   "ref_chars": 2381
+  }
+ },
+ "text_file": "../text/fol31b_spread34_right.txt"
+}

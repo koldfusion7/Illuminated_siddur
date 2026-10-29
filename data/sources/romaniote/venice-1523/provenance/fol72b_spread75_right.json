@@ -1,0 +1,240 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 75,
+ "side": "right",
+ "folio": "72b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של ארבע ערכים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "כי מה חפצי אחר זה הצער˙ | וכלי הקרב שות שתו השער˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "הישאג אריה ביער˙ | וטרף אין לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "לה אמר מי הוא זה מכל אנשי˙ | ואי זהו מכל מגרשי˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "או מי מנושי˙ | אשר מכרתי אתכם לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "מהרה לענות המן הרע˙ | פורענות לגוי צדיק פרע˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "אוי לרשע רע˙ | כי גמול ידיו ישיב לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "נתמלא חמה ויקם על גנו˙ | ובשובו ראהו נופל על כנו˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "יגלו שמים עונו˙ | וארץ מתקוממה לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "סריס אחד גלה חטאתו˙ | הנה העץ אשר הכין למרדכי עשהו בביתו˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "ויצו המלך לתלותו˙ | על העץ אשר הכין לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "עמדה אסתר לבקש על עמה˙ | להשיב ספרי האף והחמה˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "כי נחם ידוה על מכה עצומה˙ | ושב ורפא לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "פתשגן הכתב להיות היהודים˙ | להנקם מאויביהם עתידים˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "כי נפל פחד מרדכי על המורדים˙ | ושלום היה לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "צוה מרדכי על עם לו אלמן˙ | מושיע רב ונגיד ונאמן˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "והפקד על בית המן˙ | ועל כל אשר יש לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "קדשתי לצוררי מזבח˙ | כי הכין לבניו מטבח :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "בעון אביהם המרצח˙ | ואלה שמות הילודים לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "רצצתי פרשנדתא דלפון אספתא˙ | פורתא אדליא ארידתא פרמשתא˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "אריסי ארידי ויזתא˙ | וכל פליטה לא היתה לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "שוללתי שוללי ואריע ריע˙ | כי עלה משאול אביון גוע˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "ימלט עני משוע˙ | ויתום ואין עוזר לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "תכתב זאת לדור אחרון˙ | ולבני בנים לזכרון˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "וכל המזכיר אותה ירון˙ | אשרי העם שככה לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "אכלו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "רעים שתו ושכרו˙ | וימי הפורים בשמחה שמורו˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "ועם שמחתכם העניים זכורו˙ | ושלחו מנות לאין נכון לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "ניסי אל מאז מצאוני˙ | ובנבכי הים העבירוני˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "כליותי יסרוני˙ | דום לידוה והתחולל לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "יום צאת פרעה אחרי˙ | לטרוף כאריה עדרי˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "נצבו כחומה מימי משברי˙ | ויתגעשו כי חרה לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "יצא צר אחרי עם קדושו˙ | ויצו צור ענן להפרישו˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "להיות צל על ראשו˙ | ממעל להציל לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "העבירו",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "c72d0fcc463cf7a5510eec1a67cb1949aa2578bf491d3ea162c2c05e0b608337",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0972,
+   "bag_WER": 0.1391,
+   "ref_chars": 1378
+  }
+ },
+ "text_file": "../text/fol72b_spread75_right.txt"
+}

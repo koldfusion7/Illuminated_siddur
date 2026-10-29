@@ -1,0 +1,229 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 72,
+ "side": "left",
+ "folio": "70a",
+ "printed_folio_number": "ע",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של ארבע ערכים[?] ע",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ערכים[?]"
+   ]
+  },
+  {
+   "n": 2,
+   "text": "ומאבל ליום טוב ˙ מצרה לרוחה ˙ | פועל ישועות ˙ נתנם למנוחה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "ליהודים היתה אורה ושמחה ˙ | ומרדכי והעיר שושן ˙ צהלה ושמחה : ומרדכי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "חמתו העיר אלהים על המן וזרעו ˙ | זרע ישורון רחם ˙ ומשחת פדעו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "קהלות יעקב ˙ הללוהו מקוה ישראל מושיעו ˙ | תפלות מרדכי ˙ אך קרוב ליריאיו ישעו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "דורש טוב לעמו ˙ | ודובר שלום לכל זרעו : דורש ˙ לאל הברוך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "זולת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "אלן שלש מצות אבותי נצטוו להצטוות בכניסתן לארץ מקצוות ˙ בכתב הן קצובות :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "גאון תחלה להעמיד ˙ גזע עמלק להשמיד ˙ דלק חשולי מצמיד ˙ דכאו רב ותלמיד :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "הזהיר שלישית אזהרה ˙ הופע עליו נהרה ˙ ועת בואם העירה ˙ ולבנות בית הבחירה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "זמר עם חביב ˙ זכה ונח מסביב ˙ חדש משומרי אביב ˙ חנוכת קויי רביב :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "טעה קישי באגג ˙ טמא בחומרו שגג ˙ יוקשתי בשורו מוגג ˙ יחד כבורר על גג :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "כברי כסף שקל ˙ כרות זרע מעוקל ˙ לולי שמעי היקל ˙ לכדתי בפח מקולקל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "ממנו יצא מור ˙ מתגרה כפורש מכמור ˙ נטר איבה לשמור ˙ נין ונכד לגמור :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "שריד ופליט מלהשאיר ˙ סבור סילון ממאיר ˙ עקב בן יאיר ˙ עמד לנגדו מכאיר :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "פחים לו טמנה ˙ פקודה אתו באמנה ˙ צרתו בכירה זימנה ˙ צר ואויב נמנה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "קדקדו ירד חמסו ˙ קלעו מוכתר בנמוסו ˙ רשום באות קלמוסו ˙ רצץ ראשו ברומסו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "שיטות כאלה רבות ˙ שלמתנו רוכב ערבות ˙ תחת טובות רבבות ˙ תהלות לך עריבות :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "ישעי צח ואדום ˙ קבל רחשי מהדום ˙ יהודה עם דום ˙ גאול כמהם מאדום :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "זולת אחר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "את ידוה דרשתי ויהי לי למושיע וגואל ˙ | נחמני והרימני על כל צר ומתגאל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "יושר דרכי ויקם מרדכי על עם עני ושואל ˙ | כה אמר ידוה צבאות פקדתי את אשר עשה עמלק לישראל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "יום ארבעה עשר זמן מקרא מגלה ˙ | וקריאתה לילה ויום חייבו חכמי סגלה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "סמכו על הטעם הנאמר בתחלה ˙ | אלהי אקרא יומם ולא תענה ולילה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "פסע חמשת עממים ובא אלי בעמלו ˙ | פשט כילק על עם ידוה וחבלו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "ישרי לב אל תחמלו עליו ועולליו וחילו ˙ | עתה לך והכית את עמלק והחרמתם את כל אשר לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "יחד נשים כאנשים חויבו בנס ופלא ˙ | טעמי מגלה לשמוע וזכר עמלק לכלה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "קראה כאחת בשלש ברכות יתחיל ובאחת בסוף יכלה ˙ | על השלש האלה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "לולי ידוה שהיה לנו והפליא פלאים ˙ | עותונו רשעים ושדונו גאים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "ידו חצם להשלים חפצם בבני לבאים ˙ | וישמע שאול את העם ויפקדם בטלאים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "בכל לשון ולמפרע לא יצא ˙ | רוחש וקורא על פה בפיהו בל יפצה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "חרש שוטה וקטן מהם אם ימצא ˙ | פגול הוא לא ירצה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 1,
+   "span": "ערכים[?]"
+  }
+ ],
+ "sha256_text": "d2f292ce5a4e7913ccdcf2e2a5ba5e58831e9bc3be6b7f75c8088852b5b85487",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.1223,
+   "bag_WER": 0.1577,
+   "ref_chars": 1979
+  }
+ },
+ "text_file": "../text/fol70a_spread72_left.txt"
+}

@@ -1,0 +1,253 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 49,
+ "side": "left",
+ "folio": "47a",
+ "printed_folio_number": "מז",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של ראש חדש | מז",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "ושמך הגדול והקדוש עלינו קראת ותתן לנו ידוה אלהינו שבתות למנוחה וראשי חדשים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "לכפר בעדנו ˙ | למען נחדל מעושק ידינו אבל משחטאנו לפניך חרבה עירנו ושמם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "מקדשנו ונטל כבוד מבית חיינו ואין אנו יכולין לעשות לפניך את חובותינו בבית בחירתך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "בבית הגדול והקדוש שנקרא שמך עליו ומפני היד שנשתלחה בבית מקדשך ובכן יהי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "רצון מלפניך ידוה אלהינו ואלהי אבותינו שתעלנו לארצנו ותטענו בגבולנו ושם נעשה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "לפניך ונקריב את קרבנות חובותינו תמידין כסדרן ומוספין כהלכתן ומוספי שבת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "וראש חדש נעשה ונקריב לפניך באהבה כמצות רצונך כמו שכתבת עלינו בתורתך על",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "ידי משה עבדך מפי כבודך כאמור : | וביום השבת שני כבשים בני שנה תמימים ושני",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "עשרונים סלת מנחה בלולה בשמן ונסכו עלת שבת בשבתו על עלת התמיד ונסכה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "ובראשי חדשיכם תקריבו עולה לידוה פרים בני בקר שנים ואיל אחד כבשים בני שנה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "שבעה תמימים ומנחתם ונסכיהם כמדבר שלשה עשרונים לפר ושני עשרונים לאיל ויין",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "כנסכו ושעיר לכפר ושני תמידין כהלכתן : | אלהינו ואלהי אבותינו רצה במנוחתינו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "קדשנו במצותיך תן חלקנו בתורתך שבענו מטובך ושמח את נפשנו בישועתך וטהר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "את לבנו לעבדך בלבב שלם וחדש עלינו את החדש הזה לטובה לברכה לששון ולשמחה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "לחן ולחסד ולרחמים לסליחת חטא ולמחלת עון ולכפרת פשע ולתלמוד תורה ולגמילות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "חסדים כי בעמך ישראל בחרת מכל העמים וחקי שבתות וראשי חדשים להם קבעת ברוך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "אתה ידוה מקדש השבת וישראל וראשי חדשים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "[rashi-type rubric, 13 lines — UNPROOFED raw OCR; Rashi-script letter confusions not corrected]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "רכה ומודים וסים סלוס חסריך יסרחל מי כמוך עם נוסע בה' מנן עזרך וחסר חרב גחוחך ויכחסו חויביך",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "לך וחתם על במותימו תדרוך חסריך יסרחל מי כמוך וחומר קדים ותתקבל חין כשהיכו ברוך ה' לעולם כו']",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "וקרים סלס וכפטרין לבחיה לסלו : במכחה מתפללי כסדר וחומ ﭏקינו בעבודה וחם יהיה רח ביום רחסון",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "כהגו סחין חומ' בדקתך לפי דעת החומר סהוח נדוק הדין בעבור הרסעים פחוזרים לגיהום וברח חן",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "חוזרין מסוס דכתיב והיה חדי חדם בחדסו וכו' ויבחו ורחו בפגרי החיסים הפוסעים כו' ולכן חין חומ' כדוק",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "קרין ברחם חדם חבל חם חין רח ביום ח' חומרי בדקתך : תם סדררח : הרוחה לבנה בחדוסה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "חייב לברך דחר' חחח' בר חניכח חמר ר' חסי חר' יוחנן כל המברך על החדם בזמנו זוכה ומקביל פני פכינם",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "כחוב הכח החדם הזה לכס כו' וכחיב ההם זה חלי וחנוהו תנח' דבי רבי יסמעחל חלאלח לח' זכו יסרחל [שח']",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "להקביל פני חביהם סב סמים כל חדם וחדם דיים חיו' חביי הילכך בריך מעומר מרימר ומר זוטרח מכתפי'",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "להו ומב רכין חדר' יוחנן עד מתי מברכין על החדם עד סתמלח סג ימתו וכמק רב יקודק חמר עד [/]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "ונקרדעי עד יו והלכתח כנהרדעי וחין יו בכלל ומחימתי מברכין עליו מסעברו עליו סלם ימים לדעת קבת",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "מפרסים מדחמ במסכת סופרים אחימתי מברכין על הלבנה מסתתבסס דהיינו סחרם כקנה לחורו [על'",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "דרך ומתוק החור וים חומרי עד מובחי פבת סחדם מבוסס חמרו פס חי מברכין ﭏח במוכחי סבת כפהוח",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "מבוסס ובגדיו כחים ותולה עיניו כנגדה ומייסר רג ליו וחומר סימן טוב סלסה פעמים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "[/rashi-type]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "ברוך | אתה ידוה אלהינו מלך העולם אשר במאמרו ברא שחקים וברוח פיו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 36,
+   "text": "כל צבאם חק וזמן נתן להם שלא ישנו את תפקידם ששים ושמחים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 37,
+   "text": "לעשות רצון קונם פועלי אמת שפעולתם אמת וללבנה אמר שתתחדש עטרת תפארת",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "862064742c8e1b385220660d753d197a22e68d53007472a898d5cb0de69a3577",
+ "proofed": false,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0555,
+   "wer": 0.0963,
+   "ref_chars": 2759
+  }
+ },
+ "text_file": "../text/fol47a_spread49_left.txt",
+ "proofing_note": "Mixed proofing scope: the explicitly marked UNPROOFED Rashi-type block is raw transcription and has not been proofed. Supplied error rates do not cover that block."
+}

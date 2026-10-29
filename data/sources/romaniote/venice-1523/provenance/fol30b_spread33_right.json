@@ -1,0 +1,259 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 33,
+ "side": "right",
+ "folio": "30b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של שבת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "יתגדל ויתקדש שמיה רבה בעלמא דברא כרעותיה וימליך מלכותיה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "ויצמח פורקניה ויקרב משיחיה ויפרוק עמיה ברחמתיה ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "בחייכון וביומיכון ובחיי דכל בית ישראל בעגלא ובזמן קריב ואמרו אמן : יהא שמיה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "רבה מברך לעלם ולעלמי עלמיא · יתברך וישתבח ויתפאר ויתרומם ויתנשא ויתהדר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "ויתעלה ויתהלל שמיה דקודשא בריך הוא · לעילא ולעילא מן כל ברכתא שירתא שבחתא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "ונחמתא דאמירן בעלמא ואמרו אמן : ברכו את יהוה המבורך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "ברוך אתה יהוה אלהינו מלך העולם יוצר אור ובורא חשך עושה שלום",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "ובורא את הכל · הכל יודוך והכל ישבחוך והכל יאמרו אין קדוש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "כיהוה · הכל ירוממוך סלה יוצר הכל האל הפותח בכל יום דלתות שערי מזרח · ופותח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "חלוני רקיע ומוציא חמה ממקומה ולבנה ממכון שבתה · ומאיר לעולם כלו וליושביו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "שברא במדת רחמים · המאיר לארץ ולדרים עליה ברחמים ובטובו מחדש בכל יום תמיד מעשה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "בראשית · מה רבו מעשיך יהוה כלם בחכמה עשית מלאה הארץ קנינך · המלך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "המרומם לבדו מאז המשובח והמפואר והמתנשא מימות עולם · אלהי עולם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "ברחמיך הרבים רחם עלינו אדון עוזנו צור משגבנו מגן ישענו משגב בעדנו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "אל ברוך גדול דיעה הכין ופעל זהרי חמה טוב יצר כבוד לשמו מאורות נתן סביבות עזו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "פנות צבאות קדושים רוממי שדי תמיד מספרו לאל קדושתו · תתברך יהוה אלהינו אין",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "כערכך ואין זולתך אפס בלתך ומי דומה לך · אין ערוך לך יהוה אלהינו בעולם הזה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "ואין זולתך מלכנו לחיי העולם הבא · אפס בלתך גואלנו לימות המשיח ומי דומה לך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "מושיענו לתחיית המתים : אל אדון[?] על כל המעשים · ברוך ומבורך בפי כל נשמה · גדלו",
+   "confidence": "low",
+   "uncertain_spans": [
+    "אדון[?]"
+   ]
+  },
+  {
+   "n": 21,
+   "text": "וטובו מלא עולם · דעת ותבונה סובבות אותו · המתגאה על חיות הקדש ונהדר בכבוד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "על המרכבה · זכות ומישור לפני כסאו חסד ורחמים מלא כבודו · טובים מאורות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "שבראם אלהינו · יצרם בדיעה בבינה ובהשכל · כח וגבורה נתן להם · להיות מושלים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "בקרב תבל · מלאים זיו מפיקים נוגה · נאה זיום בכל העולם · שמחים בצאתם ששים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "בבואם · עושים באימה רצון קוניהם · פאר וכבוד נותנים לשמו · צהלה ורנה לזכר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "מלכותו · קרא לשמש ויזרח אור · ראה והכין צורת הלבנה · שבח נותנים לו כל צבא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "מרום · תפארת גדולה שרפים וחיות ואופני הקדש :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "לאל אשר שבת מכל המעשים ביום השביעי נתעלה וישב על כסא כבודו ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "תפארת עטה ליום המנוחה עונג קרא ליום השבת · זה שיר שבח של",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "יום שביעי שבו שבת אל עליון מכל מלאכתו ביום השביעי משבח ואומר מזמור שיר ליום",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "השבת · לפיכך יפארו לאל כל יצוריו שבח יקר וגדולה וקדושה יתנו למלך שנתן מנוחה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "לעמו ישראל ביום שבת קדש · שמך יהוה אלהינו בעולמך יתקדש וזכרך מלכנו יתפאר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "בשמים ממעל ועל הארץ מתחת ועל כל שבח מעשה ידיך והמאורות אשר עשית גם הם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "[small-type printed rubrics]",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "ועונין",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 36,
+   "text": "ברוך יי המבורך לעולם ועד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 37,
+   "text": "[catchword] ופארוך",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 20,
+   "span": "אדון[?]"
+  }
+ ],
+ "sha256_text": "cea4ebf2db759f5dd24afb91cd41c40a6f18ea0d5e1d9b7467791d6a418926f3",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.073,
+   "bag_WER": 0.1238,
+   "ref_chars": 2234
+  }
+ },
+ "text_file": "../text/fol30b_spread33_right.txt"
+}

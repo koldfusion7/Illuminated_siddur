@@ -1,0 +1,241 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 36,
+ "side": "right",
+ "folio": "33b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של שבת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "ודברתי על הנביאים ואנכי חזון הרבתי וביד הנביאים אדמה · כי לא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "יעשה יהוה אלהים דבר כי אם גלה סודו אל עבדיו הנביאים ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "אריה שאג מי לא יירא ידוה אלהים דבר מי לא ינבא · ברוך אתה ידוה אלהינו מלך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "העולם אשר בחר בנביאים הטובים ורצה בדבריהם הנאמרים באמת · ברוך אתה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "יהוה הבוחר בתורה ובמשה עבדו ובישראל עמו ובנביאי האמת והצדק :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "ואומר ההפטרה ואחר כך מברך ארבעה ברכות אלו · גואלינו יהוה צבאות שמו קדוש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "ישראל · ברוך אתה יהוה אלהינו מלך העולם צור כל העולמים צדיק בכל הדורות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "האל הנאמן בכל דבריו הגוזר ומקיים שכל דבריו נאמרים באמת · ונאמן אתהו[?] יהוה",
+   "confidence": "low",
+   "uncertain_spans": [
+    "אתהו[?]"
+   ]
+  },
+  {
+   "n": 10,
+   "text": "אלהינו ונאמנים דבריך ודבר אחד מכל דבריך אחור לא ישוב ריקם כי אל מלך נאמן אתה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "ברוך אתה יהוה האל הנאמן בכל דבריו : רחם על ציון כי היא בית חיינו ולעגומת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "נפש תנקום נקם מהרה בימינו ברוך אתה יהוה מנחם ציון בבניה : שמחינו יהוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "אלהינו באליהו הנביא עבדך ובמלכות בית דוד משיחך מהרה יבוא ויגל לבנו על כסאו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "לא ישב זר ולא ינחלו עוד אחרים את כבודו כי בשם קדשך נשבעת לו שלא יכבה נרו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "לעולם ועד בימיו תושע יהודה וישראל ישכון לבטח וזה שמו אשר יקראו יהוה צדקנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "ברוך אתה יהוה מגן דוד : על התורה ועל העבודה ועל הנביאים ועל יום המנוח הזה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "שנתת לנו יהוה אלהינו למנוחה לקדושה לכבוד ולתפארת · על הכל יהוה אלהינו אנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "מודים לך ומברכים את שם קדשך תמיד אלהי ישענו ברוך אתה יהוה מקדש השבת :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "ואומר השליח · מי שבירך את אבותינו אברהם יצחק ויעקב משה ואהרן דוד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "ושלמה הוא יברך את אחינו ואחיותינו הבאים להתפלל הקדוש ברוך הוא ישמע בקול",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "תפלתם ויענה שועתם וימלא שאלתם ושאלותינו בטוב ונאמר אמן :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "אחינו ישראל ואנוסי ישראל וכו : כתוב בחול ואומר יהי חסדך יי וכו אשרי יושבי כו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "ויש נוהגין לומר מזמור לדוד הבו ליי בני אלים וכו וכתוב במוצאי שבת · ובנחה יאמר שובה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "יהוה רבבות אלפי ישראל שובה למעונך ושכון בבית מאויך וכל פה וכל לשון יתנו שבח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "והדר לשמך הקדוש : ואם הוא ר\"ח תופס השליח הספר ומכריז ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "יהוה אלהי ישראל ברחמיו הרבים ובחסדיו הגדולים והנעימים הוא ישקיף",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "ממעונו על מקדשו ועל היכלו וינערהו מעפרו ויקוממהו מהריסותו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "ויבנהו בנין מפואר בנין מהודר בנין משוכלל בנין אשר לא יהרס ולא ינתץ לעולם בימינו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "ובימי כל בית ישראל ואמרו אמן : ככתוב בנה בניתי בית זבול לך מכון",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "לשבתך עולמים : וכתוב עוד אבנך ונבנית בתולת ישראל עוד תעדי תופיך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "ויצאת כמחול משחקים : וכתוב כה אמר יהוה צבאות הנני שב שבות אהלי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "יעקב ומשכנותיו ארחם ונבנתה עיר על תלה וארמון על משפטו ישב : וכתוב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "ובנו בתים וישבו ונטעו כרמים ואכלו פרים : וכתוב לא יבנו ואחר ישב לא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "יטעו ואחר יאכל כי כימי העץ ימי עמי ומעשה ידיהם יבלו בחירי : וכתוב",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 9,
+   "span": "אתהו[?]"
+  }
+ ],
+ "sha256_text": "658d1a22cfee4bdff5a726477828606be529c906f82f22b410f026ac6e7d76f7",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.047,
+   "bag_WER": 0.1326,
+   "ref_chars": 2279
+  }
+ },
+ "text_file": "../text/fol33b_spread36_right.txt"
+}

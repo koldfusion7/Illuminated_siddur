@@ -1,0 +1,235 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 61,
+ "side": "right",
+ "folio": "58b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של עשרה בטבת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "אוי לנו כי סבבונו קוצים כסוחים ˙ | מי יתנני במדבר מלון אורחים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "בוגד אכזרי נוקם ברב חמתו ˙ | לעם שומר דת אלהיו ובריתו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "כלה בשרי ועורי בעצם גבורתו ˙ | אני הגבר ראה עני בשבט עברתו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "אברהם אבינו צור יזכור אהבתו ˙ | בנו יצחק יזכור לבני עקידתו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "יושב אהלים אל יזנח תמימותו ˙ | ומלאך פניו הושיעם באהבתו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "ספנו רדנו יוצרנו ביד שודדיך ˙ | עשה עמנו בעבור צדקת ידידיך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "הראנו חסדך והדרך והודך ˙ | אל תנאץ למען שמך אל תנבל כסא כבודך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "סליחה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "איך | נפלה חומת נות אשכל ˙ | בבא צורר להרוג לחבל ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "גזר להעמיד בהיכל צלם בל ˙ | בעצם היום הזה זה סמך מלך בבל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "דוב אורב אסרני ומביתי הגלני ˙ | הממני הרימני כמטרה הציבני :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "ויגרס בחצץ שיני באפר הכפישני ˙ | השביעני במרורים הרוני :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "זולעפתי מרוב מהמותי וצרותי ˙ | חמסני אויב וישב בחורי ובתולותי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "טרפני וכלני וירבו אנחותי ˙ | כלה בשרי ועורי שבר עצמותי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "יום אשר צר נחלת אל להכרית מהר ˙ | כלה עשה יום חשכו אור וסהר :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "להשמידי חשב ולבלעני דהר ˙ | את הכשדים הגוי המר והנמהר :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "מעדו קרסולי יום זנח צור ביתו ˙ | באור עזרתה לצר לפרוס אותו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "שם אויב לב על עמך להכריתו ˙ | ידוה למשפט שמתו וצור להוכיח יסרתו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "עצמו צרות יום בא אויב וכל חילו ˙ | פער פיו בבית יוצרו ומחוללו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "צרה בעם אל להבהילו ˙ | והוא במלכים יתקלס ורוזנים משחק לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "קראנוך וחלינו פניך לרחמינו ˙ | ראה כי אזלת יד ואין מליץ בעדנו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "שמע תפלת עמך והושיענו ˙ | שובנו אלהי ישענו והפר כעסך עמנו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "אב הרחמן העבר מעמך זעמים ˙ | בזכות נאמנים שלשה תמימים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "לב בניך נחם במחילת אשמים ˙ | אל מלך יושב על כסא רחמים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "תחנון",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "שעה | עליון ˙ לקול אביון ˙ ושועתי אל תבזה ˙ ולבי מר ˙ ביום נאמר ˙ לבן בוזי החוזה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "כתב לך את ˙ שם יום ואת ˙ עצם היום הזה : | כתב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "יה צבאות ˙ זכר תלאות ˙ אשר צר לי מאד עליהן ˙ במזל גדי ˙ הלא בעדי ˙ נאספו שלשתהן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "ובו סמך ˙ מנאץ שמך ˙ על קרית משושיהן ˙ ובו שיות ˙ הדחויות ˙ החל הנגף עליהן :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "ובו נאסף ˙ ראש הסף ˙ הוא עזרא הכהן ˙ כל אלה סבבוני ˙ ורבות בזה וכזה : | כתב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "ארי עלז ˙ ליום הלז ˙ וחץ קלקל לתוך עירי ˙ וקם עשירי ˙ בעשירי ˙ לשחת שאר העשירי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "ולחבל [?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 33,
+   "span": "[?]"
+  }
+ ],
+ "sha256_text": "31e342d1ac7bf357c345841fd81e6f8f63565540ba49821d193bbc19e9f689ee",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0856,
+   "bag_WER": 0.108,
+   "ref_chars": 1800
+  }
+ },
+ "text_file": "../text/fol58b_spread61_right.txt"
+}

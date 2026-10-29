@@ -1,0 +1,253 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 28,
+ "side": "right",
+ "folio": "25b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של שבת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "פורס מפה ומקדש ואין צריך נטילה אחר כך ומה שפורסין מפה על הפת י\"א שלא לביישו[?] מפני שקודם",
+   "confidence": "low",
+   "uncertain_spans": [
+    "לביישו[?]"
+   ]
+  },
+  {
+   "n": 3,
+   "text": "בפסוק וי\"א זכר למן שהיה טל מלמעלה וטל מלמטה · ומתחיל ויכלו השמים עד לעשות :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "ברוך אתה יהוה אלהינו מלך העולם אשר קדשנו במצותיו ורצה בנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ושבת קדשו באהבה וברצון הנחילנו זכרון למעשה בראשית",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "תחלה שבת למקראי קדש זכר ליציאת מצרים · כי בנו בחרת ואותנו קדשת מכל העמים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "ואת שבת קדשך באהבה וברצון הנחלתנו ברוך אתה יהוה מקדש השבת :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "ואחר הקדוש נוטל ידיו ומברך על נטילת ידים וצריך שיהיה הכלי מחזיק רביעית אבל אם היה כלי נקוב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "מלמטה אם אינו יכול לקיים בו כשיעור אפי' מועט לא הוית נטילה ומים אחרונים כשרים בין בחמין בין",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "ברותחין · וברכת היין של קדוש פוטרת יין שבתוך הסעודה ואחר מסקין[?] כמו שברכת הפת פוטרת כל",
+   "confidence": "low",
+   "uncertain_spans": [
+    "מסקין[?]"
+   ]
+  },
+  {
+   "n": 11,
+   "text": "מיני מאכל שבא מחמת סעודה אבל על שנוי יין מברך הטוב והמטיב וכתב הרא\"בד שעל שינוי פת נקייה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "גם כן הטוב והמטיב אלא אם כן נהנים אחרים עמו כתב בשם רש\"י שהשותה מים בתוך הסעודה מברך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "שהכל ורוב הפוסקים כתבו שיין פטרו ומים אחרונים חובה ואינם טעונין ברכה ופסולים בחמין ורותחין",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "מפני שאין אדם מטהר ידיו · כוס של ברכת המזון טעונה ד' דברים וסמניך חמשה חי מלא שטיפה הדחה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "ופי' חי\"א ליין שאינו מוזג ועד שמגיע לברכת הארץ י\"מ לכוס שלא יהיה פגום וי\"מ מחייבין גם כן לכוס",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "עשרה דברים ולא נהגו כן :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "נברך שאכלנו משלו · ועונין ברוך שאכלנו משלו ובטובו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "הגדול חיינו · ברוך זכרו ברוך כחו ברוכה לעד מתנתו ברוך אתה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "יהוה אלהינו מלך העולם הזננו הזן את העולם כלו בטובו בחן ובחסד וברחמיו ובחסדיו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "הרבים כי הוא נותן לחם לכל בשר כי לעולם חסדו · חסדו לעד יהא עמנו ובטובו הגדול",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "ימלא חסרוננו בעבור שמו הגדול כי הוא אל זן מרחם ומפרנס ומכלכל ומכין מחיה ומזו[?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ומזו[?]"
+   ]
+  },
+  {
+   "n": 22,
+   "text": "לכל בריותיו ולכל מעשי ידיו אשר ברא ברוך אתה יהוה הזן את הכל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "על ארצנו ועל נחלתינו נודה לך יהוה אלהינו נפארך מלכנו נהדרך מושיענו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "ונמליכך מלכנו מלך יחיד חי העולמים שרצית והנחלת את אבותינו ארץ",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "חמדה טובה ורחבה ברית ותורה וחיים ומזון ועל שהוצאתנו מארץ מצרים ופדיתנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "מבית עבדים ועל בריתך שחתמת בבשרינו ועל תורתך שלמדתנו ועל חוקי רצונך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "שהודעתנו ועל חיים חן וחסד ומזון שאתה חונן ומלוה אותנו בכל יום בכל עת בכל שעה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "ובכל זמן : ועל הכל יהוה אלהינו אנו מודים לך ומברכין את שמך תמיד אלהי ישענו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "והנקם לנו מצרינו · ומטובך תשביע את נפשנו ונודה לך יהוה אלהינו על נחלתנו ועל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "נחלת אבותינו תושיבנו ותושיענו ותנחלנו ותטענו בגבולנו ככתוב ואכלת ושבעת וברכת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "את יהוה אלהיך על הארץ הטובה אשר נתן לך ברוך אתה יהוה על הארץ ועל המזון :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "נחמנו יהוה אלהינו בציון עירך ברנה ובשכלול בית מקדשך ורחם יהוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "אלהינו עלינו ועל ישראל עמך ועל ציון משכן כבודך ועל מלכותך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "ועל",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 2,
+   "span": "לביישו[?]"
+  },
+  {
+   "line": 10,
+   "span": "מסקין[?]"
+  },
+  {
+   "line": 21,
+   "span": "ומזו[?]"
+  }
+ ],
+ "sha256_text": "ddf9353a50534600f8b6a0cd53378cf2b46bf209b71a697df4adb66be6ccd8e2",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0966,
+   "bag_WER": 0.2935,
+   "ref_chars": 2329
+  }
+ },
+ "text_file": "../text/fol25b_spread28_right.txt"
+}

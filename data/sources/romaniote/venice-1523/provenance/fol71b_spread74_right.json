@@ -1,0 +1,253 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 74,
+ "side": "right",
+ "folio": "71b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של ארבע ערכים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "הן עם אחור נזורו˙ | ודתיהם שונות ודתך בלי ישמורו˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "דות[?] יזרעו וסופתה יקצורו˙ | קמה אין לו :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "דות[?]"
+   ]
+  },
+  {
+   "n": 4,
+   "text": "הכינותי כסף לגנזיך יעל˙ | לאבד זה הגוי הנגעל˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "כל הברכים אשר לא כרעו לבעל˙ | וכל הפה אשר לא נשק לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "להביא אל גנזי המלך אוסף˙ | עשרת אלפים ככר כסף˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "ונפש אבה כל בית יוסף˙ | פעם אחת ולא אשנה לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "ויאמר לו המלך יהי לך קנינך˙ | וזאת טבעתי הויה על ימינך˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "והעם לעשות בו כטוב בעיניך˙ | ובא עד קצו ואין עוזר לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "יצא וסופרי המלך נקראו˙ | ויכתבו ככל אשר קראו˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "ואל עם ועם רצים יצאו˙ | שרי הרכש[?] אשר לו :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "הרכש[?]"
+   ]
+  },
+  {
+   "n": 12,
+   "text": "היה דברו נחוץ לשמור˙ | כרם חמ[?]ד ביום אחד לזמור˙",
+   "confidence": "low",
+   "uncertain_spans": [
+    "חמ[?]"
+   ]
+  },
+  {
+   "n": 13,
+   "text": "בשלשת עשר החל וגמור˙ | לא אוסיף עוד עבור לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "קרע מרדכי בגדיו לפני אל˙ | ויצעק צעקה על גולת אריאל˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "הבנים אין לישראל˙ | אם יורש אין לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "טרוף טורף שאר המוני˙ | מי נתן למשסה יעקב למוני˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "וישראל לבוזזים הלא ידוה˙ | זו חטאנו לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "נערות אסתר הגידוה דבר˙ | שמועה שמענו כיענים במדבר˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "ומרדכי בלבוש שק עבר˙ | לא ידענו מה היה לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "בגדים שלחה להלבישו˙ | ולא קבל ממרירות נפשו˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "ותשלח להתך לחוקרו ולדרשו˙ | לדעה מה יעשה לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "רוחו הוציא אליו וחוה˙ | ופרשת הכסף לפניו שוה˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "ופתשגן שלח ואל אסתר צוה˙ | לבא אל המלך להתחנן לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "בתשובה אמרה להשיבו˙ | כי בן מות אשר לא יקרא לבא˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "לבד מאשר יושיט לו המלך שרביט זהבו˙ | בקרוב איש להשתחוות לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "יקיר כשמעו דברי הדסה˙ | צעק אהה כי אין מנוסה˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "זעף ידוה אשא˙ | כי חטאתי לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "שלח אליה עוד אל תדמי˙ | להמלט בית המלך מכל לאומי˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "כי את תאבדי ואולי עמי˙ | אחרי נמכר גאולה תהיה לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "ממקום אחר ישלח שלומיו˙ | עושה שלום במרומיו˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "כי לא כלו רחמיו˙ | על כן אוחיל לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "ותענהו לך כנוס חוכי פדיום˙ | וצומו עלי שלשת ימים לילה ויום˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "ובקשו רחמים מאל איום˙ | ואל תתנו דמי לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "אל",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 3,
+   "span": "דות[?]"
+  },
+  {
+   "line": 11,
+   "span": "הרכש[?]"
+  },
+  {
+   "line": 12,
+   "span": "חמ[?]"
+  }
+ ],
+ "sha256_text": "451f426b537b6465c0741a27eeb07c992ba083a424d56f61fbedec8d78eb4f7d",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.123,
+   "bag_WER": 0.1069,
+   "ref_chars": 1463
+  }
+ },
+ "text_file": "../text/fol71b_spread74_right.txt"
+}

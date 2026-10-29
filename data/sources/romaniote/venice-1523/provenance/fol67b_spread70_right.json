@@ -1,0 +1,246 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 70,
+ "side": "right",
+ "folio": "67b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של ערכים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "עד הערב : והשתחוו עם הארץ פתח השער ההוא בשבתות ובחדשים לפני ידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "והעלה אשר יקריב הנשיא לידוה ביום השבת ששה כבשים תמימים ואיל תמים : ומנחה איפה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "לאיל ולכבשים מנחה מתת ידו ושמן הין לאיפה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ערך זכור הכרוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "במנחת שבת שקודם שבת זכור מתפללין תפלה בלחש והש\"ץ חוזר ט\"ב[?] ואומר : ברוך אתה ה' אלהינו ואלהי",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ט\"ב[?]"
+   ]
+  },
+  {
+   "n": 7,
+   "text": "אבותינו אלהי אברהם אלהי יצחק ואלהי יעקב האל הגדול הגבור והנורא אל עליון קונה שמים וארץ :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "ויבא | ארץ ראש קצנים ˙ | אל ראשית גוים אבי לצנים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "בטלאים פקד נצנים ˙ | בעברם חלוצים במגן וצינים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "גאים להצית בקוצנים ˙ | גורמו טרם יותרו לשכים ולצנינים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "ולצנינים אז בחוכם למוגגי ˙ | המן בן המדתא האגגי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "ויזכור בזכור איד שגגי ˙ | לולי אל עוזר מבין הגיגי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "ברוך אתה ה' מגן אברהם : אתה גבור עד וכאמן אתה להחיות מתים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "שאול | דרש באבי הנחל ˙ | דברי ריבות לריב על נחל ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "העגלה הערופה בנחל ˙ | היא בעד חלל מה תחיש מחל ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "ולא ידע כי נכוה בה כגחל ˙ | ועדיה מתקו לו רגבי נחל ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "נחל לא יוכל לעבור עבר ˙ | ועל ריב לא לו נתגבר ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "ויזכור בזכור זרעי להתעבר ˙ | לולי הנשים תחי ועל פשעי עבר ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "בא\"י מחיה המתים נקדישך כועד[?] כי אל מלך גדול וקדוש אתה",
+   "confidence": "low",
+   "uncertain_spans": [
+    "כועד[?]"
+   ]
+  },
+  {
+   "n": 20,
+   "text": "עד | זמן פקידה לץ רבה ˙ | זר הנזר שת לשיתו חרבה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "חלק לבו אדומי לסורבה ˙ | חמל עליו בקרב מעשות מריבה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "טוב משנים וכרים הרבה ˙ | טבוח לאל נערץ בסוד קדושים רבה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "רבה עברה ובה נאשם ˙ | בלא בן ארוחת ואהבה שם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "ויזכור בזכור עמי לרוששם ˙ | לולי עיר וקדיש עובר בראשם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "בא\"י האל הקדוש ˙ אתה אחד עד ומקדשים את שמך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "עיר | יושב הנגב כקרב ˙ | ישב ובישר צדק בקהל רב :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "בטובה חכמה מכלי קרב ˙ | כיון ללמד ידי לקרב :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "לא גמר ונעקץ כעקרב ˙ | להדחות למען אשר לא יקרב ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "יקרב זעום בריחם אכזרי ˙ | ישולח בו מלאך אכזרי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "ויזכור בזכור זרעי להכזירי ˙ | לולי זכור ושמור בצדקו עזרי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "ברוך אתה ה' מקדש השבת : רצה ה' אלהינו עד וכשנים קדמוניות ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "עמלק | מחלל ברית מילה ˙ | מדוע עליו נכמר בחמלה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "נושב לו לך אל נמלה ˙ | גשוא אל כף לבת אמולה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "שריגיו",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 6,
+   "span": "ט\"ב[?]"
+  },
+  {
+   "line": 19,
+   "span": "כועד[?]"
+  }
+ ],
+ "sha256_text": "057c2aee09c79c0905e40a20da92e9fac4ad3ce1d3c040381f5adbe4f3485a61",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.1462,
+   "wer": 0.3801
+  }
+ },
+ "text_file": "../text/fol67b_spread70_right.txt"
+}

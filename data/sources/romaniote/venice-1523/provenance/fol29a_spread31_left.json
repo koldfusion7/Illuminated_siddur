@@ -1,0 +1,323 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 31,
+ "side": "left",
+ "folio": "29a",
+ "printed_folio_number": "כט",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של שבת כט",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "מחטבות תבנית היכל : מזוינו מלאים מפיקים מזן אל זן צאננו מאליפות מרבבות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "בחוצותינו : אלופינו מסבלים אין פרץ ואין יוצאת ואין צוחה ברחבתינו : אשרי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "העם שככה לו אשרי העם שיהוה אלהיו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "[rubric] ואומר ברכת השיר · | ואומר הללויה הללו אל בקדשו | ואומר תהלה לדוד עד סוף",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "תתהלל מלך בפי כל קדושים ובישרי לבב ובקרב ישרים יתרומם וישתבח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "שמך מלכנו במקהלות ישראל עמך יתפאר שמך וזכרך מלכנו מלך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "מלכי המלכים לנצח נצחים · ומבורך שמך מלכנו על כל ברכה ותהלה : ככתוב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "ויברכו שם כבודך ומרומם על כל ברכה ותהלה · וכתוב וירוממוהו בקהל עם ובמושב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "זקנים יהללוהו במקהלות ברכו אלהים יהוה ממקור ישראל ברוך אתה יהוה מלך מהולל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "בשבחות :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "[rubric] ואומר קדיש ואחר כך מזמור לדוד ה' מי יגור ואומר מלכות שמים יהי כבוד ה' מלך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "הודו ליהוה כי טוב כי לעולם חסדו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "הודו לאלהי האלהים כי לעולם חסדו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "[table, right column; each line followed in print by כל'ח]",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "הודו לאדוני האדונים כל'ח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "לעושה השמים בתבונה כל'ח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "לעושה אורים גדולים כל'ח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "את הירח וכוכבים לממשלות בלילה כל'ח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "ויוצא ישראל מתוכם כל'ח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "לגוזר ים סוף לגזרים כל'ח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "ונער פרעה וחילו בים סוף כל'ח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "למכה מלכים גדולים כל'ח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "לסיחון מלך האמורי כל'ח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "ונתן ארצם לנחלה כל'ח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "שבשפלנו זכר לנו כל'ח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "נותן לחם לכל בשר כל'ח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "[table, left column; each line followed in print by כל'ח; one further כל'ח printed below the column]",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "לעושה נפלאות גדולות לבדו כל'ח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "לרוקע הארץ על המים כל'ח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "את השמש לממשלת ביום כל'ח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "למכה מצרים בבכוריהם כל'ח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "ביד חזקה ובזרוע נטויה כל'ח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "והעביר ישראל בתוכו כל'ח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "למוליך עמו במדבר כל'ח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 36,
+   "text": "ויהרג מלכים אדירים כל'ח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 37,
+   "text": "ולעוג מלך הבשן כל'ח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 38,
+   "text": "נחלה לישראל עבדו כל'ח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 39,
+   "text": "ויפרקנו מצרינו כל'ח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 40,
+   "text": "הודו לאל השמים כל'ח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 41,
+   "text": "כל'ח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 42,
+   "text": "[rubric] הודו לה' קראו בשמו וכו' עד וירא[?] כבר[?] לבם[?] וכו' עד להשתבח בתהלתיך ברוך ה' אלהי ישראל מן העולם",
+   "confidence": "low",
+   "uncertain_spans": [
+    "וירא[?]",
+    "כבר[?]",
+    "לבם[?]"
+   ]
+  },
+  {
+   "n": 43,
+   "text": "[rubric] ועד העולם ויאמר כל העם אמן הללויה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 44,
+   "text": "הללויה הללו את שם יהוה הללו עבדי יהוה : שעמדים בבית יהוה בחצרות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 45,
+   "text": "בית אלהינו : הללויה כי טוב יהוה זמרו לשמו כי נעים : כי יעקב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 46,
+   "text": "בחר לו יה ישראל לסגלתו : כי אני ידעתי כי גדול יהוה ואדנינו מכל אלהים : כל",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 42,
+   "span": "וירא[?]"
+  },
+  {
+   "line": 42,
+   "span": "כבר[?]"
+  },
+  {
+   "line": 42,
+   "span": "לבם[?]"
+  }
+ ],
+ "sha256_text": "0fbf6001263872cc2f8ddf9790408ac9a5c87f1161b9199b75a9ca41c1d5f64a",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.289,
+   "bag_WER": 0.2378,
+   "ref_chars": 1647
+  }
+ },
+ "text_file": "../text/fol29a_spread31_left.txt"
+}

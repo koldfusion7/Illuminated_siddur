@@ -1,0 +1,241 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 78,
+ "side": "left",
+ "folio": "76a",
+ "printed_folio_number": "עו",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של צום אסתר | עו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "זרות ספד ותענית ולפרסם ניסי בשכחה ˙ | ועשה אותו יום משתה ושמחה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "קדוש הנאדר בגובהי מעוני ˙ | קדקד אגגי מחצת לעיני ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "קרקרת שורש וענף לשוטני ומוני ˙ | כן יאבדו כל אויביך ידוה : | חל מלך[?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "מלך[?]"
+   ]
+  },
+  {
+   "n": 5,
+   "text": "סליחה אחרת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "את | פניך ידוה בבקשי אדרוש ˙ | ביתקת משנאי ותשקמו מי רוש ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "גערת בם ועל גביהם הושבתני ראש ˙ | ויהי בימי אחשורוש :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "דעתו עליו כנתישבה וימלך ˙ | הטעהו בחשבון לב שובב מלך ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "וישתמש בכלי קדש לפני זר מולך ˙ | בימים ההם כשבת המלך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "זד יהיר על גב עשר בדרכו ˙ | חיל פרס ומדי בהשלים כס ערכו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "טעם ומשתה עשה ותקן כל צרכו ˙ | בשנת שלש למלכו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "ידו חזקה ותרב גדלתו ˙ | כבד ועתק עבודתו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "לבש בגדי כהונה ויגאה בסכלותו ˙ | בהראותו את עושר כבוד מלכותו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "מיני סעודה תקן כרסם למלא ˙ | נמנעו גדולי הדור ויברחו מחבלי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "סער מתחולל לעתיד ואף על עולה ˙ | ובמלאת הימים האלה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "על רצפת בהט ושש למלאת משאלת ˙ | פזר כסף וזהב לנפשו משתוללת ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "צהר העמיד להאיר ולהראות ממשלת ˙ | חור כרפס ותכלת :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "קרא דרור לכל צורר באהב ˙ | רכב על גב עוז ומשל ורהב ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "שת חוק לכל שותה כוס אחד יוהב ˙ | והשקות בכלי זהב :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "ישב על כנו ומתניו שנס ˙ | ויין מדינתו השקה לכל מי שכנס ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "סגורים פתח וזן ופרנס ˙ | והשתיה כדת אין אונס :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "פצה תבא ערומה ותמאן יפת העין ˙ | יען בנות ישראל חשבתן כאין ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "יה טרם אקרא אמצאהו זין ˙ | ביום השביעי כטוב לב המלך ביין :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "קדוש פרסם סעודת ושתי לדורשים ˙ | להודיע לאיזו שלוה נכנסה בת קדושים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "ערכה שולחנה ומזגה יין ענושים . | גם ושתי המלכה עשתה משתה נשים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "חסדו זכר מרום ועכר עוכרי ˙ | זממי הפיק והקשיב אמרי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "קראתיהו וענני ויישר אשורי ˙ | ותבט עיני בשורי ˙ | חל מלך ה' הושיעה[?] המלך ˙",
+   "confidence": "low",
+   "uncertain_spans": [
+    "הושיעה[?]"
+   ]
+  },
+  {
+   "n": 28,
+   "text": "סליחה אחרת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "אגגי[?] | בקש לעשות מחשבת זממו ˙ | בהוסדו על עם קדוש להחרימו ˙",
+   "confidence": "low",
+   "uncertain_spans": [
+    "אגגי[?]"
+   ]
+  },
+  {
+   "n": 30,
+   "text": "ימיני געה בבכיה לצור מרומו ˙ | כי לא יטוש ידוה עמו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "אגגי דמה לכלות עם ולאבדנו ˙ | הפיל פור הוא הגורל לגדענו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "ימיני לא קם ולא זע ממנו ˙ | והבוטח בידוה חסד יסובבנו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 4,
+   "span": "מלך[?]"
+  },
+  {
+   "line": 27,
+   "span": "הושיעה[?]"
+  },
+  {
+   "line": 29,
+   "span": "אגגי[?]"
+  }
+ ],
+ "sha256_text": "1782130b3543acdd17cd2ed77d0586db8212b54cf0b11a4c4e7249bfdbdd71a9",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.1316,
+   "bag_WER": 0.1833,
+   "ref_chars": 1634
+  }
+ },
+ "text_file": "../text/fol76a_spread78_left.txt"
+}

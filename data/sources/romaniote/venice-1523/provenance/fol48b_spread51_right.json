@@ -1,0 +1,247 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 51,
+ "side": "right",
+ "folio": "48b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של חנוכה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "גדולה ואחר כך באו בניך לדביר ביתך ופנו את היכלך וטהרו את מקדשך והדליקו נרות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "בחצרות קדשך וקבעום שמנה ימים בהלל ובהודאה : | ועל כלם וכו'",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "דין | הדלקה תנו רבנן מצות חנוכ' נר איש וביתו וכו' אחד מדליק אחד מכאן ואילך מוסיף והולך בב\"ה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ומניח בפתח ביתו בצד שמאל לנכנס כדי שתהא מזוזה מימין ונר חנכה משמאל ואם אין מזוזה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "בבית כתב בה\"ג[?] שמניחו לצד ימין ובבית הכנס' מניח לצד דרום זכר למנור' שהית' בדרום והיושב בעליה",
+   "confidence": "low",
+   "uncertain_spans": [
+    "בה\"ג[?]"
+   ]
+  },
+  {
+   "n": 7,
+   "text": "מניחו בחלון הסמוך לר\"ה וצריך שיניחהו למטה מי' טפחים ואם הניחו למעלה עד עשרים אמה יצא ומברך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "ביום ראשון ג' ברכות המדליק להדליק ושעשה ושהחיינו | והרואה ב' מכאן ואילך המדליק מברך ב'",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "והרואה אחד ודוקא שאין הרואה עתיד להדליק ושאין לו מי שמדליק בביתו · ואם שכח המדליק ביום אחד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "לברך זמן מברך אימתי שיזכור כל שמנה ימים לדעת הרא\"ש ואם כבתה אין זקוק לה ואסור להשתמש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "לאורה ובשבת מדליק נר חנכה תחלה ואחר של שבת ואם לא כוון בנר שבת קבלת שבת יכול להדליק שבת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "תחלה ומי שאין לו לקנות נר שבת וחנכה נר שבת עדיף משום שלום הבית וכתב בירושלמי שאין מבדילין",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "על נר חנכה שאין נאותין[?] לאורו :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "נאותין[?]"
+   ]
+  },
+  {
+   "n": 14,
+   "text": "ברוך אתה ידוה אלהינו מלך העולם אשר קדשנו במצותיו וצונו להדליק נר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "של חנכה : | ברוך אתה ידוה אלהינו מלך העולם שעשה נסים לאבותינו בימים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "ההם ובזמן הזה : | ברוך אתה ידוה אלהינו מלך העולם שהחיינו וקיימנו והגיענו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "לזמן הזה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "בשחרית מתפללין כסדר ואומר מזמור שיר חנוכת הבית לדוד ואומר על הנסים בהודאה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "ואחר כך מברך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "ברוך אתה ידוה אלהינו מלך העולם אשר קדשנו במצותיו וצונו לגמור את ההלל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "הללויה | הללו עבדי ידוה הללו את שם ידוה : | יהי שם ידוה מבורך מעתה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "ועד עולם : | ממזרח שמש עד מבואו מהלל שם ידוה : | רם על",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "כל גוים ידוה על השמים כבודו : | מי כידוה אלהינו המגביהי לשבת | המשפילי לראות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "בשמים ובארץ : | מקימי מעפר דל מאשפות ירים אביון : | להושיבי עם נדיבים עם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "נדיבי עמו : | מושיבי עקרת הבית אם הבנים שמחה הללויה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "בצאת | ישראל ממצרים בית יעקב מעם לועז : | היתה יהודה לקדשו ישראל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "ממשלותיו : | הים ראה וינוס הירדן יסוב לאחור : | ההרים רקדו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "כאילים גבעות כבני צאן : | מה לך הים כי תנוס הירדן תסוב לאחור : | ההרים תרקדו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "כאילים גבעות כבני צאן : | מלפני אדון חולי ארץ מלפני אלוה יעקב : | ההופכי הצור",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "אגם מים חלמיש למעינו מים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "לא | לנו ידוה לא לנו כי לשמך תן כבוד על חסדך על אמתך : | למה יאמרו הגוים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "איה נא אלהיהם : | ואלהינו בשמים כל אשר חפץ עשה | עצביהם כסף וזהב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "מעשה ידי אדם | פה להם ולא ידברו עינים להם ולא יראו : | אזנים להם ולא ישמעו אף להם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "ולא",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 6,
+   "span": "בה\"ג[?]"
+  },
+  {
+   "line": 13,
+   "span": "נאותין[?]"
+  }
+ ],
+ "sha256_text": "f961331c0db09682b3cd929d6073ecbd4dedd5663d60322a53c699d37ef4de37",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.1318,
+   "bag_WER": 0.382,
+   "ref_chars": 2154
+  }
+ },
+ "text_file": "../text/fol48b_spread51_right.txt"
+}

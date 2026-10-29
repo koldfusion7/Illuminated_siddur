@@ -1,0 +1,234 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 58,
+ "side": "right",
+ "folio": "55b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של עשרה בטבת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "עננו | ידוה עננו ביום צום תעניתנו בעת ובעונה הזאת כי בצרה גדולה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "אנחנו אל תסתר פניך ממנו ואל תתעלם מתחנתנו הט אזנך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "לרנתנו ולשועתנו כי אתה ידוה העונה בעת צרה פודה ומציל בכל עת צרה וצוקה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "כאמור ויצעקו אל ידוה בצר להם וממצוקותיהם יוציאם : וכתוב טרם יקראו ואני אענה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "עוד הם מדברים ואני אשמע טרם נקרא אתה תענה טרם נדבר אתה תשמע ברוך אתה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "ידוה העונה בעת צרה ומושיע : רפאינו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "בא' אלהינו ואלהי אבותינו אלהי אברהם אלהי יצחק עד קונה שמים וארץ ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "את | שמועתנו מי האמין ˙ אויבינו אחוונו שמאל וימין ˙ בצום העשירי לנו תימין",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "בצדקת אב אשר בך האמין : בא' מגן אברהם אתה גבור עד להחיות מתים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "בא עלי מלך בבל ˙ ונתנה עיר האמת לריק ולהבל ˙ בצום העשירי הפוך לשמחה אבל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "והחיה בגשם קשורי בכל בבל : בא' מחיה המתים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "נעריצך | ונקדישך מלכנו ונשלש לך קדושה כסוד אלי קדש וכן כתוב על יד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "נביאך וקרא זה אל זה ואמר קדוש קדוש קדוש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "ידוה צבאות מלא כל הארץ כבודו : לעומתם משבחים ואומרים ברוך כבוד ידוה [?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 16,
+   "text": "ממקומו : ובדברי קדשך עד וקדוש אתה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "גש וקרב מלך וסבב עיר ˙ ועדיין לא הוכתה העיר ˙ בצום העשירי חשכנו תאיר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "ונקדישך אל קדיש ועיר : בא' האל הקדוש ˙ אתה חונן עד חכמה ותשכל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "דלקונו וסבבונו צרים ˙ להפיל מגדלות מבצרים ˙ בצום העשירי תשתיל חצרים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "חכמים אשר כאישון נצורים : בא' חונן הדעת ˙ השיבנו עד לפניך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "הקיפו חומה הבצורה ˙ והיתה למאד עת צרה ˙ בצום העשירי לקוראי עצרה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "תשובב ביד לא קצרה : בא' הרוצה בתשובה ˙ סלח לנו עד וסלח אתה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "ובעצם היום הזה ˙ סבונו וסבבונו מזה ומזה ˙ בצום העשירי שכון בבית חזה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "וסלח לעון העם הזה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "כל הקהלות שאומרים הסליחות אחר התפלה מתחילין מכאן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "כי | על רחמיך הרבים אנו בטוחים ˙ ועל צדקותיך אנו נשענים ˙ ולסליחותיך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "אנו מחכים ˙ ולישועתך אנו מקוים ˙ אתהו ידוה מלך אוהב צדקות מקדם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "ומעביר עונות עמך ˙ ומסיר חטאת יראיך כורת ברית לראשונים ˙ ומקיים שבועה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "לאחרונים ˙ אתהו שירדת בענן כבודך על הר סיני והראת דרכי טובך למשה עבדך ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "ארחות חסדיך גלית לו והודעתו כי אתה ידוה אל רחום וחנון ארך אפים ורב חסד ואמת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "ומרבה להטיב ומנהיג את העולם כולו במדת רחמים וכן כתוב ויאמר אני אעביר כל טובי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "על פניך וקראתי בשם ידוה לפניך וחנותי את אשר אחון ורחמתי את אשר ארחם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "אל",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 15,
+   "span": "[?]"
+  }
+ ],
+ "sha256_text": "b50ecee5cba3086983af850a29d469b9d8f8fd42c32d9e57c4702d3722f525a4",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0819,
+   "wer": 0.2799
+  }
+ },
+ "text_file": "../text/fol55b_spread58_right.txt"
+}
