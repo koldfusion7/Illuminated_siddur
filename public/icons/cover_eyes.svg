@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="t-cover-eyes">
+  <title id="t-cover-eyes">Cover eyes</title>
+  <path d="M6.6 11.4h10.8"/>
+  <path d="M9 11.4V7.2"/>
+  <path d="M12 11.4V6.4"/>
+  <path d="M15 11.4V7.2"/>
+  <path d="M6.6 11.4L5 9.4"/>
+  <path d="M7.8 15.8Q12 19.2 16.2 15.8"/>
+</svg>

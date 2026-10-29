@@ -1,22 +1,873 @@
-body{font-family:system-ui,sans-serif;margin:0;background:#fbf8f1;color:#222}
-main{padding:1rem 1.5rem}
-.banner{background:#fff3cd;border:1px solid #c9a227;padding:.5rem;font-weight:600}
-.controls{display:flex;flex-wrap:wrap;gap:1rem;align-items:flex-start;margin-bottom:1rem}
-.controls ol{margin:0;padding-left:1.2rem}
-button{margin-left:.25rem}
-button:focus-visible,input:focus-visible,select:focus-visible{outline:3px solid #1a5fb4;outline-offset:2px}
-.reader{display:grid;grid-template-columns:1fr 320px;gap:1rem}
-table{border-collapse:collapse;width:100%;background:#fff}
-th,td{border:1px solid #ccc;padding:.4rem;vertical-align:top;text-align:start}
-tr.combined td{background:#eef7ee}
-.tag{display:inline-block;font-size:.75rem;background:#e7e2d6;border-radius:4px;padding:0 .3rem;margin:0 .15rem}
-.tag.l2{background:#e6dcf5}
-.muted{color:#555;font-size:.85rem}
-.combined{color:#2d6a2d;font-style:italic}
-.rail{background:#fff;border:1px solid #ccc;padding:.5rem}
-.rail ul{list-style:none;padding:0}
-.rail li{border-bottom:1px solid #eee;padding:.3rem 0}
-.rail li.conflict{border-left:4px solid #c0392b;padding-left:.4rem}
-.icon{font-size:1.2rem}
-.il-line{margin:.2rem 0 .2rem 1rem}
-p[dir=rtl]{font-size:1.05rem}
+/* Self-hosted fonts (public/fonts). No CDN. size-adjust keeps fallback reflow small (DESIGN §5.2.6). */
+@font-face { font-family: "Frank Ruhl Libre"; src: url("/fonts/frankruhllibre.woff") format("woff"); font-weight: 300 900; font-display: swap; unicode-range: U+0590-05FF, U+FB1D-FB4F; }
+@font-face { font-family: "David Libre"; src: url("/fonts/davidlibre-regular.woff") format("woff"); font-weight: 400; font-display: swap; }
+@font-face { font-family: "David Libre"; src: url("/fonts/davidlibre-medium.woff") format("woff"); font-weight: 500 700; font-display: swap; }
+@font-face { font-family: "EB Garamond"; src: url("/fonts/ebgaramond.woff") format("woff"); font-weight: 400 800; font-display: swap; }
+@font-face { font-family: "EB Garamond"; src: url("/fonts/ebgaramond-italic.woff") format("woff"); font-weight: 400 800; font-style: italic; font-display: swap; }
+@font-face { font-family: Inter; src: url("/fonts/inter.woff") format("woff"); font-weight: 100 900; font-display: swap; }
+@font-face { font-family: "IBM Plex Mono"; src: url("/fonts/plexmono.woff") format("woff"); font-weight: 400; font-display: swap; }
+@font-face { font-family: "IBM Plex Mono"; src: url("/fonts/plexmono-medium.woff") format("woff"); font-weight: 500 700; font-display: swap; }
+@font-face { font-family: "Hebrew Fallback"; src: local("David"), local("Times New Roman"); size-adjust: 104%; }
+
+/* ===========================================================================
+   1. TOKENS — LIGHT ("parchment")
+   =========================================================================== */
+:root {
+  /* --- surfaces ------------------------------------------------------- */
+  --parchment-0: #FBF7EF;   /* page            */
+  --parchment-1: #F5EFE2;   /* panel           */
+  --parchment-2: #EDE4D2;   /* sunken / raised */
+  --rule:        #D9CBB2;   /* hairline, content separator   1.5:1 */
+  --rule-strong: #BFAE91;   /* heavier separator             2.0:1 */
+  /* A control whose BOUNDARY is what identifies it must use this, not
+     --rule-strong: 1.4.11 wants 3:1 and --rule-strong does not reach it. */
+  --control-edge: #998A74;  /* interactive boundary          3.2:1 */
+  --track:        #998A74;  /* inactive timing ticks         3.2:1 */
+
+  /* --- ink ------------------------------------------------------------ */
+  --ink-900: #1F1A14;       /* body          16.1:1 */
+  --ink-700: #3A3128;       /* headings             */
+  --ink-500: #6B5E4C;       /* secondary text 5.9:1 */
+  --ink-400: #8A7B66;       /* NON-TEXT ONLY  3.9:1 */
+
+  /* --- layer channels ------------------------------------------------- */
+  --l1:  #5A3E22;  /* L1 Italki — umber         9.2:1 */
+  --l2:  #8A5A0B;  /* L2 Arizal — dark gold     5.5:1 */
+  --l3:  #26386B;  /* L3 Romaniote — indigo    10.6:1 */
+  --cmp: #3E5A52;  /* Comparator — verdigris    7.1:1 */
+
+  /* --- accents -------------------------------------------------------- */
+  --rubric:    #A3242B;  /* choreography / conflict  6.9:1 */
+  --caution:   #7A5B00;  /* provenance, stub state   5.9:1 */
+  --gold-leaf: #C9A227;  /* DECORATIVE FILL ONLY — 2.3:1, never for text
+                            or for a lone 1.4.11 boundary. Always paired
+                            with a --l2 hairline. */
+  --porphyry:  #6B2A4A;  /* Romaniote ornament             */
+  --focus:     #0B4FA8;
+
+  /* --- spacing (4px base) --------------------------------------------- */
+  --sp-1: 2px;  --sp-2: 4px;  --sp-3: 8px;  --sp-4: 12px; --sp-5: 16px;
+  --sp-6: 20px; --sp-7: 24px; --sp-8: 32px; --sp-9: 40px; --sp-10: 48px;
+  --sp-11: 64px;
+
+  /* --- radii / elevation ---------------------------------------------- */
+  --r-sm: 3px; --r-md: 5px; --r-lg: 8px; --r-pill: 999px;
+  --shadow-1: 0 1px 2px rgb(31 26 20 / .07), 0 1px 1px rgb(31 26 20 / .04);
+  --shadow-2: 0 6px 20px rgb(31 26 20 / .10), 0 1px 2px rgb(31 26 20 / .06);
+
+  /* --- type families -------------------------------------------------- */
+  --f-he:       "Frank Ruhl Libre", "Noto Serif Hebrew", "Taamey Frank CLM", "Frank Ruehl CLM",
+                "David Libre", "Hebrew Fallback", David, "Times New Roman", serif;
+  --f-he-gloss: "Noto Rashi Hebrew", "Frank Ruhl Libre", serif;
+  --f-he-disp:  "David Libre", "Noto Serif Hebrew", serif;
+  --f-latin:    "EB Garamond", "Iowan Old Style", Palatino, Georgia, serif;
+  --f-ui:       Inter, "Segoe UI Variable Text", "Segoe UI", system-ui, sans-serif;
+  --f-mono:     "IBM Plex Mono", "Cascadia Mono", Consolas, ui-monospace, monospace;
+
+  /* --- type sizes -----------------------------------------------------
+     Hebrew runs LARGER than the Latin beside it (20.8 vs 17), for two
+     reasons: Hebrew is the primary text and the translation is subordinate,
+     and nikud needs vertical clearance. The exact ratio is a property of the
+     font PAIR, not a universal constant — re-measure letter-height against
+     Latin cap-height whenever either family changes. See DESIGN.md §5.     */
+  --he-size:  1.3rem;    --he-lead:  2.5rem;   /* 20.8 / 40 — room for nikud */
+  --tl-size:  0.9375rem; --tl-lead:  1.5rem;   /* 15 / 24                    */
+  --en-size:  1.0625rem; --en-lead:  1.75rem;  /* 17 / 28                    */
+  --gloss-size: 1.0625rem; --gloss-lead: 1.875rem;
+  --ui-size:  0.875rem;  --ui-lead:  1.25rem;
+  --meta-size: 0.75rem;  --meta-lead: 1rem;
+
+  --rail-w: 15rem;
+  --t-fast: 120ms; --t-mid: 160ms;
+  --ease: cubic-bezier(.2,.6,.3,1);
+
+  color-scheme: light;
+}
+
+/* ===========================================================================
+   2. TOKENS — DARK ("vellum by lamplight")
+   Explicit dark choice, plus auto following the OS.
+   =========================================================================== */
+/* Scoped to :root, not .app — `body` paints the page canvas and cannot see
+   tokens declared on a descendant. */
+:root[data-theme="dark"] {
+  --parchment-0: #15120E; --parchment-1: #1C1813; --parchment-2: #241F18;
+  --rule: #3A322A; --rule-strong: #52483C;
+  --control-edge: #6E6354;  /* 3.2:1 */
+  --track:        #6E6354;  /* 3.2:1 */
+  --ink-900: #EDE4D2;  /* 14.8:1 */
+  --ink-700: #DCD1BB;
+  --ink-500: #B8A98F;  /*  8.1:1 */
+  --ink-400: #8A7B66;
+  --l1:  #D8B98A;  /* 10.0:1 */
+  --l2:  #E3B341;  /*  9.6:1 */
+  --l3:  #9DB4E8;  /*  9.0:1 */
+  --cmp: #8FB3A8;  /*  8.2:1 */
+  --rubric:    #E8737A;  /* 6.4:1 */
+  --caution:   #DCB95F;
+  --gold-leaf: #B98F22;
+  --porphyry:  #C58AA8;
+  --focus:     #8FB6F2;
+  --shadow-1: 0 1px 2px rgb(0 0 0 / .5);
+  --shadow-2: 0 8px 24px rgb(0 0 0 / .55);
+  color-scheme: dark;
+}
+@media (prefers-color-scheme: dark) {
+  :root[data-theme="auto"] {
+    --parchment-0: #15120E; --parchment-1: #1C1813; --parchment-2: #241F18;
+    --rule: #3A322A; --rule-strong: #52483C;
+    --control-edge: #6E6354; --track: #6E6354;
+    --ink-900: #EDE4D2; --ink-700: #DCD1BB; --ink-500: #B8A98F; --ink-400: #8A7B66;
+    --l1: #D8B98A; --l2: #E3B341; --l3: #9DB4E8; --cmp: #8FB3A8;
+    --rubric: #E8737A; --caution: #DCB95F; --gold-leaf: #B98F22;
+    --porphyry: #C58AA8; --focus: #8FB6F2;
+    --shadow-1: 0 1px 2px rgb(0 0 0 / .5);
+    --shadow-2: 0 8px 24px rgb(0 0 0 / .55);
+    color-scheme: dark;
+  }
+}
+
+/* ===========================================================================
+   3. RESET + BASE
+   =========================================================================== */
+*, *::before, *::after { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--parchment-0);
+  color: var(--ink-900);
+  font: 400 var(--ui-size)/var(--ui-lead) var(--f-ui);
+  text-underline-offset: .18em;
+}
+h1,h2,h3,h4 { font-family: var(--f-latin); font-weight: 600; color: var(--ink-700); margin: 0; }
+p { margin: 0; }
+ul { margin: 0; padding: 0; list-style: none; }
+a { color: var(--l3); text-decoration-thickness: 1px; }
+
+/* Hebrew: author default is no letter-spacing and no case transform — spacing
+   square script pulls nikud away from its base letter optically.
+   Deliberately NOT !important. A user text-spacing override (WCAG 2.2
+   SC 1.4.12) must be allowed to win; blocking it would be the violation. The
+   obligation is that the layout survives the override without clipping or
+   overlap, not that the override never lands. Transliteration (he-Latn) is
+   Latin script and is unaffected. */
+[lang="he"] {
+  font-family: var(--f-he);
+  letter-spacing: normal;
+  text-transform: none;
+  font-variant-ligatures: normal;
+  font-feature-settings: "calt" 1;
+}
+
+/* WCAG 2.2 — 2.4.11 Focus Not Obscured. Sticky headers must never cover the
+   element the keyboard just landed on. */
+:where(a, button, input, [tabindex]) { scroll-margin-block: 6rem; }
+:focus-visible {
+  outline: 2px solid var(--focus);
+  outline-offset: 2px;
+  border-radius: var(--r-sm);
+}
+
+.vh {
+  position: absolute; width: 1px; height: 1px; margin: -1px;
+  padding: 0; overflow: hidden; clip-path: inset(50%); white-space: nowrap;
+}
+.skip {
+  position: absolute; inset-inline-start: var(--sp-5); inset-block-start: -4rem;
+  background: var(--parchment-1); color: var(--ink-900);
+  border: 1px solid var(--control-edge); border-radius: var(--r-md);
+  padding: var(--sp-3) var(--sp-5); z-index: 50; font-weight: 500;
+}
+.skip:focus { inset-block-start: var(--sp-5); }
+
+/* ===========================================================================
+   4. ORNAMENT — the "illuminated" budget
+   One incipit per section, two vine marks per screen, hairline rules.
+   Ornament is never the only carrier of meaning and never hit-testable.
+   =========================================================================== */
+.vine { width: 34px; height: 34px; color: var(--gold-leaf); flex: none; }
+.vine path { fill: none; stroke: currentColor; stroke-width: 1; }
+.rule-gold {
+  height: 0; border: 0;
+  border-block-start: 1px solid var(--l2);
+  box-shadow: 0 2px 0 -1px color-mix(in oklab, var(--gold-leaf) 55%, transparent);
+  margin: 0;
+}
+
+/* ===========================================================================
+   5. APP FRAME
+   =========================================================================== */
+.app { min-height: 100vh; }
+.masthead {
+  display: flex; align-items: center; gap: var(--sp-5);
+  padding: var(--sp-6) var(--sp-7) var(--sp-4);
+  border-block-end: 1px solid var(--rule);
+  background: var(--parchment-1);
+  flex-wrap: wrap;
+}
+.wordmark { display: flex; align-items: center; gap: var(--sp-4); }
+.wordmark h1 {
+  font-family: var(--f-he-disp);
+  font-size: 1.5rem; line-height: 1.2; font-weight: 500;
+  letter-spacing: .01em;
+}
+.wordmark .sub {
+  font-family: var(--f-latin); font-style: italic;
+  color: var(--ink-500); font-size: .9375rem;
+}
+
+.notice {
+  margin: 0; padding: var(--sp-4) var(--sp-7);
+  background: color-mix(in oklab, var(--caution) 10%, var(--parchment-0));
+  border-block-end: 1px solid color-mix(in oklab, var(--caution) 45%, var(--rule));
+  color: var(--ink-900); font-size: var(--ui-size);
+}
+.notice strong { color: var(--caution); }
+
+main { padding: var(--sp-8) var(--sp-7) var(--sp-11); max-width: 108rem; margin-inline: auto; }
+section.band { margin-block-end: var(--sp-11); }
+.band > header { margin-block-end: var(--sp-6); }
+.band h2 {
+  font-size: 1.1875rem; display: flex; align-items: baseline; gap: var(--sp-4);
+}
+.band h2 .num {
+  font-family: var(--f-mono); font-size: .75rem; letter-spacing: .08em;
+  color: var(--l2); border: 1px solid var(--l2);
+  border-radius: var(--r-sm); padding: 1px var(--sp-2); flex: none;
+  font-feature-settings: "tnum" 1;
+}
+.band .lede {
+  font-family: var(--f-latin); font-size: 1.0625rem; line-height: 1.6;
+  color: var(--ink-500); max-width: 62ch; margin-block-start: var(--sp-3);
+}
+
+/* ===========================================================================
+   6. CONTROL BAR
+   =========================================================================== */
+.controls {
+  display: flex; flex-wrap: wrap; gap: var(--sp-5) var(--sp-8);
+  padding: var(--sp-5) var(--sp-7);
+  background: var(--parchment-1);
+  border-block-end: 1px solid var(--rule);
+  position: sticky; inset-block-start: 0; z-index: 30;
+}
+.ctl { display: flex; flex-direction: column; gap: var(--sp-3); }
+.ctl > .lbl, .ctl legend.lbl {
+  font-size: var(--meta-size); line-height: var(--meta-lead);
+  text-transform: uppercase; letter-spacing: .09em;
+  color: var(--ink-500); font-weight: 600;
+}
+.ctl .opts { display: flex; align-items: center; gap: var(--sp-2); flex-wrap: wrap; }
+
+/* Segmented control. Inputs are visually hidden but focusable; the <label>
+   is the painted target. Min 24x24 (WCAG 2.2 SC 2.5.8); 32px here. */
+.seg { display: inline-flex; border: 1px solid var(--control-edge); border-radius: var(--r-md); overflow: hidden; }
+.seg input { position: absolute; opacity: 0; pointer-events: none; }
+.seg label {
+  min-height: 32px; display: inline-flex; align-items: center; gap: var(--sp-2);
+  padding: 0 var(--sp-4); font-size: var(--ui-size); font-weight: 500;
+  color: var(--ink-500); background: var(--parchment-0);
+  border-inline-start: 1px solid var(--rule); cursor: pointer;
+  transition: background var(--t-fast) var(--ease), color var(--t-fast) var(--ease);
+}
+.seg label:first-of-type { border-inline-start: 0; }
+.seg label:hover { background: var(--parchment-2); color: var(--ink-900); }
+.seg input:checked + label {
+  background: color-mix(in oklab, var(--l1) 16%, var(--parchment-0));
+  color: var(--ink-900);
+  box-shadow: inset 0 -2px 0 0 var(--l1);
+}
+.seg input:focus-visible + label { outline: 2px solid var(--focus); outline-offset: -3px; }
+
+/* Layer toggle: a checkbox whose swatch is the layer channel colour, plus the
+   tier text (L1/L2/L3/C) so identity never depends on hue. */
+.layer-tog { display: inline-flex; align-items: center; gap: var(--sp-3); }
+.layer-tog input { position: absolute; opacity: 0; pointer-events: none; }
+.layer-tog label {
+  min-height: 32px; display: inline-flex; align-items: center; gap: var(--sp-3);
+  padding: 0 var(--sp-4) 0 var(--sp-3);
+  border: 1px solid var(--control-edge); border-radius: var(--r-md);
+  background: var(--parchment-0); cursor: pointer; font-size: var(--ui-size);
+  color: var(--ink-500); font-weight: 500;
+}
+.layer-tog label::before {
+  content: ""; width: 14px; height: 14px; flex: none;
+  border: 1px solid var(--control-edge); border-radius: 2px;
+  background: var(--parchment-0);
+}
+.layer-tog input:checked + label { color: var(--ink-900); border-color: var(--chan); }
+.layer-tog input:checked + label::before {
+  background: var(--chan); border-color: var(--chan);
+  box-shadow: inset 0 0 0 2px var(--parchment-0);
+}
+.layer-tog input:focus-visible + label { outline: 2px solid var(--focus); outline-offset: 2px; }
+.layer-tog .tier {
+  font-family: var(--f-mono); font-size: .6875rem; letter-spacing: .06em;
+  color: var(--chan);
+}
+
+/* Non-drag reorder. WCAG 2.2 SC 2.5.7 Dragging Movements: column order MUST
+   be reachable without a drag. These buttons are the primary mechanism;
+   pointer-drag is the enhancement layered on top, never the only route. */
+.nudge {
+  width: 28px; height: 28px; display: inline-grid; place-items: center;
+  border: 1px solid var(--control-edge); border-radius: var(--r-sm);
+  background: var(--parchment-0); color: var(--ink-700); cursor: pointer;
+  font-size: .75rem; line-height: 1;
+}
+.nudge:hover { background: var(--parchment-2); }
+
+.chip-stub {
+  font-size: var(--meta-size); line-height: var(--meta-lead); font-weight: 600;
+  color: var(--caution); border: 1px dashed var(--caution);
+  border-radius: var(--r-sm); padding: 1px var(--sp-2);
+  background: color-mix(in oklab, var(--caution) 9%, transparent);
+}
+
+/* ===========================================================================
+   7. LAYER BADGES
+   Anatomy: [tier mark] [name] [state icon?]. The tier mark is a mono glyph —
+   that is the non-colour channel, so the badge survives greyscale, forced
+   colours, and every form of colour vision deficiency.
+   =========================================================================== */
+.badge {
+  display: inline-flex; align-items: center; gap: var(--sp-3);
+  font-size: var(--meta-size); line-height: var(--meta-lead); font-weight: 600;
+  letter-spacing: .02em; color: var(--chan);
+  border: 1px solid var(--chan); border-radius: var(--r-sm);
+  padding: var(--sp-2) var(--sp-3);
+  background: color-mix(in oklab, var(--chan) 8%, transparent);
+}
+.badge .tier {
+  font-family: var(--f-mono); font-weight: 500; font-size: .6875rem;
+  letter-spacing: .06em;
+  padding-inline-end: var(--sp-3);
+  border-inline-end: 1px solid color-mix(in oklab, var(--chan) 40%, transparent);
+}
+.badge--l1  { --chan: var(--l1); }
+/* L2 reads as an overlay, not a floor: dashed boundary + gold wash. */
+.badge--l2  { --chan: var(--l2); border-style: dashed;
+              background: color-mix(in oklab, var(--gold-leaf) 14%, transparent); }
+.badge--l3  { --chan: var(--l3); }
+/* Comparator is deliberately recessive and marked read-only. */
+.badge--cmp { --chan: var(--cmp); background: none; }
+.badge svg { width: 12px; height: 12px; }
+
+/* ===========================================================================
+   8. STUDY MODE — columns
+   Rows carry a shared grid template, so columns align without subgrid. DOM
+   order is ROW-MAJOR: a screen reader walks one alignment at a time
+   ("L1 unit, then its Romaniote parallel, then its overlay") rather than
+   reading a whole column and losing the correspondence.
+   =========================================================================== */
+.reader {
+  container-type: inline-size;
+  border: 1px solid var(--rule); border-radius: var(--r-lg);
+  background: var(--parchment-0); overflow: clip;
+}
+.row { display: grid; grid-template-columns: minmax(0,1fr) var(--rail-w); gap: var(--sp-5); }
+.row + .row { border-block-start: 1px solid var(--rule); }
+.cells {
+  display: grid; grid-auto-flow: column; grid-auto-columns: minmax(0,1fr);
+  gap: var(--sp-5); padding: var(--sp-6);
+}
+.cell { min-width: 0; }
+
+/* Explicit order on every cell so the swap demo can't leave a gap. */
+
+
+/* Sticky column heads. */
+.row--head {
+  position: sticky; inset-block-start: 0; z-index: 10;
+  background: var(--parchment-1);
+  border-block-end: 1px solid var(--rule-strong);
+}
+.row--head .cells, .row--head .rail { padding-block: var(--sp-4); }
+.colhead { display: flex; align-items: center; gap: var(--sp-3); flex-wrap: wrap; }
+.colhead h3 { font-size: .9375rem; }
+.colhead .nudges { display: flex; gap: var(--sp-1); margin-inline-start: auto; }
+
+/* The layer channel: a 3px bar on the inline-start edge of every cell. This
+   is the spine of the system — "no silent blending" made visual. Stroke
+   STYLE encodes layer kind, so the channel is legible without colour.      */
+.cell--chan {
+  --chan: var(--ink-400);
+  padding-inline-start: var(--sp-5);
+  border-inline-start: 3px solid var(--chan);
+}
+.c-l1  { --chan: var(--l1);  }
+.c-l3  { --chan: var(--l3);  }
+.c-l2  { --chan: var(--l2);  border-inline-start-style: dotted; border-inline-start-width: 4px; }
+.c-cmp { --chan: var(--cmp); border-inline-start-style: dashed; }
+
+.unit-meta {
+  display: flex; align-items: center; gap: var(--sp-3); flex-wrap: wrap;
+  margin-block-end: var(--sp-4);
+}
+.uid {
+  font-family: var(--f-mono); font-size: .6875rem; letter-spacing: .02em;
+  color: var(--ink-500); font-feature-settings: "tnum" 1, "zero" 1;
+  unicode-bidi: isolate;   /* an LTR id must not reorder inside RTL context */
+}
+.label {
+  font-family: var(--f-latin); font-size: .9375rem; font-style: italic;
+  color: var(--ink-500);
+}
+.tag {
+  font-size: .6875rem; line-height: 1rem; font-weight: 600;
+  text-transform: uppercase; letter-spacing: .07em;
+  color: var(--ink-500); border: 1px solid var(--rule-strong);
+  border-radius: var(--r-pill); padding: 0 var(--sp-3);
+}
+.tag--minyan { color: var(--l3); border-color: var(--l3);
+               background: color-mix(in oklab, var(--l3) 9%, transparent); }
+
+/* Text blocks */
+.he {
+  font-size: var(--he-size); line-height: var(--he-lead);
+  color: var(--ink-900); font-weight: 400;
+  overflow-wrap: break-word;
+}
+.gloss {
+  font-family: var(--f-he-gloss);
+  font-size: var(--gloss-size); line-height: var(--gloss-lead);
+  color: var(--ink-900);
+}
+.en { font-family: var(--f-latin); font-size: var(--en-size); line-height: var(--en-lead); }
+.tl {
+  font-family: var(--f-latin); font-size: var(--tl-size); line-height: var(--tl-lead);
+  font-style: italic; color: var(--ink-500);
+}
+
+/* Absent side of an alignment — must look structurally empty, not broken. */
+.absent {
+  font-family: var(--f-latin); font-style: italic; color: var(--ink-500);
+  font-size: .9375rem;
+  border: 1px dashed var(--rule-strong); border-radius: var(--r-md);
+  padding: var(--sp-4) var(--sp-5);
+  background: repeating-linear-gradient(135deg,
+    transparent 0 6px, color-mix(in oklab, var(--ink-400) 7%, transparent) 6px 7px);
+}
+
+/* Comparator link-out. Driven by license_status === "link_out_only": the
+   licence state renders a different component, not greyed-out text. */
+.linkout {
+  border: 1px dashed var(--cmp); border-radius: var(--r-md);
+  padding: var(--sp-4) var(--sp-5); background: none;
+}
+.linkout .why {
+  font-size: var(--meta-size); line-height: var(--meta-lead);
+  color: var(--ink-500); margin-block-end: var(--sp-3);
+}
+.linkout a {
+  color: var(--cmp); font-weight: 600; font-size: var(--ui-size);
+  display: inline-flex; align-items: center; gap: var(--sp-2);
+}
+
+/* --- Incipit: in Hebrew manuscripts the INITIAL WORD is illuminated, not
+   the initial letter. No drop caps anywhere in this system. ------------- */
+.incipit {
+  display: flex; align-items: flex-start; gap: var(--sp-5);
+  margin-block-end: var(--sp-5);
+  padding: var(--sp-4) var(--sp-5);
+  border: 1px solid var(--l2); border-radius: var(--r-md);
+  background: color-mix(in oklab, var(--gold-leaf) 10%, transparent);
+}
+.incipit .word {
+  font-family: var(--f-he-disp); font-size: 2rem; line-height: 1.5;
+  color: var(--ink-900); font-weight: 500;
+}
+.incipit .note {
+  font-family: var(--f-latin); font-style: italic; font-size: .875rem;
+  color: var(--ink-500); margin-inline-start: auto; max-width: 18ch;
+  text-align: end;
+}
+
+/* ===========================================================================
+   9. DIFF + CONFLICT CHIPS
+   Every chip is glyph + word + colour. Three channels; any one can be lost.
+   =========================================================================== */
+.chips { display: flex; flex-wrap: wrap; gap: var(--sp-3); margin-block-start: var(--sp-4); }
+.diff {
+  display: inline-flex; align-items: center; gap: var(--sp-3);
+  font-size: .6875rem; line-height: 1rem; font-weight: 600;
+  letter-spacing: .05em; text-transform: uppercase;
+  border-radius: var(--r-sm); padding: var(--sp-2) var(--sp-3);
+  border: 1px solid var(--dc); color: var(--dc);
+  background: color-mix(in oklab, var(--dc) 8%, transparent);
+}
+.diff .g {
+  font-family: var(--f-mono); font-weight: 500; font-size: .8125rem;
+  text-transform: none; letter-spacing: 0;
+}
+.diff--identical      { --dc: var(--cmp);     }
+.diff--near           { --dc: var(--cmp);     border-style: dashed; }
+.diff--text           { --dc: var(--rubric);  }
+.diff--order          { --dc: var(--l2);      }
+.diff--italki-only    { --dc: var(--l1);      }
+.diff--romaniote-only { --dc: var(--l3);      }
+
+/* Conflict. never_silent_resolve === true, so this component has NO dismiss
+   affordance by design — only expand/collapse. The UI states all sides and
+   picks none. */
+.conflict {
+  border: 2px solid var(--rubric); border-radius: var(--r-md);
+  background: color-mix(in oklab, var(--rubric) 7%, transparent);
+  margin-block: var(--sp-3);
+}
+.conflict > summary {
+  display: flex; align-items: center; gap: var(--sp-3);
+  padding: var(--sp-3) var(--sp-4); cursor: pointer;
+  font-size: var(--meta-size); line-height: var(--meta-lead);
+  font-weight: 700; letter-spacing: .05em; text-transform: uppercase;
+  color: var(--rubric); min-height: 28px;
+}
+.conflict > summary::marker, .conflict > summary::-webkit-details-marker { content: ""; display: none; }
+.conflict > summary::before {
+  content: "⚖"; font-size: .875rem; line-height: 1;
+}
+.conflict > summary .cg {
+  font-family: var(--f-mono); font-size: .625rem; text-transform: none;
+  letter-spacing: 0; color: var(--ink-500); margin-inline-start: auto;
+}
+.conflict__body { padding: 0 var(--sp-3) var(--sp-3); display: grid; gap: var(--sp-3); }
+.conflict__body > .cue { background: var(--parchment-0); }
+.conflict__note {
+  font-family: var(--f-latin); font-style: italic; font-size: .8125rem;
+  line-height: 1.5; color: var(--ink-500);
+  border-block-start: 1px solid color-mix(in oklab, var(--rubric) 30%, transparent);
+  padding-block-start: var(--sp-3);
+}
+
+/* ===========================================================================
+   10. CHOREOGRAPHY RAIL
+   Per-row rail cells, so a cue sits beside the unit it governs. A separate
+   sticky "now" bar serves live use (see the mobile frame).
+   =========================================================================== */
+.rail {
+  padding: var(--sp-6) var(--sp-6) var(--sp-6) 0;
+  border-inline-start: 1px solid var(--rule);
+  display: flex; flex-direction: column; gap: var(--sp-3);
+  padding-inline-start: var(--sp-6);
+}
+.rail--head { display: flex; flex-direction: row; align-items: center; gap: var(--sp-3); }
+.rail--head h3 { font-size: .9375rem; color: var(--rubric); }
+.rail--empty { color: var(--ink-500); font-family: var(--f-latin); font-style: italic; font-size: .875rem; }
+
+.cue {
+  display: grid;
+  grid-template-columns: 24px minmax(0,1fr);
+  grid-template-areas: "icon name" "icon meta" ". timing";
+  gap: var(--sp-1) var(--sp-3);
+  padding: var(--sp-3) var(--sp-4);
+  border-radius: var(--r-md);
+  border: 1px solid var(--rubric);
+  background: color-mix(in oklab, var(--rubric) 6%, var(--parchment-0));
+  color: var(--ink-900);
+}
+.cue__icon { grid-area: icon; width: 20px; height: 20px; color: var(--rubric); align-self: start; margin-block-start: 1px; }
+.cue__name { grid-area: name; font-weight: 600; font-size: var(--ui-size); line-height: 1.2; }
+.cue__meta {
+  grid-area: meta; display: flex; align-items: center; gap: var(--sp-2);
+  flex-wrap: wrap; font-size: var(--meta-size); line-height: var(--meta-lead);
+  color: var(--ink-500);
+}
+.cue__meta .src { font-family: var(--f-mono); font-size: .625rem; color: var(--chan); font-weight: 500; }
+.cue__meta .obl { font-style: italic; font-family: var(--f-latin); font-size: .75rem; }
+.cue--src-l1 { --chan: var(--l1); } .cue--src-l2 { --chan: var(--l2); }
+.cue--src-l3 { --chan: var(--l3); } .cue--src-cmp { --chan: var(--cmp); }
+
+/* CONFIDENCE = border style. Not hue. A reader with any colour deficiency,
+   a greyscale print, and forced-colors mode all keep this information. */
+.cue--attested { border-style: solid; }
+.cue--inferred { border-style: dashed; }
+.cue--disputed { border-style: double; border-width: 3px; }
+.cue--unknown  { border-style: dotted; }
+.conf {
+  font-size: .625rem; letter-spacing: .06em; text-transform: uppercase;
+  font-weight: 700; color: var(--rubric);
+}
+
+/* TIMING = position on a 5-tick micro-timeline (before/start/during/end/after).
+   Encoded by position, which is ordinal and needs no legend lookup. */
+.timing { grid-area: timing; display: flex; gap: 2px; align-items: center; margin-block-start: var(--sp-1); }
+.timing i {
+  width: 11px; height: 4px; border-radius: 1px;
+  /* The inactive track shows WHERE in the unit the cue falls, so it is
+     meaningful graphics under 1.4.11 and needs its own 3:1 — a faint tint
+     would hide the scale that makes the active tick legible. */
+  background: var(--track);
+  border: 1px solid transparent;
+}
+.timing i.on { background: var(--rubric); }
+
+/* ===========================================================================
+   11. INTERLINEAR VIEW
+   Line mode stacks He / he-Latn / en in a fixed 92px rhythm (23 x 4px) so the
+   stacks lock to the baseline grid down the page. Token mode nests the same
+   stack per word, with each Latin run bidi-ISOLATED inside the RTL flow.
+   =========================================================================== */
+.il-list { display: grid; gap: var(--sp-6); }
+.il-unit {
+  border: 1px solid var(--rule); border-radius: var(--r-lg);
+  background: var(--parchment-0); overflow: clip;
+}
+.il-head {
+  display: flex; align-items: center; gap: var(--sp-4); flex-wrap: wrap;
+  padding: var(--sp-4) var(--sp-5);
+  background: var(--parchment-1); border-block-end: 1px solid var(--rule);
+}
+.il-body {
+  padding: var(--sp-6);
+  border-inline-start: 3px solid var(--chan);
+}
+.il-unit--l1 { --chan: var(--l1); }
+.il-unit--l3 { --chan: var(--l3); }
+
+.il-stack { display: grid; gap: 0; }
+.il-stack .he { min-height: var(--he-lead); }
+.il-stack .tl { min-height: var(--tl-lead); }
+.il-stack .en { min-height: var(--en-lead); }
+/* Hairline under the Hebrew line: the manuscript ruling, doing real work as
+   the alignment reference for the lines beneath it. */
+.il-stack .he {
+  border-block-end: 1px solid color-mix(in oklab, var(--gold-leaf) 45%, transparent);
+  padding-block-end: var(--sp-2);
+  margin-block-end: var(--sp-3);
+}
+
+/* --- token mode --- */
+.il-tokens {
+  display: flex; flex-wrap: wrap;
+  gap: var(--sp-2) var(--sp-5);
+  align-items: flex-start;
+}
+.tok {
+  display: grid; justify-items: center; gap: 2px;
+  padding: var(--sp-2) var(--sp-3);
+  border-radius: var(--r-sm);
+  border-block-end: 1px solid color-mix(in oklab, var(--gold-leaf) 45%, transparent);
+}
+.tok:hover { background: color-mix(in oklab, var(--l2) 9%, transparent); }
+.tok__he { font-size: var(--he-size); line-height: var(--he-lead); }
+.tok__tl, .tok__en {
+  /* Latin inside an RTL paragraph: isolate so neutral characters at the run
+     edges resolve inside the token, not against the surrounding Hebrew. */
+  unicode-bidi: isolate;
+  font-family: var(--f-latin); white-space: nowrap;
+}
+.tok__tl { font-size: var(--tl-size); line-height: var(--tl-lead); font-style: italic; color: var(--ink-500); }
+.tok__en { font-size: .875rem; line-height: 1.25rem; color: var(--ink-900); }
+
+/* ===========================================================================
+   12. TRANSLITERATION SWITCHER
+   =========================================================================== */
+.tl-panel {
+  border: 1px solid var(--rule); border-radius: var(--r-lg);
+  background: var(--parchment-1); padding: var(--sp-5); display: grid; gap: var(--sp-4);
+}
+.tl-preview {
+  border: 1px solid var(--rule-strong); border-radius: var(--r-md);
+  background: var(--parchment-0); padding: var(--sp-4) var(--sp-5);
+}
+.tl-preview dl { display: grid; grid-template-columns: auto 1fr; gap: var(--sp-2) var(--sp-5); margin: 0; }
+.tl-preview dt { font-family: var(--f-mono); font-size: .6875rem; color: var(--ink-500); align-self: center; }
+.tl-preview dd { margin: 0; font-family: var(--f-latin); font-size: 1.0625rem; }
+.tl-preview .unavailable {
+  font-family: var(--f-latin); font-style: italic; color: var(--ink-500); font-size: .9375rem;
+}
+
+/* ===========================================================================
+   13. CUE INVENTORY (icon showcase)
+   =========================================================================== */
+.inv { display: grid; grid-template-columns: repeat(auto-fill, minmax(13.5rem, 1fr)); gap: var(--sp-4); }
+.inv .cue { background: var(--parchment-1); }
+.inv-note {
+  grid-column: 1 / -1; font-family: var(--f-latin); font-style: italic;
+  color: var(--ink-500); font-size: .9375rem; padding-block-start: var(--sp-3);
+  border-block-start: 1px solid var(--rule);
+}
+
+/* ===========================================================================
+   14. LEGEND
+   =========================================================================== */
+.legend { display: grid; grid-template-columns: repeat(auto-fit, minmax(17rem, 1fr)); gap: var(--sp-7); }
+.legend h3 { font-size: .9375rem; margin-block-end: var(--sp-4); }
+.legend .set { display: flex; flex-wrap: wrap; gap: var(--sp-3); }
+.ramp { display: flex; border-radius: var(--r-sm); overflow: clip; border: 1px solid var(--rule-strong); }
+.ramp span { height: 34px; flex: 1; }
+.ramp-cap { font-size: var(--meta-size); color: var(--ink-500); margin-block-start: var(--sp-2); font-family: var(--f-mono); }
+
+/* ===========================================================================
+   15. MOBILE — container queries, so a component reflows to ITS OWN width.
+   The phone frame below is a 390px container; the same rules fire there and
+   at a 390px viewport. WCAG 2.2 SC 1.4.10 Reflow is met by composition, not
+   by claiming the data-table exemption.
+   =========================================================================== */
+@container (max-width: 46rem) {
+  .row { grid-template-columns: minmax(0,1fr); gap: 0; }
+  .cells { grid-auto-flow: row; gap: var(--sp-5); padding: var(--sp-5); }
+  .row--head { position: static; }
+  .row--head .cells { display: none; }          /* heads move into each cell */
+  .rail {
+    border-inline-start: 0;
+    border-block-start: 1px dashed var(--rule-strong);
+    padding: var(--sp-4) var(--sp-5) var(--sp-5);
+    background: color-mix(in oklab, var(--rubric) 4%, transparent);
+  }
+  .cell--chan { border-inline-start-width: 4px; }
+  .cell-head-m { display: flex !important; }
+  .il-tokens { gap: var(--sp-2) var(--sp-4); }
+}
+.cell-head-m { display: none; margin-block-end: var(--sp-3); }
+
+.phone-wrap { display: flex; gap: var(--sp-8); flex-wrap: wrap; align-items: flex-start; }
+.phone {
+  width: 390px; flex: none;
+  border: 10px solid var(--ink-700); border-radius: 30px;
+  background: var(--parchment-0); overflow: hidden;
+  box-shadow: var(--shadow-2); position: relative;
+  display: flex; flex-direction: column; height: 760px;
+}
+.phone__bar {
+  padding: var(--sp-3) var(--sp-5); font-size: var(--meta-size);
+  color: var(--ink-500); background: var(--parchment-1);
+  border-block-end: 1px solid var(--rule); display: flex; justify-content: space-between;
+  font-family: var(--f-mono);
+}
+.phone__scroll { overflow-y: auto; flex: 1; padding: var(--sp-4); }
+.phone .reader { border-radius: var(--r-md); }
+.phone__topbar {
+  display: flex; align-items: center; gap: var(--sp-3);
+  padding: var(--sp-3) var(--sp-4); margin-block-end: var(--sp-4);
+  border: 1px solid var(--rule); border-radius: var(--r-md);
+  background: var(--parchment-1);
+}
+.phone__topbar .t { font-family: var(--f-he-disp); font-size: 1.0625rem; }
+/* Live "now" bar: bottom-anchored for one-handed reach during a service. */
+.nowbar {
+  border-block-start: 1px solid var(--rule-strong);
+  background: var(--parchment-1);
+  padding: var(--sp-3) var(--sp-4);
+  display: flex; align-items: center; gap: var(--sp-4);
+}
+.nowbar .now-cue {
+  display: flex; align-items: center; gap: var(--sp-3);
+  color: var(--rubric); font-weight: 700; font-size: .9375rem;
+}
+.nowbar .now-cue svg { width: 24px; height: 24px; }
+.nowbar .next { font-size: var(--meta-size); color: var(--ink-500); margin-inline-start: auto; text-align: end; }
+.nowbar .next b { color: var(--ink-900); font-weight: 600; display: block; }
+.phone-notes { max-width: 34rem; }
+.phone-notes h3 { font-size: .9375rem; margin-block-end: var(--sp-3); }
+.phone-notes li {
+  font-family: var(--f-latin); font-size: 1rem; line-height: 1.6;
+  color: var(--ink-500); padding-inline-start: var(--sp-5); position: relative;
+  margin-block-end: var(--sp-3);
+}
+.phone-notes li::before {
+  content: "◆"; position: absolute; inset-inline-start: 0;
+  color: var(--gold-leaf); font-size: .625rem; top: .45em;
+}
+.phone-notes b { color: var(--ink-900); font-weight: 600; }
+
+/* ===========================================================================
+   17. MOTION
+   =========================================================================== */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    transition-duration: 1ms !important;
+    animation-duration: 1ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* ===========================================================================
+   18. FORCED COLORS (Windows contrast themes)
+   Ornament drops out; every structural boundary is redeclared against system
+   colours so layer channels and confidence frames survive.
+   =========================================================================== */
+@media (forced-colors: active) {
+  .vine, .rule-gold, .ramp { display: none; }
+  .cell--chan, .rail, .cue, .badge, .diff, .conflict, .reader, .il-unit,
+  .absent, .linkout, .incipit, .tl-preview, .phone {
+    border-color: CanvasText;
+  }
+  .cue__icon, .badge, .diff, .conf, .cue__name { color: CanvasText; }
+  .timing i { background: GrayText; border-color: CanvasText; }
+  .timing i.on { background: Highlight; }
+  .seg input:checked + label { box-shadow: inset 0 -3px 0 0 Highlight; forced-color-adjust: none; }
+  :focus-visible { outline-color: Highlight; }
+}
+
+/* ===========================================================================
+   19. PRINT — mergeForPrint() output
+   Layer identity must survive a monochrome page, and every conflict must be
+   expanded: a printed sheet has no disclosure affordance, so a collapsed
+   <details> would be a silent resolution.
+   =========================================================================== */
+@media print {
+  :root {
+    --parchment-0: #fff; --parchment-1: #fff; --parchment-2: #fff;
+    --ink-900: #000; --ink-700: #000; --ink-500: #333; --ink-400: #666;
+    --rule: #bbb; --rule-strong: #888;
+    --l1: #000; --l2: #000; --l3: #000; --cmp: #444; --rubric: #000;
+    --gold-leaf: #999;
+  }
+  .controls, .masthead, .skip, .phone-wrap, .band--inventory, .band--legend,
+  .vine, .nudges { display: none !important; }
+  .notice { border: 1px solid #000; }
+  .row--head { position: static; }
+  .reader, .il-unit { border-color: #000; break-inside: auto; }
+  .row { break-inside: avoid; }
+  .conflict__body { display: grid !important; }   /* never print collapsed */
+  .cue, .badge, .diff { background: none !important; }
+  .uid { color: #000; }                           /* ids are citeable in print */
+  a[href]::after { content: " (" attr(href) ")"; font-size: .7em; color: #333; }
+  @page { margin: 16mm; }
+}
+/* ===========================================================================
+   APP STATE — data-* attributes on the root, driven by React (DESIGN §20.1)
+   =========================================================================== */
+:root[data-translit="off"] .tl, :root[data-translit="off"] .tok__tl { display: none; }
+.cue-icon { width: 20px; height: 20px; flex: none; }
+.ctl fieldset { border: 0; margin: 0; padding: 0; min-width: 0; }
+.ctl legend { padding: 0; }
+.col-list { display: flex; flex-wrap: wrap; gap: var(--sp-3); }
+.col-item { display: inline-flex; align-items: center; gap: var(--sp-1); }
+.presets button, .flagbtn {
+  min-height: 32px; padding: 0 var(--sp-4); border: 1px solid var(--control-edge);
+  border-radius: var(--r-md); background: var(--parchment-0); color: var(--ink-700);
+  font: 500 var(--ui-size)/1 var(--f-ui); cursor: pointer;
+}
+.presets button[aria-pressed="true"] { box-shadow: inset 0 -2px 0 0 var(--l1); color: var(--ink-900); }
+.presets { display: flex; gap: var(--sp-2); flex-wrap: wrap; }
+.disclosure {
+  font-size: var(--meta-size); line-height: var(--meta-lead); color: var(--caution);
+  border: 1px dashed var(--caution); border-radius: var(--r-sm); padding: 1px var(--sp-2);
+  background: color-mix(in oklab, var(--caution) 9%, transparent); font-weight: 600;
+}
+.overlay-item { display: grid; gap: var(--sp-2); margin-block-end: var(--sp-4); }
+.combined-note { font-family: var(--f-latin); font-style: italic; color: var(--cmp); font-size: .9375rem;
+  border: 1px solid var(--cmp); border-radius: var(--r-md); padding: var(--sp-4) var(--sp-5);
+  background: color-mix(in oklab, var(--cmp) 6%, transparent); }
+.dir-note { font-family: var(--f-mono); font-size: .625rem; color: var(--ink-500); grid-column: 2; }
+.reader-wrap { padding: var(--sp-7); max-width: 108rem; margin-inline: auto; }
+.nowbar--app { position: sticky; inset-block-end: 0; z-index: 25; min-height: 44px; }
+.nowbar--app button { min-width: 44px; min-height: 44px; border: 1px solid var(--control-edge);
+  border-radius: var(--r-md); background: var(--parchment-0); color: var(--ink-700); cursor: pointer; }
+.il-section { margin-block-end: var(--sp-6); }
+.flag-note { font-size: var(--meta-size); color: var(--ink-500); }
+@container (max-width: 46rem) {
+  .conflict:not([data-pinned]) > .conflict__body { }
+  .nudge { width: 32px; height: 32px; }
+}
+@media (max-width: 46rem) {
+  .controls { position: static; padding: var(--sp-4); gap: var(--sp-4); }
+  .reader-wrap { padding: var(--sp-3); }
+  .masthead { padding: var(--sp-4); }
+  .notice { padding: var(--sp-3) var(--sp-4); }
+}
+@media print { .nowbar--app, .presets { display: none !important; } }
+.conflict > summary { flex-wrap: wrap; } .conflict > summary .cg { overflow-wrap: anywhere; }

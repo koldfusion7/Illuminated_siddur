@@ -535,13 +535,30 @@
     {
       "id": "CH.005",
       "unit_id": "ITK.SHA.AMIDAH.010",
-      "cue_code": "three_steps_forward",
+      "cue_code": "steps_approach",
       "layer_source": "L1_italki",
       "timing": "before",
       "obligation_tag": "custom",
       "confidence": "attested",
-      "label": "Three steps forward",
-      "never_silent_resolve": true
+      "label": "Steps forward (placeholder cue)",
+      "never_silent_resolve": true,
+      "step_count": 3
+    },
+    {
+      "id": "CH.009",
+      "unit_id": "ITK.SHA.AMIDAH.010",
+      "cue_code": "face_direction",
+      "layer_source": "L1_italki",
+      "timing": "before",
+      "obligation_tag": "required",
+      "confidence": "attested",
+      "label": "Face toward Jerusalem (resolved from location)",
+      "never_silent_resolve": true,
+      "direction": {
+        "kind": "toward",
+        "target": "jerusalem",
+        "resolve": "user_location"
+      }
     },
     {
       "id": "CH.006",
@@ -557,12 +574,68 @@
     {
       "id": "CH.007",
       "unit_id": "ITK.SHA.AMIDAH.020",
-      "cue_code": "three_steps_back",
+      "cue_code": "steps_retreat",
       "layer_source": "L1_italki",
       "timing": "end",
       "obligation_tag": "custom",
       "confidence": "attested",
-      "label": "Three steps back",
+      "label": "Steps back (placeholder cue)",
+      "never_silent_resolve": true,
+      "step_count": 3
+    },
+    {
+      "id": "CH.010",
+      "unit_id": "ITK.SHA.TACHANUN.010",
+      "cue_code": "hand_position",
+      "layer_source": "L1_italki",
+      "timing": "during",
+      "obligation_tag": "custom",
+      "confidence": "unknown",
+      "label": "Hand position (placeholder cue)",
+      "never_silent_resolve": true
+    },
+    {
+      "id": "CH.011",
+      "unit_id": "ROM.SHA.TACHANUN.010",
+      "cue_code": "kneel",
+      "layer_source": "L3_romaniote",
+      "timing": "during",
+      "obligation_tag": "custom",
+      "confidence": "disputed",
+      "label": "Kneel (placeholder cue; disputed)",
+      "never_silent_resolve": true
+    },
+    {
+      "id": "CH.012",
+      "unit_id": "ITK.SHA.ALEINU.010",
+      "cue_code": "turn",
+      "layer_source": "L2_arizal",
+      "timing": "end",
+      "obligation_tag": "kabbalistic",
+      "confidence": "inferred",
+      "label": "Turn (placeholder cue)",
+      "never_silent_resolve": true
+    },
+    {
+      "id": "CH.013",
+      "unit_id": "ITK.SHA.BIRKHOT.010",
+      "cue_code": "lift_eyes",
+      "layer_source": "L2_arizal",
+      "timing": "start",
+      "obligation_tag": "kabbalistic",
+      "confidence": "inferred",
+      "label": "Lift eyes (placeholder cue)",
+      "never_silent_resolve": true
+    },
+    {
+      "id": "CH.014",
+      "unit_id": "ITK.SHA.TACHANUN.010",
+      "cue_code": "strike_chest",
+      "layer_source": "L1_italki",
+      "timing": "during",
+      "obligation_tag": "custom",
+      "confidence": "inferred",
+      "label": "Strike chest (placeholder cue)",
       "never_silent_resolve": true
     },
     {

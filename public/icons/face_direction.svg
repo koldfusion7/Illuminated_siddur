@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="t-face-direction">
+  <title id="t-face-direction">Face direction</title>
+  <circle cx="12" cy="12.4" r="7.4"/>
+  <path d="M12 17.6L9.7 12.6 12 7.2l2.3 5.4Z" fill="currentColor" stroke="none"/>
+  <path d="M12 2.2v1.8"/>
+</svg>
