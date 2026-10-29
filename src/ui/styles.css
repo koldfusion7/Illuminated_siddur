@@ -1,0 +1,22 @@
+body{font-family:system-ui,sans-serif;margin:0;background:#fbf8f1;color:#222}
+main{padding:1rem 1.5rem}
+.banner{background:#fff3cd;border:1px solid #c9a227;padding:.5rem;font-weight:600}
+.controls{display:flex;flex-wrap:wrap;gap:1rem;align-items:flex-start;margin-bottom:1rem}
+.controls ol{margin:0;padding-left:1.2rem}
+button{margin-left:.25rem}
+button:focus-visible,input:focus-visible,select:focus-visible{outline:3px solid #1a5fb4;outline-offset:2px}
+.reader{display:grid;grid-template-columns:1fr 320px;gap:1rem}
+table{border-collapse:collapse;width:100%;background:#fff}
+th,td{border:1px solid #ccc;padding:.4rem;vertical-align:top;text-align:start}
+tr.combined td{background:#eef7ee}
+.tag{display:inline-block;font-size:.75rem;background:#e7e2d6;border-radius:4px;padding:0 .3rem;margin:0 .15rem}
+.tag.l2{background:#e6dcf5}
+.muted{color:#555;font-size:.85rem}
+.combined{color:#2d6a2d;font-style:italic}
+.rail{background:#fff;border:1px solid #ccc;padding:.5rem}
+.rail ul{list-style:none;padding:0}
+.rail li{border-bottom:1px solid #eee;padding:.3rem 0}
+.rail li.conflict{border-left:4px solid #c0392b;padding-left:.4rem}
+.icon{font-size:1.2rem}
+.il-line{margin:.2rem 0 .2rem 1rem}
+p[dir=rtl]{font-size:1.05rem}

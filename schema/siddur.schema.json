@@ -1,0 +1,408 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://illuminated-siddur/schema/seed.json",
+  "title": "Illuminated Siddur seed bundle (placeholder)",
+  "type": "object",
+  "definitions": {
+    "layer": {
+      "type": "string",
+      "enum": [
+        "L1_italki",
+        "L2_arizal",
+        "L3_romaniote",
+        "comparator_chabad"
+      ]
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "core_fixed",
+        "minhag",
+        "tzibbur",
+        "calendar",
+        "optional"
+      ]
+    },
+    "diff": {
+      "type": "string",
+      "enum": [
+        "identical",
+        "near_identical",
+        "divergent_text",
+        "divergent_order",
+        "italki_only",
+        "romaniote_only"
+      ]
+    },
+    "rite_corpus": {
+      "type": "object",
+      "required": [
+        "id",
+        "layer",
+        "name",
+        "direction",
+        "witnesses"
+      ],
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "layer": {
+          "$ref": "#/definitions/layer"
+        },
+        "name": {
+          "type": "string"
+        },
+        "direction": {
+          "type": "string",
+          "enum": [
+            "rtl",
+            "ltr"
+          ]
+        },
+        "witnesses": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "base_unit": {
+      "type": "object",
+      "required": [
+        "id",
+        "corpus_id",
+        "service",
+        "section",
+        "order",
+        "label",
+        "text",
+        "lang",
+        "status",
+        "requires_minyan"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[A-Z]{3}\\.[A-Z]{3}\\.[A-Z_]+\\.[0-9]{3}$"
+        },
+        "corpus_id": {
+          "type": "string"
+        },
+        "service": {
+          "type": "string",
+          "enum": [
+            "shacharit",
+            "mincha",
+            "maariv"
+          ]
+        },
+        "section": {
+          "type": "string"
+        },
+        "order": {
+          "type": "integer"
+        },
+        "label": {
+          "type": "string"
+        },
+        "text": {
+          "type": "string",
+          "pattern": "^PLACEHOLDER"
+        },
+        "lang": {
+          "type": "string",
+          "enum": [
+            "he",
+            "en"
+          ]
+        },
+        "status": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/status"
+          },
+          "minItems": 1
+        },
+        "requires_minyan": {
+          "type": "boolean"
+        },
+        "parallel_of": {
+          "type": "string"
+        }
+      }
+    },
+    "alignment": {
+      "type": "object",
+      "required": [
+        "id",
+        "italki_id",
+        "romaniote_id",
+        "diff_flags"
+      ],
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "italki_id": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "romaniote_id": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "diff_flags": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/diff"
+          },
+          "minItems": 1
+        },
+        "note": {
+          "type": "string"
+        }
+      }
+    },
+    "overlay_layer": {
+      "type": "object",
+      "required": [
+        "id",
+        "layer",
+        "name",
+        "disclosure"
+      ],
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "layer": {
+          "const": "L2_arizal"
+        },
+        "name": {
+          "type": "string"
+        },
+        "disclosure": {
+          "type": "string"
+        }
+      }
+    },
+    "overlay_link": {
+      "type": "object",
+      "required": [
+        "id",
+        "overlay_layer_id",
+        "target_unit_id",
+        "type",
+        "label",
+        "source_ref"
+      ],
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "overlay_layer_id": {
+          "type": "string"
+        },
+        "target_unit_id": {
+          "type": "string"
+        },
+        "type": {
+          "type": "string",
+          "enum": [
+            "kavanah",
+            "addition",
+            "reordering",
+            "wording_variant",
+            "omission_flag",
+            "gestural_rubric"
+          ]
+        },
+        "label": {
+          "type": "string"
+        },
+        "source_ref": {
+          "type": "string"
+        }
+      }
+    },
+    "comparator_corpus": {
+      "type": "object",
+      "required": [
+        "id",
+        "layer",
+        "name",
+        "license_status",
+        "read_only"
+      ],
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "layer": {
+          "const": "comparator_chabad"
+        },
+        "name": {
+          "type": "string"
+        },
+        "license_status": {
+          "type": "string",
+          "enum": [
+            "public_domain",
+            "licensed",
+            "link_out_only",
+            "pending"
+          ]
+        },
+        "link_out_url": {
+          "type": "string"
+        },
+        "read_only": {
+          "const": true
+        }
+      }
+    },
+    "unit_choreography": {
+      "type": "object",
+      "required": [
+        "id",
+        "unit_id",
+        "cue_code",
+        "layer_source",
+        "timing",
+        "obligation_tag",
+        "confidence",
+        "label",
+        "never_silent_resolve"
+      ],
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "unit_id": {
+          "type": "string"
+        },
+        "cue_code": {
+          "type": "string",
+          "enum": [
+            "stand",
+            "sit",
+            "bow",
+            "cover_eyes",
+            "three_steps_back",
+            "three_steps_forward",
+            "face_east",
+            "kiss_tzitzit",
+            "rise_on_toes",
+            "touch_tefillin"
+          ]
+        },
+        "layer_source": {
+          "$ref": "#/definitions/layer"
+        },
+        "timing": {
+          "type": "string",
+          "enum": [
+            "before",
+            "start",
+            "during",
+            "end",
+            "after"
+          ]
+        },
+        "obligation_tag": {
+          "type": "string",
+          "enum": [
+            "required",
+            "custom",
+            "optional",
+            "kabbalistic"
+          ]
+        },
+        "confidence": {
+          "type": "string",
+          "enum": [
+            "attested",
+            "inferred",
+            "disputed",
+            "unknown"
+          ]
+        },
+        "label": {
+          "type": "string"
+        },
+        "conflict_group": {
+          "type": "string"
+        },
+        "never_silent_resolve": {
+          "type": "boolean"
+        }
+      }
+    }
+  },
+  "required": [
+    "corpora",
+    "units",
+    "parallel_units",
+    "alignments",
+    "overlay_layers",
+    "overlay_links",
+    "comparators",
+    "choreography"
+  ],
+  "properties": {
+    "corpora": {
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/rite_corpus"
+      }
+    },
+    "units": {
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/base_unit"
+      }
+    },
+    "parallel_units": {
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/base_unit"
+      }
+    },
+    "alignments": {
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/alignment"
+      }
+    },
+    "overlay_layers": {
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/overlay_layer"
+      }
+    },
+    "overlay_links": {
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/overlay_link"
+      }
+    },
+    "comparators": {
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/comparator_corpus"
+      }
+    },
+    "choreography": {
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/unit_choreography"
+      }
+    }
+  }
+}

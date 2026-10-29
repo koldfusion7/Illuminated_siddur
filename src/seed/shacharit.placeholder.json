@@ -1,0 +1,580 @@
+{
+  "corpora": [
+    {
+      "id": "corpus.italki",
+      "layer": "L1_italki",
+      "name": "Italki / Benei Roma (L1 floor)",
+      "direction": "rtl",
+      "witnesses": [
+        "PLACEHOLDER witness"
+      ]
+    },
+    {
+      "id": "corpus.romaniote",
+      "layer": "L3_romaniote",
+      "name": "Romaniote (L3 parallel peer)",
+      "direction": "rtl",
+      "witnesses": [
+        "PLACEHOLDER witness"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "id": "ITK.SHA.BIRKHOT.010",
+      "corpus_id": "corpus.italki",
+      "service": "shacharit",
+      "section": "BIRKHOT",
+      "order": 1,
+      "label": "Italki L1 BIRKHOT 1",
+      "text": "PLACEHOLDER: Italki L1 / Shacharit / BIRKHOT unit 1",
+      "lang": "he",
+      "status": [
+        "core_fixed"
+      ],
+      "requires_minyan": false
+    },
+    {
+      "id": "ITK.SHA.BIRKHOT.020",
+      "corpus_id": "corpus.italki",
+      "service": "shacharit",
+      "section": "BIRKHOT",
+      "order": 2,
+      "label": "Italki L1 BIRKHOT 2",
+      "text": "PLACEHOLDER: Italki L1 / Shacharit / BIRKHOT unit 2",
+      "lang": "he",
+      "status": [
+        "minhag"
+      ],
+      "requires_minyan": false
+    },
+    {
+      "id": "ITK.SHA.PESUKEI.010",
+      "corpus_id": "corpus.italki",
+      "service": "shacharit",
+      "section": "PESUKEI",
+      "order": 3,
+      "label": "Italki L1 PESUKEI 1",
+      "text": "PLACEHOLDER: Italki L1 / Shacharit / PESUKEI unit 1",
+      "lang": "he",
+      "status": [
+        "core_fixed"
+      ],
+      "requires_minyan": false
+    },
+    {
+      "id": "ITK.SHA.PESUKEI.020",
+      "corpus_id": "corpus.italki",
+      "service": "shacharit",
+      "section": "PESUKEI",
+      "order": 4,
+      "label": "Italki L1 PESUKEI 2",
+      "text": "PLACEHOLDER: Italki L1 / Shacharit / PESUKEI unit 2",
+      "lang": "he",
+      "status": [
+        "core_fixed"
+      ],
+      "requires_minyan": false
+    },
+    {
+      "id": "ITK.SHA.SHEMA.010",
+      "corpus_id": "corpus.italki",
+      "service": "shacharit",
+      "section": "SHEMA",
+      "order": 5,
+      "label": "Italki L1 SHEMA 1",
+      "text": "PLACEHOLDER: Italki L1 / Shacharit / SHEMA unit 1",
+      "lang": "he",
+      "status": [
+        "core_fixed"
+      ],
+      "requires_minyan": false
+    },
+    {
+      "id": "ITK.SHA.SHEMA.020",
+      "corpus_id": "corpus.italki",
+      "service": "shacharit",
+      "section": "SHEMA",
+      "order": 6,
+      "label": "Italki L1 SHEMA 2",
+      "text": "PLACEHOLDER: Italki L1 / Shacharit / SHEMA unit 2",
+      "lang": "he",
+      "status": [
+        "core_fixed"
+      ],
+      "requires_minyan": false
+    },
+    {
+      "id": "ITK.SHA.AMIDAH.010",
+      "corpus_id": "corpus.italki",
+      "service": "shacharit",
+      "section": "AMIDAH",
+      "order": 7,
+      "label": "Italki L1 AMIDAH 1",
+      "text": "PLACEHOLDER: Italki L1 / Shacharit / AMIDAH unit 1",
+      "lang": "he",
+      "status": [
+        "core_fixed"
+      ],
+      "requires_minyan": false
+    },
+    {
+      "id": "ITK.SHA.AMIDAH.020",
+      "corpus_id": "corpus.italki",
+      "service": "shacharit",
+      "section": "AMIDAH",
+      "order": 8,
+      "label": "Italki L1 AMIDAH 2",
+      "text": "PLACEHOLDER: Italki L1 / Shacharit / AMIDAH unit 2",
+      "lang": "he",
+      "status": [
+        "tzibbur"
+      ],
+      "requires_minyan": true
+    },
+    {
+      "id": "ITK.SHA.TACHANUN.010",
+      "corpus_id": "corpus.italki",
+      "service": "shacharit",
+      "section": "TACHANUN",
+      "order": 9,
+      "label": "Italki L1 TACHANUN 1",
+      "text": "PLACEHOLDER: Italki L1 / Shacharit / TACHANUN unit 1",
+      "lang": "he",
+      "status": [
+        "calendar"
+      ],
+      "requires_minyan": false
+    },
+    {
+      "id": "ITK.SHA.ALEINU.010",
+      "corpus_id": "corpus.italki",
+      "service": "shacharit",
+      "section": "ALEINU",
+      "order": 10,
+      "label": "Italki L1 ALEINU 1",
+      "text": "PLACEHOLDER: Italki L1 / Shacharit / ALEINU unit 1",
+      "lang": "he",
+      "status": [
+        "core_fixed"
+      ],
+      "requires_minyan": false
+    },
+    {
+      "id": "ITK.SHA.ALEINU.020",
+      "corpus_id": "corpus.italki",
+      "service": "shacharit",
+      "section": "ALEINU",
+      "order": 11,
+      "label": "Italki L1 ALEINU 2",
+      "text": "PLACEHOLDER: Italki L1 / Shacharit / ALEINU unit 2",
+      "lang": "he",
+      "status": [
+        "optional"
+      ],
+      "requires_minyan": false
+    }
+  ],
+  "parallel_units": [
+    {
+      "id": "ROM.SHA.BIRKHOT.010",
+      "corpus_id": "corpus.romaniote",
+      "service": "shacharit",
+      "section": "BIRKHOT",
+      "order": 1,
+      "label": "Romaniote L3 BIRKHOT 1",
+      "text": "PLACEHOLDER: Romaniote L3 / Shacharit / BIRKHOT unit 1",
+      "lang": "he",
+      "status": [
+        "core_fixed"
+      ],
+      "requires_minyan": false
+    },
+    {
+      "id": "ROM.SHA.PESUKEI.020",
+      "corpus_id": "corpus.romaniote",
+      "service": "shacharit",
+      "section": "PESUKEI",
+      "order": 2,
+      "label": "Romaniote L3 PESUKEI 2",
+      "text": "PLACEHOLDER: Romaniote L3 / Shacharit / PESUKEI unit 2",
+      "lang": "he",
+      "status": [
+        "core_fixed"
+      ],
+      "requires_minyan": false
+    },
+    {
+      "id": "ROM.SHA.PESUKEI.010",
+      "corpus_id": "corpus.romaniote",
+      "service": "shacharit",
+      "section": "PESUKEI",
+      "order": 3,
+      "label": "Romaniote L3 PESUKEI 1",
+      "text": "PLACEHOLDER: Romaniote L3 / Shacharit / PESUKEI unit 1",
+      "lang": "he",
+      "status": [
+        "core_fixed"
+      ],
+      "requires_minyan": false
+    },
+    {
+      "id": "ROM.SHA.PESUKEI.030",
+      "corpus_id": "corpus.romaniote",
+      "service": "shacharit",
+      "section": "PESUKEI",
+      "order": 4,
+      "label": "Romaniote L3 PESUKEI 3",
+      "text": "PLACEHOLDER: Romaniote L3 / Shacharit / PESUKEI unit 3",
+      "lang": "he",
+      "status": [
+        "minhag"
+      ],
+      "requires_minyan": false
+    },
+    {
+      "id": "ROM.SHA.SHEMA.010",
+      "corpus_id": "corpus.romaniote",
+      "service": "shacharit",
+      "section": "SHEMA",
+      "order": 5,
+      "label": "Romaniote L3 SHEMA 1",
+      "text": "PLACEHOLDER: Romaniote L3 / Shacharit / SHEMA unit 1",
+      "lang": "he",
+      "status": [
+        "core_fixed"
+      ],
+      "requires_minyan": false
+    },
+    {
+      "id": "ROM.SHA.SHEMA.020",
+      "corpus_id": "corpus.romaniote",
+      "service": "shacharit",
+      "section": "SHEMA",
+      "order": 6,
+      "label": "Romaniote L3 SHEMA 2",
+      "text": "PLACEHOLDER: Romaniote L3 / Shacharit / SHEMA unit 2",
+      "lang": "he",
+      "status": [
+        "core_fixed"
+      ],
+      "requires_minyan": false
+    },
+    {
+      "id": "ROM.SHA.AMIDAH.010",
+      "corpus_id": "corpus.romaniote",
+      "service": "shacharit",
+      "section": "AMIDAH",
+      "order": 7,
+      "label": "Romaniote L3 AMIDAH 1",
+      "text": "PLACEHOLDER: Romaniote L3 / Shacharit / AMIDAH unit 1",
+      "lang": "he",
+      "status": [
+        "core_fixed"
+      ],
+      "requires_minyan": false
+    },
+    {
+      "id": "ROM.SHA.AMIDAH.020",
+      "corpus_id": "corpus.romaniote",
+      "service": "shacharit",
+      "section": "AMIDAH",
+      "order": 8,
+      "label": "Romaniote L3 AMIDAH 2",
+      "text": "PLACEHOLDER: Romaniote L3 / Shacharit / AMIDAH unit 2",
+      "lang": "he",
+      "status": [
+        "tzibbur"
+      ],
+      "requires_minyan": true
+    },
+    {
+      "id": "ROM.SHA.TACHANUN.010",
+      "corpus_id": "corpus.romaniote",
+      "service": "shacharit",
+      "section": "TACHANUN",
+      "order": 9,
+      "label": "Romaniote L3 TACHANUN 1",
+      "text": "PLACEHOLDER: Romaniote L3 / Shacharit / TACHANUN unit 1",
+      "lang": "he",
+      "status": [
+        "calendar"
+      ],
+      "requires_minyan": false
+    },
+    {
+      "id": "ROM.SHA.ALEINU.010",
+      "corpus_id": "corpus.romaniote",
+      "service": "shacharit",
+      "section": "ALEINU",
+      "order": 10,
+      "label": "Romaniote L3 ALEINU 1",
+      "text": "PLACEHOLDER: Romaniote L3 / Shacharit / ALEINU unit 1",
+      "lang": "he",
+      "status": [
+        "core_fixed"
+      ],
+      "requires_minyan": false
+    }
+  ],
+  "alignments": [
+    {
+      "id": "AL.001",
+      "italki_id": "ITK.SHA.BIRKHOT.010",
+      "romaniote_id": "ROM.SHA.BIRKHOT.010",
+      "diff_flags": [
+        "identical"
+      ]
+    },
+    {
+      "id": "AL.002",
+      "italki_id": "ITK.SHA.BIRKHOT.020",
+      "romaniote_id": null,
+      "diff_flags": [
+        "italki_only"
+      ]
+    },
+    {
+      "id": "AL.003",
+      "italki_id": "ITK.SHA.PESUKEI.010",
+      "romaniote_id": "ROM.SHA.PESUKEI.010",
+      "diff_flags": [
+        "divergent_order"
+      ],
+      "note": "Romaniote places this after PESUKEI 2"
+    },
+    {
+      "id": "AL.004",
+      "italki_id": "ITK.SHA.PESUKEI.020",
+      "romaniote_id": "ROM.SHA.PESUKEI.020",
+      "diff_flags": [
+        "divergent_order"
+      ]
+    },
+    {
+      "id": "AL.005",
+      "italki_id": null,
+      "romaniote_id": "ROM.SHA.PESUKEI.030",
+      "diff_flags": [
+        "romaniote_only"
+      ]
+    },
+    {
+      "id": "AL.006",
+      "italki_id": "ITK.SHA.SHEMA.010",
+      "romaniote_id": "ROM.SHA.SHEMA.010",
+      "diff_flags": [
+        "identical"
+      ]
+    },
+    {
+      "id": "AL.007",
+      "italki_id": "ITK.SHA.SHEMA.020",
+      "romaniote_id": "ROM.SHA.SHEMA.020",
+      "diff_flags": [
+        "near_identical"
+      ]
+    },
+    {
+      "id": "AL.008",
+      "italki_id": "ITK.SHA.AMIDAH.010",
+      "romaniote_id": "ROM.SHA.AMIDAH.010",
+      "diff_flags": [
+        "identical"
+      ]
+    },
+    {
+      "id": "AL.009",
+      "italki_id": "ITK.SHA.AMIDAH.020",
+      "romaniote_id": "ROM.SHA.AMIDAH.020",
+      "diff_flags": [
+        "divergent_text"
+      ]
+    },
+    {
+      "id": "AL.010",
+      "italki_id": "ITK.SHA.TACHANUN.010",
+      "romaniote_id": "ROM.SHA.TACHANUN.010",
+      "diff_flags": [
+        "divergent_text",
+        "divergent_order"
+      ]
+    },
+    {
+      "id": "AL.011",
+      "italki_id": "ITK.SHA.ALEINU.010",
+      "romaniote_id": "ROM.SHA.ALEINU.010",
+      "diff_flags": [
+        "identical"
+      ]
+    },
+    {
+      "id": "AL.012",
+      "italki_id": "ITK.SHA.ALEINU.020",
+      "romaniote_id": null,
+      "diff_flags": [
+        "italki_only"
+      ]
+    }
+  ],
+  "overlay_layers": [
+    {
+      "id": "OVL.ARIZAL",
+      "layer": "L2_arizal",
+      "name": "Arizal overlays (disclosed)",
+      "disclosure": "Every L2 item is displayed as an overlay, never merged into the L1 floor."
+    }
+  ],
+  "overlay_links": [
+    {
+      "id": "OL.001",
+      "overlay_layer_id": "OVL.ARIZAL",
+      "target_unit_id": "ITK.SHA.BIRKHOT.010",
+      "type": "kavanah",
+      "label": "PLACEHOLDER: Arizal kavanah on Birkhot 1",
+      "source_ref": "PLACEHOLDER source ref"
+    },
+    {
+      "id": "OL.002",
+      "overlay_layer_id": "OVL.ARIZAL",
+      "target_unit_id": "ITK.SHA.PESUKEI.020",
+      "type": "addition",
+      "label": "PLACEHOLDER: Arizal addition after Pesukei 2",
+      "source_ref": "PLACEHOLDER source ref"
+    },
+    {
+      "id": "OL.003",
+      "overlay_layer_id": "OVL.ARIZAL",
+      "target_unit_id": "ITK.SHA.SHEMA.010",
+      "type": "gestural_rubric",
+      "label": "PLACEHOLDER: Arizal gestural rubric on Shema 1",
+      "source_ref": "PLACEHOLDER source ref"
+    },
+    {
+      "id": "OL.004",
+      "overlay_layer_id": "OVL.ARIZAL",
+      "target_unit_id": "ITK.SHA.AMIDAH.020",
+      "type": "wording_variant",
+      "label": "PLACEHOLDER: Arizal wording variant on Amidah 2",
+      "source_ref": "PLACEHOLDER source ref"
+    },
+    {
+      "id": "OL.005",
+      "overlay_layer_id": "OVL.ARIZAL",
+      "target_unit_id": "ITK.SHA.TACHANUN.010",
+      "type": "reordering",
+      "label": "PLACEHOLDER: Arizal reordering of Tachanun",
+      "source_ref": "PLACEHOLDER source ref"
+    },
+    {
+      "id": "OL.006",
+      "overlay_layer_id": "OVL.ARIZAL",
+      "target_unit_id": "ITK.SHA.ALEINU.020",
+      "type": "omission_flag",
+      "label": "PLACEHOLDER: Arizal omission flag on Aleinu 2",
+      "source_ref": "PLACEHOLDER source ref"
+    }
+  ],
+  "comparators": [
+    {
+      "id": "CMP.CHABAD",
+      "layer": "comparator_chabad",
+      "name": "Chabad comparator (read-only)",
+      "license_status": "pending",
+      "read_only": true
+    }
+  ],
+  "choreography": [
+    {
+      "id": "CH.001",
+      "unit_id": "ITK.SHA.PESUKEI.010",
+      "cue_code": "stand",
+      "layer_source": "L1_italki",
+      "timing": "start",
+      "obligation_tag": "custom",
+      "confidence": "unknown",
+      "label": "Stand (placeholder cue)",
+      "never_silent_resolve": true
+    },
+    {
+      "id": "CH.002",
+      "unit_id": "ITK.SHA.SHEMA.010",
+      "cue_code": "cover_eyes",
+      "layer_source": "L1_italki",
+      "timing": "during",
+      "obligation_tag": "required",
+      "confidence": "inferred",
+      "label": "Cover eyes for first verse only",
+      "conflict_group": "CG.SHEMA.COVER_EYES",
+      "never_silent_resolve": true
+    },
+    {
+      "id": "CH.003",
+      "unit_id": "ITK.SHA.SHEMA.010",
+      "cue_code": "cover_eyes",
+      "layer_source": "L2_arizal",
+      "timing": "during",
+      "obligation_tag": "kabbalistic",
+      "confidence": "attested",
+      "label": "Cover eyes through the following line, right hand",
+      "conflict_group": "CG.SHEMA.COVER_EYES",
+      "never_silent_resolve": true
+    },
+    {
+      "id": "CH.004",
+      "unit_id": "ROM.SHA.SHEMA.010",
+      "cue_code": "cover_eyes",
+      "layer_source": "L3_romaniote",
+      "timing": "during",
+      "obligation_tag": "custom",
+      "confidence": "unknown",
+      "label": "Romaniote practice unknown; field work needed",
+      "conflict_group": "CG.SHEMA.COVER_EYES",
+      "never_silent_resolve": true
+    },
+    {
+      "id": "CH.005",
+      "unit_id": "ITK.SHA.AMIDAH.010",
+      "cue_code": "three_steps_forward",
+      "layer_source": "L1_italki",
+      "timing": "before",
+      "obligation_tag": "custom",
+      "confidence": "attested",
+      "label": "Three steps forward",
+      "never_silent_resolve": true
+    },
+    {
+      "id": "CH.006",
+      "unit_id": "ITK.SHA.AMIDAH.010",
+      "cue_code": "bow",
+      "layer_source": "L1_italki",
+      "timing": "start",
+      "obligation_tag": "required",
+      "confidence": "attested",
+      "label": "Bow at opening",
+      "never_silent_resolve": true
+    },
+    {
+      "id": "CH.007",
+      "unit_id": "ITK.SHA.AMIDAH.020",
+      "cue_code": "three_steps_back",
+      "layer_source": "L1_italki",
+      "timing": "end",
+      "obligation_tag": "custom",
+      "confidence": "attested",
+      "label": "Three steps back",
+      "never_silent_resolve": true
+    },
+    {
+      "id": "CH.008",
+      "unit_id": "ITK.SHA.ALEINU.010",
+      "cue_code": "bow",
+      "layer_source": "L1_italki",
+      "timing": "during",
+      "obligation_tag": "custom",
+      "confidence": "inferred",
+      "label": "Bow (placeholder cue)",
+      "never_silent_resolve": true
+    }
+  ]
+}
