@@ -1,0 +1,1405 @@
+{
+ "normalization_log": [
+  {
+   "id": "N1",
+   "applies_to": "text",
+   "rule": "Unicode NFC normalization of the served string. No other change to `text`."
+  },
+  {
+   "id": "N2",
+   "applies_to": "text_display",
+   "rule": "<br>, <br />, </p> become line breaks; HTML entities decoded."
+  },
+  {
+   "id": "N3",
+   "applies_to": "text_display",
+   "rule": "Presentational tags (<b>, <small>, <big>, <p>, <span>) removed, inner text kept."
+  },
+  {
+   "id": "N4",
+   "applies_to": "text_display",
+   "rule": "Open Siddur editorial elements removed from display: <span class=\"citation\"> (transcriber-added scripture citations), <span class=\"instruction\">, footnote markers/tooltips, <script>. They remain in `text`."
+  },
+  {
+   "id": "N5",
+   "applies_to": "text_display",
+   "rule": "Leading/trailing whitespace trimmed per line; empty lines dropped."
+  }
+ ],
+ "corpora": [],
+ "units": [
+  {
+   "id": "ITK.SHA.BIRKHOT.110",
+   "corpus_id": "corpus.italki",
+   "service": "shacharit",
+   "section": "BIRKHOT",
+   "order": 1001,
+   "label": "Birkat Gomel Ḥasadim and prayers of protection following the Birkhot ha-Shaḥar in the Italian rite [1]",
+   "text": "\nבָּרוּךְ אַתָּה<br />\nיְיָ אֱלֹהֵנוּ<br />\nמֶלֶךְ הָעוֹלָם<br />\nהַמַּעֲבִיר חֶבְלֵי שֵׁנָה מֵעֵינָי<br />\nוּתְנוּמָה מֵעַפְעַפָּי׃\n",
+   "text_display": "בָּרוּךְ אַתָּה\nיְיָ אֱלֹהֵנוּ\nמֶלֶךְ הָעוֹלָם\nהַמַּעֲבִיר חֶבְלֵי שֵׁנָה מֵעֵינָי\nוּתְנוּמָה מֵעַפְעַפָּי׃",
+   "lang": "he",
+   "status": [
+    "core_fixed"
+   ],
+   "requires_minyan": false,
+   "transliteration": null,
+   "gloss": null,
+   "provenance": {
+    "source_title": "בִּרְכַּת גּוֹמֵל חֲסָדִים טוֹבִים לְעַמּוֹ יִשְׂרָאֵל | Birkat Gomel Ḥasadim and prayers of protection following the Birkhot ha-Shaḥar in the Italian rite",
+    "source_url": "https://opensiddur.org/prayers/solilunar/everyday/daytime/birkhot-hashahar/face-washing/prophylactic-prayers-of-protection-following-the-birkhot-hashahar-in-the-italian-rite/",
+    "source_fragment": "div.liturgy[lang=heb-Hebr] #1",
+    "publisher": "Open Siddur Project",
+    "witness": "David Prato (ed.), Tefilah l'David: Preghiere di Rito Italiano, Rome 1949, pp. 10-12",
+    "license": "CC-BY-SA-4.0",
+    "license_evidence_url": "https://opensiddur.org/prayers/solilunar/everyday/daytime/birkhot-hashahar/face-washing/prophylactic-prayers-of-protection-following-the-birkhot-hashahar-in-the-italian-rite/",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrieved": "2026-10-29",
+    "source_sha256": "0469a6c9acb3ea0d9353f69b3db45e67a46becd1a73d23789c45bc8609ac872a",
+    "text_sha256": "d51c948b21ec7fff2397961524158eb5d393d2cc64b6a7ab41c0443d264e2798",
+    "normalization": [
+     "N1",
+     "N2",
+     "N3",
+     "N4",
+     "N5"
+    ]
+   }
+  },
+  {
+   "id": "ITK.SHA.BIRKHOT.120",
+   "corpus_id": "corpus.italki",
+   "service": "shacharit",
+   "section": "BIRKHOT",
+   "order": 1002,
+   "label": "Birkat Gomel Ḥasadim and prayers of protection following the Birkhot ha-Shaḥar in the Italian rite [2]",
+   "text": "\nיְהִי רָצוֹן מִלְּפָנֶיךָ<br />\nיְיָ אֱלֹהַי וֵאלֹהֵי אֲבוֹתַי<br />\nשֶׁתַּרְגִּילֵנִי לִדְבַר מִצְוָה<br />\nוְאַל תַּרְגִּילֵנִי לִדְבַר עֲבֵרָה וְעָוֺן<br />\nוְהַשְׁלֵט בִּי יֵצֶר טוֹב<br />\nוְאַל תַּשְׁלֵט בִּי יֵצֶר רָע<br />\nוְחַזְּקֵנִי בְּמִצְוֺתֶיךָ<br />\nוְתֵן חֶלְקִי בְּתוֹרָתֶךָ<br />\nוְאַל תְּבִיאֵנִי לִידֵי חֵטְא<br />\nוְלֹא לִידֵי נִסָּיוֹן<br />\nוְלֹא לִידֵי בִזָּיֹן<br />\nוְכוֹף אֶת יִצְרִי לְהִשְׁתַּעְבֵּד לָךְ<br />\nוְהַכְנַע עָרְפִּי לָשׁוּב אֵלֶיךָ<br />\nוְחַדֵּשׁ כִּלְיוֹתַי לִשְׁמוֹר פִּקּוּדֶיךָ<br />\nוּמוֹל אֶת לְבָבִי וְאֶת לְבַב זַרְעִי<br />\nלְאַהֲבָה וּלְיִרְאָה אֶת שְׁמֶךָ<br />\nוְלַעֲשׂוֹת הַטּוֹב וְהַיָּשָׁר בְּעֵינֶיךָ<br />\nוְקָֽרְבֵנִי לְכׇל מַה שֶּׁאָהַבְתָּ<br />\nוְרַחֲקֵנִי מִכׇּל מַה שֶּׁשָּׂנֵאתָ׃\n",
+   "text_display": "יְהִי רָצוֹן מִלְּפָנֶיךָ\nיְיָ אֱלֹהַי וֵאלֹהֵי אֲבוֹתַי\nשֶׁתַּרְגִּילֵנִי לִדְבַר מִצְוָה\nוְאַל תַּרְגִּילֵנִי לִדְבַר עֲבֵרָה וְעָוֺן\nוְהַשְׁלֵט בִּי יֵצֶר טוֹב\nוְאַל תַּשְׁלֵט בִּי יֵצֶר רָע\nוְחַזְּקֵנִי בְּמִצְוֺתֶיךָ\nוְתֵן חֶלְקִי בְּתוֹרָתֶךָ\nוְאַל תְּבִיאֵנִי לִידֵי חֵטְא\nוְלֹא לִידֵי נִסָּיוֹן\nוְלֹא לִידֵי בִזָּיֹן\nוְכוֹף אֶת יִצְרִי לְהִשְׁתַּעְבֵּד לָךְ\nוְהַכְנַע עָרְפִּי לָשׁוּב אֵלֶיךָ\nוְחַדֵּשׁ כִּלְיוֹתַי לִשְׁמוֹר פִּקּוּדֶיךָ\nוּמוֹל אֶת לְבָבִי וְאֶת לְבַב זַרְעִי\nלְאַהֲבָה וּלְיִרְאָה אֶת שְׁמֶךָ\nוְלַעֲשׂוֹת הַטּוֹב וְהַיָּשָׁר בְּעֵינֶיךָ\nוְקָֽרְבֵנִי לְכׇל מַה שֶּׁאָהַבְתָּ\nוְרַחֲקֵנִי מִכׇּל מַה שֶּׁשָּׂנֵאתָ׃",
+   "lang": "he",
+   "status": [
+    "core_fixed"
+   ],
+   "requires_minyan": false,
+   "transliteration": null,
+   "gloss": null,
+   "provenance": {
+    "source_title": "בִּרְכַּת גּוֹמֵל חֲסָדִים טוֹבִים לְעַמּוֹ יִשְׂרָאֵל | Birkat Gomel Ḥasadim and prayers of protection following the Birkhot ha-Shaḥar in the Italian rite",
+    "source_url": "https://opensiddur.org/prayers/solilunar/everyday/daytime/birkhot-hashahar/face-washing/prophylactic-prayers-of-protection-following-the-birkhot-hashahar-in-the-italian-rite/",
+    "source_fragment": "div.liturgy[lang=heb-Hebr] #2",
+    "publisher": "Open Siddur Project",
+    "witness": "David Prato (ed.), Tefilah l'David: Preghiere di Rito Italiano, Rome 1949, pp. 10-12",
+    "license": "CC-BY-SA-4.0",
+    "license_evidence_url": "https://opensiddur.org/prayers/solilunar/everyday/daytime/birkhot-hashahar/face-washing/prophylactic-prayers-of-protection-following-the-birkhot-hashahar-in-the-italian-rite/",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrieved": "2026-10-29",
+    "source_sha256": "f2c0befd852371948e2a183510a1c79db4859e24a2e0c9ae6493dceca577b369",
+    "text_sha256": "e906f87f0bf7d3648597aa4fd912750941bf0d4c5b600b581a90dbe0ef2636f6",
+    "normalization": [
+     "N1",
+     "N2",
+     "N3",
+     "N4",
+     "N5"
+    ]
+   }
+  },
+  {
+   "id": "ITK.SHA.BIRKHOT.130",
+   "corpus_id": "corpus.italki",
+   "service": "shacharit",
+   "section": "BIRKHOT",
+   "order": 1003,
+   "label": "Birkat Gomel Ḥasadim and prayers of protection following the Birkhot ha-Shaḥar in the Italian rite [3]",
+   "text": "\nוְקַיֵם עָלַי<br />\nוְעַל זַרְעִי וְעַל זֶרע זַרְעִי<br />\nמִקְרָא שְֶכָּתוּב<br />\nוּמָל יְיָ אֶלֹהֶיךָ אֶת לְבָֽבְךָ<br />\nוְאֶת לְבַב זַרְעֶךָ<br />\nלְאַהֲבָה אֶת יְיָ אֱלֹהֶיךָ<br />\nבְּכׇל לְבָֽבְךָ<br />\nוּבְכׇל נַפְשְׁךָ<br />\nלְמַעַן חַיֶּיךָ׃ <span class=\"citation\">(דברים ל:ו)</span>\n",
+   "text_display": "וְקַיֵם עָלַי\nוְעַל זַרְעִי וְעַל זֶרע זַרְעִי\nמִקְרָא שְֶכָּתוּב\nוּמָל יְיָ אֶלֹהֶיךָ אֶת לְבָֽבְךָ\nוְאֶת לְבַב זַרְעֶךָ\nלְאַהֲבָה אֶת יְיָ אֱלֹהֶיךָ\nבְּכׇל לְבָֽבְךָ\nוּבְכׇל נַפְשְׁךָ\nלְמַעַן חַיֶּיךָ׃",
+   "lang": "he",
+   "status": [
+    "core_fixed"
+   ],
+   "requires_minyan": false,
+   "transliteration": null,
+   "gloss": null,
+   "provenance": {
+    "source_title": "בִּרְכַּת גּוֹמֵל חֲסָדִים טוֹבִים לְעַמּוֹ יִשְׂרָאֵל | Birkat Gomel Ḥasadim and prayers of protection following the Birkhot ha-Shaḥar in the Italian rite",
+    "source_url": "https://opensiddur.org/prayers/solilunar/everyday/daytime/birkhot-hashahar/face-washing/prophylactic-prayers-of-protection-following-the-birkhot-hashahar-in-the-italian-rite/",
+    "source_fragment": "div.liturgy[lang=heb-Hebr] #3",
+    "publisher": "Open Siddur Project",
+    "witness": "David Prato (ed.), Tefilah l'David: Preghiere di Rito Italiano, Rome 1949, pp. 10-12",
+    "license": "CC-BY-SA-4.0",
+    "license_evidence_url": "https://opensiddur.org/prayers/solilunar/everyday/daytime/birkhot-hashahar/face-washing/prophylactic-prayers-of-protection-following-the-birkhot-hashahar-in-the-italian-rite/",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrieved": "2026-10-29",
+    "source_sha256": "b899f86c261586122cd8dc5bfc9a03c3fa0b4300d44cc9cf9c317d4199dd1556",
+    "text_sha256": "2ca6d7ee3843800f6a471850a525fdafb745f01b93987f1f8ea11866e0eadefd",
+    "normalization": [
+     "N1",
+     "N2",
+     "N3",
+     "N4",
+     "N5"
+    ]
+   }
+  },
+  {
+   "id": "ITK.SHA.BIRKHOT.140",
+   "corpus_id": "corpus.italki",
+   "service": "shacharit",
+   "section": "BIRKHOT",
+   "order": 1004,
+   "label": "Birkat Gomel Ḥasadim and prayers of protection following the Birkhot ha-Shaḥar in the Italian rite [4]",
+   "text": "\nוַאֲנִי זֹאת בְּרִיתִי אוֹתָם<br />\nאָמַר יְיָ רוּחִי אֲשֶׁר עָלֶיךָ וּדְבָרַי<br />\nאֲשֶׁר שַׂמְתִּי בְּפִיךָ<br />\nלֹא יָמוּשׁוּ מִפִּיךָ<br />\nוּמִפִּי זַרְעֲךָ<br />\nוּמִפִּי זֶרַע זַרְעֲךָ<br />\nאָמַר יְיָ מֵעַתָּה וְעַד עוֹלָם: <span class=\"citation\">(ישעיה נט:כא)</span>\n",
+   "text_display": "וַאֲנִי זֹאת בְּרִיתִי אוֹתָם\nאָמַר יְיָ רוּחִי אֲשֶׁר עָלֶיךָ וּדְבָרַי\nאֲשֶׁר שַׂמְתִּי בְּפִיךָ\nלֹא יָמוּשׁוּ מִפִּיךָ\nוּמִפִּי זַרְעֲךָ\nוּמִפִּי זֶרַע זַרְעֲךָ\nאָמַר יְיָ מֵעַתָּה וְעַד עוֹלָם:",
+   "lang": "he",
+   "status": [
+    "core_fixed"
+   ],
+   "requires_minyan": false,
+   "transliteration": null,
+   "gloss": null,
+   "provenance": {
+    "source_title": "בִּרְכַּת גּוֹמֵל חֲסָדִים טוֹבִים לְעַמּוֹ יִשְׂרָאֵל | Birkat Gomel Ḥasadim and prayers of protection following the Birkhot ha-Shaḥar in the Italian rite",
+    "source_url": "https://opensiddur.org/prayers/solilunar/everyday/daytime/birkhot-hashahar/face-washing/prophylactic-prayers-of-protection-following-the-birkhot-hashahar-in-the-italian-rite/",
+    "source_fragment": "div.liturgy[lang=heb-Hebr] #4",
+    "publisher": "Open Siddur Project",
+    "witness": "David Prato (ed.), Tefilah l'David: Preghiere di Rito Italiano, Rome 1949, pp. 10-12",
+    "license": "CC-BY-SA-4.0",
+    "license_evidence_url": "https://opensiddur.org/prayers/solilunar/everyday/daytime/birkhot-hashahar/face-washing/prophylactic-prayers-of-protection-following-the-birkhot-hashahar-in-the-italian-rite/",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrieved": "2026-10-29",
+    "source_sha256": "978b812f1f2f0bb861af99252ee29a902e2be011211c27556847b9f566271cc7",
+    "text_sha256": "74942be7bfbb135a26bdac88b04fc1c1207dd936921ab853de17b7cbd8e54698",
+    "normalization": [
+     "N1",
+     "N2",
+     "N3",
+     "N4",
+     "N5"
+    ]
+   }
+  },
+  {
+   "id": "ITK.SHA.BIRKHOT.150",
+   "corpus_id": "corpus.italki",
+   "service": "shacharit",
+   "section": "BIRKHOT",
+   "order": 1005,
+   "label": "Birkat Gomel Ḥasadim and prayers of protection following the Birkhot ha-Shaḥar in the Italian rite [5]",
+   "text": "\nוְנוֹדַע בַּגּוֹיִם זַרְעָם<br />\nוְצֶאֱצָאֵיהֶם בְּתוֹךְ הָעַמִּים<br />\nכׇּל רֹאֵיהֶם יַכִּירוּם<br />\nכִּי הֵם זֶרַע<br />\nבֵּרַךְ יְיָ׃ <span class=\"citation\">(ישעיה סא:ט)</span>\n",
+   "text_display": "וְנוֹדַע בַּגּוֹיִם זַרְעָם\nוְצֶאֱצָאֵיהֶם בְּתוֹךְ הָעַמִּים\nכׇּל רֹאֵיהֶם יַכִּירוּם\nכִּי הֵם זֶרַע\nבֵּרַךְ יְיָ׃",
+   "lang": "he",
+   "status": [
+    "core_fixed"
+   ],
+   "requires_minyan": false,
+   "transliteration": null,
+   "gloss": null,
+   "provenance": {
+    "source_title": "בִּרְכַּת גּוֹמֵל חֲסָדִים טוֹבִים לְעַמּוֹ יִשְׂרָאֵל | Birkat Gomel Ḥasadim and prayers of protection following the Birkhot ha-Shaḥar in the Italian rite",
+    "source_url": "https://opensiddur.org/prayers/solilunar/everyday/daytime/birkhot-hashahar/face-washing/prophylactic-prayers-of-protection-following-the-birkhot-hashahar-in-the-italian-rite/",
+    "source_fragment": "div.liturgy[lang=heb-Hebr] #5",
+    "publisher": "Open Siddur Project",
+    "witness": "David Prato (ed.), Tefilah l'David: Preghiere di Rito Italiano, Rome 1949, pp. 10-12",
+    "license": "CC-BY-SA-4.0",
+    "license_evidence_url": "https://opensiddur.org/prayers/solilunar/everyday/daytime/birkhot-hashahar/face-washing/prophylactic-prayers-of-protection-following-the-birkhot-hashahar-in-the-italian-rite/",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrieved": "2026-10-29",
+    "source_sha256": "9c8102765e7b957c0bdeee0b58c541ac144999e301092d2db324e4cad3b3e926",
+    "text_sha256": "ba4e7f713551a3e464f45746ee790b56c2037309d78061ae8e8e34857ef446aa",
+    "normalization": [
+     "N1",
+     "N2",
+     "N3",
+     "N4",
+     "N5"
+    ]
+   }
+  },
+  {
+   "id": "ITK.SHA.BIRKHOT.160",
+   "corpus_id": "corpus.italki",
+   "service": "shacharit",
+   "section": "BIRKHOT",
+   "order": 1006,
+   "label": "Birkat Gomel Ḥasadim and prayers of protection following the Birkhot ha-Shaḥar in the Italian rite [6]",
+   "text": "\nלֹא יִגְעוּ לָרִיק<br />\nוְלֹא יֵלְדוּ לַבֶּהָלָה<br />\nכִּי זֶרַע בְּרוּכֵי יְיָ הֵמָּה<br />\nוְצֶאֱצָאֵיהֶם אִתָּם׃<br />\nוְהָיָה טֶרֶם יִקְרָאוּ וַאֲנִי אֶעֱנֶה<br />\nעוֹד הֵם מְדַבְּרִים<br />\nוַאֲנִי אֶשְׁמָע׃ <span class=\"citation\">(ישעיה סה:כג-כד)</span>\n",
+   "text_display": "לֹא יִגְעוּ לָרִיק\nוְלֹא יֵלְדוּ לַבֶּהָלָה\nכִּי זֶרַע בְּרוּכֵי יְיָ הֵמָּה\nוְצֶאֱצָאֵיהֶם אִתָּם׃\nוְהָיָה טֶרֶם יִקְרָאוּ וַאֲנִי אֶעֱנֶה\nעוֹד הֵם מְדַבְּרִים\nוַאֲנִי אֶשְׁמָע׃",
+   "lang": "he",
+   "status": [
+    "core_fixed"
+   ],
+   "requires_minyan": false,
+   "transliteration": null,
+   "gloss": null,
+   "provenance": {
+    "source_title": "בִּרְכַּת גּוֹמֵל חֲסָדִים טוֹבִים לְעַמּוֹ יִשְׂרָאֵל | Birkat Gomel Ḥasadim and prayers of protection following the Birkhot ha-Shaḥar in the Italian rite",
+    "source_url": "https://opensiddur.org/prayers/solilunar/everyday/daytime/birkhot-hashahar/face-washing/prophylactic-prayers-of-protection-following-the-birkhot-hashahar-in-the-italian-rite/",
+    "source_fragment": "div.liturgy[lang=heb-Hebr] #6",
+    "publisher": "Open Siddur Project",
+    "witness": "David Prato (ed.), Tefilah l'David: Preghiere di Rito Italiano, Rome 1949, pp. 10-12",
+    "license": "CC-BY-SA-4.0",
+    "license_evidence_url": "https://opensiddur.org/prayers/solilunar/everyday/daytime/birkhot-hashahar/face-washing/prophylactic-prayers-of-protection-following-the-birkhot-hashahar-in-the-italian-rite/",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrieved": "2026-10-29",
+    "source_sha256": "7e9485a5fe42446d87a234c8da2bd8edb4d074e4d30992297fa10ae83f5afac4",
+    "text_sha256": "c38315b2618e7b1f8329bef5adbc5234bc9197d4486a6a5896e179416ccb4935",
+    "normalization": [
+     "N1",
+     "N2",
+     "N3",
+     "N4",
+     "N5"
+    ]
+   }
+  },
+  {
+   "id": "ITK.SHA.BIRKHOT.170",
+   "corpus_id": "corpus.italki",
+   "service": "shacharit",
+   "section": "BIRKHOT",
+   "order": 1007,
+   "label": "Birkat Gomel Ḥasadim and prayers of protection following the Birkhot ha-Shaḥar in the Italian rite [7]",
+   "text": "\nכִּי אֶצָּק־מַיִם עַל צָמֵא<br />\nוְנוֹזְלִים עַל יַבָּשָׁה<br />\nאֶצֹּק רוּחִי עַל זַרְעֶךָ<br />\nוּבִרְכָתִי עַל צֶאֱצָאֶיךָ׃<br />\nוְצָֽמְחוּ בְּבֵין חָצִיר<br />\nכַּעֲרִבִים עַל יִבְלֵי מָיִם׃<br />\nזֶה יֹאמַר לַיְיָ אָנִי<br />\nוְזֶה יִקְרָא בְשֵׁם יַעֲקֹב<br />\nוְזֶה יִכְתֹּב יָדוֹ לַיְיָ<br />\nוּבְשֵׁם יִשְׂרָאֵל יְכַנֶּה׃ <span class=\"citation\">(ישעיה מד:ג-ה)</span>\n",
+   "text_display": "כִּי אֶצָּק־מַיִם עַל צָמֵא\nוְנוֹזְלִים עַל יַבָּשָׁה\nאֶצֹּק רוּחִי עַל זַרְעֶךָ\nוּבִרְכָתִי עַל צֶאֱצָאֶיךָ׃\nוְצָֽמְחוּ בְּבֵין חָצִיר\nכַּעֲרִבִים עַל יִבְלֵי מָיִם׃\nזֶה יֹאמַר לַיְיָ אָנִי\nוְזֶה יִקְרָא בְשֵׁם יַעֲקֹב\nוְזֶה יִכְתֹּב יָדוֹ לַיְיָ\nוּבְשֵׁם יִשְׂרָאֵל יְכַנֶּה׃",
+   "lang": "he",
+   "status": [
+    "core_fixed"
+   ],
+   "requires_minyan": false,
+   "transliteration": null,
+   "gloss": null,
+   "provenance": {
+    "source_title": "בִּרְכַּת גּוֹמֵל חֲסָדִים טוֹבִים לְעַמּוֹ יִשְׂרָאֵל | Birkat Gomel Ḥasadim and prayers of protection following the Birkhot ha-Shaḥar in the Italian rite",
+    "source_url": "https://opensiddur.org/prayers/solilunar/everyday/daytime/birkhot-hashahar/face-washing/prophylactic-prayers-of-protection-following-the-birkhot-hashahar-in-the-italian-rite/",
+    "source_fragment": "div.liturgy[lang=heb-Hebr] #7",
+    "publisher": "Open Siddur Project",
+    "witness": "David Prato (ed.), Tefilah l'David: Preghiere di Rito Italiano, Rome 1949, pp. 10-12",
+    "license": "CC-BY-SA-4.0",
+    "license_evidence_url": "https://opensiddur.org/prayers/solilunar/everyday/daytime/birkhot-hashahar/face-washing/prophylactic-prayers-of-protection-following-the-birkhot-hashahar-in-the-italian-rite/",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrieved": "2026-10-29",
+    "source_sha256": "ca5862de4f4be40ce45e20ebc02f52d8764bf599b76e3c16f5965b86a67d4e48",
+    "text_sha256": "5519857efd65bfe52e43abacda2dca5dff28c023246b9291bdb6257eb72607be",
+    "normalization": [
+     "N1",
+     "N2",
+     "N3",
+     "N4",
+     "N5"
+    ]
+   }
+  },
+  {
+   "id": "ITK.SHA.BIRKHOT.180",
+   "corpus_id": "corpus.italki",
+   "service": "shacharit",
+   "section": "BIRKHOT",
+   "order": 1008,
+   "label": "Birkat Gomel Ḥasadim and prayers of protection following the Birkhot ha-Shaḥar in the Italian rite [8]",
+   "text": "\nוַיְהִי כַחוֹל זַרְעֶךָ<br />\nוְצֶאֱצָאֵי מֵאֶיךָ<br />\nכִּמְעוֹתָיו<br />\nלֹא יִכָּרֵת<br />\nוְלֹא יִשָּׁמֵד<br />\nשְׁמוֹ מִלְפָנָי׃ <span class=\"citation\">(ישעיה מח:יט)</span>\n",
+   "text_display": "וַיְהִי כַחוֹל זַרְעֶךָ\nוְצֶאֱצָאֵי מֵאֶיךָ\nכִּמְעוֹתָיו\nלֹא יִכָּרֵת\nוְלֹא יִשָּׁמֵד\nשְׁמוֹ מִלְפָנָי׃",
+   "lang": "he",
+   "status": [
+    "core_fixed"
+   ],
+   "requires_minyan": false,
+   "transliteration": null,
+   "gloss": null,
+   "provenance": {
+    "source_title": "בִּרְכַּת גּוֹמֵל חֲסָדִים טוֹבִים לְעַמּוֹ יִשְׂרָאֵל | Birkat Gomel Ḥasadim and prayers of protection following the Birkhot ha-Shaḥar in the Italian rite",
+    "source_url": "https://opensiddur.org/prayers/solilunar/everyday/daytime/birkhot-hashahar/face-washing/prophylactic-prayers-of-protection-following-the-birkhot-hashahar-in-the-italian-rite/",
+    "source_fragment": "div.liturgy[lang=heb-Hebr] #8",
+    "publisher": "Open Siddur Project",
+    "witness": "David Prato (ed.), Tefilah l'David: Preghiere di Rito Italiano, Rome 1949, pp. 10-12",
+    "license": "CC-BY-SA-4.0",
+    "license_evidence_url": "https://opensiddur.org/prayers/solilunar/everyday/daytime/birkhot-hashahar/face-washing/prophylactic-prayers-of-protection-following-the-birkhot-hashahar-in-the-italian-rite/",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrieved": "2026-10-29",
+    "source_sha256": "1ffd247111608cd732dd9ecd1019be85c68ae6383069d77674d4e37608402935",
+    "text_sha256": "881e86d2802b1101b11624ca7dd188fee6aebccfc47316b3098cfcfe9310e2da",
+    "normalization": [
+     "N1",
+     "N2",
+     "N3",
+     "N4",
+     "N5"
+    ]
+   }
+  },
+  {
+   "id": "ITK.SHA.BIRKHOT.190",
+   "corpus_id": "corpus.italki",
+   "service": "shacharit",
+   "section": "BIRKHOT",
+   "order": 1009,
+   "label": "Birkat Gomel Ḥasadim and prayers of protection following the Birkhot ha-Shaḥar in the Italian rite [9]",
+   "text": "\nוְתִהְיֶה לִי לְמִשְׂגָּב וּמִבְטָח וּמִגְדַּל עוֹז<br />\nוּבֵית מְצוּדוֹת לְהוֹשִׁיעֵנִי וּלְהַצִּיל נַפְשִׁי מִשַּׁחַת<br />\nוּמִכׇּל צָרָה<br />\nוּתְנֵנִי הַיוֹם וּבְכׇל יוֹם<br />\nלְחֵן וּלְחֶסֶד וּלְרַחֲמִים בְּעֵינֶיךָ<br />\nוּבְעֵינֵי כׇּל רוֹאַי<br />\nוְגָמְלֵנִי חַסָדִים טוֹבִים׃<br />\nבָּרוּךְ אַתָּה יְיָ<br />\nגּוֹמֵל חֲסָדִים טוֹבִים<br />\nלְעַמּוֹ יִשְׂרָאֵל׃\n",
+   "text_display": "וְתִהְיֶה לִי לְמִשְׂגָּב וּמִבְטָח וּמִגְדַּל עוֹז\nוּבֵית מְצוּדוֹת לְהוֹשִׁיעֵנִי וּלְהַצִּיל נַפְשִׁי מִשַּׁחַת\nוּמִכׇּל צָרָה\nוּתְנֵנִי הַיוֹם וּבְכׇל יוֹם\nלְחֵן וּלְחֶסֶד וּלְרַחֲמִים בְּעֵינֶיךָ\nוּבְעֵינֵי כׇּל רוֹאַי\nוְגָמְלֵנִי חַסָדִים טוֹבִים׃\nבָּרוּךְ אַתָּה יְיָ\nגּוֹמֵל חֲסָדִים טוֹבִים\nלְעַמּוֹ יִשְׂרָאֵל׃",
+   "lang": "he",
+   "status": [
+    "core_fixed"
+   ],
+   "requires_minyan": false,
+   "transliteration": null,
+   "gloss": null,
+   "provenance": {
+    "source_title": "בִּרְכַּת גּוֹמֵל חֲסָדִים טוֹבִים לְעַמּוֹ יִשְׂרָאֵל | Birkat Gomel Ḥasadim and prayers of protection following the Birkhot ha-Shaḥar in the Italian rite",
+    "source_url": "https://opensiddur.org/prayers/solilunar/everyday/daytime/birkhot-hashahar/face-washing/prophylactic-prayers-of-protection-following-the-birkhot-hashahar-in-the-italian-rite/",
+    "source_fragment": "div.liturgy[lang=heb-Hebr] #9",
+    "publisher": "Open Siddur Project",
+    "witness": "David Prato (ed.), Tefilah l'David: Preghiere di Rito Italiano, Rome 1949, pp. 10-12",
+    "license": "CC-BY-SA-4.0",
+    "license_evidence_url": "https://opensiddur.org/prayers/solilunar/everyday/daytime/birkhot-hashahar/face-washing/prophylactic-prayers-of-protection-following-the-birkhot-hashahar-in-the-italian-rite/",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrieved": "2026-10-29",
+    "source_sha256": "6930a871f1934b387fca4e20071e71976f0726b82c6801dda0166bb6c48d07c2",
+    "text_sha256": "bb3387074ac8e6d8b71dd206ef00e776ee843e7bfc3cfa5028e15e63add6e592",
+    "normalization": [
+     "N1",
+     "N2",
+     "N3",
+     "N4",
+     "N5"
+    ]
+   }
+  },
+  {
+   "id": "ITK.SHA.BIRKHOT.200",
+   "corpus_id": "corpus.italki",
+   "service": "shacharit",
+   "section": "BIRKHOT",
+   "order": 1010,
+   "label": "Birkat Gomel Ḥasadim and prayers of protection following the Birkhot ha-Shaḥar in the Italian rite [10]",
+   "text": "\nיְהִי רָצוֹן מִלְּפָנֶיךָ<br />\nיְיָ אֱלֹהַי אֲבוֹתַי<br />\nשֶׁתַּצִּילֵנִי הַיּוֹם וּבְכׇל יוֹם<br />\nמֵעַזֵּי פָנִים וּמֵעַזּוּת פָּנִים<br />\nוּמִיֵּצֶר הָרָע<br />\nוּמֵאָדָם רָע<br />\nוּמִשָּׁכֵן רָע<br />\nוּמִלָּשׁוֹן הָרָע<br />\nוּמִשָּׂטָן הַמַּשְׁחִית<br />\nוּמִדִּין קָשֶׁה<br />\nוּמִבַּעַל דִּין קָשֶׁה<br />\nבֵּין שֶׁהוּא בֶן בְּרִית<br />\nוּבֵין שֶׁאֵינוֹ בֶן בְּרִית<br />\nוּמִדִּינָהּ שֶׁל גֵיהִנָּם׃\n",
+   "text_display": "יְהִי רָצוֹן מִלְּפָנֶיךָ\nיְיָ אֱלֹהַי אֲבוֹתַי\nשֶׁתַּצִּילֵנִי הַיּוֹם וּבְכׇל יוֹם\nמֵעַזֵּי פָנִים וּמֵעַזּוּת פָּנִים\nוּמִיֵּצֶר הָרָע\nוּמֵאָדָם רָע\nוּמִשָּׁכֵן רָע\nוּמִלָּשׁוֹן הָרָע\nוּמִשָּׂטָן הַמַּשְׁחִית\nוּמִדִּין קָשֶׁה\nוּמִבַּעַל דִּין קָשֶׁה\nבֵּין שֶׁהוּא בֶן בְּרִית\nוּבֵין שֶׁאֵינוֹ בֶן בְּרִית\nוּמִדִּינָהּ שֶׁל גֵיהִנָּם׃",
+   "lang": "he",
+   "status": [
+    "core_fixed"
+   ],
+   "requires_minyan": false,
+   "transliteration": null,
+   "gloss": null,
+   "provenance": {
+    "source_title": "בִּרְכַּת גּוֹמֵל חֲסָדִים טוֹבִים לְעַמּוֹ יִשְׂרָאֵל | Birkat Gomel Ḥasadim and prayers of protection following the Birkhot ha-Shaḥar in the Italian rite",
+    "source_url": "https://opensiddur.org/prayers/solilunar/everyday/daytime/birkhot-hashahar/face-washing/prophylactic-prayers-of-protection-following-the-birkhot-hashahar-in-the-italian-rite/",
+    "source_fragment": "div.liturgy[lang=heb-Hebr] #10",
+    "publisher": "Open Siddur Project",
+    "witness": "David Prato (ed.), Tefilah l'David: Preghiere di Rito Italiano, Rome 1949, pp. 10-12",
+    "license": "CC-BY-SA-4.0",
+    "license_evidence_url": "https://opensiddur.org/prayers/solilunar/everyday/daytime/birkhot-hashahar/face-washing/prophylactic-prayers-of-protection-following-the-birkhot-hashahar-in-the-italian-rite/",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrieved": "2026-10-29",
+    "source_sha256": "da4d2be035895bd176c3fc221b48fc411bd4a3c4f23d77f1bab7d904b003db62",
+    "text_sha256": "a9df5dc4e91165181139236192120874c5b40569fe787af2833660eb20448764",
+    "normalization": [
+     "N1",
+     "N2",
+     "N3",
+     "N4",
+     "N5"
+    ]
+   }
+  },
+  {
+   "id": "ITK.SHA.BIRKHOT.210",
+   "corpus_id": "corpus.italki",
+   "service": "shacharit",
+   "section": "BIRKHOT",
+   "order": 1011,
+   "label": "Birkat Gomel Ḥasadim and prayers of protection following the Birkhot ha-Shaḥar in the Italian rite [11]",
+   "text": "\n",
+   "text_display": "",
+   "lang": "he",
+   "status": [
+    "core_fixed"
+   ],
+   "requires_minyan": false,
+   "transliteration": null,
+   "gloss": null,
+   "provenance": {
+    "source_title": "בִּרְכַּת גּוֹמֵל חֲסָדִים טוֹבִים לְעַמּוֹ יִשְׂרָאֵל | Birkat Gomel Ḥasadim and prayers of protection following the Birkhot ha-Shaḥar in the Italian rite",
+    "source_url": "https://opensiddur.org/prayers/solilunar/everyday/daytime/birkhot-hashahar/face-washing/prophylactic-prayers-of-protection-following-the-birkhot-hashahar-in-the-italian-rite/",
+    "source_fragment": "div.liturgy[lang=heb-Hebr] #11",
+    "publisher": "Open Siddur Project",
+    "witness": "David Prato (ed.), Tefilah l'David: Preghiere di Rito Italiano, Rome 1949, pp. 10-12",
+    "license": "CC-BY-SA-4.0",
+    "license_evidence_url": "https://opensiddur.org/prayers/solilunar/everyday/daytime/birkhot-hashahar/face-washing/prophylactic-prayers-of-protection-following-the-birkhot-hashahar-in-the-italian-rite/",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrieved": "2026-10-29",
+    "source_sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "text_sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "normalization": [
+     "N1",
+     "N2",
+     "N3",
+     "N4",
+     "N5"
+    ]
+   }
+  },
+  {
+   "id": "ITK.SHA.TALMUD_TORAH.110",
+   "corpus_id": "corpus.italki",
+   "service": "shacharit",
+   "section": "TALMUD_TORAH",
+   "order": 1012,
+   "label": "Blessings and Passages for Torah Study justifying prayer in place of sacrificial offerings in the Italian rite [1]",
+   "text": "\nבָּרוּךְ אַתָּה<br />\nיְיָ אֱלֹהֵינוּ<br />\nמֶלֶךְ הָעוֹלָם<br />\nאֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֺתָיו<br />\nוְצִוָּנוּ עַל דִּבְרֵי תוֹרָה׃\n",
+   "text_display": "בָּרוּךְ אַתָּה\nיְיָ אֱלֹהֵינוּ\nמֶלֶךְ הָעוֹלָם\nאֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֺתָיו\nוְצִוָּנוּ עַל דִּבְרֵי תוֹרָה׃",
+   "lang": "he",
+   "status": [
+    "core_fixed"
+   ],
+   "requires_minyan": false,
+   "transliteration": null,
+   "gloss": null,
+   "provenance": {
+    "source_title": "ברכות לתלמוד תורה לפני תפלה | Blessings and Passages for Torah Study justifying prayer in place of sacrificial offerings in the Italian rite",
+    "source_url": "https://opensiddur.org/prayers/praxes/study/blessings-and-passages-for-torah-study-justifying-prayer-in-place-of-sacrificial-offerings-in-the-italian-rite/",
+    "source_fragment": "div.liturgy[lang=heb-Hebr] #1",
+    "publisher": "Open Siddur Project",
+    "witness": "David Prato (ed.), Tefilah l'David: Preghiere di Rito Italiano, Rome 1949, pp. 12-25",
+    "license": "CC-BY-SA-4.0",
+    "license_evidence_url": "https://opensiddur.org/prayers/praxes/study/blessings-and-passages-for-torah-study-justifying-prayer-in-place-of-sacrificial-offerings-in-the-italian-rite/",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrieved": "2026-10-29",
+    "source_sha256": "7ab5bcd8d32513d3cc608403541bd459f68faecc5417dee1856fd9f2d56fa947",
+    "text_sha256": "ab752eb5ea1915de8a869414f1b03a56a33c465de81e108f1937cf82694d0bf4",
+    "normalization": [
+     "N1",
+     "N2",
+     "N3",
+     "N4",
+     "N5"
+    ]
+   }
+  },
+  {
+   "id": "ITK.SHA.TALMUD_TORAH.120",
+   "corpus_id": "corpus.italki",
+   "service": "shacharit",
+   "section": "TALMUD_TORAH",
+   "order": 1013,
+   "label": "Blessings and Passages for Torah Study justifying prayer in place of sacrificial offerings in the Italian rite [2]",
+   "text": "\nוְהַעֲרֵב נָא יְיָ אֱלֹהֵינוּ<br />\nאֶת דִּבְרֵי תוֹרָֽתְךָ בְּפִינוּ<br />\nוּבְפִּיפִיוֹת עַמְּךָ בֵּית יִשְׂרָאֵל<br />\nוְנִהְיֶה אֲנַחְנוּ וְצֶאֱצָאֵינוּ וְצֶאֱצָאֵי<br />\nצֶאֱצָאֵינוּ וְצֶאֱצָאֵי עַמְּךָ בֵּית יִשְׂרָאֵל<br />\nכֻּלָּנוּ יִרְאֵי שְׁמֶךָ<br />\nוְלֹמְדֵי תוֹרָֽתְךָ לִשְׁמָהּ<br />\nבָּרוּךְ אַתָּה יְיָ<br />\nהַמְלַמֵּד תּוֹרָה לְעַמּו יִשְׂרָאֵל׃<br />\nבָּרוּךְ אַתָּה<br />\nיְיָ אֱלֹהֵינוּ<br />\nמֶלֶךְ הָעוֹלָם<br />\nאֲשֶׁר בָּחַר־בָּנוּ מִכׇּל הָעַמִּים<br />\nוְנָתַן־לָנוּ אֶת תּוֹרָתוֹ<br />\nבָּרוּךּ אַתָּה יְיָ<br />\nנוֹתֵן הַתּוֹרָה׃\n",
+   "text_display": "וְהַעֲרֵב נָא יְיָ אֱלֹהֵינוּ\nאֶת דִּבְרֵי תוֹרָֽתְךָ בְּפִינוּ\nוּבְפִּיפִיוֹת עַמְּךָ בֵּית יִשְׂרָאֵל\nוְנִהְיֶה אֲנַחְנוּ וְצֶאֱצָאֵינוּ וְצֶאֱצָאֵי\nצֶאֱצָאֵינוּ וְצֶאֱצָאֵי עַמְּךָ בֵּית יִשְׂרָאֵל\nכֻּלָּנוּ יִרְאֵי שְׁמֶךָ\nוְלֹמְדֵי תוֹרָֽתְךָ לִשְׁמָהּ\nבָּרוּךְ אַתָּה יְיָ\nהַמְלַמֵּד תּוֹרָה לְעַמּו יִשְׂרָאֵל׃\nבָּרוּךְ אַתָּה\nיְיָ אֱלֹהֵינוּ\nמֶלֶךְ הָעוֹלָם\nאֲשֶׁר בָּחַר־בָּנוּ מִכׇּל הָעַמִּים\nוְנָתַן־לָנוּ אֶת תּוֹרָתוֹ\nבָּרוּךּ אַתָּה יְיָ\nנוֹתֵן הַתּוֹרָה׃",
+   "lang": "he",
+   "status": [
+    "core_fixed"
+   ],
+   "requires_minyan": false,
+   "transliteration": null,
+   "gloss": null,
+   "provenance": {
+    "source_title": "ברכות לתלמוד תורה לפני תפלה | Blessings and Passages for Torah Study justifying prayer in place of sacrificial offerings in the Italian rite",
+    "source_url": "https://opensiddur.org/prayers/praxes/study/blessings-and-passages-for-torah-study-justifying-prayer-in-place-of-sacrificial-offerings-in-the-italian-rite/",
+    "source_fragment": "div.liturgy[lang=heb-Hebr] #2",
+    "publisher": "Open Siddur Project",
+    "witness": "David Prato (ed.), Tefilah l'David: Preghiere di Rito Italiano, Rome 1949, pp. 12-25",
+    "license": "CC-BY-SA-4.0",
+    "license_evidence_url": "https://opensiddur.org/prayers/praxes/study/blessings-and-passages-for-torah-study-justifying-prayer-in-place-of-sacrificial-offerings-in-the-italian-rite/",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrieved": "2026-10-29",
+    "source_sha256": "28728dc301048850ce7a5e6428022e5a63b5b2896a1de0ba5fab7a36f243fbae",
+    "text_sha256": "e20ab762372f6cbe38e5563bcef1a2dc0bba5ca8d47dc7e91cccd8a175a1649a",
+    "normalization": [
+     "N1",
+     "N2",
+     "N3",
+     "N4",
+     "N5"
+    ]
+   }
+  },
+  {
+   "id": "ITK.SHA.TALMUD_TORAH.130",
+   "corpus_id": "corpus.italki",
+   "service": "shacharit",
+   "section": "TALMUD_TORAH",
+   "order": 1014,
+   "label": "Blessings and Passages for Torah Study justifying prayer in place of sacrificial offerings in the Italian rite [3]",
+   "text": "\nוּנְשַׁלְּמָה פָּרִים שְׂפָתֵינוּ <span class=\"citation\">(הושע יד:ג)</span><br />\nבִּמְקוֹם קָרְבָּן תָּמִיד שֶׁל בֹּקֶר׃\n",
+   "text_display": "וּנְשַׁלְּמָה פָּרִים שְׂפָתֵינוּ\nבִּמְקוֹם קָרְבָּן תָּמִיד שֶׁל בֹּקֶר׃",
+   "lang": "he",
+   "status": [
+    "core_fixed"
+   ],
+   "requires_minyan": false,
+   "transliteration": null,
+   "gloss": null,
+   "provenance": {
+    "source_title": "ברכות לתלמוד תורה לפני תפלה | Blessings and Passages for Torah Study justifying prayer in place of sacrificial offerings in the Italian rite",
+    "source_url": "https://opensiddur.org/prayers/praxes/study/blessings-and-passages-for-torah-study-justifying-prayer-in-place-of-sacrificial-offerings-in-the-italian-rite/",
+    "source_fragment": "div.liturgy[lang=heb-Hebr] #3",
+    "publisher": "Open Siddur Project",
+    "witness": "David Prato (ed.), Tefilah l'David: Preghiere di Rito Italiano, Rome 1949, pp. 12-25",
+    "license": "CC-BY-SA-4.0",
+    "license_evidence_url": "https://opensiddur.org/prayers/praxes/study/blessings-and-passages-for-torah-study-justifying-prayer-in-place-of-sacrificial-offerings-in-the-italian-rite/",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrieved": "2026-10-29",
+    "source_sha256": "99d78c4f807ca485cb2f99c4dfec893979e6fcafd1b20b76bbcde9e8b641cfc2",
+    "text_sha256": "821bca61e93edcacfbd4b49526e1929c8bc8e05e0f867267ed29ed74a7258e60",
+    "normalization": [
+     "N1",
+     "N2",
+     "N3",
+     "N4",
+     "N5"
+    ]
+   }
+  },
+  {
+   "id": "ITK.SHA.TALMUD_TORAH.140",
+   "corpus_id": "corpus.italki",
+   "service": "shacharit",
+   "section": "TALMUD_TORAH",
+   "order": 1015,
+   "label": "Blessings and Passages for Torah Study justifying prayer in place of sacrificial offerings in the Italian rite [4]",
+   "text": "\n<span class=\"citation\">[במדבר כח:א-ח]</span> וַיְדַבֵּר יְהֹוָה אֶל־מֹשֶׁה לֵּאמֹר׃ צַו אֶת־בְּנֵי יִשְׂרָאֵל וְאָמַרְתָּ אֲלֵהֶם אֶת־קׇרְבָּנִי לַחְמִי לְאִשַּׁי רֵיחַ נִיחֹחִי תִּשְׁמְרוּ לְהַקְרִיב לִי בְּמוֹעֲדוֹ׃ וְאָמַרְתָּ לָהֶם זֶה הָאִשֶּׁה אֲשֶׁר תַּקְרִיבוּ לַיהֹוָה כְּבָשִׂים בְּנֵי־שָׁנָה תְמִימִם שְׁנַיִם לַיּוֹם עֹלָה תָמִיד׃ אֶת־הַכֶּבֶשׂ אֶחָד תַּעֲשֶׂה בַבֹּקֶר וְאֵת הַכֶּבֶשׂ הַשֵּׁנִי תַּעֲשֶׂה בֵּין הָעַרְבָּיִם׃ וַעֲשִׂירִית הָאֵיפָה סֹלֶת לְמִנְחָה בְּלוּלָה בְּשֶׁמֶן כָּתִית רְבִיעִת הַהִין׃ עֹלַת תָּמִיד הָעֲשֻׂיָה בְּהַר סִינַי לְרֵיחַ נִיחֹחַ אִשֶּׁה לַיהֹוָה׃ וְנִסְכּוֹ רְבִיעִת הַהִין לַכֶּבֶשׂ הָאֶחָד בַּקֹּדֶשׁ הַסֵּךְ נֶסֶךְ שֵׁכָר לַיהֹוָה׃ וְאֵת הַכֶּבֶשׂ הַשֵּׁנִי תַּעֲשֶׂה בֵּין הָעַרְבָּיִם כְּמִנְחַת הַבֹּקֶר וּכְנִסְכּוֹ תַּעֲשֶׂה אִשֵּׁה רֵיחַ נִיחֹחַ לַיהֹוָה׃\n",
+   "text_display": "וַיְדַבֵּר יְהֹוָה אֶל־מֹשֶׁה לֵּאמֹר׃ צַו אֶת־בְּנֵי יִשְׂרָאֵל וְאָמַרְתָּ אֲלֵהֶם אֶת־קׇרְבָּנִי לַחְמִי לְאִשַּׁי רֵיחַ נִיחֹחִי תִּשְׁמְרוּ לְהַקְרִיב לִי בְּמוֹעֲדוֹ׃ וְאָמַרְתָּ לָהֶם זֶה הָאִשֶּׁה אֲשֶׁר תַּקְרִיבוּ לַיהֹוָה כְּבָשִׂים בְּנֵי־שָׁנָה תְמִימִם שְׁנַיִם לַיּוֹם עֹלָה תָמִיד׃ אֶת־הַכֶּבֶשׂ אֶחָד תַּעֲשֶׂה בַבֹּקֶר וְאֵת הַכֶּבֶשׂ הַשֵּׁנִי תַּעֲשֶׂה בֵּין הָעַרְבָּיִם׃ וַעֲשִׂירִית הָאֵיפָה סֹלֶת לְמִנְחָה בְּלוּלָה בְּשֶׁמֶן כָּתִית רְבִיעִת הַהִין׃ עֹלַת תָּמִיד הָעֲשֻׂיָה בְּהַר סִינַי לְרֵיחַ נִיחֹחַ אִשֶּׁה לַיהֹוָה׃ וְנִסְכּוֹ רְבִיעִת הַהִין לַכֶּבֶשׂ הָאֶחָד בַּקֹּדֶשׁ הַסֵּךְ נֶסֶךְ שֵׁכָר לַיהֹוָה׃ וְאֵת הַכֶּבֶשׂ הַשֵּׁנִי תַּעֲשֶׂה בֵּין הָעַרְבָּיִם כְּמִנְחַת הַבֹּקֶר וּכְנִסְכּוֹ תַּעֲשֶׂה אִשֵּׁה רֵיחַ נִיחֹחַ לַיהֹוָה׃",
+   "lang": "he",
+   "status": [
+    "core_fixed"
+   ],
+   "requires_minyan": false,
+   "transliteration": null,
+   "gloss": null,
+   "provenance": {
+    "source_title": "ברכות לתלמוד תורה לפני תפלה | Blessings and Passages for Torah Study justifying prayer in place of sacrificial offerings in the Italian rite",
+    "source_url": "https://opensiddur.org/prayers/praxes/study/blessings-and-passages-for-torah-study-justifying-prayer-in-place-of-sacrificial-offerings-in-the-italian-rite/",
+    "source_fragment": "div.liturgy[lang=heb-Hebr] #4",
+    "publisher": "Open Siddur Project",
+    "witness": "David Prato (ed.), Tefilah l'David: Preghiere di Rito Italiano, Rome 1949, pp. 12-25",
+    "license": "CC-BY-SA-4.0",
+    "license_evidence_url": "https://opensiddur.org/prayers/praxes/study/blessings-and-passages-for-torah-study-justifying-prayer-in-place-of-sacrificial-offerings-in-the-italian-rite/",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrieved": "2026-10-29",
+    "source_sha256": "b05c1918f442241cc2faf4c451fb06c5c4a1e6c22f9cac4b6a2e54c4a903f7b1",
+    "text_sha256": "dc2cad326ecff6f6a6f74f7caf2af0d6e3bff6bf51a59e940c76887b64f62f89",
+    "normalization": [
+     "N1",
+     "N2",
+     "N3",
+     "N4",
+     "N5"
+    ]
+   }
+  },
+  {
+   "id": "ITK.SHA.TALMUD_TORAH.150",
+   "corpus_id": "corpus.italki",
+   "service": "shacharit",
+   "section": "TALMUD_TORAH",
+   "order": 1016,
+   "label": "Blessings and Passages for Torah Study justifying prayer in place of sacrificial offerings in the Italian rite [5]",
+   "text": "\n<span class=\"instruction\">ביום השבת מוסיפים:</span> <span class=\"citation\">[במדבר כח:ט-י]</span> וּבְיוֹם הַשַּׁבָּת שְׁנֵי־כְבָשִׂים בְּנֵי־שָׁנָה תְּמִימִם וּשְׁנֵי עֶשְׂרֹנִים סֹלֶת מִנְחָה בְּלוּלָה בַשֶּׁמֶן וְנִסְכּוֹ׃ עֹלַת שַׁבַּת בְּשַׁבַּתּוֹ עַל־עֹלַת הַתָּמִיד וְנִסְכָּהּ׃ \n",
+   "text_display": "וּבְיוֹם הַשַּׁבָּת שְׁנֵי־כְבָשִׂים בְּנֵי־שָׁנָה תְּמִימִם וּשְׁנֵי עֶשְׂרֹנִים סֹלֶת מִנְחָה בְּלוּלָה בַשֶּׁמֶן וְנִסְכּוֹ׃ עֹלַת שַׁבַּת בְּשַׁבַּתּוֹ עַל־עֹלַת הַתָּמִיד וְנִסְכָּהּ׃",
+   "lang": "he",
+   "status": [
+    "core_fixed"
+   ],
+   "requires_minyan": false,
+   "transliteration": null,
+   "gloss": null,
+   "provenance": {
+    "source_title": "ברכות לתלמוד תורה לפני תפלה | Blessings and Passages for Torah Study justifying prayer in place of sacrificial offerings in the Italian rite",
+    "source_url": "https://opensiddur.org/prayers/praxes/study/blessings-and-passages-for-torah-study-justifying-prayer-in-place-of-sacrificial-offerings-in-the-italian-rite/",
+    "source_fragment": "div.liturgy[lang=heb-Hebr] #5",
+    "publisher": "Open Siddur Project",
+    "witness": "David Prato (ed.), Tefilah l'David: Preghiere di Rito Italiano, Rome 1949, pp. 12-25",
+    "license": "CC-BY-SA-4.0",
+    "license_evidence_url": "https://opensiddur.org/prayers/praxes/study/blessings-and-passages-for-torah-study-justifying-prayer-in-place-of-sacrificial-offerings-in-the-italian-rite/",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrieved": "2026-10-29",
+    "source_sha256": "656b76447db977d1807fa3e8f718e9bbcee83bc5dbf9ed48ebbce5d73513d57e",
+    "text_sha256": "bc4ad1619a37c4a885be0012197555abb43a00771897082d3d1b43e5b753715a",
+    "normalization": [
+     "N1",
+     "N2",
+     "N3",
+     "N4",
+     "N5"
+    ]
+   }
+  },
+  {
+   "id": "ITK.SHA.TALMUD_TORAH.160",
+   "corpus_id": "corpus.italki",
+   "service": "shacharit",
+   "section": "TALMUD_TORAH",
+   "order": 1017,
+   "label": "Blessings and Passages for Torah Study justifying prayer in place of sacrificial offerings in the Italian rite [6]",
+   "text": "\n<span class=\"instruction\">בראש חדש מוסיפים:</span> <span class=\"citation\">[במדבר כח:יא-טו]</span> וּבְרָאשֵׁי חׇדְשֵׁיכֶם תַּקְרִיבוּ עֹלָה לַיהֹוָה פָּרִים בְּנֵי־בָקָר שְׁנַיִם וְאַיִל אֶחָד כְּבָשִׂים בְּנֵי־שָׁנָה שִׁבְעָה תְּמִימִם׃ וּשְׁלֹשָׁה עֶשְׂרֹנִים סֹלֶת מִנְחָה בְּלוּלָה בַשֶּׁמֶן לַפָּר הָאֶחָד וּשְׁנֵי עֶשְׂרֹנִים סֹלֶת מִנְחָה בְּלוּלָה בַשֶּׁמֶן לָאַיִל הָאֶחָד׃ וְעִשָּׂרֹן עִשָּׂרוֹן סֹלֶת מִנְחָה בְּלוּלָה בַשֶּׁמֶן לַכֶּבֶשׂ הָאֶחָד עֹלָה רֵיחַ נִיחֹחַ אִשֶּׁה לַיהֹוָה׃ וְנִסְכֵּיהֶם חֲצִי הַהִין יִהְיֶה לַפָּר וּשְׁלִישִׁת הַהִין לָאַיִל וּרְבִיעִת הַהִין לַכֶּבֶשׂ יָיִן זֹאת עֹלַת חֹדֶשׁ בְּחׇדְשׁוֹ לְחׇדְשֵׁי הַשָּׁנָה׃ וּשְׂעִיר עִזִּים אֶחָד לְחַטָּאת לַיהֹוָה עַל־עֹלַת הַתָּמִיד יֵעָשֶׂה וְנִסְכּוֹ׃\n",
+   "text_display": "וּבְרָאשֵׁי חׇדְשֵׁיכֶם תַּקְרִיבוּ עֹלָה לַיהֹוָה פָּרִים בְּנֵי־בָקָר שְׁנַיִם וְאַיִל אֶחָד כְּבָשִׂים בְּנֵי־שָׁנָה שִׁבְעָה תְּמִימִם׃ וּשְׁלֹשָׁה עֶשְׂרֹנִים סֹלֶת מִנְחָה בְּלוּלָה בַשֶּׁמֶן לַפָּר הָאֶחָד וּשְׁנֵי עֶשְׂרֹנִים סֹלֶת מִנְחָה בְּלוּלָה בַשֶּׁמֶן לָאַיִל הָאֶחָד׃ וְעִשָּׂרֹן עִשָּׂרוֹן סֹלֶת מִנְחָה בְּלוּלָה בַשֶּׁמֶן לַכֶּבֶשׂ הָאֶחָד עֹלָה רֵיחַ נִיחֹחַ אִשֶּׁה לַיהֹוָה׃ וְנִסְכֵּיהֶם חֲצִי הַהִין יִהְיֶה לַפָּר וּשְׁלִישִׁת הַהִין לָאַיִל וּרְבִיעִת הַהִין לַכֶּבֶשׂ יָיִן זֹאת עֹלַת חֹדֶשׁ בְּחׇדְשׁוֹ לְחׇדְשֵׁי הַשָּׁנָה׃ וּשְׂעִיר עִזִּים אֶחָד לְחַטָּאת לַיהֹוָה עַל־עֹלַת הַתָּמִיד יֵעָשֶׂה וְנִסְכּוֹ׃",
+   "lang": "he",
+   "status": [
+    "core_fixed"
+   ],
+   "requires_minyan": false,
+   "transliteration": null,
+   "gloss": null,
+   "provenance": {
+    "source_title": "ברכות לתלמוד תורה לפני תפלה | Blessings and Passages for Torah Study justifying prayer in place of sacrificial offerings in the Italian rite",
+    "source_url": "https://opensiddur.org/prayers/praxes/study/blessings-and-passages-for-torah-study-justifying-prayer-in-place-of-sacrificial-offerings-in-the-italian-rite/",
+    "source_fragment": "div.liturgy[lang=heb-Hebr] #6",
+    "publisher": "Open Siddur Project",
+    "witness": "David Prato (ed.), Tefilah l'David: Preghiere di Rito Italiano, Rome 1949, pp. 12-25",
+    "license": "CC-BY-SA-4.0",
+    "license_evidence_url": "https://opensiddur.org/prayers/praxes/study/blessings-and-passages-for-torah-study-justifying-prayer-in-place-of-sacrificial-offerings-in-the-italian-rite/",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrieved": "2026-10-29",
+    "source_sha256": "a9f987eddc00f332ee2957302434593bc21c965fdb1ff8e380fc436a7273c10f",
+    "text_sha256": "7be6c1cb5cd604c51acd2955044b97065c3d7c2ec36557849347b778cdbe155d",
+    "normalization": [
+     "N1",
+     "N2",
+     "N3",
+     "N4",
+     "N5"
+    ]
+   }
+  },
+  {
+   "id": "ITK.SHA.TALMUD_TORAH.170",
+   "corpus_id": "corpus.italki",
+   "service": "shacharit",
+   "section": "TALMUD_TORAH",
+   "order": 1018,
+   "label": "Blessings and Passages for Torah Study justifying prayer in place of sacrificial offerings in the Italian rite [7]",
+   "text": "\nתורה</p>\n<p><span class=\"citation\">[במדבר ו:כב-כז]</span> וַיְדַבֵּר יְהֹוָה אֶל־מֹשֶׁה לֵּאמֹר׃ דַּבֵּר אֶל־אַהֲרֹן וְאֶל־בָּנָיו לֵאמֹר כֹּה תְבָרְכוּ אֶת־בְּנֵי יִשְׂרָאֵל אָמוֹר לָהֶם׃ {ס} יְבָרֶכְךָ יְהֹוָה וְיִשְׁמְרֶךָ׃ {ס} יָאֵר יְהֹוָה  פָּנָיו אֵלֶיךָ וִיחֻנֶּךָּ׃ {ס} יִשָּׂא יְהֹוָה  פָּנָיו אֵלֶיךָ וְיָשֵׂם לְךָ שָׁלוֹם׃ {ס} וְשָׂמוּ אֶת־שְׁמִי עַל־בְּנֵי יִשְׂרָאֵל וַאֲנִי אֲבָרְכֵם׃ {ס}\n",
+   "text_display": "תורה\nוַיְדַבֵּר יְהֹוָה אֶל־מֹשֶׁה לֵּאמֹר׃ דַּבֵּר אֶל־אַהֲרֹן וְאֶל־בָּנָיו לֵאמֹר כֹּה תְבָרְכוּ אֶת־בְּנֵי יִשְׂרָאֵל אָמוֹר לָהֶם׃ {ס} יְבָרֶכְךָ יְהֹוָה וְיִשְׁמְרֶךָ׃ {ס} יָאֵר יְהֹוָה  פָּנָיו אֵלֶיךָ וִיחֻנֶּךָּ׃ {ס} יִשָּׂא יְהֹוָה  פָּנָיו אֵלֶיךָ וְיָשֵׂם לְךָ שָׁלוֹם׃ {ס} וְשָׂמוּ אֶת־שְׁמִי עַל־בְּנֵי יִשְׂרָאֵל וַאֲנִי אֲבָרְכֵם׃ {ס}",
+   "lang": "he",
+   "status": [
+    "core_fixed"
+   ],
+   "requires_minyan": false,
+   "transliteration": null,
+   "gloss": null,
+   "provenance": {
+    "source_title": "ברכות לתלמוד תורה לפני תפלה | Blessings and Passages for Torah Study justifying prayer in place of sacrificial offerings in the Italian rite",
+    "source_url": "https://opensiddur.org/prayers/praxes/study/blessings-and-passages-for-torah-study-justifying-prayer-in-place-of-sacrificial-offerings-in-the-italian-rite/",
+    "source_fragment": "div.liturgy[lang=heb-Hebr] #7",
+    "publisher": "Open Siddur Project",
+    "witness": "David Prato (ed.), Tefilah l'David: Preghiere di Rito Italiano, Rome 1949, pp. 12-25",
+    "license": "CC-BY-SA-4.0",
+    "license_evidence_url": "https://opensiddur.org/prayers/praxes/study/blessings-and-passages-for-torah-study-justifying-prayer-in-place-of-sacrificial-offerings-in-the-italian-rite/",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrieved": "2026-10-29",
+    "source_sha256": "870f55e26b3a5c0662ac72beb8213ca3bfe7de0d0fc174f1fb8c97907df56043",
+    "text_sha256": "b06421a41e24837e5fcad3f3e6c9d392662915574bcfa194bc11ee9ba46bfbe5",
+    "normalization": [
+     "N1",
+     "N2",
+     "N3",
+     "N4",
+     "N5"
+    ]
+   }
+  },
+  {
+   "id": "ITK.SHA.TALMUD_TORAH.180",
+   "corpus_id": "corpus.italki",
+   "service": "shacharit",
+   "section": "TALMUD_TORAH",
+   "order": 1019,
+   "label": "Blessings and Passages for Torah Study justifying prayer in place of sacrificial offerings in the Italian rite [8]",
+   "text": "\nנבאים</p>\n<p><span class=\"citation\">[יהושוע א:ח-ט]</span> לֹא־יָמוּשׁ סֵפֶר הַתּוֹרָה הַזֶּה מִפִּיךָ וְהָגִיתָ בּוֹ יוֹמָם וָלַיְלָה לְמַעַן תִּשְׁמֹר לַעֲשׂוֹת כְּכׇל־הַכָּתוּב בּוֹ כִּי־אָז תַּצְלִיחַ אֶת־דְּרָכֶךָ וְאָז תַּשְׂכִּיל׃ הֲלוֹא צִוִּיתִיךָ חֲזַק וֶאֱמָץ אַל־תַּעֲרֹץ וְאַל־תֵּחָת כִּי עִמְּךָ יְהֹוָה אֱלֹהֶיךָ בְּכֹל אֲשֶׁר תֵּלֵךְ׃\n",
+   "text_display": "נבאים\nלֹא־יָמוּשׁ סֵפֶר הַתּוֹרָה הַזֶּה מִפִּיךָ וְהָגִיתָ בּוֹ יוֹמָם וָלַיְלָה לְמַעַן תִּשְׁמֹר לַעֲשׂוֹת כְּכׇל־הַכָּתוּב בּוֹ כִּי־אָז תַּצְלִיחַ אֶת־דְּרָכֶךָ וְאָז תַּשְׂכִּיל׃ הֲלוֹא צִוִּיתִיךָ חֲזַק וֶאֱמָץ אַל־תַּעֲרֹץ וְאַל־תֵּחָת כִּי עִמְּךָ יְהֹוָה אֱלֹהֶיךָ בְּכֹל אֲשֶׁר תֵּלֵךְ׃",
+   "lang": "he",
+   "status": [
+    "core_fixed"
+   ],
+   "requires_minyan": false,
+   "transliteration": null,
+   "gloss": null,
+   "provenance": {
+    "source_title": "ברכות לתלמוד תורה לפני תפלה | Blessings and Passages for Torah Study justifying prayer in place of sacrificial offerings in the Italian rite",
+    "source_url": "https://opensiddur.org/prayers/praxes/study/blessings-and-passages-for-torah-study-justifying-prayer-in-place-of-sacrificial-offerings-in-the-italian-rite/",
+    "source_fragment": "div.liturgy[lang=heb-Hebr] #8",
+    "publisher": "Open Siddur Project",
+    "witness": "David Prato (ed.), Tefilah l'David: Preghiere di Rito Italiano, Rome 1949, pp. 12-25",
+    "license": "CC-BY-SA-4.0",
+    "license_evidence_url": "https://opensiddur.org/prayers/praxes/study/blessings-and-passages-for-torah-study-justifying-prayer-in-place-of-sacrificial-offerings-in-the-italian-rite/",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrieved": "2026-10-29",
+    "source_sha256": "ac04efc0bd2cd1fc28396e91307c13202f29ff4045a57283e7996ed2a1321fa9",
+    "text_sha256": "60c9fa8c5e546d41185b92543a0e9bd496783cdd062e815b4bfc34f7980b0b0a",
+    "normalization": [
+     "N1",
+     "N2",
+     "N3",
+     "N4",
+     "N5"
+    ]
+   }
+  },
+  {
+   "id": "ITK.SHA.TALMUD_TORAH.190",
+   "corpus_id": "corpus.italki",
+   "service": "shacharit",
+   "section": "TALMUD_TORAH",
+   "order": 1020,
+   "label": "Blessings and Passages for Torah Study justifying prayer in place of sacrificial offerings in the Italian rite [9]",
+   "text": "\nכתובים</p>\n<p><span class=\"citation\">[תהלים א:א-ג]</span> אַשְׁרֵי־הָאִישׁ אֲשֶׁר  לֹא הָלַךְ בַּעֲצַת רְשָׁעִים וּבְדֶרֶךְ חַטָּאִים לֹא עָמָד וּבְמוֹשַׁב לֵצִים לֹא יָשָׁב׃ כִּי אִם־בְּתוֹרַת יְהֹוָה חֶפְצוֹ וּבְתוֹרָתוֹ יֶהְגֶּה יוֹמָם וָלָיְלָה׃ וְהָיָה כְּעֵץ שָׁתוּל עַל־פַּלְגֵי־מָיִם אֲשֶׁר פִּרְיוֹ  יִתֵּן בְּעִתּוֹ וְעָלֵהוּ לֹא־יִבּוֹל וְכֹל אֲשֶׁר־יַעֲשֶׂה יַצְלִיחַ׃\n",
+   "text_display": "כתובים\nאַשְׁרֵי־הָאִישׁ אֲשֶׁר  לֹא הָלַךְ בַּעֲצַת רְשָׁעִים וּבְדֶרֶךְ חַטָּאִים לֹא עָמָד וּבְמוֹשַׁב לֵצִים לֹא יָשָׁב׃ כִּי אִם־בְּתוֹרַת יְהֹוָה חֶפְצוֹ וּבְתוֹרָתוֹ יֶהְגֶּה יוֹמָם וָלָיְלָה׃ וְהָיָה כְּעֵץ שָׁתוּל עַל־פַּלְגֵי־מָיִם אֲשֶׁר פִּרְיוֹ  יִתֵּן בְּעִתּוֹ וְעָלֵהוּ לֹא־יִבּוֹל וְכֹל אֲשֶׁר־יַעֲשֶׂה יַצְלִיחַ׃",
+   "lang": "he",
+   "status": [
+    "core_fixed"
+   ],
+   "requires_minyan": false,
+   "transliteration": null,
+   "gloss": null,
+   "provenance": {
+    "source_title": "ברכות לתלמוד תורה לפני תפלה | Blessings and Passages for Torah Study justifying prayer in place of sacrificial offerings in the Italian rite",
+    "source_url": "https://opensiddur.org/prayers/praxes/study/blessings-and-passages-for-torah-study-justifying-prayer-in-place-of-sacrificial-offerings-in-the-italian-rite/",
+    "source_fragment": "div.liturgy[lang=heb-Hebr] #9",
+    "publisher": "Open Siddur Project",
+    "witness": "David Prato (ed.), Tefilah l'David: Preghiere di Rito Italiano, Rome 1949, pp. 12-25",
+    "license": "CC-BY-SA-4.0",
+    "license_evidence_url": "https://opensiddur.org/prayers/praxes/study/blessings-and-passages-for-torah-study-justifying-prayer-in-place-of-sacrificial-offerings-in-the-italian-rite/",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrieved": "2026-10-29",
+    "source_sha256": "22dca9bef77947e3d8c04554a3ccd6e3d11f52111bb8f16e9bae9a187bee9a2c",
+    "text_sha256": "b2aaff0a5c37db7b74142b131e3bce06b12cadf0e4c48eecefa6462d777bdba5",
+    "normalization": [
+     "N1",
+     "N2",
+     "N3",
+     "N4",
+     "N5"
+    ]
+   }
+  },
+  {
+   "id": "ITK.SHA.TALMUD_TORAH.200",
+   "corpus_id": "corpus.italki",
+   "service": "shacharit",
+   "section": "TALMUD_TORAH",
+   "order": 1021,
+   "label": "Blessings and Passages for Torah Study justifying prayer in place of sacrificial offerings in the Italian rite [10]",
+   "text": "\nמשנה </p>\n<p><span class=\"citation\">[ברכות ב׳ א.א-ג]</span> מֵאֵימָתַי קוֹרִין אֶת שְׁמַע בָּעֲרָבִין? מִשָּׁעָה שֶׁהַכֹּהֲנִים נִכְנָסִים לֶאֱכוֹל בִּתְרוּמָתָן. עַד סוֹף הָאַשְׁמוּרָה הָרִאשׁוֹנָה. דִּבְרֵי רַבִּי אֱלִיעֶזֶר. וַחֲכָמִים אוֹמְרִים: עַד חֲצוֹת. רַבָּן גַּמְלִיאֵל אוֹמֵר עַד שֶׁיַּעֲלֶה עַמּוּד הַשַּׁחַר.\n",
+   "text_display": "משנה\nמֵאֵימָתַי קוֹרִין אֶת שְׁמַע בָּעֲרָבִין? מִשָּׁעָה שֶׁהַכֹּהֲנִים נִכְנָסִים לֶאֱכוֹל בִּתְרוּמָתָן. עַד סוֹף הָאַשְׁמוּרָה הָרִאשׁוֹנָה. דִּבְרֵי רַבִּי אֱלִיעֶזֶר. וַחֲכָמִים אוֹמְרִים: עַד חֲצוֹת. רַבָּן גַּמְלִיאֵל אוֹמֵר עַד שֶׁיַּעֲלֶה עַמּוּד הַשַּׁחַר.",
+   "lang": "he",
+   "status": [
+    "core_fixed"
+   ],
+   "requires_minyan": false,
+   "transliteration": null,
+   "gloss": null,
+   "provenance": {
+    "source_title": "ברכות לתלמוד תורה לפני תפלה | Blessings and Passages for Torah Study justifying prayer in place of sacrificial offerings in the Italian rite",
+    "source_url": "https://opensiddur.org/prayers/praxes/study/blessings-and-passages-for-torah-study-justifying-prayer-in-place-of-sacrificial-offerings-in-the-italian-rite/",
+    "source_fragment": "div.liturgy[lang=heb-Hebr] #10",
+    "publisher": "Open Siddur Project",
+    "witness": "David Prato (ed.), Tefilah l'David: Preghiere di Rito Italiano, Rome 1949, pp. 12-25",
+    "license": "CC-BY-SA-4.0",
+    "license_evidence_url": "https://opensiddur.org/prayers/praxes/study/blessings-and-passages-for-torah-study-justifying-prayer-in-place-of-sacrificial-offerings-in-the-italian-rite/",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrieved": "2026-10-29",
+    "source_sha256": "9ed4b064a5ebe88321e71280ea43c13e822a684e280e4d220d02356438e33473",
+    "text_sha256": "e35e355cc156252c7abf3fee9fb5d8d59c6ca61a884145219778c0975b393992",
+    "normalization": [
+     "N1",
+     "N2",
+     "N3",
+     "N4",
+     "N5"
+    ]
+   }
+  },
+  {
+   "id": "ITK.SHA.TALMUD_TORAH.210",
+   "corpus_id": "corpus.italki",
+   "service": "shacharit",
+   "section": "TALMUD_TORAH",
+   "order": 1022,
+   "label": "Blessings and Passages for Torah Study justifying prayer in place of sacrificial offerings in the Italian rite [11]",
+   "text": "\nגמרא‎ </p>\n<p><span class=\"citation\">[ברכות ב א׳.ו-יא]</span> תַּנָּא הֵיכָא קָאֵי דְּקָתָנֵי ״מֵאֵימָתַי״? וְתוּ: מַאי שְׁנָא דְּתָנֵי בְּעַרְבִית בְּרֵישָׁא? לִתְנֵי דְּשַׁחֲרִית בְּרֵישָׁא! תַּנָּא אַקְּרָא קָאֵי, דִּכְתִיב: ”בְּשָׁכְבְּךָ וּבְקוּמֶךָ“ <span class=\"citation\">(דברים ו:ז)</span>. וְהָכִי קָתָנֵי: זְמַן קְרִיאַת שְׁמַע דִּשְׁכִיבָה אֵימַת? — מִשָּׁעָה שֶׁהַכֹּהֲנִים נִכְנָסִין לֶאֱכוֹל בִּתְרוּמָתָן. וְאִי בָּעֵית אֵימָא: יָלֵיף מִבְּרִיָּיתוֹ שֶׁל עוֹלָם, דִּכְתִיב: ”וַיְהִי עֶרֶב וַיְהִי בֹקֶר יוֹם אֶחָד“ <span class=\"citation\">(בראשית א:ה)</span>. אִי הָכִי, סֵיפָא דְּקָתָנֵי ״בַּשַּׁחַר מְבָרֵךְ שְׁתַּיִם לְפָנֶיהָ וְאַחַת לְאַחֲרֶיהָ, בָּעֶרֶב מְבָרֵךְ שְׁתַּיִם לְפָנֶיהָ וּשְׁתַּיִם לְאַחֲרֶיהָ״, לִתְנֵי דְּעַרְבִית בְּרֵישָׁא! תַּנָּא פָּתַח בְּעַרְבִית, וַהֲדַר תָּנֵי בְּשַׁחֲרִית, עַד דְּקָאֵי בְּשַׁחֲרִית, פָּרֵישׁ מִילֵּי דְשַׁחֲרִית, וַהֲדַר פָּרֵישׁ מִילֵּי דְעַרְבִית.\n",
+   "text_display": "גמרא‎\nתַּנָּא הֵיכָא קָאֵי דְּקָתָנֵי ״מֵאֵימָתַי״? וְתוּ: מַאי שְׁנָא דְּתָנֵי בְּעַרְבִית בְּרֵישָׁא? לִתְנֵי דְּשַׁחֲרִית בְּרֵישָׁא! תַּנָּא אַקְּרָא קָאֵי, דִּכְתִיב: ”בְּשָׁכְבְּךָ וּבְקוּמֶךָ“ . וְהָכִי קָתָנֵי: זְמַן קְרִיאַת שְׁמַע דִּשְׁכִיבָה אֵימַת? — מִשָּׁעָה שֶׁהַכֹּהֲנִים נִכְנָסִין לֶאֱכוֹל בִּתְרוּמָתָן. וְאִי בָּעֵית אֵימָא: יָלֵיף מִבְּרִיָּיתוֹ שֶׁל עוֹלָם, דִּכְתִיב: ”וַיְהִי עֶרֶב וַיְהִי בֹקֶר יוֹם אֶחָד“ . אִי הָכִי, סֵיפָא דְּקָתָנֵי ״בַּשַּׁחַר מְבָרֵךְ שְׁתַּיִם לְפָנֶיהָ וְאַחַת לְאַחֲרֶיהָ, בָּעֶרֶב מְבָרֵךְ שְׁתַּיִם לְפָנֶיהָ וּשְׁתַּיִם לְאַחֲרֶיהָ״, לִתְנֵי דְּעַרְבִית בְּרֵישָׁא! תַּנָּא פָּתַח בְּעַרְבִית, וַהֲדַר תָּנֵי בְּשַׁחֲרִית, עַד דְּקָאֵי בְּשַׁחֲרִית, פָּרֵישׁ מִילֵּי דְשַׁחֲרִית, וַהֲדַר פָּרֵישׁ מִילֵּי דְעַרְבִית.",
+   "lang": "he",
+   "status": [
+    "core_fixed"
+   ],
+   "requires_minyan": false,
+   "transliteration": null,
+   "gloss": null,
+   "provenance": {
+    "source_title": "ברכות לתלמוד תורה לפני תפלה | Blessings and Passages for Torah Study justifying prayer in place of sacrificial offerings in the Italian rite",
+    "source_url": "https://opensiddur.org/prayers/praxes/study/blessings-and-passages-for-torah-study-justifying-prayer-in-place-of-sacrificial-offerings-in-the-italian-rite/",
+    "source_fragment": "div.liturgy[lang=heb-Hebr] #11",
+    "publisher": "Open Siddur Project",
+    "witness": "David Prato (ed.), Tefilah l'David: Preghiere di Rito Italiano, Rome 1949, pp. 12-25",
+    "license": "CC-BY-SA-4.0",
+    "license_evidence_url": "https://opensiddur.org/prayers/praxes/study/blessings-and-passages-for-torah-study-justifying-prayer-in-place-of-sacrificial-offerings-in-the-italian-rite/",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrieved": "2026-10-29",
+    "source_sha256": "5293675676131630044e357979287f756e19e990af014001e26e73496626bda3",
+    "text_sha256": "c5a373fd3a2e9b3800c7cd1b75c82dd973aab354d523227e1382b37fd9b3be92",
+    "normalization": [
+     "N1",
+     "N2",
+     "N3",
+     "N4",
+     "N5"
+    ]
+   }
+  },
+  {
+   "id": "ITK.SHA.TALMUD_TORAH.220",
+   "corpus_id": "corpus.italki",
+   "service": "shacharit",
+   "section": "TALMUD_TORAH",
+   "order": 1023,
+   "label": "Blessings and Passages for Torah Study justifying prayer in place of sacrificial offerings in the Italian rite [12]",
+   "text": "\n(<span class=\"citation\">[ויקרא ז:לז]</span> זֹאת הַתּוֹרָה לָעֹלָה לַמִּנְחָה וְלַחַטָּאת וְלָאָשָׁם וְלַמִּלּוּאִים וּלְזֶבֲח הַשְּׁלַמִים׃)\n",
+   "text_display": "( זֹאת הַתּוֹרָה לָעֹלָה לַמִּנְחָה וְלַחַטָּאת וְלָאָשָׁם וְלַמִּלּוּאִים וּלְזֶבֲח הַשְּׁלַמִים׃)",
+   "lang": "he",
+   "status": [
+    "core_fixed"
+   ],
+   "requires_minyan": false,
+   "transliteration": null,
+   "gloss": null,
+   "provenance": {
+    "source_title": "ברכות לתלמוד תורה לפני תפלה | Blessings and Passages for Torah Study justifying prayer in place of sacrificial offerings in the Italian rite",
+    "source_url": "https://opensiddur.org/prayers/praxes/study/blessings-and-passages-for-torah-study-justifying-prayer-in-place-of-sacrificial-offerings-in-the-italian-rite/",
+    "source_fragment": "div.liturgy[lang=heb-Hebr] #12",
+    "publisher": "Open Siddur Project",
+    "witness": "David Prato (ed.), Tefilah l'David: Preghiere di Rito Italiano, Rome 1949, pp. 12-25",
+    "license": "CC-BY-SA-4.0",
+    "license_evidence_url": "https://opensiddur.org/prayers/praxes/study/blessings-and-passages-for-torah-study-justifying-prayer-in-place-of-sacrificial-offerings-in-the-italian-rite/",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrieved": "2026-10-29",
+    "source_sha256": "ac5983fa9e10a9e0bfa9948e3cf151fa0eec2d81f33f3831f32188766cb4aca7",
+    "text_sha256": "af38959b0c81c331369bbd5698754f092941c5f47ad0143b4360a1f018cd2a29",
+    "normalization": [
+     "N1",
+     "N2",
+     "N3",
+     "N4",
+     "N5"
+    ]
+   }
+  },
+  {
+   "id": "ITK.SHA.TALMUD_TORAH.230",
+   "corpus_id": "corpus.italki",
+   "service": "shacharit",
+   "section": "TALMUD_TORAH",
+   "order": 1024,
+   "label": "Blessings and Passages for Torah Study justifying prayer in place of sacrificial offerings in the Italian rite [13]",
+   "text": "\n<span class=\"citation\">[משנה זבחים ה.א-ח]</span> אֵיזֶהוּ מְקוֹמָן שֶׁל זְבָחִים, קָדְשֵׁי קָדָשִׁים שְׁחִיטָתָן בַּצָּפוֹן, פַּר וְשָׂעִיר שֶׁל יוֹם הַכִּפּוּרִים שְׁחִיטָתָן בַּצָּפוֹן, וְקִבּוּל דָּמָן בִּכְלִי שָׁרֵת בַּצָּפוֹן, וְדָמָן טָעוּן הַזָּיָה עַל בֵּין הַבַּדִּים וְעַל הַפָּרֹכֶת וְעַל מִזְבַּח הַזָּהָב. מַתָּנָה אַחַת מֵהֶן מְעַכָּבֶת. שְׁיָרֵי הַדָּם הָיָה שׁוֹפֵךְ עַל יְסוֹד מַעֲרָבִי שֶׁל מִזְבֵּחַ הַחִיצוֹן. אִם לֹא נָתַן, לֹא עִכֵּב:  פָּרִים הַנִּשְׂרָפִים וּשְׂעִירִים הַנִּשְׂרָפִים שְׁחִיטָתָן בַּצָּפוֹן, וְקִבּוּל דָּמָן בִּכְלִי שָׁרֵת בַּצָּפוֹן, וְדָמָן טָעוּן הַזָּיָה עַל הַפָּרֹכֶת וְעַל מִזְבַּח הַזָּהָב. מַתָּנָה אַחַת מֵהֶן מְעַכָּבֶת. שְׁיָרֵי הַדָּם הָיָה שׁוֹפֵךְ עַל יְסוֹד מַעֲרָבִי שֶׁל מִזְבֵּחַ הַחִיצוֹן. אִם לֹא נָתַן, לֹא עִכֵּב. אֵלּוּ וָאֵלּוּ נִשְׂרָפִין בְּבֵית הַדָּשֶׁן:  חַטֹּאות הַצִּבּוּר וְהַיָּחִיד. אֵלּוּ הֵן חַטֹּאות הַצִּבּוּר, שְׂעִירֵי רָאשֵׁי חֳדָשִׁים וְשֶׁל מוֹעֲדוֹת, שְׁחִיטָתָן בַּצָּפוֹן, וְקִבּוּל דָּמָן בִּכְלִי שָׁרֵת בַּצָּפוֹן, וְדָמָן טָעוּן אַרְבַּע מַתָּנוֹת עַל אַרְבַּע קְרָנוֹת. כֵּיצַד. עָלָה בַכֶּבֶשׁ וּפָנָה לַסּוֹבֵב, וּבָא לוֹ לְקֶרֶן דְּרוֹמִית מִזְרָחִית, מִזְרָחִית צְפוֹנִית, צְפוֹנִית מַעֲרָבִית, מַעֲרָבִית דְּרוֹמִית. שְׁיָרֵי הַדָּם הָיָה שׁוֹפֵךְ עַל יְסוֹד דְּרוֹמִי. וְנֶאֱכָלִין לִפְנִים מִן הַקְּלָעִים לְזִכְרֵי כְהֻנָּה בְּכָל מַאֲכָל לְיוֹם וָלַיְלָה עַד חֲצוֹת:  הָעוֹלָה, קָדְשֵׁי קָדָשִׁים, שְׁחִיטָתָהּ בַּצָּפוֹן, וְקִבּוּל דָּמָהּ בִּכְלִי שָׁרֵת בַּצָּפוֹן, וְדָמָהּ טָעוּן שְׁתֵּי מַתָּנוֹת שֶׁהֵן אַרְבַּע, וּטְעוּנָה הֶפְשֵׁט וְנִתּוּחַ וְכָלִיל לָאִשִּׁים:  זִבְחֵי שַׁלְמֵי צִבּוּר וַאֲשָׁמוֹת. אֵלּוּ הֵן אֲשָׁמוֹת, אֲשַׁם גְּזֵלוֹת, אֲשַׁם מְעִילוֹת, אֲשַׁם שִׁפְחָה חֲרוּפָה, אֲשַׁם נָזִיר, אֲשַׁם מְצֹרָע, אָשָׁם תָּלוּי, שְׁחִיטָתָן בַּצָּפוֹן, וְקִבּוּל דָּמָן בִּכְלִי שָׁרֵת בַּצָּפוֹן, וְדָמָן טָעוּן שְׁתֵּי מַתָּנוֹת שֶׁהֵן אַרְבַּע, וְנֶאֱכָלִין לִפְנִים מִן הַקְּלָעִים לְזִכְרֵי כְהֻנָּה בְּכָל מַאֲכָל לְיוֹם וָלַיְלָה עַד חֲצוֹת:  הַתּוֹדָה וְאֵיל נָזִיר, קָדָשִׁים קַלִּים, שְׁחִיטָתָן בְּכָל מָקוֹם בָּעֲזָרָה, וְדָמָן טָעוּן שְׁתֵּי מַתָּנוֹת שֶׁהֵן אַרְבַּע, וְנֶאֱכָלִים בְּכָל הָעִיר לְכָל אָדָם, בְּכָל מַאֲכָל, לְיוֹם וָלַיְלָה עַד חֲצוֹת. הַמּוּרָם מֵהֶם כַּיּוֹצֵא בָהֶם, אֶלָּא שֶׁהַמּוּרָם נֶאֱכָל לַכֹּהֲנִים, לִנְשֵׁיהֶם וְלִבְנֵיהֶם וּלְעַבְדֵיהֶם:  שְׁלָמִים, קָדָשִׁים קַלִּים, שְׁחִיטָתָן בְּכָל מָקוֹם בָּעֲזָרָה, וְדָמָן טָעוּן שְׁתֵּי מַתָּנוֹת שֶׁהֵן אַרְבַּע, וְנֶאֱכָלִין בְּכָל הָעִיר לְכָל אָדָם, בְּכָל מַאֲכָל, לִשְׁנֵי יָמִים וְלַיְלָה אֶחָד. הַמּוּרָם מֵהֶם כַּיּוֹצֵא בָהֶן, אֶלָּא שֶׁהַמּוּרָם נֶאֱכָל לַכֹּהֲנִים, לִנְשֵׁיהֶם וְלִבְנֵיהֶם וּלְעַבְדֵיהֶם:  הַבְּכוֹר וְהַמַּעֲשֵׂר וְהַפֶּסַח, קָדָשִׁים קַלִּים, שְׁחִיטָתָן בְּכָל מָקוֹם בָּעֲזָרָה, וְדָמָן טָעוּן מַתָּנָה אַחַת, וּבִלְבָד שֶׁיִּתֵּן כְּנֶגֶד הַיְסוֹד. שִׁנָּה בַאֲכִילָתָן, הַבְּכוֹר נֶאֱכָל לַכֹּהֲנִים, וְהַמַּעֲשֵׂר לְכָל אָדָם, וְנֶאֱכָלִין בְּכָל הָעִיר, לְכָל אָדָם, בְּכָל מַאֲכָל, לִשְׁנֵי יָמִים וְלַיְלָה אֶחָד. הַפֶּסַח אֵינוֹ נֶאֱכָל אֶלָּא בַלַּיְלָה, וְאֵינוֹ נֶאֱכָל אֶלָּא עַד חֲצוֹת, וְאֵינוֹ נֶאֱכָל אֶלָּא לִמְנוּיָו, וְאֵינוֹ נֶאֱכָל אֶלָּא צָלִי:\n",
+   "text_display": "אֵיזֶהוּ מְקוֹמָן שֶׁל זְבָחִים, קָדְשֵׁי קָדָשִׁים שְׁחִיטָתָן בַּצָּפוֹן, פַּר וְשָׂעִיר שֶׁל יוֹם הַכִּפּוּרִים שְׁחִיטָתָן בַּצָּפוֹן, וְקִבּוּל דָּמָן בִּכְלִי שָׁרֵת בַּצָּפוֹן, וְדָמָן טָעוּן הַזָּיָה עַל בֵּין הַבַּדִּים וְעַל הַפָּרֹכֶת וְעַל מִזְבַּח הַזָּהָב. מַתָּנָה אַחַת מֵהֶן מְעַכָּבֶת. שְׁיָרֵי הַדָּם הָיָה שׁוֹפֵךְ עַל יְסוֹד מַעֲרָבִי שֶׁל מִזְבֵּחַ הַחִיצוֹן. אִם לֹא נָתַן, לֹא עִכֵּב:  פָּרִים הַנִּשְׂרָפִים וּשְׂעִירִים הַנִּשְׂרָפִים שְׁחִיטָתָן בַּצָּפוֹן, וְקִבּוּל דָּמָן בִּכְלִי שָׁרֵת בַּצָּפוֹן, וְדָמָן טָעוּן הַזָּיָה עַל הַפָּרֹכֶת וְעַל מִזְבַּח הַזָּהָב. מַתָּנָה אַחַת מֵהֶן מְעַכָּבֶת. שְׁיָרֵי הַדָּם הָיָה שׁוֹפֵךְ עַל יְסוֹד מַעֲרָבִי שֶׁל מִזְבֵּחַ הַחִיצוֹן. אִם לֹא נָתַן, לֹא עִכֵּב. אֵלּוּ וָאֵלּוּ נִשְׂרָפִין בְּבֵית הַדָּשֶׁן:  חַטֹּאות הַצִּבּוּר וְהַיָּחִיד. אֵלּוּ הֵן חַטֹּאות הַצִּבּוּר, שְׂעִירֵי רָאשֵׁי חֳדָשִׁים וְשֶׁל מוֹעֲדוֹת, שְׁחִיטָתָן בַּצָּפוֹן, וְקִבּוּל דָּמָן בִּכְלִי שָׁרֵת בַּצָּפוֹן, וְדָמָן טָעוּן אַרְבַּע מַתָּנוֹת עַל אַרְבַּע קְרָנוֹת. כֵּיצַד. עָלָה בַכֶּבֶשׁ וּפָנָה לַסּוֹבֵב, וּבָא לוֹ לְקֶרֶן דְּרוֹמִית מִזְרָחִית, מִזְרָחִית צְפוֹנִית, צְפוֹנִית מַעֲרָבִית, מַעֲרָבִית דְּרוֹמִית. שְׁיָרֵי הַדָּם הָיָה שׁוֹפֵךְ עַל יְסוֹד דְּרוֹמִי. וְנֶאֱכָלִין לִפְנִים מִן הַקְּלָעִים לְזִכְרֵי כְהֻנָּה בְּכָל מַאֲכָל לְיוֹם וָלַיְלָה עַד חֲצוֹת:  הָעוֹלָה, קָדְשֵׁי קָדָשִׁים, שְׁחִיטָתָהּ בַּצָּפוֹן, וְקִבּוּל דָּמָהּ בִּכְלִי שָׁרֵת בַּצָּפוֹן, וְדָמָהּ טָעוּן שְׁתֵּי מַתָּנוֹת שֶׁהֵן אַרְבַּע, וּטְעוּנָה הֶפְשֵׁט וְנִתּוּחַ וְכָלִיל לָאִשִּׁים:  זִבְחֵי שַׁלְמֵי צִבּוּר וַאֲשָׁמוֹת. אֵלּוּ הֵן אֲשָׁמוֹת, אֲשַׁם גְּזֵלוֹת, אֲשַׁם מְעִילוֹת, אֲשַׁם שִׁפְחָה חֲרוּפָה, אֲשַׁם נָזִיר, אֲשַׁם מְצֹרָע, אָשָׁם תָּלוּי, שְׁחִיטָתָן בַּצָּפוֹן, וְקִבּוּל דָּמָן בִּכְלִי שָׁרֵת בַּצָּפוֹן, וְדָמָן טָעוּן שְׁתֵּי מַתָּנוֹת שֶׁהֵן אַרְבַּע, וְנֶאֱכָלִין לִפְנִים מִן הַקְּלָעִים לְזִכְרֵי כְהֻנָּה בְּכָל מַאֲכָל לְיוֹם וָלַיְלָה עַד חֲצוֹת:  הַתּוֹדָה וְאֵיל נָזִיר, קָדָשִׁים קַלִּים, שְׁחִיטָתָן בְּכָל מָקוֹם בָּעֲזָרָה, וְדָמָן טָעוּן שְׁתֵּי מַתָּנוֹת שֶׁהֵן אַרְבַּע, וְנֶאֱכָלִים בְּכָל הָעִיר לְכָל אָדָם, בְּכָל מַאֲכָל, לְיוֹם וָלַיְלָה עַד חֲצוֹת. הַמּוּרָם מֵהֶם כַּיּוֹצֵא בָהֶם, אֶלָּא שֶׁהַמּוּרָם נֶאֱכָל לַכֹּהֲנִים, לִנְשֵׁיהֶם וְלִבְנֵיהֶם וּלְעַבְדֵיהֶם:  שְׁלָמִים, קָדָשִׁים קַלִּים, שְׁחִיטָתָן בְּכָל מָקוֹם בָּעֲזָרָה, וְדָמָן טָעוּן שְׁתֵּי מַתָּנוֹת שֶׁהֵן אַרְבַּע, וְנֶאֱכָלִין בְּכָל הָעִיר לְכָל אָדָם, בְּכָל מַאֲכָל, לִשְׁנֵי יָמִים וְלַיְלָה אֶחָד. הַמּוּרָם מֵהֶם כַּיּוֹצֵא בָהֶן, אֶלָּא שֶׁהַמּוּרָם נֶאֱכָל לַכֹּהֲנִים, לִנְשֵׁיהֶם וְלִבְנֵיהֶם וּלְעַבְדֵיהֶם:  הַבְּכוֹר וְהַמַּעֲשֵׂר וְהַפֶּסַח, קָדָשִׁים קַלִּים, שְׁחִיטָתָן בְּכָל מָקוֹם בָּעֲזָרָה, וְדָמָן טָעוּן מַתָּנָה אַחַת, וּבִלְבָד שֶׁיִּתֵּן כְּנֶגֶד הַיְסוֹד. שִׁנָּה בַאֲכִילָתָן, הַבְּכוֹר נֶאֱכָל לַכֹּהֲנִים, וְהַמַּעֲשֵׂר לְכָל אָדָם, וְנֶאֱכָלִין בְּכָל הָעִיר, לְכָל אָדָם, בְּכָל מַאֲכָל, לִשְׁנֵי יָמִים וְלַיְלָה אֶחָד. הַפֶּסַח אֵינוֹ נֶאֱכָל אֶלָּא בַלַּיְלָה, וְאֵינוֹ נֶאֱכָל אֶלָּא עַד חֲצוֹת, וְאֵינוֹ נֶאֱכָל אֶלָּא לִמְנוּיָו, וְאֵינוֹ נֶאֱכָל אֶלָּא צָלִי:",
+   "lang": "he",
+   "status": [
+    "core_fixed"
+   ],
+   "requires_minyan": false,
+   "transliteration": null,
+   "gloss": null,
+   "provenance": {
+    "source_title": "ברכות לתלמוד תורה לפני תפלה | Blessings and Passages for Torah Study justifying prayer in place of sacrificial offerings in the Italian rite",
+    "source_url": "https://opensiddur.org/prayers/praxes/study/blessings-and-passages-for-torah-study-justifying-prayer-in-place-of-sacrificial-offerings-in-the-italian-rite/",
+    "source_fragment": "div.liturgy[lang=heb-Hebr] #13",
+    "publisher": "Open Siddur Project",
+    "witness": "David Prato (ed.), Tefilah l'David: Preghiere di Rito Italiano, Rome 1949, pp. 12-25",
+    "license": "CC-BY-SA-4.0",
+    "license_evidence_url": "https://opensiddur.org/prayers/praxes/study/blessings-and-passages-for-torah-study-justifying-prayer-in-place-of-sacrificial-offerings-in-the-italian-rite/",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrieved": "2026-10-29",
+    "source_sha256": "294ec918425c5a2f96b0181ad28b8c1719350736fef45e82049ee92d45f13463",
+    "text_sha256": "fcbf2e971968b89fcf370a0d7fb97ae8480a95e643a832af9f61c6aa31a77347",
+    "normalization": [
+     "N1",
+     "N2",
+     "N3",
+     "N4",
+     "N5"
+    ]
+   }
+  },
+  {
+   "id": "ITK.SHA.TALMUD_TORAH.240",
+   "corpus_id": "corpus.italki",
+   "service": "shacharit",
+   "section": "TALMUD_TORAH",
+   "order": 1025,
+   "label": "Blessings and Passages for Torah Study justifying prayer in place of sacrificial offerings in the Italian rite [14]",
+   "text": "\n<span class=\"citation\">[ויקרא א:יא]</span> וְשָׁחַט אֹתוֹ עַל יֶרֶךְ הַמִּזְבֵּחַ צָפֹנָה לִפְנֵי יְהֹוָה וְזָרְקוּ בְּנֵי אַהֲרֹן הַכֹּהֲנִים אֶת־דָּמוֹ עַל־הַמִּזְבֵּחַ סָבִיב׃\n",
+   "text_display": "וְשָׁחַט אֹתוֹ עַל יֶרֶךְ הַמִּזְבֵּחַ צָפֹנָה לִפְנֵי יְהֹוָה וְזָרְקוּ בְּנֵי אַהֲרֹן הַכֹּהֲנִים אֶת־דָּמוֹ עַל־הַמִּזְבֵּחַ סָבִיב׃",
+   "lang": "he",
+   "status": [
+    "core_fixed"
+   ],
+   "requires_minyan": false,
+   "transliteration": null,
+   "gloss": null,
+   "provenance": {
+    "source_title": "ברכות לתלמוד תורה לפני תפלה | Blessings and Passages for Torah Study justifying prayer in place of sacrificial offerings in the Italian rite",
+    "source_url": "https://opensiddur.org/prayers/praxes/study/blessings-and-passages-for-torah-study-justifying-prayer-in-place-of-sacrificial-offerings-in-the-italian-rite/",
+    "source_fragment": "div.liturgy[lang=heb-Hebr] #14",
+    "publisher": "Open Siddur Project",
+    "witness": "David Prato (ed.), Tefilah l'David: Preghiere di Rito Italiano, Rome 1949, pp. 12-25",
+    "license": "CC-BY-SA-4.0",
+    "license_evidence_url": "https://opensiddur.org/prayers/praxes/study/blessings-and-passages-for-torah-study-justifying-prayer-in-place-of-sacrificial-offerings-in-the-italian-rite/",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrieved": "2026-10-29",
+    "source_sha256": "5a2883e491a235970edb9b0e366ec8d49318c34a40c42e6446468b5158c5b524",
+    "text_sha256": "7ccae2ad413a8781f374b2f2341f8a1c2ee453e4f1ae84d7b6491b2a1e8ece7d",
+    "normalization": [
+     "N1",
+     "N2",
+     "N3",
+     "N4",
+     "N5"
+    ]
+   }
+  },
+  {
+   "id": "ITK.SHA.TALMUD_TORAH.250",
+   "corpus_id": "corpus.italki",
+   "service": "shacharit",
+   "section": "TALMUD_TORAH",
+   "order": 1026,
+   "label": "Blessings and Passages for Torah Study justifying prayer in place of sacrificial offerings in the Italian rite [15]",
+   "text": "\n<span class=\"citation\">[<a href=\"https://www.sefaria.org/Sifra%2C_Baraita_DeRabbi_Yishmael.1-2?lang=he&#038;with=all&#038;lang2=he\">ספרא, ברייתא דרבי ישמעאל</a>]</span> רבי ישמעאל אומר: בשלש עשרה מדות התורה נדרשת: (א) מקל וחומר; (ב) מגזירה שוה; (ג) מבנין אב מכתוב אחד, מבנין אב משני כתובים; (ד) מכלל ופרט; (ה) מפרט וכלל; (ו) מכלל ופרט וכלל – אי אתה דן אלא כעין הפרט; (ז) מכלל שהוא צריך לפרט ומפרט שהוא צריך לכלל; (ח) כל דבר שהיה בכלל ויצא מן הכלל ללמד, לא ללמד על עצמו יצא, אלא ללמד על הכלל כולו יצא. (ט) כל דבר שהיה בכלל, ויצא מן הכלל ליטען טען אחר שהוא כענינו – יצא להקל ולא להחמיר. (י) כל דבר שהיה בכלל, ויצא מן הכלל ליטען טען אחר שלא כענינו יצא להקל ולהחמיר. (יא) כל דבר שהיה בכלל, ויצא מן הכלל לידון בדבר חדש, אי אתה יכול להחזירו לכללו עד שיחזירנו הכתוב לכללו בפירוש. (יב) דבר הלמד מעניינו, ודבר הלמד מסופו; (יג) וכן שני כתובין המכחישין זה את זה – עד שיבא הכתוב השלישי ויכריע ביניהן.\n",
+   "text_display": "רבי ישמעאל אומר: בשלש עשרה מדות התורה נדרשת: (א) מקל וחומר; (ב) מגזירה שוה; (ג) מבנין אב מכתוב אחד, מבנין אב משני כתובים; (ד) מכלל ופרט; (ה) מפרט וכלל; (ו) מכלל ופרט וכלל – אי אתה דן אלא כעין הפרט; (ז) מכלל שהוא צריך לפרט ומפרט שהוא צריך לכלל; (ח) כל דבר שהיה בכלל ויצא מן הכלל ללמד, לא ללמד על עצמו יצא, אלא ללמד על הכלל כולו יצא. (ט) כל דבר שהיה בכלל, ויצא מן הכלל ליטען טען אחר שהוא כענינו – יצא להקל ולא להחמיר. (י) כל דבר שהיה בכלל, ויצא מן הכלל ליטען טען אחר שלא כענינו יצא להקל ולהחמיר. (יא) כל דבר שהיה בכלל, ויצא מן הכלל לידון בדבר חדש, אי אתה יכול להחזירו לכללו עד שיחזירנו הכתוב לכללו בפירוש. (יב) דבר הלמד מעניינו, ודבר הלמד מסופו; (יג) וכן שני כתובין המכחישין זה את זה – עד שיבא הכתוב השלישי ויכריע ביניהן.",
+   "lang": "he",
+   "status": [
+    "core_fixed"
+   ],
+   "requires_minyan": false,
+   "transliteration": null,
+   "gloss": null,
+   "provenance": {
+    "source_title": "ברכות לתלמוד תורה לפני תפלה | Blessings and Passages for Torah Study justifying prayer in place of sacrificial offerings in the Italian rite",
+    "source_url": "https://opensiddur.org/prayers/praxes/study/blessings-and-passages-for-torah-study-justifying-prayer-in-place-of-sacrificial-offerings-in-the-italian-rite/",
+    "source_fragment": "div.liturgy[lang=heb-Hebr] #15",
+    "publisher": "Open Siddur Project",
+    "witness": "David Prato (ed.), Tefilah l'David: Preghiere di Rito Italiano, Rome 1949, pp. 12-25",
+    "license": "CC-BY-SA-4.0",
+    "license_evidence_url": "https://opensiddur.org/prayers/praxes/study/blessings-and-passages-for-torah-study-justifying-prayer-in-place-of-sacrificial-offerings-in-the-italian-rite/",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrieved": "2026-10-29",
+    "source_sha256": "a2d3d55e69347c9f7141e43968cf419eb8b287609fcbf4557fe363ce62b429b1",
+    "text_sha256": "a2d3d55e69347c9f7141e43968cf419eb8b287609fcbf4557fe363ce62b429b1",
+    "normalization": [
+     "N1",
+     "N2",
+     "N3",
+     "N4",
+     "N5"
+    ]
+   }
+  },
+  {
+   "id": "ITK.SHA.TALMUD_TORAH.260",
+   "corpus_id": "corpus.italki",
+   "service": "shacharit",
+   "section": "TALMUD_TORAH",
+   "order": 1027,
+   "label": "Blessings and Passages for Torah Study justifying prayer in place of sacrificial offerings in the Italian rite [16]",
+   "text": "\n<span class=\"citation\">[משנה פאה א.א]</span> אֵלּוּ דְבָרִים שֶׁאֵין לָהֶם שִׁעוּר. הַפֵּאָה, וְהַבִּכּוּרִים, וְהָרֵאָיוֹן, וּגְמִילוּת חֲסָדִים, וְתַלְמוּד תּוֹרָה. אֵלּוּ דְבָרִים שֶׁאָדָם אוֹכֵל פֵּרוֹתֵיהֶן בָּעוֹלָם הַזֶּה וְהַקֶּרֶן קַיֶּמֶת לוֹ לָעוֹלָם הַבָּא. כִּבּוּד אָב וָאֵם, וּגְמִילוּת חֲסָדִים, וַהֲבָאַת שָׁלוֹם בֵּין אָדָם לַחֲבֵרוֹ, וְתַלְמוּד תּוֹרָה כְּנֶגֶד כֻּלָּם:\n",
+   "text_display": "אֵלּוּ דְבָרִים שֶׁאֵין לָהֶם שִׁעוּר. הַפֵּאָה, וְהַבִּכּוּרִים, וְהָרֵאָיוֹן, וּגְמִילוּת חֲסָדִים, וְתַלְמוּד תּוֹרָה. אֵלּוּ דְבָרִים שֶׁאָדָם אוֹכֵל פֵּרוֹתֵיהֶן בָּעוֹלָם הַזֶּה וְהַקֶּרֶן קַיֶּמֶת לוֹ לָעוֹלָם הַבָּא. כִּבּוּד אָב וָאֵם, וּגְמִילוּת חֲסָדִים, וַהֲבָאַת שָׁלוֹם בֵּין אָדָם לַחֲבֵרוֹ, וְתַלְמוּד תּוֹרָה כְּנֶגֶד כֻּלָּם:",
+   "lang": "he",
+   "status": [
+    "core_fixed"
+   ],
+   "requires_minyan": false,
+   "transliteration": null,
+   "gloss": null,
+   "provenance": {
+    "source_title": "ברכות לתלמוד תורה לפני תפלה | Blessings and Passages for Torah Study justifying prayer in place of sacrificial offerings in the Italian rite",
+    "source_url": "https://opensiddur.org/prayers/praxes/study/blessings-and-passages-for-torah-study-justifying-prayer-in-place-of-sacrificial-offerings-in-the-italian-rite/",
+    "source_fragment": "div.liturgy[lang=heb-Hebr] #16",
+    "publisher": "Open Siddur Project",
+    "witness": "David Prato (ed.), Tefilah l'David: Preghiere di Rito Italiano, Rome 1949, pp. 12-25",
+    "license": "CC-BY-SA-4.0",
+    "license_evidence_url": "https://opensiddur.org/prayers/praxes/study/blessings-and-passages-for-torah-study-justifying-prayer-in-place-of-sacrificial-offerings-in-the-italian-rite/",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrieved": "2026-10-29",
+    "source_sha256": "952569d6072a702fe78270abc905ef18df145273131fe8772b6c2dd2c77e7321",
+    "text_sha256": "879b02f0c6d3b51e2593023ac0dc95c76817ae47fee1c2b9b4bb8e646fe27c6b",
+    "normalization": [
+     "N1",
+     "N2",
+     "N3",
+     "N4",
+     "N5"
+    ]
+   }
+  },
+  {
+   "id": "ITK.SHA.TALMUD_TORAH.270",
+   "corpus_id": "corpus.italki",
+   "service": "shacharit",
+   "section": "TALMUD_TORAH",
+   "order": 1028,
+   "label": "Blessings and Passages for Torah Study justifying prayer in place of sacrificial offerings in the Italian rite [17]",
+   "text": "\n<span class=\"citation\">[שבת קכז א׳.טו]</span> אֵלּוּ דְּבָרִים שֶׁאָדָם עוֹשֶׂה אוֹתָם וְאוֹכֵל פֵּירוֹתֵיהֶן בָּעוֹלָם הַזֶּה, וְהַקֶּרֶן קַיֶּימֶת לוֹ לָעוֹלָם הַבָּא, וְאֵלּוּ הֵן: כִּיבּוּד אָב וָאֵם, וּגְמִילוּת חֲסָדִים, וַהֲבָאַת שָׁלוֹם שֶׁבֵּין אָדָם לַחֲבֵרוֹ, וְתַלְמוּד תּוֹרָה כְּנֶגֶד כּוּלָּם\n",
+   "text_display": "אֵלּוּ דְּבָרִים שֶׁאָדָם עוֹשֶׂה אוֹתָם וְאוֹכֵל פֵּירוֹתֵיהֶן בָּעוֹלָם הַזֶּה, וְהַקֶּרֶן קַיֶּימֶת לוֹ לָעוֹלָם הַבָּא, וְאֵלּוּ הֵן: כִּיבּוּד אָב וָאֵם, וּגְמִילוּת חֲסָדִים, וַהֲבָאַת שָׁלוֹם שֶׁבֵּין אָדָם לַחֲבֵרוֹ, וְתַלְמוּד תּוֹרָה כְּנֶגֶד כּוּלָּם",
+   "lang": "he",
+   "status": [
+    "core_fixed"
+   ],
+   "requires_minyan": false,
+   "transliteration": null,
+   "gloss": null,
+   "provenance": {
+    "source_title": "ברכות לתלמוד תורה לפני תפלה | Blessings and Passages for Torah Study justifying prayer in place of sacrificial offerings in the Italian rite",
+    "source_url": "https://opensiddur.org/prayers/praxes/study/blessings-and-passages-for-torah-study-justifying-prayer-in-place-of-sacrificial-offerings-in-the-italian-rite/",
+    "source_fragment": "div.liturgy[lang=heb-Hebr] #17",
+    "publisher": "Open Siddur Project",
+    "witness": "David Prato (ed.), Tefilah l'David: Preghiere di Rito Italiano, Rome 1949, pp. 12-25",
+    "license": "CC-BY-SA-4.0",
+    "license_evidence_url": "https://opensiddur.org/prayers/praxes/study/blessings-and-passages-for-torah-study-justifying-prayer-in-place-of-sacrificial-offerings-in-the-italian-rite/",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrieved": "2026-10-29",
+    "source_sha256": "7ca01c2c17af80576ef222cb47903daf301475b7654d3a1028776c230f768fed",
+    "text_sha256": "e53a89bba8e1153c6f9aa82eeeaf620d26191ca57946dbf084d0d7e2016b9e21",
+    "normalization": [
+     "N1",
+     "N2",
+     "N3",
+     "N4",
+     "N5"
+    ]
+   }
+  },
+  {
+   "id": "ITK.SHA.TALMUD_TORAH.280",
+   "corpus_id": "corpus.italki",
+   "service": "shacharit",
+   "section": "TALMUD_TORAH",
+   "order": 1029,
+   "label": "Blessings and Passages for Torah Study justifying prayer in place of sacrificial offerings in the Italian rite [18]",
+   "text": "\n<span class=\"citation\">[נידה סו א׳.יח]</span> אָמַר רַבִּי זֵירָא: בְּנוֹת יִשְׂרָאֵל הֶחֱמִירוּ עַל עַצְמָן, שֶׁאֲפִילּוּ רוֹאוֹת טִפַּת דָּם כְּחַרְדָּל — יוֹשְׁבוֹת עָלֶיהָ שִׁבְעָה נְקִיִּים.\n",
+   "text_display": "אָמַר רַבִּי זֵירָא: בְּנוֹת יִשְׂרָאֵל הֶחֱמִירוּ עַל עַצְמָן, שֶׁאֲפִילּוּ רוֹאוֹת טִפַּת דָּם כְּחַרְדָּל — יוֹשְׁבוֹת עָלֶיהָ שִׁבְעָה נְקִיִּים.",
+   "lang": "he",
+   "status": [
+    "core_fixed"
+   ],
+   "requires_minyan": false,
+   "transliteration": null,
+   "gloss": null,
+   "provenance": {
+    "source_title": "ברכות לתלמוד תורה לפני תפלה | Blessings and Passages for Torah Study justifying prayer in place of sacrificial offerings in the Italian rite",
+    "source_url": "https://opensiddur.org/prayers/praxes/study/blessings-and-passages-for-torah-study-justifying-prayer-in-place-of-sacrificial-offerings-in-the-italian-rite/",
+    "source_fragment": "div.liturgy[lang=heb-Hebr] #18",
+    "publisher": "Open Siddur Project",
+    "witness": "David Prato (ed.), Tefilah l'David: Preghiere di Rito Italiano, Rome 1949, pp. 12-25",
+    "license": "CC-BY-SA-4.0",
+    "license_evidence_url": "https://opensiddur.org/prayers/praxes/study/blessings-and-passages-for-torah-study-justifying-prayer-in-place-of-sacrificial-offerings-in-the-italian-rite/",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrieved": "2026-10-29",
+    "source_sha256": "ae6e33d428cdb68487cc85ef7f2be204b52589d9fbd3efc283d9d6d8bd102017",
+    "text_sha256": "ae6e33d428cdb68487cc85ef7f2be204b52589d9fbd3efc283d9d6d8bd102017",
+    "normalization": [
+     "N1",
+     "N2",
+     "N3",
+     "N4",
+     "N5"
+    ]
+   }
+  },
+  {
+   "id": "ITK.SHA.TALMUD_TORAH.290",
+   "corpus_id": "corpus.italki",
+   "service": "shacharit",
+   "section": "TALMUD_TORAH",
+   "order": 1030,
+   "label": "Blessings and Passages for Torah Study justifying prayer in place of sacrificial offerings in the Italian rite [19]",
+   "text": "\n<span class=\"citation\">[נידה עג א׳.טו]</span> תָּנָא דְבֵי אֵלִיָהוּ כׇּל הָאוֹמֵר הֲלָכָה וְשׁוֹנֶה בָהּ מֻבְטַח לוֹ שֶׁהוּא בֶּן הָעוֹלָם הַבָּא שֶׁנֶּאֱמַר הֲלִיכוֹת עוֹלָם לוֹ אַל תִּקְרֵי הֲלִיכוֹת אֶלָּא הֲלֲכוֹת׃<span class=\"footnote_referrer\"><a role=\"button\" tabindex=\"0\" onclick=\"footnote_moveToReference_66676_1('footnote_plugin_reference_66676_1_2');\" onkeypress=\"footnote_moveToReference_66676_1('footnote_plugin_reference_66676_1_2');\" ><sup id=\"footnote_plugin_tooltip_66676_1_2\" class=\"footnote_plugin_tooltip_text\">[2]</sup></a><span id=\"footnote_plugin_tooltip_text_66676_1_2\" class=\"footnote_tooltip\"> A variant textual tradition for Niddah 73a.15&nbsp;</span></span><script type=\"text/javascript\"> jQuery('#footnote_plugin_tooltip_66676_1_2').tooltip({ tip: '#footnote_plugin_tooltip_text_66676_1_2', tipClass: 'footnote_tooltip', effect: 'fade', predelay: 0, fadeInSpeed: 200, delay: 400, fadeOutSpeed: 200, position: 'center right', relative: true, offset: [0, 0], });</script>\n",
+   "text_display": "תָּנָא דְבֵי אֵלִיָהוּ כׇּל הָאוֹמֵר הֲלָכָה וְשׁוֹנֶה בָהּ מֻבְטַח לוֹ שֶׁהוּא בֶּן הָעוֹלָם הַבָּא שֶׁנֶּאֱמַר הֲלִיכוֹת עוֹלָם לוֹ אַל תִּקְרֵי הֲלִיכוֹת אֶלָּא הֲלֲכוֹת׃",
+   "lang": "he",
+   "status": [
+    "core_fixed"
+   ],
+   "requires_minyan": false,
+   "transliteration": null,
+   "gloss": null,
+   "provenance": {
+    "source_title": "ברכות לתלמוד תורה לפני תפלה | Blessings and Passages for Torah Study justifying prayer in place of sacrificial offerings in the Italian rite",
+    "source_url": "https://opensiddur.org/prayers/praxes/study/blessings-and-passages-for-torah-study-justifying-prayer-in-place-of-sacrificial-offerings-in-the-italian-rite/",
+    "source_fragment": "div.liturgy[lang=heb-Hebr] #19",
+    "publisher": "Open Siddur Project",
+    "witness": "David Prato (ed.), Tefilah l'David: Preghiere di Rito Italiano, Rome 1949, pp. 12-25",
+    "license": "CC-BY-SA-4.0",
+    "license_evidence_url": "https://opensiddur.org/prayers/praxes/study/blessings-and-passages-for-torah-study-justifying-prayer-in-place-of-sacrificial-offerings-in-the-italian-rite/",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrieved": "2026-10-29",
+    "source_sha256": "bbbac12a737faab5dffcbe47faf7d98f1ce0c723dc1e9731ec147f52aaf41e19",
+    "text_sha256": "b9d1b4628788822d43c9be49fd81cfeced4ae8aba823b995402ab2abe8f9cd91",
+    "normalization": [
+     "N1",
+     "N2",
+     "N3",
+     "N4",
+     "N5"
+    ]
+   }
+  },
+  {
+   "id": "ITK.SHA.TALMUD_TORAH.300",
+   "corpus_id": "corpus.italki",
+   "service": "shacharit",
+   "section": "TALMUD_TORAH",
+   "order": 1031,
+   "label": "Blessings and Passages for Torah Study justifying prayer in place of sacrificial offerings in the Italian rite [20]",
+   "text": "\n<span class=\"citation\">[משנה ברכות א׳.ה]</span> מַזְכִּירִין יְצִיאַת מִצְרַיִם בַּלֵּילוֹת. אָמַר רַבִּי אֶלְעָזָר בֶּן עֲזַרְיָה, הֲרֵי אֲנִי כְּבֶן שִׁבְעִים שָׁנָה, וְלֹא זָכִיתִי שֶׁתֵּאָמֵר יְצִיאַת מִצְרַיִם בַּלֵּילוֹת, עַד שֶׁדְּרָשָׁהּ בֶּן זוֹמָא, שֶׁנֶּאֱמַר ”לְמַעַן תִּזְכֹּר אֶת יוֹם צֵאתְךָ מֵאֶרֶץ מִצְרַיִם כֹּל יְמֵי חַיֶּיךָ“ <span class=\"citation\">(דברים טז:ג)</span>. יְמֵי חַיֶּיךָ, הַיָּמִים. כֹּל יְמֵי חַיֶּיךָ, הַלֵּילוֹת. וַחֲכָמִים אוֹמְרִים, יְמֵי חַיֶּיךָ, הָעוֹלָם הַזֶּה. כֹּל יְמֵי חַיֶּיךָ, לְהָבִיא לִימוֹת הַמָּשִׁיחַ:\n",
+   "text_display": "מַזְכִּירִין יְצִיאַת מִצְרַיִם בַּלֵּילוֹת. אָמַר רַבִּי אֶלְעָזָר בֶּן עֲזַרְיָה, הֲרֵי אֲנִי כְּבֶן שִׁבְעִים שָׁנָה, וְלֹא זָכִיתִי שֶׁתֵּאָמֵר יְצִיאַת מִצְרַיִם בַּלֵּילוֹת, עַד שֶׁדְּרָשָׁהּ בֶּן זוֹמָא, שֶׁנֶּאֱמַר ”לְמַעַן תִּזְכֹּר אֶת יוֹם צֵאתְךָ מֵאֶרֶץ מִצְרַיִם כֹּל יְמֵי חַיֶּיךָ“ . יְמֵי חַיֶּיךָ, הַיָּמִים. כֹּל יְמֵי חַיֶּיךָ, הַלֵּילוֹת. וַחֲכָמִים אוֹמְרִים, יְמֵי חַיֶּיךָ, הָעוֹלָם הַזֶּה. כֹּל יְמֵי חַיֶּיךָ, לְהָבִיא לִימוֹת הַמָּשִׁיחַ:",
+   "lang": "he",
+   "status": [
+    "core_fixed"
+   ],
+   "requires_minyan": false,
+   "transliteration": null,
+   "gloss": null,
+   "provenance": {
+    "source_title": "ברכות לתלמוד תורה לפני תפלה | Blessings and Passages for Torah Study justifying prayer in place of sacrificial offerings in the Italian rite",
+    "source_url": "https://opensiddur.org/prayers/praxes/study/blessings-and-passages-for-torah-study-justifying-prayer-in-place-of-sacrificial-offerings-in-the-italian-rite/",
+    "source_fragment": "div.liturgy[lang=heb-Hebr] #20",
+    "publisher": "Open Siddur Project",
+    "witness": "David Prato (ed.), Tefilah l'David: Preghiere di Rito Italiano, Rome 1949, pp. 12-25",
+    "license": "CC-BY-SA-4.0",
+    "license_evidence_url": "https://opensiddur.org/prayers/praxes/study/blessings-and-passages-for-torah-study-justifying-prayer-in-place-of-sacrificial-offerings-in-the-italian-rite/",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrieved": "2026-10-29",
+    "source_sha256": "57f15586ad3a14681a616f4b0f0bf8ef3e45b161252637414131c07d71184410",
+    "text_sha256": "684d24d2f3245268c1e121e567cd9a474b5b07b88d317271f7204a30b06c99a8",
+    "normalization": [
+     "N1",
+     "N2",
+     "N3",
+     "N4",
+     "N5"
+    ]
+   }
+  },
+  {
+   "id": "ITK.SHA.TALMUD_TORAH.310",
+   "corpus_id": "corpus.italki",
+   "service": "shacharit",
+   "section": "TALMUD_TORAH",
+   "order": 1032,
+   "label": "Blessings and Passages for Torah Study justifying prayer in place of sacrificial offerings in the Italian rite [21]",
+   "text": "\n<span class=\"citation\">[ברכות סד א׳ יג]</span> אָמַר רַבִּי אֶלְעָזָר אָמַר רַבִּי חֲנִינָא: תַּלְמִידֵי חֲכָמִים מַרְבִּים שָׁלוֹם בָּעוֹלָם שֶׁנֶּאֱמַר: ”וְכׇל בָּנַיִךְ לִמּוּדֵי ה׳ וְרַב שְׁלוֹם בָּנָיִךְ“ <span class=\"citation\">(ישעיה נד:יג)</span>. אַל תִּקְרֵי בָּנָיִךְ אֶלָּא בּוֹנָיִךְ׃\n",
+   "text_display": "אָמַר רַבִּי אֶלְעָזָר אָמַר רַבִּי חֲנִינָא: תַּלְמִידֵי חֲכָמִים מַרְבִּים שָׁלוֹם בָּעוֹלָם שֶׁנֶּאֱמַר: ”וְכׇל בָּנַיִךְ לִמּוּדֵי ה׳ וְרַב שְׁלוֹם בָּנָיִךְ“ . אַל תִּקְרֵי בָּנָיִךְ אֶלָּא בּוֹנָיִךְ׃",
+   "lang": "he",
+   "status": [
+    "core_fixed"
+   ],
+   "requires_minyan": false,
+   "transliteration": null,
+   "gloss": null,
+   "provenance": {
+    "source_title": "ברכות לתלמוד תורה לפני תפלה | Blessings and Passages for Torah Study justifying prayer in place of sacrificial offerings in the Italian rite",
+    "source_url": "https://opensiddur.org/prayers/praxes/study/blessings-and-passages-for-torah-study-justifying-prayer-in-place-of-sacrificial-offerings-in-the-italian-rite/",
+    "source_fragment": "div.liturgy[lang=heb-Hebr] #21",
+    "publisher": "Open Siddur Project",
+    "witness": "David Prato (ed.), Tefilah l'David: Preghiere di Rito Italiano, Rome 1949, pp. 12-25",
+    "license": "CC-BY-SA-4.0",
+    "license_evidence_url": "https://opensiddur.org/prayers/praxes/study/blessings-and-passages-for-torah-study-justifying-prayer-in-place-of-sacrificial-offerings-in-the-italian-rite/",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrieved": "2026-10-29",
+    "source_sha256": "9ade0179b8dbe03b43fadc90d935e94830b7d9c797da1f95223a348e5e9c7664",
+    "text_sha256": "7db952026ccddf29385a48d773b3c412f5aaf0b24b3a9a541fa0a79a3afb331b",
+    "normalization": [
+     "N1",
+     "N2",
+     "N3",
+     "N4",
+     "N5"
+    ]
+   }
+  },
+  {
+   "id": "ITK.SHA.TALMUD_TORAH.320",
+   "corpus_id": "corpus.italki",
+   "service": "shacharit",
+   "section": "TALMUD_TORAH",
+   "order": 1033,
+   "label": "Blessings and Passages for Torah Study justifying prayer in place of sacrificial offerings in the Italian rite [22]",
+   "text": "\nיְהִי־שָׁלוֹם בְּחֵילֵךְ<br />\nשַׁלְוָה בְּאַרְמְנוֹתָיִךְ׃ <span class=\"citation\">(תהלים קכב:ז)</span>\n",
+   "text_display": "יְהִי־שָׁלוֹם בְּחֵילֵךְ\nשַׁלְוָה בְּאַרְמְנוֹתָיִךְ׃",
+   "lang": "he",
+   "status": [
+    "core_fixed"
+   ],
+   "requires_minyan": false,
+   "transliteration": null,
+   "gloss": null,
+   "provenance": {
+    "source_title": "ברכות לתלמוד תורה לפני תפלה | Blessings and Passages for Torah Study justifying prayer in place of sacrificial offerings in the Italian rite",
+    "source_url": "https://opensiddur.org/prayers/praxes/study/blessings-and-passages-for-torah-study-justifying-prayer-in-place-of-sacrificial-offerings-in-the-italian-rite/",
+    "source_fragment": "div.liturgy[lang=heb-Hebr] #22",
+    "publisher": "Open Siddur Project",
+    "witness": "David Prato (ed.), Tefilah l'David: Preghiere di Rito Italiano, Rome 1949, pp. 12-25",
+    "license": "CC-BY-SA-4.0",
+    "license_evidence_url": "https://opensiddur.org/prayers/praxes/study/blessings-and-passages-for-torah-study-justifying-prayer-in-place-of-sacrificial-offerings-in-the-italian-rite/",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrieved": "2026-10-29",
+    "source_sha256": "01000b252665704942941d0e2c4495d864baef17cc256c3f6d3c4679afc45e79",
+    "text_sha256": "c0bb12e13e5815a328caf0aa96fc08ca7cc6ae7f6182d07336e1116d5c218fba",
+    "normalization": [
+     "N1",
+     "N2",
+     "N3",
+     "N4",
+     "N5"
+    ]
+   }
+  },
+  {
+   "id": "ITK.SHA.TALMUD_TORAH.330",
+   "corpus_id": "corpus.italki",
+   "service": "shacharit",
+   "section": "TALMUD_TORAH",
+   "order": 1034,
+   "label": "Blessings and Passages for Torah Study justifying prayer in place of sacrificial offerings in the Italian rite [23]",
+   "text": "\nבָּרוּךְ אֱלֹהֵינוּ<br />\nשֶׁבְּרָאָנוּ לִכְבוֹדוֹ<br />\nוְהִבְדִּילָנוּ מִן הַתּוֹעִים<br />\nוְנָתַן לָנוּ תּוֹרַת אֱמֶת׃\n",
+   "text_display": "בָּרוּךְ אֱלֹהֵינוּ\nשֶׁבְּרָאָנוּ לִכְבוֹדוֹ\nוְהִבְדִּילָנוּ מִן הַתּוֹעִים\nוְנָתַן לָנוּ תּוֹרַת אֱמֶת׃",
+   "lang": "he",
+   "status": [
+    "core_fixed"
+   ],
+   "requires_minyan": false,
+   "transliteration": null,
+   "gloss": null,
+   "provenance": {
+    "source_title": "ברכות לתלמוד תורה לפני תפלה | Blessings and Passages for Torah Study justifying prayer in place of sacrificial offerings in the Italian rite",
+    "source_url": "https://opensiddur.org/prayers/praxes/study/blessings-and-passages-for-torah-study-justifying-prayer-in-place-of-sacrificial-offerings-in-the-italian-rite/",
+    "source_fragment": "div.liturgy[lang=heb-Hebr] #23",
+    "publisher": "Open Siddur Project",
+    "witness": "David Prato (ed.), Tefilah l'David: Preghiere di Rito Italiano, Rome 1949, pp. 12-25",
+    "license": "CC-BY-SA-4.0",
+    "license_evidence_url": "https://opensiddur.org/prayers/praxes/study/blessings-and-passages-for-torah-study-justifying-prayer-in-place-of-sacrificial-offerings-in-the-italian-rite/",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrieved": "2026-10-29",
+    "source_sha256": "f1df0a1d28322656265598fa68257783a806af4f2279b1a46febe8a2a8056c28",
+    "text_sha256": "94360380888e12239ebba2984c005ea3e08d1b28b7d1518353c1a08c6c5e4d63",
+    "normalization": [
+     "N1",
+     "N2",
+     "N3",
+     "N4",
+     "N5"
+    ]
+   }
+  },
+  {
+   "id": "ITK.SHA.TALMUD_TORAH.340",
+   "corpus_id": "corpus.italki",
+   "service": "shacharit",
+   "section": "TALMUD_TORAH",
+   "order": 1035,
+   "label": "Blessings and Passages for Torah Study justifying prayer in place of sacrificial offerings in the Italian rite [24]",
+   "text": "\nהוּא יִפְתַּח לִבֵּנוּ לְתוֹרָתוֹ<br />\nוְיָשִׂים בְּלִבֵּנוּ לְאַהֲבָה אוֹתוֹ<br />\nוּלְיִרְאָה אוֹתוֹ<br />\nוְלַעֲשׂוֹת רְצוֹנוֹ בְּלֵבָב שָׁלֵם<br />\nלְמַעַן לֹא נִיַגע לָרִיק<br />\nוְלֹא נֵלֵד לַבֶּהָלָה<br />\nוְנִירַשׁ חֻקָּיו<br />\nוְנִזְכֶּה לְתַלְמוּד תּוֹרָה<br />\nוּלְמַעֲשִׂים טוֹבִים<br />\nוּלְחַיֵי הָעוֹלָם הַבָּא׃\n",
+   "text_display": "הוּא יִפְתַּח לִבֵּנוּ לְתוֹרָתוֹ\nוְיָשִׂים בְּלִבֵּנוּ לְאַהֲבָה אוֹתוֹ\nוּלְיִרְאָה אוֹתוֹ\nוְלַעֲשׂוֹת רְצוֹנוֹ בְּלֵבָב שָׁלֵם\nלְמַעַן לֹא נִיַגע לָרִיק\nוְלֹא נֵלֵד לַבֶּהָלָה\nוְנִירַשׁ חֻקָּיו\nוְנִזְכֶּה לְתַלְמוּד תּוֹרָה\nוּלְמַעֲשִׂים טוֹבִים\nוּלְחַיֵי הָעוֹלָם הַבָּא׃",
+   "lang": "he",
+   "status": [
+    "core_fixed"
+   ],
+   "requires_minyan": false,
+   "transliteration": null,
+   "gloss": null,
+   "provenance": {
+    "source_title": "ברכות לתלמוד תורה לפני תפלה | Blessings and Passages for Torah Study justifying prayer in place of sacrificial offerings in the Italian rite",
+    "source_url": "https://opensiddur.org/prayers/praxes/study/blessings-and-passages-for-torah-study-justifying-prayer-in-place-of-sacrificial-offerings-in-the-italian-rite/",
+    "source_fragment": "div.liturgy[lang=heb-Hebr] #24",
+    "publisher": "Open Siddur Project",
+    "witness": "David Prato (ed.), Tefilah l'David: Preghiere di Rito Italiano, Rome 1949, pp. 12-25",
+    "license": "CC-BY-SA-4.0",
+    "license_evidence_url": "https://opensiddur.org/prayers/praxes/study/blessings-and-passages-for-torah-study-justifying-prayer-in-place-of-sacrificial-offerings-in-the-italian-rite/",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrieved": "2026-10-29",
+    "source_sha256": "e90caa76c9d0103a71042ebad7d549c0aad277918efe0fd912d8d5755d969e64",
+    "text_sha256": "b7b8341e5ea5b546da1414f434ef05e1ca8fe2fbff988fe558b24c8a65a0fe58",
+    "normalization": [
+     "N1",
+     "N2",
+     "N3",
+     "N4",
+     "N5"
+    ]
+   }
+  },
+  {
+   "id": "ITK.SHA.TALMUD_TORAH.350",
+   "corpus_id": "corpus.italki",
+   "service": "shacharit",
+   "section": "TALMUD_TORAH",
+   "order": 1036,
+   "label": "Blessings and Passages for Torah Study justifying prayer in place of sacrificial offerings in the Italian rite [25]",
+   "text": "\nלעולם יהא אדם&#8230;\n",
+   "text_display": "לעולם יהא אדם…",
+   "lang": "he",
+   "status": [
+    "core_fixed"
+   ],
+   "requires_minyan": false,
+   "transliteration": null,
+   "gloss": null,
+   "provenance": {
+    "source_title": "ברכות לתלמוד תורה לפני תפלה | Blessings and Passages for Torah Study justifying prayer in place of sacrificial offerings in the Italian rite",
+    "source_url": "https://opensiddur.org/prayers/praxes/study/blessings-and-passages-for-torah-study-justifying-prayer-in-place-of-sacrificial-offerings-in-the-italian-rite/",
+    "source_fragment": "div.liturgy[lang=heb-Hebr] #25",
+    "publisher": "Open Siddur Project",
+    "witness": "David Prato (ed.), Tefilah l'David: Preghiere di Rito Italiano, Rome 1949, pp. 12-25",
+    "license": "CC-BY-SA-4.0",
+    "license_evidence_url": "https://opensiddur.org/prayers/praxes/study/blessings-and-passages-for-torah-study-justifying-prayer-in-place-of-sacrificial-offerings-in-the-italian-rite/",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrieved": "2026-10-29",
+    "source_sha256": "66ce95d3e14a807e3f22aa2dd1a486c6a968cba6ef06bb67f31e4e31c75ac09d",
+    "text_sha256": "66ce95d3e14a807e3f22aa2dd1a486c6a968cba6ef06bb67f31e4e31c75ac09d",
+    "normalization": [
+     "N1",
+     "N2",
+     "N3",
+     "N4",
+     "N5"
+    ]
+   }
+  }
+ ],
+ "comparators": [
+  {
+   "id": "CMP.ASHKENAZ",
+   "layer": "comparator",
+   "name": "Ashkenaz — Sefaria: Siddur Ashkenaz (The Metsudah siddur, 1981)",
+   "nusach": "Ashkenaz",
+   "license_status": "cc_by",
+   "license": "CC-BY",
+   "license_evidence_url": "https://www.sefaria.org/api/texts/versions/Siddur_Ashkenaz",
+   "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH002211687",
+   "read_only": true,
+   "unit_count": 583,
+   "data_url": "data/comparators/CMP.ASHKENAZ.json"
+  },
+  {
+   "id": "CMP.SEFARD",
+   "layer": "comparator",
+   "name": "Sefard (Hasidic) — Sefaria: Siddur Sefard (The Metsudah siddur, 1981)",
+   "nusach": "Sefard (Hasidic)",
+   "license_status": "cc_by",
+   "license": "CC-BY",
+   "license_evidence_url": "https://www.sefaria.org/api/texts/versions/Siddur_Sefard",
+   "version_source": "https://www.nli.org.il/he/books/NNL_ALEPH002211687",
+   "read_only": true,
+   "unit_count": 553,
+   "data_url": "data/comparators/CMP.SEFARD.json"
+  },
+  {
+   "id": "CMP.EDOT_HAMIZRACH",
+   "layer": "comparator",
+   "name": "Edot haMizrach (Sephardi) — Sefaria: Siddur Edot HaMizrach (Torat Emet 357)",
+   "nusach": "Edot haMizrach (Sephardi)",
+   "license_status": "public_domain",
+   "license": "Public Domain",
+   "license_evidence_url": "https://www.sefaria.org/api/texts/versions/Siddur_Edot_HaMizrach",
+   "version_source": "http://www.toratemetfreeware.com/index.html?downloads",
+   "read_only": true,
+   "unit_count": 367,
+   "data_url": "data/comparators/CMP.EDOT_HAMIZRACH.json"
+  }
+ ]
+}

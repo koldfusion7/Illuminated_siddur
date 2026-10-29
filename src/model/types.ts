@@ -57,3 +57,33 @@ export interface SeedBundle {
   corpora: RiteCorpus[]; units: BaseUnit[]; parallel_units: ParallelUnit[]; alignments: Alignment[];
   overlay_layers: OverlayLayer[]; overlay_links: OverlayLink[]; comparators: ComparatorCorpus[]; choreography: UnitChoreography[];
 }
+
+/** Default facing target for face_direction cues (approved: toward Jerusalem). */
+export const DEFAULT_FACE_TARGET = "jerusalem" as const;
+export const DEFAULT_FACE_DIRECTION: CueDirection = { kind: "toward", target: DEFAULT_FACE_TARGET, resolve: "user_location" };
+
+/* ---------- Real source text (public-domain / open-licensed only) ---------- */
+export type SourceLicense = "Public Domain" | "CC0" | "CC-BY" | "CC-BY-SA" | "CC-BY-SA-4.0";
+export interface Provenance {
+  source_title: string; source_url: string; source_fragment: string; publisher: string; witness: string;
+  license: SourceLicense; license_evidence_url: string; license_url?: string | null; retrieved: string;
+  /** sha256 of the string exactly as served by the source. */
+  source_sha256: string;
+  /** sha256 of `text` (served string after Unicode NFC). */
+  text_sha256: string;
+  /** IDs into normalization_log. */
+  normalization: string[];
+}
+/** A unit carrying real source text. `text` is verbatim (NFC only); `text_display` is a logged mechanical derivation. */
+export interface SourceUnit extends Omit<BaseUnit, "text"> {
+  text: string; text_display: string; provenance: Provenance;
+  /** Never auto-generated for liturgy. */
+  transliteration: null; gloss: null;
+}
+export interface ComparatorSource {
+  id: string; layer: "comparator"; name: string; nusach: string;
+  license_status: "public_domain" | "cc_by" | "cc_by_sa" | "cc0"; license: SourceLicense; license_evidence_url: string;
+  version_source: string; read_only: true; unit_count: number; data_url: string;
+}
+export interface NormalizationRule { id: string; applies_to: "text" | "text_display"; rule: string; }
+export interface SourcesBundle { normalization_log: NormalizationRule[]; corpora: RiteCorpus[]; units: SourceUnit[]; comparators: ComparatorSource[]; }

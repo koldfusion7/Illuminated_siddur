@@ -871,3 +871,15 @@ section.band { margin-block-end: var(--sp-11); }
 }
 @media print { .nowbar--app, .presets { display: none !important; } }
 .conflict > summary { flex-wrap: wrap; } .conflict > summary .cg { overflow-wrap: anywhere; }
+
+/* Source texts view */
+.src-view { display: grid; gap: 1rem; padding: 0 0 4rem; }
+.src-pick { display: flex; flex-wrap: wrap; gap: .5rem; }
+.src-pick button { font: inherit; padding: .4rem .7rem; border: 1px solid currentColor; border-radius: 6px; background: transparent; color: inherit; cursor: pointer; opacity: .75; }
+.src-pick button[aria-pressed="true"] { opacity: 1; font-weight: 600; box-shadow: inset 0 -3px 0 currentColor; }
+.src-unit { border-inline-start: 4px solid var(--l1, #8a5a2b); padding: .6rem 1rem; }
+.src-unit.c-cmp { border-inline-start-style: dashed; border-inline-start-color: var(--cmp, #777); }
+.src-he { white-space: pre-line; font-size: 1.35rem; line-height: 1.9; margin: .4rem 0; }
+.prov { font-size: .78rem; opacity: .8; }
+.prov code { font-size: .75rem; }
+.src-sec select { font: inherit; margin-inline-start: .5rem; }

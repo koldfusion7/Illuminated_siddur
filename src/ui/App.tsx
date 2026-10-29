@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useState } from "react";
 import { seed, unitIndex } from "../seed";
 import { mergeForPrint, conflictGroups, type MergedRow } from "../merge/merge";
+import { SourcesView } from "./SourcesView";
 import { defaultEngine, DEMO_PLACEHOLDER } from "../translit/engine";
 import { CUE_CODES, type BaseUnit, type DiffFlag, type LayerId, type UnitChoreography, type Timing } from "../model/types";
 
@@ -14,7 +15,7 @@ const LOREM_GLOSS = "לורם איפסום דולור סיט אמט קונסקט
 
 type ColId = "italki" | "romaniote" | "arizal" | "chabad";
 type Theme = "auto" | "light" | "dark";
-type View = "study" | "interlinear";
+type View = "study" | "interlinear" | "sources";
 const COLS: Record<ColId, { tier: string; name: string; cls: string; layer: LayerId }> = {
   italki: { tier: "L1", name: "Italki", cls: "l1", layer: "L1_italki" },
   romaniote: { tier: "L3", name: "Romaniote", cls: "l3", layer: "L3_romaniote" },
@@ -238,13 +239,13 @@ export function App() {
           <div><h1>Illuminated Siddur</h1><p className="sub">Layered study edition — Italki · Romaniote · Arizal <span className="tag">alpha 0.2.0</span></p></div>
         </div>
       </header>
-      <p className="notice" role="note"><strong>Placeholder content only.</strong> Hebrew runs are lorem ipsum in Hebrew script; no liturgical text, translation or transliteration appears in this build.</p>
+      <p className="notice" role="note"><strong>Study and interlinear views are placeholder layouts.</strong> Real Hebrew appears only under “Source texts”, from public-domain / open-licensed sources with provenance. No translation or transliteration of liturgy is generated.</p>
 
       <section className="controls" aria-label="Reader controls">
         <div className="ctl"><span className="lbl" id="lbl-view">View</span>
           <div className="seg" role="radiogroup" aria-labelledby="lbl-view">
-            {(["study", "interlinear"] as View[]).map((v) => (
-              <span key={v} style={{ display: "contents" }}><input type="radio" id={`view-${v}`} name="view" checked={view === v} onChange={() => setView(v)} /><label htmlFor={`view-${v}`}>{v === "study" ? "Study columns" : "Interlinear (line)"}</label></span>))}
+            {(["study", "interlinear", "sources"] as View[]).map((v) => (
+              <span key={v} style={{ display: "contents" }}><input type="radio" id={`view-${v}`} name="view" checked={view === v} onChange={() => setView(v)} /><label htmlFor={`view-${v}`}>{v === "study" ? "Study columns" : v === "interlinear" ? "Interlinear (line)" : "Source texts"}</label></span>))}
           </div>
         </div>
 
@@ -289,7 +290,7 @@ export function App() {
       <div className="vh" aria-live="polite">{status}</div>
 
       <main id="reader" className="reader-wrap">
-        {view === "study" ? (
+        {view === "sources" ? <SourcesView tl={tl} /> : view === "study" ? (
           <div className="reader view-study">
             <div className="row row--head">
               <div className="cells">{visible.map((c) => (
