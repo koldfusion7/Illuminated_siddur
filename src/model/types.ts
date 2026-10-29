@@ -6,7 +6,29 @@ export type OverlayType = "kavanah" | "addition" | "reordering" | "wording_varia
 export type LicenseStatus = "public_domain" | "licensed" | "link_out_only" | "pending";
 export type Confidence = "attested" | "inferred" | "disputed" | "unknown";
 export type ObligationTag = "required" | "custom" | "optional" | "kabbalistic";
-export type CueCode = "stand" | "sit" | "bow" | "cover_eyes" | "three_steps_back" | "three_steps_forward" | "face_east" | "kiss_tzitzit" | "rise_on_toes" | "touch_tefillin";
+/** Cue vocabulary (design system §13.4). Step counts and specific acts live in `label` / `step_count`;
+ * facing is data on the record (`direction`), never an enum value. */
+export const CUE_CODES = [
+  "stand", "sit", "bow", "kneel", "rise_on_toes",
+  "steps_approach", "steps_retreat", "face_direction", "turn",
+  "cover_eyes", "lift_eyes", "strike_chest", "kiss_tzitzit", "hand_position",
+] as const;
+export type CueCode = (typeof CUE_CODES)[number];
+/** Migration map from the scaffold vocabulary. */
+export const LEGACY_CUE_MAP: Record<string, CueCode> = {
+  three_steps_forward: "steps_approach", three_steps_back: "steps_retreat",
+  face_east: "face_direction", touch_tefillin: "hand_position",
+};
+export type CueFamily = "posture" | "movement" | "gesture";
+export const CUE_FAMILY: Record<CueCode, CueFamily> = {
+  stand: "posture", sit: "posture", bow: "posture", kneel: "posture", rise_on_toes: "posture",
+  steps_approach: "movement", steps_retreat: "movement", face_direction: "movement", turn: "movement",
+  cover_eyes: "gesture", lift_eyes: "gesture", strike_chest: "gesture", kiss_tzitzit: "gesture", hand_position: "gesture",
+};
+/** Facing as data: a named target resolved at runtime, or a fixed bearing (degrees from true north). */
+export type CueDirection =
+  | { kind: "toward"; target: "jerusalem" | "ark" | "congregation"; resolve?: "user_location" | "community_setting" | "manual" }
+  | { kind: "bearing"; bearing_deg: number };
 export type Timing = "before" | "start" | "during" | "end" | "after";
 
 export interface RiteCorpus { id: string; layer: LayerId; name: string; direction: "rtl" | "ltr"; witnesses: string[]; }
@@ -27,6 +49,9 @@ export interface UnitChoreography {
   id: string; unit_id: string; cue_code: CueCode; layer_source: LayerId; timing: Timing;
   obligation_tag: ObligationTag; confidence: Confidence; label: string;
   conflict_group?: string; never_silent_resolve: boolean;
+  /** Required when cue_code is face_direction, forbidden otherwise. */
+  direction?: CueDirection;
+  step_count?: number;
 }
 export interface SeedBundle {
   corpora: RiteCorpus[]; units: BaseUnit[]; parallel_units: ParallelUnit[]; alignments: Alignment[];

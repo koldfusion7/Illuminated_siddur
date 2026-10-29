@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="t-strike-chest">
+  <title id="t-strike-chest">Strike chest</title>
+  <rect x="7.2" y="7.4" width="9.2" height="9.4" rx="2.4"/>
+  <circle cx="15.4" cy="12.1" r="2" fill="currentColor" stroke="none"/>
+  <path d="M10.4 10.4L11.9 11.3"/>
+  <path d="M10.1 12.1h1.8"/>
+  <path d="M10.4 13.8L11.9 12.9"/>
+</svg>

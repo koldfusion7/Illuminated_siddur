@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="t-kneel">
+  <title id="t-kneel">Kneel</title>
+  <circle cx="10.8" cy="5.6" r="2" fill="currentColor" stroke="none"/>
+  <path d="M10.8 8v5.4"/>
+  <path d="M10.8 13.4L15.2 15.6"/>
+  <path d="M15.2 15.6v5"/>
+  <path d="M10.8 13.4L8.2 17.4"/>
+  <path d="M8.2 17.4L10.1 20.6"/>
+  <path d="M4.5 21h15"/>
+</svg>

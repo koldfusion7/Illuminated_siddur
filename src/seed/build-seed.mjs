@@ -42,15 +42,21 @@ const overlay_links = [
   O("OL.006","ITK.SHA.ALEINU.020","omission_flag","Arizal omission flag on Aleinu 2"),
 ];
 const comparators = [{ id: "CMP.CHABAD", layer: "comparator_chabad", name: "Chabad comparator (read-only)", license_status: "pending", read_only: true }];
-const C = (id, unit, cue, layer, timing, ob, conf, label, cg) => ({ id, unit_id: unit, cue_code: cue, layer_source: layer, timing, obligation_tag: ob, confidence: conf, label, ...(cg ? { conflict_group: cg } : {}), never_silent_resolve: true });
+const C = (id, unit, cue, layer, timing, ob, conf, label, cg, extra = {}) => ({ id, unit_id: unit, cue_code: cue, layer_source: layer, timing, obligation_tag: ob, confidence: conf, label, ...(cg ? { conflict_group: cg } : {}), never_silent_resolve: true, ...extra });
 const choreography = [
   C("CH.001","ITK.SHA.PESUKEI.010","stand","L1_italki","start","custom","unknown","Stand (placeholder cue)"),
   C("CH.002","ITK.SHA.SHEMA.010","cover_eyes","L1_italki","during","required","inferred","Cover eyes for first verse only","CG.SHEMA.COVER_EYES"),
   C("CH.003","ITK.SHA.SHEMA.010","cover_eyes","L2_arizal","during","kabbalistic","attested","Cover eyes through the following line, right hand","CG.SHEMA.COVER_EYES"),
   C("CH.004","ROM.SHA.SHEMA.010","cover_eyes","L3_romaniote","during","custom","unknown","Romaniote practice unknown; field work needed","CG.SHEMA.COVER_EYES"),
-  C("CH.005","ITK.SHA.AMIDAH.010","three_steps_forward","L1_italki","before","custom","attested","Three steps forward"),
+  C("CH.005","ITK.SHA.AMIDAH.010","steps_approach","L1_italki","before","custom","attested","Steps forward (placeholder cue)",null,{ step_count: 3 }),
+  C("CH.009","ITK.SHA.AMIDAH.010","face_direction","L1_italki","before","required","attested","Face toward Jerusalem (resolved from location)",null,{ direction: { kind: "toward", target: "jerusalem", resolve: "user_location" } }),
   C("CH.006","ITK.SHA.AMIDAH.010","bow","L1_italki","start","required","attested","Bow at opening"),
-  C("CH.007","ITK.SHA.AMIDAH.020","three_steps_back","L1_italki","end","custom","attested","Three steps back"),
+  C("CH.007","ITK.SHA.AMIDAH.020","steps_retreat","L1_italki","end","custom","attested","Steps back (placeholder cue)",null,{ step_count: 3 }),
+  C("CH.010","ITK.SHA.TACHANUN.010","hand_position","L1_italki","during","custom","unknown","Hand position (placeholder cue)"),
+  C("CH.011","ROM.SHA.TACHANUN.010","kneel","L3_romaniote","during","custom","disputed","Kneel (placeholder cue; disputed)"),
+  C("CH.012","ITK.SHA.ALEINU.010","turn","L2_arizal","end","kabbalistic","inferred","Turn (placeholder cue)"),
+  C("CH.013","ITK.SHA.BIRKHOT.010","lift_eyes","L2_arizal","start","kabbalistic","inferred","Lift eyes (placeholder cue)"),
+  C("CH.014","ITK.SHA.TACHANUN.010","strike_chest","L1_italki","during","custom","inferred","Strike chest (placeholder cue)"),
   C("CH.008","ITK.SHA.ALEINU.010","bow","L1_italki","during","custom","inferred","Bow (placeholder cue)"),
 ];
 const corpora = [

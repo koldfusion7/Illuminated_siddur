@@ -293,13 +293,17 @@
             "stand",
             "sit",
             "bow",
-            "cover_eyes",
-            "three_steps_back",
-            "three_steps_forward",
-            "face_east",
-            "kiss_tzitzit",
+            "kneel",
             "rise_on_toes",
-            "touch_tefillin"
+            "steps_approach",
+            "steps_retreat",
+            "face_direction",
+            "turn",
+            "cover_eyes",
+            "lift_eyes",
+            "strike_chest",
+            "kiss_tzitzit",
+            "hand_position"
           ]
         },
         "layer_source": {
@@ -341,8 +345,90 @@
         },
         "never_silent_resolve": {
           "type": "boolean"
+        },
+        "direction": {
+          "$ref": "#/definitions/direction"
+        },
+        "step_count": {
+          "type": "integer",
+          "minimum": 1
         }
-      }
+      },
+      "allOf": [
+        {
+          "if": {
+            "properties": {
+              "cue_code": {
+                "const": "face_direction"
+              }
+            }
+          },
+          "then": {
+            "required": [
+              "direction"
+            ]
+          },
+          "else": {
+            "not": {
+              "required": [
+                "direction"
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "direction": {
+      "description": "Where a face_direction cue points. Direction is data, not an enum value.",
+      "oneOf": [
+        {
+          "type": "object",
+          "required": [
+            "kind",
+            "target"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "kind": {
+              "const": "toward"
+            },
+            "target": {
+              "type": "string",
+              "enum": [
+                "jerusalem",
+                "ark",
+                "congregation"
+              ]
+            },
+            "resolve": {
+              "type": "string",
+              "enum": [
+                "user_location",
+                "community_setting",
+                "manual"
+              ]
+            }
+          }
+        },
+        {
+          "type": "object",
+          "required": [
+            "kind",
+            "bearing_deg"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "kind": {
+              "const": "bearing"
+            },
+            "bearing_deg": {
+              "type": "number",
+              "minimum": 0,
+              "exclusiveMaximum": 360
+            }
+          }
+        }
+      ]
     }
   },
   "required": [

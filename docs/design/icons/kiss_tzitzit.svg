@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="t-kiss-tzitzit">
+  <title id="t-kiss-tzitzit">Kiss tzitzit</title>
+  <path d="M9.2 4.4v8.8"/>
+  <circle cx="9.2" cy="6.6" r="1.25" fill="currentColor" stroke="none"/>
+  <circle cx="9.2" cy="9" r="1.25" fill="currentColor" stroke="none"/>
+  <circle cx="9.2" cy="11.4" r="1.25" fill="currentColor" stroke="none"/>
+  <path d="M9.2 13.2L7.5 18.8"/>
+  <path d="M9.2 13.2v5.6"/>
+  <path d="M9.2 13.2L10.9 18.8"/>
+  <path d="M14 9.6C17.2 11.2 17.2 13.8 14 15.4"/>
+  <path d="M14.2 12.5h2.6"/>
+</svg>
