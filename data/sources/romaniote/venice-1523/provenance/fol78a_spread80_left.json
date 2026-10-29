@@ -1,0 +1,221 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 80,
+ "side": "left",
+ "folio": "78a",
+ "printed_folio_number": "עח",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של צום אסתר | עח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "למול אסתר בסתר · | הלא גלה למקראי : | ה' לי בעזרי ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "המוני עם בניב נועם · | לך שרו בעת ראו ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "לשפלותו ומפלתו · | ועינם בך הלא נשאו ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "והללו וצלצלו · | לך דרשו וגם קראו ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "והסתופפו ואוספו · | נוה קדשך וגם באו ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "וצהלו וגם אכלו · | ביין שכר ונסבאו ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "במשפחות ולשמחות · | בכהניו ולנשיאי : | ה' לי בעזרי ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "ויש אומרים אחר את פניך תחנון זה ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "ארבה גזם וילק · | עצמו בחיל כבד ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "בקשו דמי ללקק · | והטוחות והכבד :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "גור ארי נוהם מולק · מול עורף חלי רובד · | ראשית גוים עמלק · ואחריתו עדי אובד : | ראשית ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "דוב אורב במסתרים · לכלותו הפעם · | הפיל פור ליום פורים · בעברת אף וזעם ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "ובנכלו הספרים · כתב ושלח ברעם · | אמר והיה כעם · ככהן כעבד : | ראשית ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "זר יהיר עריץ לץ · הבעיר בלפידו · | חשב בלבו לעלץ · בדברו פידו ואידו ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "טף ואת כל אץ לפלץ ולא פץ ביום האבידו · | הגביע בידו · הוא יהיה לי עבד : | ראשית",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "יום האגגי יעץ · תהפוכות בלב תכן · | ככה למלך נועץ · גוי גבוה הרכן ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "למכים גוים ירועץ · וזרים בביתם שכן · | יעש ידוה כן · ויבא ערוב כבד : | ראשית ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "מחנק נפשי בחר · ולמות העמידני · | נגדי קם ולא אחר · ואלו העבירני ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "סוף אחריש כי למחר האויב שדדני · | נם הלא טוב זבדני · אלהים אותי זבד : | ראשית ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "ערך מגן וצנה · ויארוב ויקנא · | פער פיו ברוב תואנה וכה אמר צר במענה ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "צבא אשמיד בעונה · ואני לרום אפנה · | אקדש ועל פני · כל העם אכבד : | ראשית ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "קשט פדיון ודרור · למציא אין למתלחלחים | ראש בשם מר הדרור · אחרי צורו יהים ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "שת לב עלי יד כדרור · ועיניו בשמי גבוהים · | נא יתעשת האלהים לנו ולא נאבד : | ראשית | כל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "סליחה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "אל חצריך עמך הסתופף ופניך שחר · | אלהי נפלאותיך מספר וגרונו ניחר ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "אל משל הטה אזנו ובלבו חדתו סחרחר · | למנצח על אילת השחר :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "נפשו ביום זה ענה אל נורא עלילה · | נחוץ לאמר ערב ובקר את המגלה ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "נכונים מצא ו בזה ראיה גדולה · | אלהי אקרא יומם ולא תענה ולילה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "ירכסיה בשלשה מקומות בשלשה תיקי גידין ועם כל זה נכשרת ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "יזהר מחטי פשתן כי אין בזה נחרת ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "ישמור להניח בלי תפירה משויירת · | על שפת היריעה החוברת :",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "4809d4c97b3ab8f198f1b219d5ae30792f03715351b1522516eb3b8a9d9aef26",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.09,
+   "wer": 0.237
+  }
+ },
+ "text_file": "../text/fol78a_spread80_left.txt"
+}

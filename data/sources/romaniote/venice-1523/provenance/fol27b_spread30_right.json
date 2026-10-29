@@ -1,0 +1,253 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 30,
+ "side": "right",
+ "folio": "27b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של שבת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "ענה בדרך כחי קצר ימי : אמר אלי אל תעלני בחצי ימי בדור דורים שנותיך : לפנים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "הארץ יסדת ומעשה ידיך שמים : המה יאבדו ואתה תעמוד וכלם כבגד יבלו כלבוש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "תחליפם ויחלופו : ואתה הוא ושנותיך לא יתמו : בני עבדיך ישכנו וזרעם לפניך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "יכון :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "לדוד ברכי נפשי את יהוה וכל קרבי את שם קדשו : ברכי נפשי את יהוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "ואל תשכחי כל גמוליו : הסולח לכל עונכי הרופא לכל תחלואיכי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "הגואל משחת חייכי המעטרכי חסד ורחמים : המשביע בטוב עדיך תתחדש כנשר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "נעורייכי : עושה צדקות יהוה ומשפטים לכל עשוקים : יודיע דרכיו למשה לבני",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "ישראל עלילותיו : רחום וחנון יהוה ארך אפים ורב חסד : לא לנצח יריב ולא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "לעולם יטור : לא כחטאינו עשה לנו ולא כעונותינו גמל עלינו : כי כגבוה שמים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "על הארץ גבר חסדו על יראיו : כרחוק מזרח ממערב הרחיק ממנו את פשעינו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "כרחם אב על בנים רחם יהוה על יראיו : כי הוא ידע יצרנו זכור כי עפר אנחנו : אנוש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "כחציר ימיו כציץ השדה כן יציץ[?] כי רוח עברה בו ואיננו ולא יכירנו עוד מקומו : וחסד יהוה",
+   "confidence": "low",
+   "uncertain_spans": [
+    "יציץ[?]"
+   ]
+  },
+  {
+   "n": 15,
+   "text": "מעולם ועד עולם על יראיו וצדקתו לבני בנים : לשומרי בריתו ולזוכרי פקודיו לעשותם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "יהוה בשמים הכין כסאו ומלכותו בכל משלה : ברכו יהוה מלאכיו גבורי כח עושי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "דברו לשמוע בקול דברו : ברכו יהוה כל צבאיו משרתיו עושי רצונו : ברכו יהוה כל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "מעשיו בכל מקומות ממשלתו ברכי נפשי את יהוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "ברכי נפשי את יהוה יהוה אלהי גדלת מאד הוד והדר לבשת : עוטה אור",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "כשלמה נוטה שמים כיריעה : המקרה במים עליותיו השם עבים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "רכובו המהלך על כנפי רוח : עשה מלאכיו רוחות משרתיו אש לוהט : יסד[?] ארץ על",
+   "confidence": "low",
+   "uncertain_spans": [
+    "יסד[?]"
+   ]
+  },
+  {
+   "n": 22,
+   "text": "מכוניה בל תמוט עולם ועד : תהום כלבוש כסיתו על הרים יעמדו מים : מן גערתך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "ינוסון מן קול רעמך יחפזון : יעלו הרים ירדו בקעות אל מקום זה יסדת להם : גבול",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "שמת בל יעברון בל ישובון לכסות הארץ : המשלח מעינים בנחלים בין הרים יהלכון :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "ישקו כל חיתו שדי ישברו פראים צמאם : עליהם עוף השמים ישכון מבין עפאים יתנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "קול : משקה הרים מעליותיו מפרי מעשיך תשבע הארץ : מצמיח חציר לבהמה ועשב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "לעבדת האדם להוציא לחם מן הארץ : ויין ישמח לבב אנוש להצהיל פנים משמן ולחם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "לבב אנוש יסעד : ישבעו עצי יהוה ארזי לבנון אשר נטע : אשר שם צפרים יקננו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "חסידה ברושים ביתה : הרים הגבהים ליעלים סלעים מחסה לשפנים : עשה ירח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "למועדים שמש ידע מבואו : תשת חשך ויהי לילה בו תרמש כל חיתו יער : הכפירים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "שאגים לטרף ולבקש מאל אכלם : תזרח השמש יאספון ואל מעונתם ירבצון : יצא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "אדם לפעלו ולעבדתו עדי ערב : מה רבו מעשיך יהוה כלם בחכמה עשית מלאה הארץ",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "קניניך : זה הים גדול ורחב ידים שם רמש ואין מספר חיות קטנות עם גדלות :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "שם אניות יהלכון לויתן זה יצרת לשחק בו : כלם אליך ישברון לתת אכלם בעתו : תתן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "להם",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 14,
+   "span": "יציץ[?]"
+  },
+  {
+   "line": 21,
+   "span": "יסד[?]"
+  }
+ ],
+ "sha256_text": "c0461f5ceb8d306476b60b9c6f9c3cb1e20509a51b6eb8ca734a08cf0c07b434",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0301,
+   "bag_WER": 0.0991,
+   "ref_chars": 2261
+  }
+ },
+ "text_file": "../text/fol27b_spread30_right.txt"
+}

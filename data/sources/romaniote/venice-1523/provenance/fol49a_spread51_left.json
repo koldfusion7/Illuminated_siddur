@@ -1,0 +1,234 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 51,
+ "side": "left",
+ "folio": "49a",
+ "printed_folio_number": "מט",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של חנוכה | מט",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "ולא יריחון : | ידיהם ולא ימישון רגליהם ולא יהלכו לא יהגו בגרונם : | כמוהם יהיו עושיהם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "כל אשר בוטח בהם : | ישראל בטח בידוה עזרם ומגנם הוא : | בית אהרן בטחו בידוה עזרם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "ומגנם הוא : | יראי ידוה בטחו בידוה עזרם ומגנם הוא :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ידוה | זכרנו יברך יברך את בית ישראל יברך את בית אהרן : | יברך יראי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "ידוה הקטנים עם הגדולים : | יוסף ידוה עליכם עליכם ועל בניכם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "ברוכים אתם לידוה עושה שמים וארץ : | השמים שמים לידוה והארץ נתן לבני אדם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "לא המתים יהללו יה ולא כל יורדי דומה : | ואנחנו נברך יה מעתה ועד עולם הללויה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "אהבתי | כי ישמע ידוה את קולי תחנוני : | כי הטה אזנו לי ובימי אקרא :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "אפפוני חבלי מות ומצרי שאול מצאוני צרה ויגון אמצא :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "ובשם ידוה אקרא אנה ידוה מלטה נפשי : | חנון ידוה וצדיק ואלהנו מרחם : | שומר פתאים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "ידוה דלותי ולי יהושיע : | שובי נפשי למנוחיכי כי ידוה גמל עליכי : | כי חלצת נפשי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "ממות את עיני מן דמעה את רגלי מדחי : | אתהלך לפני ידוה בארצות החיים : | האמנתי כי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "אדבר אני עניתי מאד : | אני אמרתי בחפזי כל האדם כוזב :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "מה | אשיב לידוה כל תגמולוהי עלי : | כוס ישועות אשא ובשם ידוה אקרא :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "נדרי לידוה אשלם נגדה נא לכל עמו : | יקר בעיני ידוה המותה לחסידיו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "אנה ידוה כי אני עבדך אני עבדך בן אמתך פתחת למוסרי : | לך אזבח זבח תודה ובשם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "ידוה אקרא : | נדרי לידוה אשלם נגדה נא לכל עמו : | בחצרות בית ידוה בתוככי ירושלם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "הללויה : | הללו את ידוה כל גוים שבחוהו כל האמים : | כי גבר עלינו חסדו ואמת ידוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "לעולם הללויה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "הודו | לידוה כי טוב כי לעולם חסדו : | יאמר נא ישראל כי לעולם חסדו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "יאמרו נא בית אהרן כי לעולם חסדו : | יאמרו נא יראי ידוה כי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "לעולם חסדו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "מן | המצר קראתי יה ענני במרחב יה : | ידוה לי לא אירא מה יעשה לי אדם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "ידוה לי בעוזרי ואני אראה בשונאי : | טוב לחסות בידוה מבטוח באדם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "טוב לחסות ביהוה מבטוח בנדיבים : | כל גוים סבבוני בשם ידוה כי אמילם : | סבוני",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "גם סבבוני בשם ידוה כי אמילם : | סבוני כדבורים דועכו כאש קוצים בשם ידוה כי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "אמילם : | דחה דחיתני לנפול וידוה עזרני : | עזי וזמרת יה ויהי לי לישועה : | קול רנה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "וישועה באהלי צדיקים ימין ידוה עושה חיל : | ימין ידוה רוממה ימין ידוה עושה חיל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "לא אמות כי אחיה ואספר מעשה יה : | יסור יסרני יה ולמות לא נתנני : | פתחו לי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "שערי צדק אבא בם אודה יה : | זה השער ליהוה צדיקים יבאו בו : | אודך כי עניתני",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "ותהי לי לישועה : | אבן מאסו הבונים היתה לראש פנה : | מאת ידוה היתה זאת היא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "נפלאת בעינינו : | זה היום עשה ידוה נגילה ונשמחה בו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "ז א",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "fc9cea5e2bb4328a83762fda6b5683cf17581085a83bab9907ad37932ad60c06",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.044,
+   "bag_WER": 0.0995,
+   "ref_chars": 2093
+  }
+ },
+ "text_file": "../text/fol49a_spread51_left.txt"
+}

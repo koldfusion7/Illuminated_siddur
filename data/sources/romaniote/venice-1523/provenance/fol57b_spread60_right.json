@@ -1,0 +1,241 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 60,
+ "side": "right",
+ "folio": "57b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של עשרה בטבת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "דמם ממני כלי שירי ˙ | הודעך מני כלי זמרי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "ויהי לאבל כנורי ˙ | בטבת בעשירי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "זוחלי עפר חמסו שארי ˙ | חכמים להרע פרצו גדרי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "טסתי לברוח מפני הארי ˙ | בטבת בעשירי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "יום הקיף צר על עירי ˙ | בכה נרי וחשך תארי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "לבבי כלה עם שארי ˙ | בטבת בעשירי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "מני הודעך נרי ˙ | נפל לארץ כתרי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "סמר מפחדך בשרי ˙ | בטבת בעשירי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "עדינה פצה לערערי ˙ | פחד לבי מגודל שברי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "צדתני כצפור יהודית בת בארי ˙ | בטבת בעשירי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "קראתיך מלכי וצורי ˙ | רוממני כי גדל שברי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "שועתי תשמע ותשקיב דבורי ˙ | סלחתי ומחלתי מהרה תבשרי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "סליחה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "חיים | שאלתי ממך צור ישועתי ˙ | תענה נא ותנהל עמי בבקשתי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "ושעה שועתי ביום צרתי כי האמנתי ˙ | לראות בטוב ידוה בארץ החיים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "אלהי ומלכי תנה לעמך הנגש ונענה ˙ | לחם זדים ובוגדים ונע ונד כקנה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "בחמלתך הושיעהו ומשחת פרעהו ˙ | לפני ידוה בארצות החיים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "חיים רבה על עבדיך ברב חסדיך אל נורא ˙ | בשמך מחסנו נא הושיענו מצרה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "ייחלנו דברך והאירה לנו באורך נר מצוה ותורה ˙ | אור ודרך חיים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "חיים נפשות דורשיך ומבקשיך שבע אלהי המלך ˙ | תקשיב אזניך למתחננים עם אחריך הולך ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "נא שלח עזרה וסלח לעם נאלח ויהי להתהלך ˙ | לפני ידוה באור החיים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "חיים הפלא לעם גולה והמלא רחמים מלכי ˙ | פתח דברך יאיר לשחריך והישר לי דרכי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "רחשי בפרשי ורצה לחשי ומשוך חנך בי ˙ | טוב חסדך מחיים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "חיים נסה עלינו מחקקנו מדי כפי פרשי ˙ | סמכני ותומכני ואמצני להגיד תהלתך ידוה נסי [?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 26,
+   "text": "חשקי חזקי אלהי צדקי משגבי מחסי ˙ | חלקי בארץ החיים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "חיים חן ושכל טוב שבע אלהי לי ולעמך ˙ | זכור רחמיך והפר כעסך וזעמך ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "קול בשורה השמע לעמך כי בי ירבו ימיך ˙ | ויוסיפו לך שנות חיים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "חיים נורא הרבה והצל ממדוה לעם נפזרי ˙ | צוה ישועות אל דיעות כי בהעתירי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "חנון זרע אברהם תמימך ראשית פרי ˙ | צדיק עץ חיים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "חיים סלה שבע והושע ושמע לעמי בבקשם ˙ | לפניך ברנה ותחנה ותהיינה אזניך קשובות [?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 32,
+   "text": "הושיענו צור ישענו ופניך בדרשינו העניקנו שם ˙ | את הברכה חיים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "סליחה",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 25,
+   "span": "[?]"
+  },
+  {
+   "line": 31,
+   "span": "[?]"
+  }
+ ],
+ "sha256_text": "ad9a1957eebf7f455684864e58d9a66aa158d92721e53eac33add11a403dd9cc",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.1021,
+   "bag_WER": 0.1356,
+   "ref_chars": 1645
+  }
+ },
+ "text_file": "../text/fol57b_spread60_right.txt"
+}

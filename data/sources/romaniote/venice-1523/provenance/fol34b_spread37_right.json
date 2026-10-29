@@ -1,0 +1,241 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 37,
+ "side": "right",
+ "folio": "34b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של שבת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "עפר מי כמוך אדון הגבורות ומי דומה לך מלך ממית ומחיה ומצמיח לנו ישועה בקרוב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "ונאמן אתה להחיות מתים ברוך אתה יהוה מחיה המתים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "כתר יתנו לך יהוה אלהינו מלאכים המוני מעלה עם עמך ישראל קבוצי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "מטה יחד כלם קדושה לך ישלשו ושבחך בכל יום תמיד יחדשו כ[?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "כ[?]"
+   ]
+  },
+  {
+   "n": 6,
+   "text": "כדבר האמור על יד נביאך וקרא זה אל זה ואמר קדוש קדוש קדוש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "יהוה צבאות מלא כל הארץ כבודו : כבודו וגדלו מלא עולם משרתיו שואלים זה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "לזה איה מקום כבודו לעומתם ברוך יאמרו פעמים באהבה אומרים בכל יום שמע",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "ישראל יהוה אלהינו יהוה אחד להיות לכם לאלהים אני יהוה אלהיכם אמת :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "ובדברי קדשך כתוב לאמר : ימלוך יהוה לעולם אלהיך ציון לדור ודור הללויה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "לדור ודור נגיד גדלך ולנצח נצחים קדושתך נקדיש ושבחך יהוה אלהינו מפינו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "לא ימוש לעולם ועד כי אל מלך גדול וקדוש אתה ברוך אתה יהוה האל הקדוש :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "תקנת שבת רצית קרבנותיה צוית פירושיה עם סדורי נסכיה מענגיה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "לעולם כבוד ינחלו טועמיה חיים זכו וגם האוהבי דבריה גדולה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "בחרו אז מסיני נצטוו צווי פעליה כראוי ותצונו יהוה אלהינו להקריב בה קרבן מוסף",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "שבת כראוי שכן יהי רצון מלפניך יהוה אלהינו ואלהי אבותינו שתעלינו לארצנו ותטעינו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "בגבולינו ושם נעשה לפניך את קרבנות חובותינו תמידין כסדרן ומוספין כהלכתן ומוסף",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "יום המנוח הזה נעשה ונקריב לפניך באהבה כמצות רצונך כמו שכתבת עלינו בתורתך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "על ידי משה עבדך מפי כבודך כאמור · וביום השבת שני כבשים בני שנה תמימים ושני",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "עשרנים סלת מנחה בלולה בשמן ונסכו עולת שבת בשבתו על עולת התמיד ונסכה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "אלהינו ואלהי אבותינו רצה במנוחתינו קדשנו במצותיך תן חלקנו בתורתך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "שבענו מטובך ושמח את נפשנו בישועתך וטהר את לבנו לעבדך באמת ובלבב שלם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "והנחילנו יהוה אלהינו באהבה וברצון את שבת קדשך וינוחו בו כל זרע ישראל אוהבי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "שמך ברוך אתה יהוה מקדש השבת :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "רצה יהוה אלהינו בעמך ישראל ולתפלתם שעה והשב את העבודה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "לדביר ביתך ואישי ישראל בעבודתם ותפלתם מהרה באהבה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "תקבל ברצון ותהי לרצון תמיד עבודת עמך ישראל בימינו ותחזינה עינינו בשובך לציון",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "ברחמים כמאז ברוך אתה יהוה המשיב שכינתו לציון :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "מודים אנחנו לך שאתה הוא יהוה אלהינו ואלהי אבותינו על חיינו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "המסורים בידך ועל נשמותינו הפקודות לך הטוב כי לא כלו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "רחמיך המרחם עלינו וכי לא תמו חסדיך ומעולם קוינוך לא הכלמתנו יהוה אלהינו ולא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "עזבתנו ולא הסתרת פניך ממנו · ועל כלם יתרומם ויתברך וישתבח שמך מלכנו לעולם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "ועד וכל החיים יודוך סלה ויהללו ויברכו ויודו לשמך הטוב באמת חי העולמים ונודה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "לך ברוך אתה יהוה הטוב שמך לכל ולך נאה להודות :",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 5,
+   "span": "כ[?]"
+  }
+ ],
+ "sha256_text": "f1d433ee103e9d204a191b6b036c14e20b9933152df62ddc41951cb570832c16",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0516,
+   "bag_WER": 0.1038,
+   "ref_chars": 2133
+  }
+ },
+ "text_file": "../text/fol34b_spread37_right.txt"
+}

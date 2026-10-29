@@ -1,0 +1,253 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 24,
+ "side": "left",
+ "folio": "22a",
+ "printed_folio_number": "כב",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות החול כב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "עזבתנו ולא הסתרת פניך ממנו ועל כלם יתרומם ויתברך וישתבח שמך מלכנו לעולם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "ועד וכל החיים יודוך סלה ויהללו ויברכו ויודו לשמך הטוב באמת חי העולמים ונודה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "לך ברוך אתה יהוה הטוב שמך ולך נאה להודות :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "שים שלום טובה וברכה חיים חן וחסד וריוח ורחמים עלינו ועל כל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "ישראל עמך ברכנו אבינו כולנו יחד באור פניך כי באור פ",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "פניך נתת לנו יי אלהינו תורת חיים אהבה חן וחסד צדקה ברכה ישועה רחמים רבים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "ושלום וטוב יהיה בעיניך לברך את כל עמך ישראל תמיד בשלומך ברוך אתה יהוה המברך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "את עמו ישראל בשלום : אמן[?] יהיו לרצון אמרי פי והגיון לבי לפניך יהוה צורי וגואלי",
+   "confidence": "low",
+   "uncertain_spans": [
+    "אמן[?]"
+   ]
+  },
+  {
+   "n": 10,
+   "text": "ופוסע שלש פסיעות ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "עלינו לשבח לאדון הכל לתת גדולה ליוצר בראשית שלא עשנו כגויי הארץ ולא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "שמנו כמשפחות הארצות שלא שם חלקנו כהם וגורלינו ככל המונם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "ואנו משתחוים למלך מלכי המלכים הקדוש ברוך הוא נוטה שמים ויוסד הארץ",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "ומושב יקרו בשמים ממעל ושכינת עזו בגבהי מרומים הוא יהוה אלהינו אין עוד מלבדו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "אמת הוא מלכנו ואין זולתו ככתוב בתורתו וידעת היום והשבות אל לבבך כי יהוה הוא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "האלהים בשמים ממעל ועל הארץ מתחת אין עוד : יהי יהוה אלהינו עמנו כאשר היה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "עם אבותינו אל יעזבנו ואל יטשנו להטות לבבנו אליו ללכת בכל דרכיו ולשמור מצותיו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "וחוקיו ומשפטיו אשר צוה את אבותינו ויהיו דברי אלה אשר התחננתי לפני יהוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "קרובים אל יהוה אלהינו יומם ולילה לעשות משפט עבדו ומשפט עמו ישראל דבר יום",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "ביומו למען דעת כל עמי הארץ כי יהוה הוא האלהים אין עוד : ואומר קדיש ותתקבל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "ברוך אלהינו ואלהי אבותינו שבראנו לכבודו והבדילנו מן התועים והודיענו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "דרכי חיים ונתן לנו את תורתו וחיי עולם נטע בתוכנו אב הרחמן הוא יפתח לבנו בתורתו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "ויתן בלבנו לעשות רצונו כרצונו ליחדו ולעבדו בלבב שלם ובנפש חפצה למען לא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "נגע לריק ולא נלד לבהלה שכן יהי רצון מלפניך יהוה אלהינו ואלהי אבותינו שנשמור",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "חקיך בעולם הזה ונזכה ונחיה ונראה ונירש את שני ימות המשיח לטובה לישועה לנחמה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "לזכות ולמעשים טובים וליראת יהוה ולשם טוב ולשלום ולחיים ולחיי העולם הבא :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "יהוה אדוננו מה אדיר שמך בכל הארץ : יהוה חפץ למען צדקו יגדיל תורה ויאדיר :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "ברוך ה' כו' וקדיש שלם וברכו · וקורא ק\"ש על מטתו דאמר הקורא ק\"ש על מטתו כאילו אוחז",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "חרב פיפיות שנאמר רוממות אל בגרונם וחרב פיפיות בידם וקורא על מטתו פרשה ראשונה והרמב\"ם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "כתב שצריך לברך ורבו החולקים על ברכה זו ולא נהגו בה וקורא אותה סמוך למטתו וחסידים וחכמי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "מעשה[?] מכוונים שלא לשיח בינה לבינה דכתיב אמרו בלבבכם על משכבכם ודומו ואם היתה אשתו עמו",
+   "confidence": "low",
+   "uncertain_spans": [
+    "מעשה[?]"
+   ]
+  },
+  {
+   "n": 32,
+   "text": "מחזיר פניו וקורא ואומר ויהי נועם שהוא שיר של פגעי' ובפרק ידיעות[?] פריך והא אסור להתרפות בדברי",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ידיעות[?]"
+   ]
+  },
+  {
+   "n": 33,
+   "text": "תורה ומתרץ למגני[?] שני וכתב הרמב\"ם והרא\"ש ורב עמרם שמברך ברכה זו · ברוך אתה ה' אלהינו",
+   "confidence": "low",
+   "uncertain_spans": [
+    "למגני[?]"
+   ]
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 9,
+   "span": "אמן[?]"
+  },
+  {
+   "line": 31,
+   "span": "מעשה[?]"
+  },
+  {
+   "line": 32,
+   "span": "ידיעות[?]"
+  },
+  {
+   "line": 33,
+   "span": "למגני[?]"
+  }
+ ],
+ "sha256_text": "dc11bcce4bd461f4f51b101734ce23a786becb3103494489bfd75c75e57d1f4b",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.1355,
+   "bag_WER": 0.2161,
+   "ref_chars": 2302
+  }
+ },
+ "text_file": "../text/fol22a_spread24_left.txt"
+}

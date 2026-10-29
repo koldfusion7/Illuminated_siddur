@@ -1,0 +1,247 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 66,
+ "side": "right",
+ "folio": "63b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של ארבע ערכים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "מה יקרו ראשיהם ˙ מה עצמו דורשיהם ˙ גדור ושלם אישיהם ˙ פן יענשו עונשיהם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "סכום מכסת אסכימה ˙ ספור וקצוב לחומה ˙ ערוך ביד רמה ˙ מחצית השקל תרומה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "פקודיהם מבן עשרים ˙ פנו ותנו אסרים ˙ צדק הוא ומישרים ˙ לדלי עם ולשרים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "קצין לכל יתנשא ˙ קיני רב ומנושא ˙ רב עלי המעשה ˙ זאת מלכים לכסא ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "שפטנו מכל נעלם ˙ שומר חסידיו להועילם ˙ תעל התעיל להתעילם ˙ שים שלום בעולם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "יוצר עולם ברך שבת ˙ צדקנו בן עם בת ˙ חשוב רחשי כשי מחבת ˙ קדוש יעקב אשר שבת ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "קדוש : | ויש אומרים יוצר זה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "אורח | חיים לצדיק מישרים הפליא אל ועד לא שקל בפלס הרים ˙ זרח בחשך אור לישרים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "להם לבדם נתן להורות ˙ מי כמוהו מורה כדבר גבורות ˙ פעל ועשה קורא הדורות ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "יאב מי הוא ערב אל לבו ˙ יגש אליו עודנו באבו ˙ איש אשר רוח אלהים בו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "האיר ממזרח כאזרח מתערה ˙ מצאצאיו פרח צנצן פורה ˙ לשרידים אשר ידוה קורא :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "בבני ישראל למשפחותם ˙ פרו וישרצו בתולדותם ˙ ותמלא הארץ אותם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "וידבר ידוה אל משה לאמר :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "אמור אל עמי בני איתני ˙ אם נא מצאו חן בעיני ˙ ונתנו איש כופר נפשו לידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "ברעתו תמה ענו ויישם ˙ אולי גדול בעיני צור ענשם ˙ ויקר פדיון נפשם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "נאה השיבו מה לך משתאה ˙ זה יתנו עשיר ורש לא ילאה ˙ ככל אשר אני מראה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "לכל עובר בים צרה ˙ מחצית השקל גזירה ˙ והשקל עשרים גרה : קדוש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "ויאמרו כל אשר דבר ידוה נעשה ונשמע :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "דת נקבל יחדו זרע אמונים ˙ לוים וישראלים וכהנים ˙ כלנו בני איש אחד נחנו כנים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "העמדנו עלינו מצות בוראנו ˙ לתת מחצית השקל מהוננו ˙ בשנה לעבודת בית אלהינו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "וכל איש אשר דברך ימרה ˙ הנו בידך לכל אשר תורה ˙ סקל יסקל או ירה יירה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "בשמעו בזאת ענו ˙ שובע שמחות מלאו פניו ˙ וישמע משה ויטב בעיניו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "וידבר ידוה אל משה לאמר :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "זמן תת לעם נאדר ˙ לשמע על השקלים בחדש נהדר ˙ שנים עשר לחדש אדר :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "חנון חפץ למען צדקו ˙ להכין כל אחר ואחד ספקו ˙ איש צרור כספו בשקו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "טעם למלאות חדשים לגמור ˙ ישבו השלחנים במקדש לכמור ˙ והנוגשים אצים לאמר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "לכל עובר ˙ | ויאמרו כל אשר דבר ידוה נעשה ונשמע :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "יד ליד נתן החוק הנגזר ˙ וכל איש ממנו יתאכזר ˙ לקח בגדו כי ערב זר :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "כגר כאזרח עשיר ואביון ˙ תחבול לבד משרת בחביון ˙ והוא כהן לאל עליון :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "לנשים ולקטנים ולעבדים ˙ טעם מצאו לפטרם ידידים ˙ כל העובר על הפקודים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "כשמעו [?] | וידבר ידוה אל משה לאמר :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 33,
+   "text": "מצטרפין שקלים בזהב לעומסה ˙ מפני משואי הדרך למנוסה ˙ ויחלו מעט ממשא :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "נגנבו ואבדו בלסטס מזוין ˙ לאחר התרומה נשבעין לגזברין ודיין ˙ ואבד העושר ההוא בענין",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "סוד",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 32,
+   "span": "[?]"
+  }
+ ],
+ "sha256_text": "19393ab3fe4e35f9dc3f60a53301f1280e14ce1a939722d87b3ac1d22bf5215b",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0411,
+   "wer": 0.1143,
+   "ref_chars": 1945
+  }
+ },
+ "text_file": "../text/fol63b_spread66_right.txt"
+}

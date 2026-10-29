@@ -1,0 +1,258 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 38,
+ "side": "right",
+ "folio": "35b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של שבת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "לא קם בישראל כמשה עוד · | נביא ומביט אל תמונתו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "תורת אמת נתן לעמו אל · | על יד נביאו נאמן ביתו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "לא יחליף האל ולא ימיר · | דתו לעולמים לזולתו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "צופה ויודע סתרינו · | מביט לסוף דבר בקדמותו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "גומל לאיש חסד כמפעלו · | יתן לרשע רע כרשעתו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "ישלח לקץ ימים משיחנו · | לפדות מחכה קץ ישועתו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "מתים יחיה אל ברוב חסדו · | ברוך עדי עד שם תהלתו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "סימן לי\"ג עקרים לרבי[?] חלית[?] מצוי באחדותו ואינו גוף · קדמון ואדון על נביאנו",
+   "confidence": "low",
+   "uncertain_spans": [
+    "לרבי[?]",
+    "חלית[?]"
+   ]
+  },
+  {
+   "n": 10,
+   "text": "משה בדת לא יחליף יודעיו יגמול משיחנו בחיינו אל לך ידיד אל י\"ג יסודי דת · הן לוית",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "חן הן לראשנו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "אדון עולם אשר מלך · | בטרם כל יצור נברא :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "לעת נעשה בחפצו כל · | אזי מלך שמו נקרא :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "ואחרי ככלות הכל · | לבדו ימלוך נורא : | והוא היה והוא הווה · והוא יהיה בתפארה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "והוא אחד ואין שני · | להמשילו להחבירה : | בלי ראשית בלי תכלית · ולו העוז והמשרה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "בלי ערך בלי דמיון · | בלי שנוי והתמורה : | בלי חבור בלי פרוד · | גדול כח והגבורה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "והוא אלי וחי גואלי · | וצור חבלי ביום צרה : | והוא נסי ומנוסי · | מנת כוסי ביום אקרא :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "בידו אפקיד רוחי · | בעת אישן ואעירה : | ועם רוחי גויתי · | יהוה לי ולא אירא :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "כל ברואי מעלה ומטה · | יעידון יגידון כלם כאחד | יהוה אחד ושמו אחד :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "שלשים ושתים נתיבות שבילך | וכל מבין סודם יספרו את גדלך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "והם יכירו כי הכל שלך · | ואתה האל המלך המיוחד : | יעידון",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "לבבות בחשבם עולם בנוי · | ימצאו כל יש ברלתך[?] שנוי ·",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ברלתך[?]"
+   ]
+  },
+  {
+   "n": 23,
+   "text": "במספר במשקל הכל מנוי · | כלם נתנו מרועה אחד : | יעידון",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "מראש ועד סוף יש לך סימן · | צפון וים וקדם ותימן ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "ושחק ותבל לך עד נאמן · | מזה אחד ומזה אחד : | יעידון",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "הכל ממך נזבד זבוד · | אתה תעמוד והם יאבדו אבוד ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "לכן כל יצור יתן לך כבוד · | מראש ועד סוף הלא אב אחד : | יעידון",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "וכפטרין לבתיהם ומקדשין על היין ומתחיל ושמרו כו' ואחר כך בורא פרי הגפן ואוכלין ומברכין ברכת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "המזון : אמ' בשבת פרק אלו קשרין ירושלמי ר' ברכיה בשם רבי חייה לא נתנו שבתות וי\"ט אלא לעסוק",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "בדברי תור' מפני שבחול טורח ואין לו פנאי וא\"ר אבהו שבת לה' שבות בה' מה הב\"ה שבת ממאמר אף אתה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "אמר רבי חגי בדוחק התירו שאילת שלום בשבת רבי שמעון ב\"י כד חזא אמיה משתעיא אמר ליה אימא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "שבתא היא אמ' בגטין פרק השולח אמ' רבא בהניתלת מילי כחתי[?] בעלי בתי' מנכסייהו דאפקי עבדיהון",
+   "confidence": "low",
+   "uncertain_spans": [
+    "כחתי[?]"
+   ]
+  },
+  {
+   "n": 33,
+   "text": "לחירותא ודבזיירי[?] נכסייהו בשבתא : וקבעי סעודתיהו בשבתא בעידן בי מדרשא דא\"ר יוחנן ב' משפחות",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ודבזיירי[?]"
+   ]
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 9,
+   "span": "לרבי[?]"
+  },
+  {
+   "line": 9,
+   "span": "חלית[?]"
+  },
+  {
+   "line": 22,
+   "span": "ברלתך[?]"
+  },
+  {
+   "line": 32,
+   "span": "כחתי[?]"
+  },
+  {
+   "line": 33,
+   "span": "ודבזיירי[?]"
+  }
+ ],
+ "sha256_text": "90fe423550434a3984ad8d3f798720c913458a9292d5f984a2868e56c2fad76c",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.1054,
+   "bag_WER": 0.2647,
+   "ref_chars": 1973
+  }
+ },
+ "text_file": "../text/fol35b_spread38_right.txt"
+}

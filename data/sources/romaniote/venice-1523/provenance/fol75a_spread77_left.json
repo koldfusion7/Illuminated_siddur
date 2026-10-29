@@ -1,0 +1,236 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 77,
+ "side": "left",
+ "folio": "75a",
+ "printed_folio_number": "עה",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של צום אסתר | עה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "ארחות חסדיך גלית לו והודעתו כי אתה ידוה אל רחום וחנון ארך אפים ורב חסד ואמת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "ומרבה להטיב ומנהיג את העולם כולו במדת רחמים וכן כתוב ויאמר אני אעביר כל טובי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "על פניך וקראתי בשם ידוה לפניך וחנותי את אשר אחון ורחמתי את אשר ארחם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "אל ארך אפים אתה ובעל הרחמים נקראת ודרך תשובה הורית גדולת רחמיך וחסדיך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "תזכור היום ובכל יום לזרע ידידיך ˙ תפן אלינו ברחמים כי אתה הוא בעל הרחמים בצום",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "ובתפלה פניך נקדם כמו שהודעת לענו מקדם מחרון אפך שוב כמו בתורתך קשוב בצל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "כנפיך נחסה ונתלונן כיום וירד ידוה בענן תעבור על כל פשע ותמחה אשם כמו ויתיצב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "עמו שם תאזין שועה ותקשיב ברצון מאמר כיום ויקרא בשם ידוה ושם נאמר :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "ויעבור ידוה על פניו ויקרא ˙ ידוה ידוה אל רחום וחנון ארך אפים ורב חסד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "ואמת נוצר חסד לאלפים נושא עון ופשע וחטאה ונקה : וסלחת לעונינו ולחטאתינו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "ונחלתנו : אבינו מלכנו חננו ועננו כי אין בנו מעשים עשה עמנו צדקה למען שמך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "רחם נא קהל עדת ישורון סלח ומחול לעונינו והושיענו אלהי ישענו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "סלח | לנו אבינו כי חטאנו מחול לנו מלכנו כי פשענו : כי אתה ידוה טוב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "וסלח ורב חסד לכל קראיך : למען שמך ידוה וסלחת לעונינו כי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "רב הוא : כי עמך הסליחה למען תורא : כי עמך מקור חיים באורך נראה אור :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "כי עם ידוה החסד והרבה עמו פדות : ידוה אלהים סלח נא מי יקום יעקב כי קטן הוא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "נחם ידוה על זאת לא תהיה אמר ידוה ˙ ידוה אלהים חדל נא מי יקום יעקב כי קטן הוא ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "נחם ידוה על זאת גם היא לא תהיה אמר ידוה אלהים ˙ סלח נא לעון העם הזה כגודל חסדך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "וכאשר נשאת לעם הזה ממצרים ועד הנה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "ואומר סליחה למנהג קצת קהלות ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "שוב מחרון אפך והנחם על הרעה לעמך : שוב למען עבדיך שבטי נחלתך : שובה ידוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "עד מתי והנחם על עבדיך : שובה ידוה את שביתנו כאפיקים בנגב : שובה ידוה חלצה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "נפשנו הושיענו למען חסדך : שובה ידוה רבבות אלפי ישראל : שובה ישראל עד ידוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "אלהיך כי כשלת בעונך : קחו עמכם דברים ושובו אל ידוה אמרו אליו כל תשא עון וקח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "טוב ונשלמה פרים שפתינו : וקרעו לבבכם ואל בגדיכם ושובו אל ידוה אלהיכם כי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "חנון ורחום הוא ארך אפים ורב חסד ונחם על הרעה : דרשו ידוה בהמצאו קראוהו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "בהיותו קרוב : יעזוב רשע דרכו ואיש און מחשבותיו וישוב אל ידוה וירחמהו ואל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "אלהינו כי ירבה לסלוח :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "ואומר סליחה שנית למנהג קצת קהלות :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "ויחל | משה את פני ידוה אלהיו ויאמר למה ידוה יחרה אפך בעמך אשר הוצאת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "מארץ מצרים בכח גדול וביד חזקה תשוב תרחמנו תכבוש עונותינו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "ותשליך במצולות ים כל חטאתינו : השיבנו ידוה אליך ונשובה חדש ימינו כקדם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "יג",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "43ce2413f0d619d091572060a25f96f2bed2ff68fb4354e4beb298279ba48796",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0406,
+   "wer": 0.1372,
+   "ref_chars": 2142,
+   "overlap_excluded": true,
+   "dropped_lines": 0
+  }
+ },
+ "text_file": "../text/fol75a_spread77_left.txt"
+}

@@ -1,0 +1,247 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 43,
+ "side": "left",
+ "folio": "41a",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של לאש [?] חדש",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 2,
+   "text": "אלהינו ואלהי אבותינו החל עלינו את ששת ימי המעשה הבאים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "לקראתינו לשלום חשוכים מכל חטא ופשע ומנוקים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "מכל עון ורשע ומדובקים בתלמוד תורה ומעשים טובים וחנונים מאתך דיעה והשכל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ותשמיענו ששון ושמחה ולא תעלה קנאתנו על לב אדם ולא קנאת אדם תעלה על לבנו ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "וכל היועץ עלינו ועל עמך ישראל עצה טובה ומחשבה טובה אמצו ברכו גדלו קיימו קיים [?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 7,
+   "text": "עצתו כדבר שנאמר ויתן לך כלבבך וכל עצתך ימלא · | וכל היועץ עלינו ועל עמך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "ישראל עצה שאינה טובה ומחשבה שאינה טובה אבדו בטלו גדעו הפרו הפר עצתו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "כדבר שנאמר ידוה הפיר עצת גוים הניא מחשבות עמים ונאמר עוצו עצה ותופר דברו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "דבר ולא יקום כי עמנו אל : | כוס ישועות וכו'",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "ברוך אתה יהוה אלהינו מלך העולם בורא פרי הגפן : | ברוך אתה ידוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "אלהינו מלך העולם בורא עצי בשמים : | ברוך אתה ידוה אמ\"ה [?] בורא",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 13,
+   "text": "מאורי האש : | ברוך אתה ידוה אלהינו מלך העולם המבדיל בין קדש לחול בין אור",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "לחשך בין ישראל לגוים בין יום השביעי לששת ימי המעשה | ברוך אתה ידוה המבדיל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "בין קדש לחול : | ויאמר אם שמוע תשמע לקול ידוה אלהיך והישר בעיניו תעשה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "והאזנת למצותיו ושמרת כל חקיו כל המחלה אשר שמתי במצרים לא אשים עליך כי אני",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "ידוה רפאך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "סדר ראש חדש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "יהוה מלך גאות לבש לבש ידוה עוז התאזר אף תכון תבל בל תמוט : | נכון",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "כסאך מאז מעולם אתה : | נשאו נהרות ידוה נשאו נהרות קולם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "ישאו נהרות דכים : מקולות מים רבים אדירים משברי ים אדיר במרום ידוה : | עדותיך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "נאמנו מאד לביתך נאוה קדש יהוה לאורך ימים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "מזמור שירו ליהוה שיר חדש כי נפלאות עשה הושיעה לו ימינו וזרוע קדשו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "הודיע ידוה ישועתו לעיני הגוים גלה צדקתו : | זכר חסדו ואמונתו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "לבית ישראל ראו כל אפסי ארץ את ישועת אלהינו : | הריעו ליהוה כל הארץ פצחו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "ורננו וזמרו : | זמרו לידוה בכנור בכנור וקול זמרה : | בחצוצרות וקול שופר הריעו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "לפני המלך יהוה : | ירעם הים ומלואו תבל ויושבי בה : | נהרות ימחאו כף יחד הרים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "ירננו : | לפני ידוה כי בא לשפט הארץ ישפוט תבל בצדק ועמים במישרים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "הודו ליהוה כי טוב כי לעולם חסדו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "הודו לאלהי האלהים כי לעולם חסדו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "הודו לאדוני האדונים | כלח : | לעושה נפלאות גדולות לבדו | כלח :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "לעושה השמים בתבונה | כלח : | לרוקע הארץ על המים | כלח :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "לעושה אורים גדולים | כלח : | את השמש לממשלת ביום | כלח :",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 1,
+   "span": "[?]"
+  },
+  {
+   "line": 6,
+   "span": "[?]"
+  },
+  {
+   "line": 12,
+   "span": "[?]"
+  }
+ ],
+ "sha256_text": "13a788cd867340b660c10cac07f75cd0146832297a6c484e3d2b3deebf60c042",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0498,
+   "bag_WER": 0.1036,
+   "ref_chars": 1886
+  }
+ },
+ "text_file": "../text/fol41a_spread43_left.txt"
+}

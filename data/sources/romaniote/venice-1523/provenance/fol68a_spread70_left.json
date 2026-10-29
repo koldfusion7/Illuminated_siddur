@@ -1,0 +1,228 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 70,
+ "side": "left",
+ "folio": "68a",
+ "printed_folio_number": "סח",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של ארבע ערכים | סח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "שריגיו נוכו אתו לקול חמולה ˙ | סער אכזריות חמה ושטף אף נמלא ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "נמלא רוגז בחפץ להצדיק ˙ | ונאמר לו אל תהי צדיק ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "ויזכור בזכור רעים להדיק ˙ | לולי ריצוי שי אשר עם הצדיק :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ברוך אתה ה' שאותך ביראה נעבוד מודים אנחנו לך שאתה ה' אלהינו ואלהי אבותינו על",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "חסדיך אשר מעולם ועל טובותיך אשר מימי קדם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "וירב | עמו בן ירוחם ˙ | עבור כי משחית רחמים רחם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "פסגו לארבעה בלי להתרחם ˙ | פעול לו כפעל לעם באורחם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "צעק להגזיע וירוחם ˙ | צצו מנו פועלי און ואפרוחם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "ואפרוחם אז יולד לשם מדי ˙ | הוא ישסה אוצרות חמודי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "ויזכור בזכור להשמיד באין די ˙ | לולי הגיון טוב נועם שיר ידידי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "בא\"י הטוב שמך ולך נאה להודות שים שלום עד בכל רגע ובכל שעה בשלומך ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "בנחל | קצין פשע ˙ | קרא אלהים ופלולו לא שע ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "רגש הצאן באזני ציר הפשע ˙ | ראותו כי הצדיק את הרשע ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "שורו זיד מעודן ומשועשע ˙ | תמה כי אזניו הכביד ועיניו השע ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "השע יהיר וישוסף ˙ | הן ציצו כצג לבלעי הוכסף ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "ויזכור בזכור וכל הון איסף ˙ | לולי דובר שלום היושב בסף :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "בא\"י המברך את עמו ישראל בשלום ˙ ואומר צדקתך וקדיש הללויה וכו'",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "שבת זכור | פתיחה לרבינו אברם בן עזרא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "קוראי | מגלה הם ירננו לאל ˙ | כי מקום תהלה ˙ | היתה לישראל : כי מקום ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "בא זמן פדותי ˙ | אחרי בלותי ˙ | ואני בעיר בבל ˙ | נמשלה עדתי ˙ כאני בלי חובל ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "על ידי זרובבל ˙ | נבהלה קהלה ˙ | מעול ומתגאל ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "ותהי סגולה עם שתיל שאלתיאל : | כי מקום ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "בא דבר אגגי ˙ | החזיק בפור ידו ˙ | באדר להרגי ˙ | נהפך להשמידו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "אתנה הגיגי ˙ | בו ואזכרה ארו ˙ | ואמת נקלה ˙ | זאת לאל וכן יואל ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "לעשות לכלה ˙ | אדבאל ומגדיאל : | כי מקום ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "רועצים כעשן ˙ | נמשלו בתוך כבשן ˙ | בן אגג בכושן ˙ | קם ושב בכן בשן ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "מרדכי בשושן ˙ | מר דרור עלי שושן ˙ | כן שנת גאולה ˙ | חיש פדה[?] לעם שואל ˙",
+   "confidence": "low",
+   "uncertain_spans": [
+    "פדה[?]"
+   ]
+  },
+  {
+   "n": 29,
+   "text": "מעשים ונסים ˙ | עד לבית תפלה ˙ | יעלה להר אל : | כי מקום ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "לך שתה עסיסים ˙ | שת בך לעד נאמן ˙ | גם בחכך שים ˙ | צוף ומן דבר המן ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "אחרי אכול משמן ˙ | אל זכור תחלה ˙ | גם שני במיכאל ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "ט ד",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 28,
+   "span": "פדה[?]"
+  }
+ ],
+ "sha256_text": "1d5a24021b700d527c9e79a1f85e2def5f3ae2f1da4ab6dc17b57353f0f28c0c",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.158,
+   "wer": 0.3622
+  }
+ },
+ "text_file": "../text/fol68a_spread70_left.txt"
+}

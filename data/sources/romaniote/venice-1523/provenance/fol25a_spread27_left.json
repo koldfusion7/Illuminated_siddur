@@ -1,0 +1,260 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 27,
+ "side": "left",
+ "folio": "25a",
+ "printed_folio_number": "כח",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של שבת | כח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "ויכלו השמים והארץ וכל צבאם : ויכל אלהים ביום השביעי מלאכתו אשר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "עשה וישבות ביום השביעי מכל מלאכתו אשר עשה : ויברך אלהים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "את יום השביעי ויקדש אותו כי בו שבת מכל מלאכתו אשר ברא אלהים לעשות :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ואחר כך אומר ברכה אחת מעין שבע ונתקנה מפני עם שבשדות שמתאחרים לבא לבה\"כ[?] ובתי כנסיות",
+   "confidence": "low",
+   "uncertain_spans": [
+    "לבה\"כ[?]"
+   ]
+  },
+  {
+   "n": 6,
+   "text": "שלהם היו בשדות כדי שלא יתאחרו להתפלל וישארו יחידים ואף על פי שבטלה הסבה לא בטלה תקנה מ\"מ",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "יחיד אין צריך לאומרה וכן המתפללי' בבית האבל ובבית החתן וכל י' שפרסו מן הצבור להתפלל אקראי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "בעלמא הרי הן כיחיד והמברך שלא במקומו הויה ברכה לבטלה · ואם חל י\"ט בשבת או ר\"ח אינו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "מזכירו בברכה זו ואינו חות' בו ואם היה פסח בשבת אין אומרי' ברכה זו שעל זה לא נתקן מפני שהוא ליל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "שמור מהמזיקין · ואפי' חל י\"ט בע\"ש יש[?] שאומ' ברכה זו אף על פי שאין עם בשדות מפני שומרי פרדסי' :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "יש[?]"
+   ]
+  },
+  {
+   "n": 11,
+   "text": "ברוך אתה יהוה אלהינו ואלהי אבותינו אלהי אברהם אלהי יצחק ואלהי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "יעקב האל הגדול הגבור והנורא אל עליון קונה שמים וארץ מגן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "אבות בדברו מחיה מתים במאמרו האל הקדוש אין כמוהו המניח לעמו בשבת קדשו כי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "בם רצה להניח להם לפניו נעבוד ביראה ופחד ונודה לשמו בכל יום תמיד מעין הברכות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "אל ההודאות אב האמת אדון השלום מברך השביעי מקדש השבת המניח בקדושתו לעם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "מדשני עונג זכר למעשה בראשית : אלהינו ואלהי אבותינו רצה במנוחתינו קדשנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "במצותיך תן חלקנו בתורתך ושבענו בטובך ושמח נפשנו בישועתך וטהר את לבנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "לעבדך באמת ובלבב שלם והנחילנו יהוה אלהינו באהבה וברצון את שבת קדשך וינוחו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "בו כל ישראל המקדשים את שמך ברוך אתה יהוה מקדש השבת : ואומר קדיש ותתקבל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "ומתחיל החזן אין כאלהינו והוא כתוב בשחרית ברוך ה' לעולם אמן ואמן וכו' ויש אומרים יגדל וכתוב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "בשחרית ואומר קדיש עם ברכו וכו' והולכין לבתיהם · אמר פ' כל כתבי רבי יוסי ברבי יהודה או' ב' מלאכי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "השרת מלוין לו לאדם בע\"ש מבה\"כ אחד טוב ואחד רע מצא נר דלוק ושלחן ערוך ומטה מוצע' מלאך טוב או'",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "יהי רצון שיהא לשבת אחרת כך ומלאך רע עונה על כרחו אמן וההפך בהפך והרמז לב' מלאכים מלאך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "צדקי' לצדק ושמאל למאדים שמלוין בין השמשות שצדק מושל בשעה אחרונה של יום ו' ומאדים בתחלת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "ליל ז' ואסור לקרות לאור הנר ולהפלות כליו שמא יטה ואם היו ב' ג' מותר ומזה נהגו לומר פיוטים ולהתפלל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "בבה\"כ לאור הנר שקורין הרבה י\"א שפרשת במה מדליקין מותר אף ביחיד מפני שמזהיר על ענינו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "דין קדוש אין קדוש אלא במקום סעוד' ולכן אין ראוי לקדש בבה\"כ אם אין שם אורחים אוכלים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "וקדוש זו מצוה שנאמר זכור את יום השבת לקדשו זכרהו על היין · כתב הרמב\"ם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "כוס של קדוש צריך שיהיה מחזיק רביעית או יותר ומדיחו מבפנים ושוטפו מבחוץ וממלאו יין ואוחזו בימינו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "ואינו מסייעו בשמאל ומגביהו מן הקרקע טפח או יותר ואין מקדשין אלא ביין הראוי לנסך על גבי המזבח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "שלא נכנס בו אפי' כל שהוא שאור או דבש ואין ריחו רע ומגולה ומבושל ושלא יהיה טעמו חומץ אפילו ריחו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "יין ואם טעמו פגמו אפי' בחבי גדולה והר\"אבד כתב דוקא בכוס ויש מתקני' אותו בערוב עליו יין ואפילו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "מים ובשכר אפי' הוא יין מדינה אין מקדשין עמו אבל מקדשין בפת ואם נטל ידיו קודם מקדש על הפת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "להרמב\"ם אבל הר\"אבן מתיר לקדש על היין אף אם נטל ידיו ולא הוי הפסק וצרי' לטעום המקדש או אחד מן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "המסובין כמלא לגמיו ואם שכח לקדש קודם סעודה מקדש בתוך הסעודה וכן מי שהיה אוכל מבעוד יום",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 36,
+   "text": "ד א",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 5,
+   "span": "לבה\"כ[?]"
+  },
+  {
+   "line": 10,
+   "span": "יש[?]"
+  }
+ ],
+ "sha256_text": "b1b1fc6eb3100a9fc2bfba3b9e51ca08c99201f77bc676b89e945b534c2bd1ed",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.1379,
+   "bag_WER": 0.4772,
+   "ref_chars": 2799
+  }
+ },
+ "text_file": "../text/fol25a_spread27_left.txt",
+ "folio_note": "Sequential leaf label and printed folio label differ; the supplied printed label is retained."
+}

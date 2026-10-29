@@ -1,0 +1,240 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 81,
+ "side": "right",
+ "folio": "78b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של צום אסתר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "מליח וקמיח ועפיץ מלאכתה בזה נשלמת · | מסורגל קלף המעובר בסיד אף בו נרשמת ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "משורטטת למרוה[?] בגזירה שוה המסויימת · | דברי שלום ואמת :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "למרוה[?]"
+   ]
+  },
+  {
+   "n": 4,
+   "text": "שטה המטושטשת ושבין כתובים לרבים נעדרת ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "שכתובה בקומוס וקלקנתוס וסם וסיקרא נבחרת ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "שורת אתים לבסוף והשמות למעלה וכל זה בנשימה אחת נקראת ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "את אריסי ואת ארידי ואת ויזתא עשרת :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "המתחיל לקראת יקרא ויפשוט במרץ · | הוא יברך שלש ולבסוף ברכה אחת בתרץ ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "העלם אם יעלים לברך בצווי וחרץ · | תחת שלש רגזה ארץ :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "ברב עם הדרתה ובעדה התמימה · | בן חרש שוטה וקטן מבלי חכמה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "כל יקראוה בן עבד ובן אמה · | לא מבני ישראל המה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "נועם מגלה לשנים ולשלשה אין חשש במשמע · | נמאסו טמטום ואנדרוגינס מלהשמע :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "נפתה מי שקרא חציה ויבון מצולה נטמע · | סוף דבר הקול נשמע :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "אשורית צריכה שתהא לשון קדושים · | אזנים יבחנו מליה המבקשים ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "את ידוה בית ישראל עם חמושים · | האנשים על הנשים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "לא יאמר ראשון ושלישי ויחזור בשני · | לבד זה שאין פסולו אם אחר בעניני ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "לא יוציא מי שחציו בן חורין וחציו כנעני · | מקרבך מאחיך כמוני :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "יודעי תורה יושבי שערה · | יפסיקו למודם לשמוע פלאי אל נורא ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "יאכלו משמנים וישתו ממתקים באשר הוסיפה אסתר בגזירה · | ראה זה מצאתי אמרה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "הוקבעה מאחד עשר ועד חמשה עשר נמלצת ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "המוקפת חומה מימות יהושע בן נון משפטם בחמשה עשר נחרצת ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "הן ביום השבת אינה נקראת ובזה לא נרצת | אין פרץ ואין יוצאת :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "חוק המפרש בים והיוצא בשירה · | זמנם מאחד עשר ועד עשרה ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "קנה וענוי נמנע וצעקה גדולה ומרה · | היום הזה יום בשורה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "אלהי נגדך יחלתי מהר שמוע העתירה · | ביטה וראה בעדה הישרה ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "אסוף לעמך ישראל הנפוצים מהרה · | חזקם ואמצם ביום צרה ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "עננו כשעניתה למרדכי ואסתר בשושן הבירה · | אל מלך : ה' הושיעה ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "תחנון",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "שועלים מחבלים קמים · בכל דור מעולם · | אורבים אותי להכריתי · ומעמים כלם ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "עזרי עם ידוה · כי צר צלם · | כל גוים סבבוני · בשם ידוה כי אמילם : | כל גוים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "בא עלי ראשית גוים · עמלק בצאתי ממצרים · | רץ אחרי לגדעני · לולי אלהי שמים · | כל גוים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "לפי חרב אז חלשתו · בזכות הרים ידים · | בנה מזבח ויקרא שמו · ידוה ימלוך לעולם ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "תכלית שנאה שנאוני · צר עמלק ונכדו · | המן הרע עם יועציו · חשבו קהלי להשמידו ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "סנער",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 3,
+   "span": "למרוה[?]"
+  }
+ ],
+ "sha256_text": "81b1c50e0e957800c43a79bcc94c69290db0fd30e3e967c684d7ae2a97d18a9f",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.05,
+   "wer": 0.175
+  }
+ },
+ "text_file": "../text/fol78b_spread81_right.txt"
+}

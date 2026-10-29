@@ -1,0 +1,241 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 56,
+ "side": "right",
+ "folio": "53b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של חנוכה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "אמר שבת לחנכה מוספי יורה עלי דין עליה ˙ עולת שבת בשבתו על עולת התמיד עשויה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "ומה תתהלל בעד הללויה ˙ | ואת ערום ועריה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "אמרה חנכה לשבת זיו נרותי מדליקין תחלה ונרותיך אחריהם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "וזכרי בברכת הארץ וזכרך בברכת רחם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "וכל ענייניך ודבריך הלא הם ˙ | אחרונה יסעו לדגליהם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "אמר שבת לחנכה הנה אני תדיר כאשת נעורים תמימה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "קרואה לשבעה ימים בכבודה בת מלך פנימה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "ואת כפלגש בלילות באימה ˙ | למועדה מימים ימימה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "אמרה חנכה לשבת בנרך מסתכלין ומשתמשין ˙ | ואני כגברת[?] על אנשים ונשים ˙",
+   "confidence": "low",
+   "uncertain_spans": [
+    "כגברת[?]"
+   ]
+  },
+  {
+   "n": 11,
+   "text": "ושירך לשרים ולשורי יורשים ˙ | יהי המקדש קדש קדשים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "אמר שבת לחנכה אני הגבר המשובח והמהולל ˙ | ואת כאשה העזה פניה ותשלול שלל ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "והרי אמרו חכמי היופי והמכלל ˙ | אין משתמשין באשה כלל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "אני עניתי שובו לכם מן המריבה ˙ | כי היום חברתם בחבה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "שובו נא אל תהי עולה ושובו עוד צדקי בה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "השבעתי אתכם אל נא תהי מריבה ˙ | מה תעירו ומה תעוררו את האהבה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "שבת ראשון למועדים יכלו טענותיך ˙ | יפיפית מבני אדם הוצק חן בשפתותיך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "אך גואל אתה ואין לגאול זולתך ˙ | ופרשת כנפיך על אמתך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "המשובצת זהב היושבת בגבולו ˙ | הנה מלכך יבא לך צדיק ונושע הוא וחילו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "ויתאו המלך יופיך והטי אזנך לקולו ˙ | כי הוא אדניך והשתחוי לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "אלהי ממכון שבתך תופיעה ˙ | והשיבנו והאר פניך ונושעה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "כי אתה תשקיט ומי ירשיע ˙ | ומבלעדיך אין לנו גואל עוזר ומושיע :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "מי כמוך אחר לרבי שלמה נע",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "מי כמוך שמים כוננת בתבונה ˙ | תנועתם תנועה ראשונה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "למסבת מאורות וכוכבים ובזה נתונה ˙ | ויאמר אלהים יהי אור :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "לעושה אורים גדולים ˙ | בתבונה כדוריים עגולים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "חילופיהם חלופי גבולים ˙ | ויקרא אלהים לאור :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "ומציאות הכדור מקום לו ˙ | בחלקיו לא בכללו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "תכלית מקיף שוה נבדל שם שם לו ˙ | ונגה כאור :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "מה גדלו מעשיך ˙ | ידוה מאד יקרו נסיך ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "דור לדור ישבח מעשיך ˙ | ידוה נותן שמש לאור :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "נסי נוראותיך אזכירה ˙ | תהלתך לעד אספרה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "בסוד ישרים סוד נצחך אזמרה ˙ | ואיחלה לאור :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "ויהי",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 10,
+   "span": "כגברת[?]"
+  }
+ ],
+ "sha256_text": "f8677562b867a8bd7bd8d86e64ce397ea90fb4a20db5d34215bbb426a19a8514",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0786,
+   "bag_WER": 0.0909,
+   "ref_chars": 1629
+  }
+ },
+ "text_file": "../text/fol53b_spread56_right.txt"
+}

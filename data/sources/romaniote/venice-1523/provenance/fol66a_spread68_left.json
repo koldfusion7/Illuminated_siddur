@@ -1,0 +1,247 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 68,
+ "side": "left",
+ "folio": "66a",
+ "printed_folio_number": "סו",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של ארבע ערבים[?] | סו",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ערבים[?]"
+   ]
+  },
+  {
+   "n": 2,
+   "text": "ואופני מרכבותיו במאמר חורץ · | נפלאים מעשיך ידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "ידע להם מצות וחקים · | רמים וגבוהים עד שחקים ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "נחמדים מזהב ומדבש מתוקים · | כי ישרים דרכי ידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "יודוהו עמו ישראל לעולם · | כי מכור הוציאם וגאלם ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "ונטלם וינשאם כל ימי עולם · | יאמרו גאולי ידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "הקדים שקלי עמו ישראל · | לשקלי הצר הצורר ומתגאל ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "להיות להם למושיע וגואל · | האל לנו למושעות ולאלהים ידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "ומחצית השקל כופר נפשים · | משפט אחד לשועים ולרשים ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "כי כל העדה כלם קדושים · | ובתוכם ידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "דין מצות שקלים אבאר במען · | באשר דבר מלך שלטון למשען ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "כי תרומתם באה תמורתם למען · | דעת צדקות ידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "הכל חייבים במחצית השקלים · | כהנים לוים וישראלים ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "וגרים ועבדים חופשים שוקלים · | והיה להם דבר ידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "בכל שנה ושנה מצות נתינתו · | ואף העני אם אין לו ישאל מזולתו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "או מעל כתיפו ימכור כסותו · | ונתנו איש כופר נפשו לידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "רק נשים ועבדים וקטנים · | פטורים ממצוה זו ואינם נותנים ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "ואם נתנו מקבלין מהם הממונים · | ותיטב לידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "כסתום שקל של קדש עשרים מעה · | ונוסף עליו ששית ונעשה עשרים וארבעה ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "כמשקל סלע בזמן בית שני ידועה · | ההר חמד אלהים לשבתו אף ידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "יתרון חייבו במחצית השקל קולבון · | אחד מעשרים וארבעה לסלע חשבון ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "היות הכרע ותוספת בלי עצבון · | נדבה לידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "אמנם קטן אם נתן אביו עליו בראשונה · | לא יפסיק רק יתנהו בכל עת נתינה ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "עד יגדל כי מבן עשרים שנה · | ומעלה יתן תרומת ידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "השקלים נוהגים אם היה המקדש בבנינו · | בארץ וחוצה לארץ יתנוהו למעונו ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "אבל לא יתנו אם היה בחרבנו · | עד ישקיף וירא ידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "רצון החכמים באחד באדר משמיעים · | מביאים כל איש נדיבים ושועים ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "ובחמשה עשר יושבים ותובעים · | לתת את תרומת ידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "נתנו כרצונם מקבלים ואין מכריחים · | ומחמשה ועשרים עבוטו לוקחים ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "חוץ מן הכהנים שהם משלחים · | אז נדברו יראי ידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "קיימו להיות לפניהם שתי תיבות · | פיהם צר מלמעלה ומלמטה רחבות ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "פן ישלח איש ידו ולקח מהנדיבות · | ושמרו את משמרת ידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "ידענו טעם איך גזרו גזירה · | בשתים ואחת מהנה לא נעדרה ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "אחת לשקלי שנה זו ואחת שעברה · | לכפר עליהם נאם ידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "טב",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 1,
+   "span": "ערבים[?]"
+  }
+ ],
+ "sha256_text": "2d10be35cd54216d333e634e597118890fbc44b001f8417001feafc6c5b5d98f",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.1371,
+   "bag_WER": 0.1935,
+   "ref_chars": 1773
+  }
+ },
+ "text_file": "../text/fol66a_spread68_left.txt"
+}

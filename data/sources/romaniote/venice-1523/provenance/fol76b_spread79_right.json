@@ -1,0 +1,229 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 79,
+ "side": "right",
+ "folio": "76b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של צום אסתר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "אגגי זדונו השיאו עצה נבערה ˙ | חשב לשקול כסף לאבד שה פזורה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "ימיני טיהר עצמו בצום ובעתירה ˙ | טוב ידוה למעוז ביום צרה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "אגגי יצא שמח מבית מעדנות ˙ | כונן עץ לתלות איש אמונות ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ימיני לבש חן על עוטה גאונות ˙ | אבי יתומים ודיין אלמנות :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "אגגי מהר וקרא חכמיו ומרייני אשה ˙ | נפול תפול יעצוהו בבושה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "ימיני סוד גלה להדסה ומלכות לבשה ˙ | ואסרה אסר על נפשה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "אגגי עת בואו במשתה במסבה ˙ | פיה פתחה בחכמה יחידה אהובה נדיבה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "ימיני צהל בראות מפלתו בחבה ˙ | אל נערץ בסוד קדושים רבה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "קדוש הנאדר בגבהי מעוני ˙ | רוממותך אפציחה בקהל אמוני ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "שדי תתה נקמות לשוטני ומוני ˙ | כן יאבדו כל אויביך ידוה : | חל מלך[?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "מלך[?]"
+   ]
+  },
+  {
+   "n": 12,
+   "text": "תחנון",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "יהירים קמו בכל דור ˙ | והאלהים שמרני ˙ | עלה אריה תהלה ˙ | בכל פיאות זרני ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "קם אחריו דוב שכול ˙ | ולמזנב מכרני ˙ | דחה דחיתני לנפול ˙ | וידוה עזרני : דחה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "אזי צאתי מפרך ˙ | בא נחש עלי דרך ˙ | עלי עיף ויגע ˙ | לבבי אכלתו מורך ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "גדעתיו והכתיו ˙ | שוק על ירך ˙ | יום הרים ענו יד ˙ | עליהם הגבירני : דחה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "בקום עלי אגגי ˙ | כתנין לבלעני ˙ | כתב שטנה עלי ˙ | ביום אחד לגדעני ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "ושלח ממרום ˙ | אל ויושיעני ˙ | למרחב הוציאני ˙ | ועוז וישע אזרני : דחה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "שמך אגדיל מבטחי ˙ | אל מבטן גוחי ˙ | כי חלצת את רוחי ˙ | ממאוס ומסחי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "את עיני מדמעה ˙ | את רגלי מדחי ˙ | ובארץ נדוחי ˙ | אל אלהים הפרני : דחה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "כי לא על צדקותינו | ויש אומרים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "תחנון",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "יום | רכב על עב קל ˙ | צורי ונלחם בצרי ˙ | יום דחוני לנפול ˙ | נהפכו עלי צירי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "לולי אלהי אבי ˙ | ברדוף אויבי אחרי ˙ | כמעט נטיו רגלי ˙ | כאין שפכה אשורי : כמעט",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "התיעצו שני אריות ˙ | לטרוף דלת שיות ˙ | אמרו כי אין עוזר ˙ | לסוערות עניות ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "ולא זכרו המגדל ˙ | הבנוי לתלפיות ˙ | מגדל עוז שם ידוה ˙ | לי וחרב פיפיות ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "וחומת אש סביבותי ˙ | נגד פריצי חיות ˙ | יעצו עצה וגזרו ˙ | ועצת שוכן עליות ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "קרע את ספריהם ˙ | ויחתום את ספרי : כמעט",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "והם כרעו ונפלו ˙ | ואני התעוררתי ˙ | ואם פלאים ירדתי ˙ | ומחיק אב נפרדתי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "רחמיו לא עזבוני ˙ | כאשר התנודדתי ˙ | ובקום עלי אדם ˙ | וכמעט קט אבדתי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "ממות העלני ˙ | יום אל שאול ירדתי ˙ | על כן יחלתיהו ˙ | ועל תקוה שקדתי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "להעיר",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 11,
+   "span": "מלך[?]"
+  }
+ ],
+ "sha256_text": "ace0aeb0ed417f39228f17407740c878751a71312081d925567687c0aa8ba9d5",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0959,
+   "bag_WER": 0.1917,
+   "ref_chars": 1772
+  }
+ },
+ "text_file": "../text/fol76b_spread79_right.txt"
+}

@@ -1,0 +1,239 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 63,
+ "side": "left",
+ "folio": "61a",
+ "printed_folio_number": "סא",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של עשרה בטבת סא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "בסוסים ואנחנו בשם ידוה אלהינו נזכיר : | המה כרעו ונפלו ואנחנו קמנו ונתעודד :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "ידוה הושיעה המלך יעננו ביום קראנו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "ואומר יהי ה' אלהינו יהי רצון וכו' וכתוב במוצאי שבת ואומר קדיש גמור ומוציאין ס\"ת וקורין ג' בפרש' כי תשא ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "כהן קורא ויחל עד לעשות לעמו · לוי קורא פסל עד אל מול ההר ההוא · וישראל קורא עד אשר אני עושה עמך ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "ומחזירין הספר למקומו ואומ' קדיש עד דאמירן :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "ויחל משה את פני ידוה אלהיו ויאמר למה ידוה יחרה אפך בעמך אשר הוצאת מארץ",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "מצרים בכח גדול וביד חזקה : | למה יאמרו מצרים לאמר ברעה הוציאם להרג",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "אתם בהרים ולכלתם מעל פני האדמה שוב מחרון אפך והנחם על הרעה לעמך : | זכר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "לאברהם ליצחק ולישראל עבדיך אשר נשבעת להם בך ותדבר אלהם ארבה את זרעכם ככוכבי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "השמים וכל הארץ הזאת אשר אמרתי אתן לזרעכם ונחלו לעלם : | וינחם ידוה על הרעה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "אשר דבר לעשות לעמו : | עד כאן קורא כהן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "ויאמר ידוה אל משה פסל לך שני לחת אבנים כראשנים וכתבתי על הלחת את הדברים אשר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "היו על הלחת הראשנים אשר שברת : | והיה נכון לבקר ועלית בבקר אל הר סיני ונצבת לי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "שם על ראש ההר : | ואיש לא יעלה עמך וגם איש אל ירא בכל ההר גם הצאן והבקר אל ירעו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "אל מול ההר ההוא : | עד כאן קורא לוי | ויפסל שני לחת אבנים כראשנים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "וישכם משה בבקר ויעל אל הר סיני כאשר צוה ידוה אתו ויקח בידו שני לחת אבנים : | וירד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "ידוה בענן ויתיצב עמו שם ויקרא בשם ידוה : | ויעבר ידוה על פניו ויקרא ידוה ידוה אל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "רחום וחנון ארך אפים ורב חסד ואמת : | נצר חסד לאלפים נשא עון ופשע וחטאה ונקה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "לא ינקה פקד עון אבות על בנים ועל בני בנים על שלשים ועל רבעים : | וימהר משה ויקד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "ארצה וישתחו : | ויאמר אם נא מצאתי חן בעיניך אדני ילך נא אדני בקרבנו כי עם קשה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "ערף הוא וסלחת לעוננו ולחטאתנו ונחלתנו : | ויאמר הנה אנכי כרת ברית נגד כל עמך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "אעשה נפלאות אשר לא נבראו בכל הארץ ובכל הגוים וראה כל העם אשר אתה בקרבו את",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "מעשה ידוה כי נורא הוא אשר אני עשה עמך : | עד כאן קורא ישראל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "במנחה נכנסין לב\"ה ומתחיל החזן תפלה למשה לדוד אליך נפשי לדוד ברכי נפשי וה\"א אחר כך לדוד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "ברוך ה' צורי ותהלה לדוד ומוציאין ס\"ת וקורין כמו בשחרית ויש מקומות שמפטירין במנחה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "בתעניות דרשו ה' וכן כתוב בסדר רב עמרם גאון ואנו לא נהגנו כן ועומדין בתפלה ואומ' עננו כמו בשחרית",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "ושל[?] צלא התענה או שנאנס ובטל התענית אינו יכול להתפלל ולומר עננו בתפלה אלא מורידין מי שהתענה וכאן[?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ושל[?]",
+    "וכאן[?]"
+   ]
+  },
+  {
+   "n": 29,
+   "text": "בלי מי שהתענה ביחיד אומר עננו כמו שכתוב למעלה ובכל התעניות הכהנים נושאין את כפיהם במנחה דלא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "חיישינן בשכרות ואם אין כהנים שליח צבור אומר ברכת כהנים בעבודה ואחר התפלה אומר זה ויש אומרים אם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "עזבונו[?] וכתוב בסדר קהול[?] :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "עזבונו[?]",
+    "קהול[?]"
+   ]
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 28,
+   "span": "ושל[?]"
+  },
+  {
+   "line": 28,
+   "span": "וכאן[?]"
+  },
+  {
+   "line": 31,
+   "span": "עזבונו[?]"
+  },
+  {
+   "line": 31,
+   "span": "קהול[?]"
+  }
+ ],
+ "sha256_text": "1ace12c77b53380ffe87c663c18729b47ce2951b413912a1ef7bacdbf43a001c",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.1435,
+   "bag_WER": 0.3228,
+   "ref_chars": 2230
+  }
+ },
+ "text_file": "../text/fol61a_spread63_left.txt"
+}

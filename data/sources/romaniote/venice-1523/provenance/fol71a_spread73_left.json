@@ -1,0 +1,253 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 73,
+ "side": "left",
+ "folio": "71a",
+ "printed_folio_number": "עא",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של ארבע ערכים[?] עא",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ערכים[?]"
+   ]
+  },
+  {
+   "n": 2,
+   "text": "שאלולי אגרות הראשונות ˙ | גם פליטה לא היתה לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "נועץ לקרא לכל המוניו ˙ | להביא כל יפת תאר לפניו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "והנערה אשר תיטב בעיניו ˙ | מהור ימהרנה לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "סנסן ליאיר האיר וזרח ˙ | וישיש כגבור לרוץ אורח ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "טרם מכה ציץ רפואה פרח ˙ | כי הפלא ידוה חסיד לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "עמו נאמנה הדסה תמה ˙ | היא אסתר בת דודו ברה כחמה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "ובמות אביה ואמה ˙ | לקחה מרדכי לו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "פגעה חן וחסד ותלך ותהלום ˙ | ותלקח אסתר אל המלך גזרת יהלום ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "ומרדכי צוה עליה לכי לשלום ˙ | כי הוא אדוניך והשתחוי לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "צדק לבשה במלכותה ˙ | לא הגידה עמה ומולדתה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "והמלך אהבה וירב תפארתה ˙ | כי מידוה היתה לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "קשב רב קשב צרור המור ˙ | מסריסי המלך הקבועים לשמור ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "והנם יועצים על המלך לאמר ˙ | הבה נתחכמה לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "רעות חשבו השנים ˙ | אני אשמור משמרתי ומשמרתך כפלים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "והשני להטיל בספל מים ˙ | שם שם לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "שניהם נתלו על העץ ˙ | כי שמע ימיני לשונם בהועץ ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "נשקה למלך סם המות רועץ ˙ | אולי יפותה ונוכלה לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "תשועה זאת לדור אחרון ˙ | נכתבה בספר הזכרון ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "לתת לו המלך תגמול ויתרון ˙ | כי פועל אדם ישלם לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "נגון[?] אחר",
+   "confidence": "low",
+   "uncertain_spans": [
+    "נגון[?]"
+   ]
+  },
+  {
+   "n": 22,
+   "text": "אחר כל אלה הדברים ˙ | אחשורוש את המן הרים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "וינשאהו מעל כל השרים ˙ | ותועפות הרים לו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "נמנע מרדכי מסגוד לרשע ˙ | לנין עמלק אשר מקדם פשע ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "וזה הוסיף על חטאתו פשע ˙ | לא יאבה ידוה סלוח לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "יום כרעו לו כל עבדי המלך ˙ | ומרדכי בתומו הולך ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "בקש לחרחר ריב עם דל והלך ˙ | עובר ומתעבר על ריב לא לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "יעץ תחבולות כצנינים בצדו ˙ | ויבז בעיניו בגאון חמדו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "לשלוח יד במרדכי לבדו ˙ | בז לדבר יחבל לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "הרבה כסף וזהב לבלי חק ˙ | ויאמר בלבו זה עת לשחוק ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "ויבא עצות מרחוק ˙ | לבא לרשת משכנות לא לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "ויפל פור וידו בגורל הדה ˙ | וירא כי באדר מת משה אבי התעודה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "ולא זכר כי היא עת לידה ˙ | חבלי יולדה יבאו לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "רוב אורב יעצוהו רעיוניו ˙ | וישאל שאלה מעם אדוניו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "וגם הוא שני אריה שיניו ˙ | ומתלעות לביא לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 1,
+   "span": "ערכים[?]"
+  },
+  {
+   "line": 21,
+   "span": "נגון[?]"
+  }
+ ],
+ "sha256_text": "66cf0b2df9296bec30003dc8b6bf29a7018d7700bf736d639c9e81087fdd9b9d",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.3516,
+   "bag_WER": 0.2542,
+   "ref_chars": 1573
+  }
+ },
+ "text_file": "../text/fol71a_spread73_left.txt"
+}

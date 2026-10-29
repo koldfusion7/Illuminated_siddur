@@ -1,0 +1,245 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 81,
+ "side": "left",
+ "folio": "79a",
+ "printed_folio_number": "עט",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של צום אסתר | עט",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "מנער ועד זקן · טף ונשים להכחידו · | בור כרה ויחפרהו · ויפלו בשחת מפעלם · | כל גוים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "יזם איש צר ואויב · ימיני לתלות בהועץ · | לא ינום ולא יישן · באמת הוא היועץ ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "השיב גמולו בראשו · ויתלו את המן על העץ · | רחם ידוה על יראיו · ושבו בנים לגבולם · | כל גוים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "חביבין ישראל שנתן · להם כלי חמדה · | בו ראשי כל בשמים · מר אהלות קנה וקדה ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "עונג כל נשמה · תהלל יה כבודה · | ישמח לב מבקשיהם · ברך ידוה חילם : | כל גוים | כל עץ",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "סליחה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "אני שקד בכל מאודו להחריבני · | הפיל פור הוא הגורל לאבדני ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "מנער ועד זקן טף ונשים להשמידני · | על דברי קיש בן ימיני :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "ברוב גאונו בטח וקם לבלעני · | כאריה פורק ואין מציל יזם לשסעני ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "נין עמלק מהודו ועד כוש להכריתני · | ידוה אלהי בך חסיתי הושיעני :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "תומך סומך נופלים השקיף ממעון קדשו · | להגביר עמו מיד חלשו ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "המן הרע חפו פניו ועלה באשו · | ישוב עמלו בראשו ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "יגמור נא רע רשעים ותכונן צדיק · | ובוחן לבות וכליות אלהים צדיק ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "מגיני על אלהים שופט צדיק · | ידוה הצדיק :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "חרה אפו על זרע עמלק אש קדחה · | כי לא ידע עשות נכוחה ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "בימי הפורים נסו יגון ואנחה · | לעשות אותם ימי משתה ושמחה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "ברוכים הורונו וחייבונו בקריאת המגלה · | בימים הנזכרים בכל שנה מקום תהלה ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "לזכור נפלאות אל נורא עלילה · | אלהי אקרא יומם ולא תענה ולילה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "יפשוט ויקרא בשלוש ברכות בראשונה · | ואחת בסיום הקריאה באחרונה ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "וזאת הברכה על פי המנהג מתוקנה · | עדות ידוה נאמנה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "בקריאתה יכוין להוציא השומע · | מצוה מן המובחר בעינן כונת שומע ומשמיע ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "ואם לא כוון להוציא כל שומע · | סוף דבר הקול נשמע :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "חרש שוטה וקטן אינם נדרשים · | טומטום ואנדרוגינוס וחציו עבד פרושים ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "מלהוציא חובת הנשים כאנשים · | ויבאו האנשים על הנשים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "זמן קריאתה מאחד עשר ועד חמשה עשר גזרו · לכפרים ועירות גדולות[?] בזמנה ביחיד כרב[?] הורו ·",
+   "confidence": "low",
+   "uncertain_spans": [
+    "גדולות[?]",
+    "כרב[?]"
+   ]
+  },
+  {
+   "n": 27,
+   "text": "ושלא בזמנה בעשרה נמנו וגמרו · | ובני ישראל פרו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "קריאת המוקפין חומה מימות יהושע בן נון בחמשה עשר · איש אל יותר מהם ואל יחסר ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "בעצם היום הזה יקרא מן המצר · | יבאו להשתחות לו כל בשר :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "בשפירת[?] שנים כאחת ואפילו בעשרה · | יוצאים בה כי היא נכונה וישרה ·",
+   "confidence": "low",
+   "uncertain_spans": [
+    "בשפירת[?]"
+   ]
+  },
+  {
+   "n": 31,
+   "text": "תפורה בחוטי פשתן אסורה · | אם הטיל בה שלשה תיקי גידין כשירה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "נצח שמור שיור התפר כדי שלא יקרע · | נבונים גזרו על שלשה לבטל יגע ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "לבא לשמוע פלאי אלהים ברגע · | קוראים מעשה האלהים לפרסם ישע :",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 26,
+   "span": "גדולות[?]"
+  },
+  {
+   "line": 26,
+   "span": "כרב[?]"
+  },
+  {
+   "line": 30,
+   "span": "בשפירת[?]"
+  }
+ ],
+ "sha256_text": "9435dc9558d3754020d77dd5c4b71a8c3c4f3283d09a4f3915a571d1f11d7d19",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.035,
+   "wer": 0.149
+  }
+ },
+ "text_file": "../text/fol79a_spread81_left.txt"
+}

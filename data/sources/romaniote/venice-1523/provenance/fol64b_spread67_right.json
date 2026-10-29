@@ -1,0 +1,222 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 67,
+ "side": "right",
+ "folio": "64b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של ארבע ערכים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "ויתר לגלגל תנו עות ארבע ˙ הן במרכז יסודן נקבע ˙ סוד הלבנה בקו המרבע ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "מול תנועה חונים ˙ המה לנגד ופנים פונים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "מדה במדה בגר אל עליון ˙ לישא ולפקוד בכל סוד רעיון ˙ חצי השקל בסוד אש דמיון ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "הן לשנים נמנים ˙ מבן עשרים תרומה נותנים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "שקלי תרומה לכולם תובעין ˙ כופר נפשם ממיתה פורעין ˙ חשבון וקולבון במשקל קובעין ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "הם לקרבן נמנים ˙ כי לבדק הבית פונים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "אופן אחר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "אחזו אחזו אלים פני כסא כבוד נואמו ˙ יחזו יחזו ששים לשוכן עד וקדוש שמו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "בניני עולם במנין הספר יוסדו עניני עשר אחדים מלבד נפרדו ˙ בם בני אלים יקוראו והתאחדו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "זו בזו ˙ זו בזו ˙ אחר מסבותם מסלות כמו נגרזו נגרזו איש על עבודתו ˙ ואיש על שמו : יחזו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "רחפו רוחות בכורות על מתים נשאו ˙ יחטפו להם פליאת שם לאל יקראו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "נשקפו אורים עלי לבם והתנבאו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "ירמזו ירמזו ˙ כי בו תחלת אל ובו חתומו ˙ נגנזו נגנזו סודות אלהינו ידוה שמו : יחזו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "מנוה קדוש יהלכו קדושים בלי ˙ העוה ילכו לזנב או לראש התלי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "אחוה שירים לשם שם כוכבי התלי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "ירגזו ירגזו אם ידמו קט ˙ בזכור נועמו ˙ יעלזו יעלזו ˙ עת ישלשו קדוש שמו : יחזו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "אופן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "מלאכים ממליכים ˙ מעריצים בכל פאות ˙ מקדישים מרעישים מרגישים ˙ ברוב תשואות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "נוראים ואין נראים ˙ נפלאים ונפלאות ˙ אומרים קדוש קדוש קדוש ידוה צבאות :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "שמו לעד ˙ ברוב רעד ˙ באימה הם יעריצון ˙ שאון שרפים ˙ ברום עפים ˙ בברקים ירוצצון",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "שואלים זה ˙ רשות מזה ˙ להקדיש אל במוראות : אומרים קדוש קדוש קדוש ה צבאות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "המון עידים ˙ מרעידים ˙ ברגש יעריצו אל ˙ המולתם ˙ קדושתם ˙ בעת שלוש קדושה אל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "בקול רעם ˙ ברוב נועם ˙ בקול מראה להתראות : אומרים קקק ה צבאות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "זולת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "אקומה | ולב אבינה ˙ אחלה פני שכינה ˙ רועה ישראל האזינה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "בעמדי אורה בכוסף ˙ קולו יערות חוסף ˙ נוהג כצאן יוסף :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "גדלו במקצת אביעה ˙ אפגעה במה אגיעה ˙ יושב הכרובים הופיעה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "דולה צפון וימין ˙ ישע תחיש ותזמין ˙ לבני אפרים ובנימין :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "הנשא שופט בעברתך ˙ תגן עמך באברתך ˙ עוררה את גבורתך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "ונראה נקמתך כלנו ˙ ושור אדמוני כלנו ˙ ולכה לישועתה לנו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "זדונות",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "b9c9495c9ca5caff81e29aca84146f140e82f7ac24240c0976cec8bddf27ee5c",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.08,
+   "wer": 0.2145,
+   "ref_chars": 1601
+  }
+ },
+ "text_file": "../text/fol64b_spread67_right.txt"
+}

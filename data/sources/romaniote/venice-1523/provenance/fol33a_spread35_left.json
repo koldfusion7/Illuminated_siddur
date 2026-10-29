@@ -1,0 +1,266 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 35,
+ "side": "left",
+ "folio": "33a",
+ "printed_folio_number": "לג",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של שבת לג",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "מי כמוך זוכר ופוקד כל : | ומי כמוך חי וקיים ויכול ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "ומי כמוך טוב ומטיב לכל · | הושיענו למען שמך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "מי כמוך יודע מעשים · | ומי כמוך כובש כעסים ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ומי כמוך להצדיק עמוסים · | הושיענו למען שמך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "מי כמוך מלך מלכים · | ומי כמוך נורא למלאכים ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "ומי כמוך סומך נמוכים · | הושיענו למען שמך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "מי כמוך עונה עתירות · | ומי כמוך פוקד עקרות ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "ומי כמוך צופה הנסתרות · | הושיענו למען שמך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "מי כמוך קושב שועות · | ומי כמוך רוצה להשעות ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "ומי כמוך שומר שבועות · | הושיענו למען שמך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "מי כמוך תומך תמימים · | ומי כמוך תולה בזרוע הרומים ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "ומי כמוך תקיף על כל רמים · | הושיענו למען שמך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "יהוה הוא האלהים יהוה שמו יהוה ימלוך לעולם ועד : ומגביה הספר ומטעם[?] שכתוב בחול",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ומטעם[?]"
+   ]
+  },
+  {
+   "n": 15,
+   "text": "תנו עוז לאלהינו ותנו כבוד לתורה תורת יהוה תמימה משיבת נפש עדות יהוה נאמנה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "מחכימת פתי פקודי יהוה ישרים משמחי לב מצות יהוה ברה מאירת עינים : אחד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "אלהינו גדול אדוננו קדוש ונורא שמו : וזאת התורה אשר שם משה לפני בני ישראל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "יהוה עוז לעמו יתן יהוה יברך את עמו בשלום · צדקתך צדק לעולם ותורתך אמת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "האל תמים דרכו אמרת יהוה צרופה מגן הוא לכל החוסים בו : יהוה חפץ למען צדקו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "יגדיל תורה ויאדיר :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "[NOTE BLOCK — small rabbinic (semi-cursive) type, 17 lines; text below is UNPROOFED raw Kraken output, see JSON/REPORT]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "וקורין בתורה ז' מעכין היום חו פרס הסבוע וסדר הקדיחה כהן קודח רחסו' וחחריו לוי וחחריו ישרחל [חפי']",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "חיכם סוים וחם חין סס כהן חינו מחויב לחנוק כבוד ללוי ובפי נתפרדה חבילה נחלקו המפרסים וקמכקג",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "פסנו סלח' לקרוח' לוי חלח חחד כהן וחם רנה כהן לחלוק כבוד לרבו חו לגדול אמנו בסבת ויטו חינו רסחי",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "דלח' ליחו לחנבויי חבל' בחול דלח' סכיחי רבים ים מתירים ˙ וסדר הקריחות ב' וה' ופורים וחנוכה ותעכית",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "ג' ויום סים לו קרבן מוסף ומותר במלחכה ד' וינו הויום הכפורים ו' ובסבת ז] וחין המפטיר מן המכין",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "וחם יס ספר סני כתב רחבן מסס רבינותם סקורח בו מנברי דחובה וחחר כך חומר קדים וחוזר",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "קמפטיר וקורח ג' פסוקים וכל סכן כסקמפטיר קטן סחין רחוי לקוכיחסת בעד קטן לבד וכן כתב ר' יכחק",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "בר ססת וקחריך ברחיות ורבינו יסעים חלק בין ד' ערבי ורח לקרבץ ינו סחין בריך בו מגברי דחובק ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "דין ד' כריכין לקודות חמר פ' קרוחק ח' רב יהודה ח'רב חרבעה כריכין להודות יורדי הים והולכי מדב רות",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "מי סחלה ונתרפח ומי סהיה חבום בבית החסורים וכלס מבוחרים במזמור יחמרו גחוליה ונסחל רב [קחי]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "נחון למה הביחם סלח כסדר הכתוב בפסוק וחמר סקפסוק הקדים המכוים יותר וקתנח המסכנים יותר",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "ובריך לחורויי בפכי י ותרי מכיהו דבנן חם חפסר מחי מברך ברוך חתה ה' חלקינו מלך העולם הגומל",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "לחייבים טובות סג אלני כל טוב והם מסיבים כור סגמלך טוב יגמלך לעד סלה ˙ ויח' סקהולך מעיר לעיר",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "חינו חייב ובירוסלמי מפרס סתם דרך בחזקת סכנה ונהגו להודות חחר ברכת התורה וכחן מקומו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 36,
+   "text": "וחחר קריחת התורה חומר קדים עד דחמירן ˙ וקורח המפטי בסדר סקרח הסביעי ג' פסוקים חו יותר",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 37,
+   "text": "ומברך כמו סבדכו קז' וחחר כך גוללים הספר ומפטי' בנביח כח כסוקים וקודם סיפטיר חומר :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 38,
+   "text": "ה א",
+   "confidence": "low",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 14,
+   "span": "ומטעם[?]"
+  }
+ ],
+ "sha256_text": "9938323297a403755d8d153dcdedc5b2c348b24e21aebe43e9412bf551f3bd93",
+ "proofed": false,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0645,
+   "wer": 0.1889,
+   "ref_chars": 1008
+  }
+ },
+ "text_file": "../text/fol33a_spread35_left.txt",
+ "proofing_note": "Mixed proofing scope: the explicitly marked UNPROOFED Rashi-type block is raw transcription and has not been proofed. Supplied error rates do not cover that block."
+}

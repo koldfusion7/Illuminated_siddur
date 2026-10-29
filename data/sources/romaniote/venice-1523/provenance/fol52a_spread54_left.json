@@ -1,0 +1,241 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 54,
+ "side": "left",
+ "folio": "52a",
+ "printed_folio_number": "נב",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של חנוכה | נב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "ואשר בו כיחשו ˙ רחמיו ידרושו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "דהרות משמעתו ˙ מחנות עליות ˙ גם דמות כס שבתו ˙ נחצב בגויות ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "מעשה מרכבתו ˙ שם בארבע חיות ˙ זאת עלי זאת גברו ˙ ובכסאו חוברו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "קור בתום יפגושו ˙ בך ולא יבושו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "הררי עולמים ˙ בקשו מקדשו ˙ משפחות העמים ˙ בקרו הר קדשו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "לובשי סות אמים ˙ פחדו מאשו ˙ מעריציו אמרו ˙ ומשרתיו מהרו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "מהלל חדשו ˙ אלשו [?] קדשו :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 9,
+   "text": "ברכו את ידוה המבורך : | ועונין | ברוך ידוה המבורך לעולם ועד :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "#R ברוך אתה ה' אלהינו מלך העולם יוצר אור ובורא חשך עושה שלום ובורא את הכל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "#R אור עולם אוצר חיים אורות מאופל אמר ויהי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "איום | מבראשית ˙ כלל מעשה בראשית ˙ עולמו להשית :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "בששה ימים ˙ כלל עולמים ˙ ונח יום מימים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "גמר שלומו בערץ ˙ והעמידו בלי פרץ ˙ ויכלו השמים והארץ :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "חנוכה ראשונה ˙ היא לשושנה ˙ שביעית ימהר למשענה קדוש :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "דגלים הסיע מצוען ˙ ועל כנפי נשרים טען ˙ היות למו למשען :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "הורם עשות משכן ˙ מקום דור [?] שכן ˙ וכרובים בו שכן :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 18,
+   "text": "וכמהיר במלאכתו ממשה ˙ והעמידו בלי מקשה ˙ ויהי ביום כלות משה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "חנוכה שניה ˙ היא מנויה ˙ שביעית יזריח לעניה ˙ קדוש :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "זך מגנן ביד ˙ וגדל מיד אל יד ˙ ונתן לו שם ויד :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "חזק במלכתו ˙ ובן מדעתו ˙ לבנות לו בית במלאכתו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "טיכס יסודי הבית ˙ והכין שירה לבית ˙ מזמור שיר חנוכת הבית :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "חנוכה שלישית ˙ נזר שירה להשית ˙ שביעית לנו תשית ˙ קדוש :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "ידידיה ישב על כסא ˙ ברצון אומר ועושה ˙ לכל לראש מתנשא :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "כללו והשלימו ˙ וחק בספר רשומו ˙ ויהי ככלות שלמה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "למרומם על כל ברכה ˙ והכין בית מערכה ˙ ותשלם כל המלאכה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "חנוכה רביעית ˙ היא לצאן מרעית ˙ למהר להופיע שביעית ˙ קדוש :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "מצליחין ובניין ˙ וחנוך עניין ˙ ודתיכון שכויין [?] :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 29,
+   "text": "נבואת חגי היתה ˙ רצון צור נהייתה ˙ לשכלל מדינתא :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "ספר דתא וקהלו עלו ˙ עבודת אלהא לא בטילו ˙ ובנו ושכלילו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "חנוכה חמשית היא ˙ בחשבון שלשתן אחת היא ˙ שביעית לנו תהי ˙ קדוש :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "עמדו על נפשם חשמונים ˙ ממלכת כהנים ˙ להנצל מיד יונים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 8,
+   "span": "[?]"
+  },
+  {
+   "line": 17,
+   "span": "[?]"
+  },
+  {
+   "line": 28,
+   "span": "[?]"
+  }
+ ],
+ "sha256_text": "5c3536baefb767b0b25ea87ee5be8e9f7b9e4585981a7724b02d2db53f22d48e",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.1221,
+   "wer": 0.3121,
+   "ref_chars": 1531
+  }
+ },
+ "text_file": "../text/fol52a_spread54_left.txt"
+}

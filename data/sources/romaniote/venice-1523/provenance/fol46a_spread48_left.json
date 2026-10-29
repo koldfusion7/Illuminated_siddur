@@ -1,0 +1,235 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 48,
+ "side": "left",
+ "folio": "46a",
+ "printed_folio_number": "מו",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של ראש חדש | מו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "מי | כמוך יה בדברו גוזר ˙ עוז וגבורה אוזר ˙ מעמיד עולם ועוזר ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "על הדין ועל האמת ועל השלום :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "ודאי אלהים אמת ˙ טבע חותמו אמת ˙ חסד ואמת ˙ צדק ושלום :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "פועל ישועות בעולם ˙ נוהג בטובו בעולם ˙ גוזר היות בעולם ˙ אמת ושלום :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "אמץ רוק וקבע אהלו ˙ עבים שם סתר לו ˙ כנהו שמים וארץ ויקרא לו ˙ יהוה שלום :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "בי שם תבל בחכמה ˙ תלאה על בלימה ˙ נם אל תראי אדמה ˙ גבולך שלום :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "גלגל חשך מאור ˙ פתח דברך לאור ˙ פועל כל ויוצר אור ˙ עושה שלום :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "דבר יהי רקיע ˙ מאליו נמתח והרקיע ˙ שעלים גזר והפקיע ˙ המשל ופחד ושלום :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "הבהיק והצמיחה ˙ על ערוגת שמחה ˙ עמקים בר להפריחה ˙ ישאו הרים שלום :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "ויעד שנים אורים ˙ היות ברקיע מאורים ˙ בלי תחר ותגרים ˙ דורש שלום :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "טיהר צר מיופה ˙ היות כחתן מחפה ˙ לבא צדקה ומרפא ˙ ורב שלום :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "חצב לבנה תחומה ˙ ככבים ומזלות עמה ˙ משרתים על החרב ועל המלחמה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "והחיים והשלום :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "טעם מיני תענוגים ˙ מאדרים דבר והדגים ˙ ולויתן לדורות הוגים ˙ ולויועצי שלום :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "יצר בתבניתו לחטוב ˙ תוכו בין רע לטוב ˙ זהירו בחרו לטוב ˙ והאמת והשלום :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "כסילות הומיה במדע ˙ השיאתו ואב ויגדע ˙ ולא בין ולא ידע ˙ דרך שלום :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "לרוח למן היום הלך ˙ מצאו חבוי ומושלך ˙ המן העץ מאכלך ˙ מה לך ולשלום :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "מות גרם לעצמו ˙ בעצבון מזון לחמו ˙ לשחר בלב קומו ˙ וליוצא ולבא אין שלום :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "שנאנים ארח ביום טוב ˙ זבח רך וטוב ˙ כבדם בעין טוב ˙ וישאלו איש לרעהו לשלום :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "מילה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "[rashi-type rubric, 8 lines — UNPROOFED raw OCR; Rashi-script ס/ש and ח/א confusions not corrected]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "וקורין הקלל בדלוג כמו בחול ומוביחין סני ספרים וקורין ו' בענין היום והז' קורח ענין רח ומתחיל וביום",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "הסבת עד וכסכו וחוזר קמפטיר וקורח מה סקרח מסלים וים קהלות סמוקנין לקרוח סבעה בפרסת היום",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "וחומר קדים וקמפטיר קורח ברח וכברים מחלוקת בין הפוסקים חם כריך לקרוח נברי חובה בסכי",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "ספרים ומכל מקום כסיקיה המפטיר קטן חין רחוי סיקרח הוח לבדו בעכן רח סחין רחוי סיהח הוח חחרון",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "בגברי החובה חף על פי סקטן עולה בחמכע כיון סקוח חובת היום וכל סכן סיבח ספר ח' בעד קטן וכל",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "סכן לקרוח בערכים וכבר פסט זה הטעות במקומות הרבה וחיכו זו דעת רת וקמנהיג והרבה מהפוסקין:",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "ומפטירין כה חמר ה' סעד החבר כו וחינו מזכיר סל רח בברכה חחרונה המפטיר לח בחמבע ולח בחתימ'",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "ורי כתב סמזכיר ולח נהגו כן :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "[/rashi-type]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "הפטרה לשבת וראש חדש ביחזקאל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "כה | אמר אדני ידוה שער החצר הפנימית הפנה קדים יהיה סגור ששת ימי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "המעשה וביום השבת יפתח וביום החדש יפתח : ובא הנשיא דרך",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "612f379d8c9968409962366b3dceb72ed2967b08583331b90de78d84640defbd",
+ "proofed": false,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.079,
+   "wer": 0.0928,
+   "ref_chars": 2139
+  }
+ },
+ "text_file": "../text/fol46a_spread48_left.txt",
+ "proofing_note": "Mixed proofing scope: the explicitly marked UNPROOFED Rashi-type block is raw transcription and has not been proofed. Supplied error rates do not cover that block."
+}

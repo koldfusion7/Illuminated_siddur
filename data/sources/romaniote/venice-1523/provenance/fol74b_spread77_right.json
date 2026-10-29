@@ -1,0 +1,243 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 77,
+ "side": "right",
+ "folio": "74b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של צום אסתר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "אתה | גבור לעולם ה' מחיה מתים אתה רב להושיע משיב הרוח ומוריד הגשם מכלכל חיים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "בחסד מחיה מתים ברחמים רבים סומך נופלים רופא חולים מתיר אסורים מסען [?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 4,
+   "text": "לאביונים ומקיים אמונתו לישני עפר מי כמוך אדון הגבורות ומי דומה לך מלך ממית ומחיה ומצמיח לנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ישועה בקרוב ונאמן אתה להחיות מתים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "ויקרע | מרדכי בגדיו ויצעק באל יה ˙ וירבה בבכיה ומרד נהיה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "וישלח התך לפוריה ˙ להפיל תחנה על אום עניה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "אולי יחיה שוכן עליה ˙ בצדקת אב נעקד בהר המוריה ˙ בא\"י מחיה המתים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "נקדישך | ונעריצך מלכנו ונשלש לך קדושה כסוד אלי קדש וכן כתוב על",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "יד נביאך וקרא זה אל זה ואמר : קדוש קדוש קדוש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "ידוה צבאות מלא כל הארץ כבודו : לעומתם משבחים ואומרים : ברוך כבוד ידוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "ממקומו : ובדברי קדשך עד מלך גדול וקדוש אתה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "וילבש | שק ואפר קיש בשמעו עצה היעוצה ˙ ששונם נהפך לאבל ולשמחה וריצה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "סריס שלח ליפה כתרצה ˙ להפיל תחנה על אומה כטיט נעוצה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "אולי ירחמנה גדול העצה ˙ בצדקת תם קדושתו רצה ˙ בא\"י הא' הקדוש :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "אתה חונן לאדם דעת מלמד לאנוש בינה חננו מאתך דיעה חכמה בינה והשכל ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "ויצא | בתוך העיר בהפיל פור זרע כסלוחים ˙ פתשגן כתב הדת נתן ביצאו בו שלוחים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "פדוי שלח לדמויה לשושנה בין החוחים ˙ להפיל תחנה על ענוים זנוחים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "אולי ירחמם רוצה בנחוחים ˙ בצדקת בן הביא ירוחים [?] ˙ בא\"י חונן הדעת :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 20,
+   "text": "השיבנו אבינו עד שלימה לפניך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "ויזעק | זעקה בתוך הבירה ˙ רשע בשלחו ספרים לאבד לנוחלי תורה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "ידיד שלח להודיע לבחורה ˙ להפיל תחנה על יפה וברה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "אולי יראה בעניה שוכן שמי שפרה ˙ בצדקת אחים עשרה ˙ בא\"י הרוצה בתשובה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "סלח לנו אבינו כי זטאנו [?] עד וסלח אתה ˙",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 25,
+   "text": "גדולה | ומרה צעקה מרוב כאבים ˙ חרתה בנחרטה על משולי כוכבים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "זמן זה נקהלו בתפלת ערבים ˙ להפיל תחנה על זרע אהובים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "קדוש תזכור אהבת מכלכל רעבים ˙ וסלח לעון בטוחים מהרה ברחמיך הרבים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "כי | על רחמיך הרבים אנו בטוחים ˙ ועל צדקותיך אנו נשענים ˙ ולסליחותיך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "אנו מחכים ˙ ולישועתך אנו מקוים ˙ אתהו ידוה מלך אוהב צדקות מקדם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "ומעביר עונות עמך ˙ ומסיר חטאת יראיך ˙ כורת ברית לראשונים ˙ ומקיים שבועה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "לאחרונים ˙ אתהו שירדת בענן כבודך על הר סיני והראת דרכי טובך למשה עבדך ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "ארחות",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 3,
+   "span": "[?]"
+  },
+  {
+   "line": 19,
+   "span": "[?]"
+  },
+  {
+   "line": 24,
+   "span": "[?]"
+  }
+ ],
+ "sha256_text": "6502b3a6b42314bff0631c05cc5b505a09d51e7a41716f02187b6b10dc3ba4fd",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.1094,
+   "wer": 0.294,
+   "ref_chars": 1838,
+   "overlap_excluded": true,
+   "dropped_lines": 0
+  }
+ },
+ "text_file": "../text/fol74b_spread77_right.txt"
+}

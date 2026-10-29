@@ -1,0 +1,249 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 76,
+ "side": "left",
+ "folio": "74a",
+ "printed_folio_number": "עד",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של צום אסתר | עד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "שור אשר על פני מצרים : ויתפש את אגג מלך עמלק חי ואת כל העם החרים לפי חרב :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "ויחמול שאול והעם על אגג ועל מיטב הצאן והבקר והמשנים ועל הכרים ועל כל הטוב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "ולא אבו החרימם וכל המלאכה נמבזה ונמס אתה החרימו : ויהי דבר ידוה אל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "שמואל לאמר : נחמתי כי המלכתי את שאול למלך כי שב מאחרי ואת דברי לא הקים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "ויחר לשמואל ויזעק אל ידוה כל הלילה : וישכם שמואל לקראת שאול בבקר ויגד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "לשמואל לאמר בא שאול הכרמלה והנה מציב לו יד ויסב ויעבר וירד הגלגל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "ויבא שמואל אל שאול ויאמר לו שאול ברוך אתה לידוה הקימתי את דבר ידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "ויאמר שמואל ומה קול הצאן הזה באזני וקול הבקר אשר אנכי שמע : ויאמר שאול",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "מעמלקי הביאום אשר חמל העם על מיטב הצאן והבקר למען זבח לידוה אלהיך ואת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "היותר החרמנו : ויאמר שמואל אל שאול הרף ואגידה לך את אשר דבר ידוה אלי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "הלילה ויאמרו לו דבר : ויאמר שמואל הלוא אם קטן אתה בעיניך ראש שבטי ישראל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "אתה וימשחך ידוה למלך על ישראל : וישלחך ידוה בדרך ויאמר לך והחרמתה את",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "החטאים את עמלק ונלחמת בו עד כלותם אתם : ולמה לא שמעת בקול ידוה ותעט",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "אל השלל ותעש הרע בעיני ידוה : ויאמר שאול אל שמואל אשר שמעתי בקול ידוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "ואלך בדרך אשר שלחני ידוה ואביא את אגג מלך עמלק ואת עמלק החרמתי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "ויקח העם מהשלל צאן ובקר ראשית החרם לזבח לידוה אלהיך בגלגל : ויאמר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "שמואל החפץ לידוה בעלות וזבחים כשמע בקול ידוה הנה שמע מזבח טוב להקשיב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "מחלב אילים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "נשלם ערך זכור",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "צום אסתר | נהגו כל ישראל להתענות בי\"ג באדר זכר לתעניות של אסתר ויש סמך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "לזה לדעת ר\"ת מדקאמר בגמ' י\"ג זמן קהלה לכל היא ופי' שמתקבצים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "לתענית אסתר ואף על גב דחנוכה ופורים לא בטלה לענין הספד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "ותענית לפניהם ולאחריהם מיהא מותר ואם חל פורים באחד בשבת מקדימין התענית ליום ה' מה שא' כן [?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 25,
+   "text": "בשאר תעניות שדוחין אותם לאחר השבת דאקדומי פורענותא לא מקדמינן ˙ ובשבת שלפניו אין אומ'",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "צדקתך במנחה כשחל י\"ד [?] באחד בשבת ˙ ובסדר עשרה בטבת כתבנו כל דין התענית ודין עננו בש\"צ",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 27,
+   "text": "ויחיד ˙ בשחרית מתפלל שליח צבור בלחש ואומ' עננו בשומע תפלה ואח' כך חוזר ומתפלל בגלוי כמנהג",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "קצת קהלות ואומ' ˙ ברוך | אתה ה' אלהינו ואלהי אבותינו אלהי אברהם אלהי יצחק ואלהי יעקב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "האל הגדול הגבור והנורא אל עליון קונה שמים וארץ :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "ומרדכי | ידע את כל אשר נעשה ˙ יום שלוח צר ספרים לחתי למשסה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "יורד לבור אריות שלח להדסה ˙ להפיל תחנה על אום עמוסה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "אולי יגוננה [?] אל רם ונשא ˙ בצדקת אב בעשרה נוסה : בא' מגן אברהם :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 33,
+   "text": "יב",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 24,
+   "span": "[?]"
+  },
+  {
+   "line": 26,
+   "span": "[?]"
+  },
+  {
+   "line": 32,
+   "span": "[?]"
+  }
+ ],
+ "sha256_text": "73cacf6b39f1ca3084129bf15325c8df816d3cb2f3cf72857276b4b1235c00af",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.1746,
+   "wer": 0.3611,
+   "ref_chars": 2073,
+   "overlap_excluded": true,
+   "dropped_lines": 2
+  }
+ },
+ "text_file": "../text/fol74a_spread76_left.txt"
+}

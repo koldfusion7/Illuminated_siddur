@@ -1,0 +1,216 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 48,
+ "side": "right",
+ "folio": "45b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של ראש חדש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "ועם אביון ˙ בני ציון | קרואים צאן קדשים : | לאל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "שמשיאל ואוריאל | המון צירי הפלאות ˙ ומטטרון ירנן רון",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "ברב חילות ונוראות ˙ וברקים בבזיקים ˙ ברצוא ושוב חשים : | לאל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "הדרניאל ורפאל | שני שרים נוראים ˙ בחיל ופחד ˙ לאל אחד | בלי כחד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "בקול נושאים ˙ ועם נברא ˙ בשיר וזמרה ˙ באון ועצמה חשים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "זולת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "אמת אומנתי לעמוסים ˙ ברית אל בי השים ˙ וקרבנו שני כבשים ˙ אמר שבת לחדש :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "דרשני יוצר הרים ˙ לחדש במאורים ˙ ושם קרבני שני פרים ˙ אמר חדש לשבת :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "זבדני שוכן שפוחה ˙ חקקני יום מנוחה ˙ טהרני בי להניחה : | אמר שבת לחדש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "יופי אביא להזריחה ˙ בלולה בי כל שמחה ˙ ואם הבנים שמחה : | אמר חדש לשבת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "מנתי מקרא קדש ˙ נחלת אנשי קדש ˙ שמני אל נאדר בקדש : | אמר שבת לחדש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "עטרת והוד להתחדש ˙ פאר והדר אחדש ˙ צורת הסהר חדש : | אמר חדש לשבת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "קושטו שניהם לנוח ˙ ראש חדש ומנוח ˙ שי להקריב ניחוח : | ביום שבת וחדש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "תיסד ארמון ומקדש ˙ בכל שבת המקדש ˙ ובכל חדש וחדש ˙ נשיר לך שיר חדש :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "תם עד מי כמוך כסדר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "מי | כמוך אומר ומקים ˙ ומי כמוך בהיר בשחקים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "ומי כמוך גדלך בפי יונקים ˙ | הושיענו למען שמך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "מי כמוך דר בערבות ˙ | ומי כמוך הדור באלפי רבבות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "ומי כמוך זוכר ברית אבות : | הושיענו למען שמך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "מי כמוך זוכר ופוקד כל ˙ | ומי כמוך חי וקיים ויכול ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "ומי כמוך טוב ומטיב לכל ˙ | הושיענו למען שמך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "מי כמוך יודע מעשים ˙ | ומי כמוך כובש כעסים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "ומי כמוך להצדיק עמוסים ˙ | הושיענו למען שמך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "מי כמוך מלך מלכים ˙ | ומי כמוך נורא למלאכים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "ומי כמוך סומך נמוכים ˙ | הושיענו למען שמך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "מי כמוך עונה עתירות ˙ | ומי כמוך פוקד עקרות ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "ומי כמוך צופה הנסתרות ˙ | הושיענו למען שמך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "מי כמוך קדוש ונורא ˙ | ומי כמוך רוכב שמים בעזרה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "ומי כמוך שדי תמים דעים נקרא ˙ | הושיענו למען שמך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "מי כמוך באלים יי | יש אומרים מי כמוך זה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "c897045a7f2cdf1a1de4f31ffa23544c1795df2580992ca4abce32eeb377e000",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0836,
+   "wer": 0.1763,
+   "ref_chars": 1520
+  }
+ },
+ "text_file": "../text/fol45b_spread48_right.txt"
+}

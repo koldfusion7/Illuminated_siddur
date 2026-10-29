@@ -1,0 +1,247 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 37,
+ "side": "left",
+ "folio": "35a",
+ "printed_folio_number": "לח",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של שבת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "שים שלום טובה וברכה חיים חן וחסד וריוח ורחמים עלינו ועל כל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "ישראל עמך ברכנו אבינו כולנו כאחד באור פניך · כי באור",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "פניך נתת לנו יי אלהינו תורת חיים אהבה חן וחסד צדקה ברכה ישועה רחמים רבים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ושלום וטוב יהיה בעיניך לברך את כל עמך ישראל תמיד בשלומך ברוך אתה יהוה המברך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "את עמו ישראל בשלום · אמן · יהיו לרצון אמרי פי והגיון לבי לפניך יי צורי וגו ו[?] ג' פסיעות",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ו[?]"
+   ]
+  },
+  {
+   "n": 7,
+   "text": "אשריך ישראל מי כמוך עם נושע ביהוה מגן עזרך ואשר חרב גאותך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "ויכחשו אויביך לך ואתה על במותימו תדרוך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "אשריך ישראל מי כמוך : ואומר קדיש עם תתקבל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "נהגו[?] לומ' אין כאלהינו ר\"ת אמן וברוך אתה לתשלום י\"ב ברכו שחסר תפלת שבת וי\"ט ור\"אבן[?] דחה זה הטעם",
+   "confidence": "low",
+   "uncertain_spans": [
+    "נהגו[?]",
+    "ור\"אבן[?]"
+   ]
+  },
+  {
+   "n": 11,
+   "text": "אין כאלהינו | אין כאדוננו | אין כמלכנו | אין כמושיענו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "מי כאלהינו | מי כאדוננו | מי כמלכנו | מי כמושיענו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "נודה לאלהינו | נודה לאדוננו | נודה למלכנו | נודה למושיענו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "ברוך אלהינו | ברוך אדוננו | ברוך מלכנו | ברוך מושיענו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "אתה הוא אלהינו | אתה הוא אדוננו | אתה הוא מלכנו | אתה הוא מושיענו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "אתה תקום תרחם ציון כי עת לחננה כי בא מועד : ויש נוהגים לומר אתה הוא שהקטירו וכו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "אתה הוא שהקטירו אבותינו לפניך את קטורת הסמים : פטום הקטרת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "הצרי והצפורן החלבנה והלבונה משקל שבעים שבעים מנה ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "מור וקציעה שבולת נרד וכרכום משקל ששה עשר ששה עשר מנה והקשט שנים עשר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "וקליפה שלשה וקנמון תשעה · בורית כרשינא תשעה קבין · יין קפריסין סאין תלת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "וקבין תלתא ואם לא מצא יין קפריסין מביא חמר חיור עתיק · מלח סדומית רובע",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "הקב מעלה עשן כל שהוא · רבי נתן הבבלי אומר אף כיפת הירדן כל שהוא · ואם נתן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "בה דבש פסלה · ואם חסר אחת מכל סמניה חייב מיתה · רבן שמעון בן גמליאל אומר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "הצרי אינו אלא שרף הנוטף מעצי הקטף · בורית כרשינא ששפין בה את הצפורן כדי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "שתהא נאה · יין קפריסין ששורין בה את הצפורן כדי שתהא עזה · והלא מי רגלים יפין",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "לה אלא שאין מכניסין מי רגלים במקדש מפני הכבוד : אמר רבי אלעזר וכו ברוך יי לעולם כו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "ויקדים | י\"ג עקרים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "יגדל אלהים חי וישתבח · | נמצא ואין עת אל מציאותו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "אחד ואין יחיד כיחודו · | נעלם ואין סוף לאחדותו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "אין לו דמות הגוף ואינו גוף · | לא נערוך אליו קדושתו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "קדמון לכל דבר אשר נברא · | ראשון ואין ראשית לראשיתו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "הנו אדון עולם וכל נוצר · | יורה גדולתו ומלכותו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "שפע נבואתו נתנה אל · | אנשי סגולתו ותפארתו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 6,
+   "span": "ו[?]"
+  },
+  {
+   "line": 10,
+   "span": "נהגו[?]"
+  },
+  {
+   "line": 10,
+   "span": "ור\"אבן[?]"
+  }
+ ],
+ "sha256_text": "c0fbee70dfd6212bccc15f17304d955392295258b7c85c7b0ea2c5b18f19c596",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0741,
+   "bag_WER": 0.187,
+   "ref_chars": 1943
+  }
+ },
+ "text_file": "../text/fol35a_spread37_left.txt",
+ "folio_note": "Sequential leaf label and printed folio label differ; the supplied printed label is retained."
+}

@@ -1,0 +1,241 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 45,
+ "side": "left",
+ "folio": "43a",
+ "printed_folio_number": "מג",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של ראש חדש | מג",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "ניחח אשה לידוה : ונסכיהם חצי ההין יהיה לפר ושלישת ההין לאיל ורביעת ההין",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "לכבש יין זאת עלת חדש בחדשו לחדשי השנה : ושעיר עזים אחד לחטאת ליהוה על",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "עלת התמיד יעשה ונסכו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ואומ' קדיש עד דאמירן יהי רצון וכו' מי שבירך וכו' תהלה לדוד ובא לציון וקדיש עד דאמירן ועומדין בתפלת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "מוסף ואומ' כתר יתנו ואין אומרין כבודו והורו שלא נתקן אלא ביום טוב ושבת אבל לא בר\"ח וחול המועד :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "אדני שפתי תפתח ופי יגיד תהלתך · ברוך אתה יהוה אלהינו ואלהי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "אבותינו אלהי אברהם אלהי יצחק ואלהי יעקב האל הגדול",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "הגבור והנורא אל עליון גומל חסדים טובים וקונה את הכל וזוכר חסדי אבות ומביא גו[?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "גו[?]"
+   ]
+  },
+  {
+   "n": 10,
+   "text": "לבני בניהם למען שמו באהבה מלך רחמן אל חי גואל עוזר ומושיע ומגן ברוך אתה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "יהוה מגן אברהם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "אתה גבור לעולם יהוה מחיה מתים אתה רב להושיע משיב הרוח ומוריד הגשם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "בימות הגשמים : ובימות החמה מוריד הטל מכלכל חיים בחסד מחיה מתים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "ברחמים רבים סומך נופלים רופא חולים מתיר אסורים משען לאביונים ומקיים אמונתו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "לישני עפר מי כמוך אדון הגבורות ומי דומה לך מלך ממית ומחיה ומצמיח לנו ישועה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "בקרוב ונאמן אתה להחיות מתים ברוך אתה יהוה מחיה המתים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "כתר יתנו לך יהוה אלהינו מלאכים המוני מעלה עם עמך ישראל קבוצי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "מטה יחד כלם קדושה לך ישלשו ושבחך בכל יום תמיד יחדשו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "כדבר האמור על יד נביאך וקרא זה אל זה ואמר קדוש קדוש קדוש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "יהוה צבאות שמו מלא כל הארץ כבודו : ובדברי קדשך כתוב לאמר : ימלוך יהוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "לעולם אלהיך ציון לדור ודור הללויה : לדור ודור נגיד גדלך ולנצח נצחים קדושתך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "נקדיש ושבחך יהוה אלהינו מפינו לא ימוש לעולם ועד כי אל מלך גדול וקדוש אתה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "ברוך אתה יהוה האל הקדוש :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "ראשי חדשים לעמך נתת זמן כפרה לכל תולדותם בהיותם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "מקריבין לפניך זבחי רצון שעירי חטאת לכפר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "בעדם זכרון לכלם יהיו תשועת נפשם מיד שונא מזבח חדש בציון תכין עולת ראש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "חדש נעלה עליו שעיר עזים נעשה ברצון ובעבודת בית המקדש נשמח כלנו אהבת עולם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "תביא להם וברית אבות לבנים תזכור והביאנו לציון עירך ברנה ולירושלם בית מקדשך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "בשמחת עולם ושם נעשה לפניך את קרבנות חובותינו תמידין כסדרן ומוספין כהלכתן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "ומוסף ראש חדש נעשה ונקריב לפניך באהבה כמצות רצונך כמו שכתבת עלינו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "בתורתך על ידי משה עבדך מפי כבודך כאמור ובראשי חדשיכם תקריבו עולה לידוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "פרים בני בקר שנים ואיל אחד כבשים בני שנה שבעה תמימים ומנחתם ונסכיהם כמדבר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "שלשה עשרונים לפר ושני עשרונים לאיל ועשרון לכבש ויין כנסכו ושעיר לכפר ושני",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "ו ג",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 9,
+   "span": "גו[?]"
+  }
+ ],
+ "sha256_text": "dae47842560c8e89384f66869906aa03c41c414d4ab12aea2db8f8191193e8ff",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0522,
+   "bag_WER": 0.1476,
+   "ref_chars": 2070
+  }
+ },
+ "text_file": "../text/fol43a_spread45_left.txt"
+}

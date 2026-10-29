@@ -1,0 +1,228 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 56,
+ "side": "left",
+ "folio": "54a",
+ "printed_folio_number": "נד",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של חנוכה | נד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "ויהי בימי אנטוכיוס מלך יון ˙ | אשר בעיר אלהים לעלות נתכון ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "עם בגרים משנהו ועם בני עלון ˙ | המה היו במורדי אור :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "האל אשר בכחו מעתיק הרים ˙ | חזק ואמץ לבני חשמנאי הגבורים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "וירעצו וירוצצו דהרות אבירים ˙ | ולכל בני ישראל היה אור :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "ואחרי כן באו בני חשמנאי אל הקדש ˙ | בחמשה ועשרים יום לחדש ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "ולא מצאו כי אם פך אחד חתום קדש ˙ | שמן זית זך כתית למאור :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "קיימו וקבלו עליהם שמונת ימים ˙ | כימי המועדים אשר למעלה נרשמים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "על אשר נהפכו עליהם לרחמים ˙ | עמד זבולה לאור :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "דיני חנכה אערכה ˙ | כגזרת משנני הלכה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "ואת נירותיה נרות המערכה ˙ | שמן למאור :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "נר חנכה שהניחה למעלה מעשרים אמה ˙ | פסולה כסוכה וכמבוי בסכומה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "טעם כי איך ולמה ˙ | כי נר מצוה ותורה אור :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "מצותה בטפח הסמוך לפתח להניחה ˙ | ואל צד שמאל עקר התנחה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "כדי שתהא מזוזה לימין בסוד הנכוחה ˙ | זה הדרך ישכון אור :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "שעור הדלקתה כתנאי ˙ | משתשקע החמה מתחאי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "ועד דכליא רגלא דתרמודאי ˙ | לכו ונלכה באור :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "חרש שוטה וקטן פסולין בהדלקה ˙ | כי אין דעתם בברכה לא נתקה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "אבל אשה ודאי מדלקה ˙ | ואור צדיקים כאור נגה הולך ואור :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "מצות נר חנכה נר איש וביתו ˙ | והמהדרין נר לכל אחד בדירתו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "ואין מועלין בנר בהעלותו ˙ | ועתה לא ראו אור :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "שירה חדשה נשיר לאליזה ˙ | הנה אלהינו זה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "אשר עשה נסים לאבותינו בימים ההם בזמן הזה ˙ הללוהו כל כוכבי אור : | שירה חדשה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "ומתפללין תפלה כסדר ומזכיר על הניסים בהודאה ועל כלם כו' וגומרין ההלל ˙ יהי שם וכו' וקדיש שלם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "תתקבל ומוציאין ב' ספרים וקורין משה בפרשת היום ומשלים בקרבן חנכ' לפי היום ומפטיר חוזר וקורא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "הקרבן ומפטיר בנירות זכריה ואם היו בחנכה ב' שבתות מפטירין בא' נירות זכריה ובב' במלכים בנירות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "שלמה : ואם חל ר\"ח טבת בשבת מוציאין ג' ספרים וקורין בא' ו' בענין היום וב' בר\"ח משום דתדיר קודם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "ומפטיר קורא בחנכה ומפטיר בנירות זכריה משום פרסומי ניסא :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "הפטרה לשבת ראשונה של חנכה בזכריה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "ויאמר אלי מה אתה ראה ואומר ראיתי והנה מנורת זהב כלה וגלה על",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "ראשה ושבעה נרתיה עליה שבעה ושבעה מוצקות לנרות אשר | על ראשה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "ושנים זיתים עליה אחד מימין הגלה ואחד על שמאלה : | ואען ואמר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "אל המלאך הדבר בי לאמר מה אלה אדני : | ויען המלאך הדבר בי ויאמר אלי הלוא",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "1e715cce9fed7955e596311fd0f08eaf88083c2ad969eb5fae86d2edbebb70c1",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.1087,
+   "bag_WER": 0.2303,
+   "ref_chars": 1867
+  }
+ },
+ "text_file": "../text/fol54a_spread56_left.txt"
+}

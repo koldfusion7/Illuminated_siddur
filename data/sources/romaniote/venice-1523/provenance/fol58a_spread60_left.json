@@ -1,0 +1,235 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 60,
+ "side": "left",
+ "folio": "58a",
+ "printed_folio_number": "נח",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של עשרה בטבת | נח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "סליחה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "אפסו | אמונים בעלי יראה ודיעה ˙ | גבורים לעמוד בפרץ ביום רעה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "דועכו חסידים בשפטים ארבעה ˙ | את מי יורה דעה ומי יבין שמועה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "הממני צר אכזרי וישמם משכני ˙ | וישרוף היכלי והחריב ארמוני :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "זרני פזרני והשחית מעוני ˙ | בלעני כתנין מלא כריסו מעדני :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "חציו הכין וירח וחבל : | טמאני כשקוצי תועבת בל ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "יעץ להשמיד נחלת אל וחבל ˙ | אכלני הממני נבוכד נצר מלך בבל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "כמה צרות עברו על מחולת מחנים ˙ | לקחה כפי חטאתה בכפלים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "מיום נאם אלוה שוכן שמים ˙ | סמך מלך בבל ידו על ירושלם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "נעו ונדו וידם אין לאל ˙ | עשה ידוה אשר זמם בבית איתיאל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "סבב אויב בית אל והרס אריאל ˙ | גדע בחרי אף כל קרן ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "פניהם חזקו מסלע כל שכינינו ˙ | צמתו בבור חיי פליטתנו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "קול נתן אכזרי בבית חיינו ˙ | קלו מנשרים סוסיו אוי נא לנו כי שדדנו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "ראה ידוה בצער עם דל ועני ˙ | שיתה מורא לאויבי ומוני :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "תאבתי ישועתך חנני ועגני ˙ | ידוה עשקה לי ערבני :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "אלהינו ברב רחמיך המצא לנו ˙ | בנה ביתך כי אתה משגבנו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "למענך הפלא חסדיך עלינו ˙ | וסלחת לעונינו ולחטאתינו ונחלתנו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "סליחה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "איך | נמכרו בנים ביד אויביהם ˙ | גוי עז פנים שלט עליהם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "דרך קשתו ויאבד כל חמודיהם ˙ | האוכלים בשר חזיר ומרק פגולים כליהם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "זדוני [?] חמס ועבר וברח ˙ | זנח מזבח נאר מקדשו והוסרח :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 23,
+   "text": "חרבו ארחות בבא מבשר רע ˙ | נשמו מסילות שבת עובר אורח :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "טרוף טורף עם ביום עלות הפורץ ˙ | יום אשר אויב הרים ידו במרץ :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "כאשר נשמע לב קמי באים לקרוץ קרץ ˙ | הנה עם בא מארץ :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "לא האמינו מלכי ארץ כי עליון ˙ | מאס נחלת עם גיא חזיון ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "נועץ אויב להחריב שוכן חביון ˙ | ערוך כאיש מלחמה עליך בת ציון",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "סגפו ספו שדינו כבירנו ˙ | עת צר לכד בית קדשנו ותפארתנו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "פתח פיו לבלענו ˙ | שמענו את שמעו רפו ידינו שמה החזיקתנו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "צורר חבל בחורי ובתולותי ˙ | קצר המצע והחרים ארמנותי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "רוששו חסידי שומרי תורתי ˙ | נשבר לבי בקרבי רחפו כל עצמותי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "שמה החזיקה עם מפוזרים משתוחחים ˙ | תלאות הציקום בנים נאנחים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "ח ב",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 22,
+   "span": "[?]"
+  }
+ ],
+ "sha256_text": "2c05e99f81ca4392f9abb90b9743fa5c092e4c5afc721c78a704a0dd8e0d36e5",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.1558,
+   "bag_WER": 0.2259,
+   "ref_chars": 1650
+  }
+ },
+ "text_file": "../text/fol58a_spread60_left.txt"
+}

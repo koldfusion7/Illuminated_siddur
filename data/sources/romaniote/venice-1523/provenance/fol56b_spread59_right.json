@@ -1,0 +1,221 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 59,
+ "side": "right",
+ "folio": "56b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של עשרה בטבת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "אל קשיינו ואל רשענו ואל חטאתינו זכור עדתך קנית קדם גאלת שבט נחלתך הר ציון",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "זה שכנת בו ˙ כי לא על צדקותינו אנחנו מפילים תחנונינו לפניך כי על רחמיך הרבים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "סליחה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "אויל | יעץ על ביתי להחריבו ˙ | בעשרה בטבת חם לבו בקרבו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "געש ורעש והרעיש סביבו ˙ | עלה אריה מסבכו להחריבו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "להחריבו דאה כנשר להפיל עם עני ונבזה ˙ | הכבידו אזנם משמוע נביא וחוזה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "ובעשרה בטבת החל כמהני לבזה ˙ | בן אדם כתוב לך את עצם היום הזה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "היום הזה זחלתי ואירא בכפלים ˙ | חדש טבת רפו בו כל ידים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "טכסם חייליו ועלה להחריב מקור לב ועינים | בעצם היום הזה סמך מלך בבל על ירושלם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "ירושלם ויהודה מעלו מעל באל ˙ | כחשו במושיע רב טוב וגואל ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "לטובותם קראו ויעזבו ברית אל ˙ | הנני מביא עליך רעה בית ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "ישראל מאנו לשמוע דבור המדבר ˙ | נואלו כולם ונתחברו לחבר ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "טח נביא שמעו קולי מה אדבר הנני מביא עליכם גוי אשר לא תדע לשונו ולא תשמע מה ידבר :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "ודבר ערות נאמנה להשמיעה ˙ | פן תצא מאותי רעה להריעה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "צר חזק אותי מארצי להסיעה ˙ | תחת כי אמר עמי רדנו לא תבא עלינו רעה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "רעה קשה באה עלינו ונדדנו ˙ | ידענו כי הרענו ומרדנו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "שיחר אויב ועלה לאבדנו ˙ | תמהנו ואמרנו אוי נא לנו כי שדדנו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "שדדנו מעשירי ועד חמשי ובאש הלהיבי ˙ | לך קראתי צורי משגבי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "מהרה תשלח לעמך תשבי ˙ | תקראי אבי ומאחרי לא תשובי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "אל | מלך יושב על כסא רחמים מתנהג בחסידות ומוחל עונות עמו ומעביר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "ראשון ראשון מרבה מחילה לחטאים וסליחה לפושעים ועושה צדקה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "עם כל בשר ורוח כרעתינו אל תגמול עלינו אל הורתנו לומר שלש עשרה זכור לנו היום",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "ברית שלש עשרה כמו שהודעת לענו מקדם וכן כתוב בתורתך וירד ידוה בענן ויתיצב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "עמו שם ויקרא בשם ידוה : ויעבור",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "סליחה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "אזכרה | מצוק אשר קראני ˙ | בארבע מכות בחדש זה רפאני ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "גדעני הכני והניאני ˙ | אך אתה הלאני :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "דיעכני בשמונה בו שמאלית וימנית ˙ | הלא שלשת ימים קבעתי תענית ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "ומלך יון אנחני לכתוב דת יונית ˙ | על גבי חרשו חורשים האריכו מענית :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "זועמתי בתשעה בו בכלמה וחפר ˙ | חשך מעלי הוד ואפר ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "טרוף",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "71c6f9c505cbb9dfaaaaaa6f50a9e16b5677619886c8e0b10d36695e03de2285",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.081,
+   "wer": 0.2348
+  }
+ },
+ "text_file": "../text/fol56b_spread59_right.txt"
+}

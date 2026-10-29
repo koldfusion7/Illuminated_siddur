@@ -1,0 +1,271 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 22,
+ "side": "right",
+ "folio": "19b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות החול",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "יתגדל ויתקדש שמיה רבה בעלמא דברא כרעותיה וימליך מלכותיה ויצמח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "פורקניה ויקרב משיחיה ויפרוק עמיה ברחמתיה בחייכון וביומיכון",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "ובחיי דכל בית ישראל בעגלא ובזמן קריב ואמרו אמן יהא שמיה רבה מברך לעלם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ולעלמי עלמיא ויתברך וישתבח ויתפאר ויתרומם ויתנשא ויתהדר ויתעלה ויתהלל שמיה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "דקודשא בריך הוא לעילא ולעילא מן כל ברכתא שירתא שבחתא ונחמתא דאמירן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "בעלמא ואמרו אמן : יהא שלמא רבה מן שמיא וחיים טובים עלינו ועל כל עדת עמו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "ישראל ואמרו אמן : עושה שלום במרומיו הוא ברחמיו הרבים יעשה שלום עלינו ועל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "כל עמו בית ישראל ואמרו אמן : ברכו את יהוה המבורך : ועונין ברוך יהוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "המבורך לעולם ועד : ונפטרין לבתיהם לשלום והיוצא מבית הכנסת אומר זה הפסוק יי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "נחני בצדקתך למען שוררי הישר לפני דרכך ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "תפלת מנחה אמר רבי חלבו לעולם יזהר אדם בתפלת המנחה שהרי אליהו לא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "נענה אלא בתפלת המנחה שנאמר ויהי כעלות המנחה כו' וזמנה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "מו' שעות ומחצה עד שקיעת החמה אבל עקר זמנה בתשע שעות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "ומחצה מי\"ב חלקי היום ואומר תהלה וקדיש עד דאמירן בעלמא ויש אומרים קרבן התמיד אחר תהלה וכן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "כתב הר' יונה בתשובה וקדיש ותפלה כשחרית ונופלין על פניהם ודין סעודה סמוך למנח' כתוב בשבת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "וכל דיני סעודה ומי ששכח ולא התפלל שחרית מתפלל מנחה ב' והשנית היא' של שחרית וכן בערבית",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "ולענין תפלת ערבית[?] יש[?] שאמרו שאין ראוי עתה להתפלל אותה ולואי שיתפלל אדם ג' תפלות חובה",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ערבית[?]",
+    "יש[?]"
+   ]
+  },
+  {
+   "n": 19,
+   "text": "תפלת ערבית רשות מדינה[?] והשתא קבלוה עליהם וקבעוה חובה אב'",
+   "confidence": "low",
+   "uncertain_spans": [
+    "מדינה[?]"
+   ]
+  },
+  {
+   "n": 20,
+   "text": "שמע מצות עשה מן התורה שנאמר בשכבך ובקומך ורבו כמו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "רבו עליה החכמים וברא\"ש ר\"שי ור\"ת ונמשכו אחריהם כתות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "והנכון הוא שיכון אדם להתפלל בצאת הככבים ואז הויא קרית שמע כעונתה ותפלתו זכה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "שיר למעלות אשא עיני אל ההרים מאין יבא עזרי · עזרי מעם יהוה עושה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "שמים וארץ · אל יתן למוט רגלך אל ינום שומרך · הנה לא ינום ולא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "יישן שומר ישראל יהוה שומרך[?] יהוה צלך על יד ימינך · יומם השמש לא יככה וירח",
+   "confidence": "low",
+   "uncertain_spans": [
+    "שומרך[?]"
+   ]
+  },
+  {
+   "n": 26,
+   "text": "בלילה יהוה ישמרך מכל רע ישמור את נפשך יהוה ישמור צאתך ובואך מעתה ועד עולם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "שיר המעלות אליך נשאתי את עיני היושבי בשמים · הנה כעיני עבדים אל יד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "אדוניהם כעיני שפחה אל יד גבירתה כן עינינו אל יהוה אלהינו עד שיחננו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "חננו יהוה חננו כי רב שבענו בוז רבת שבעה לה נפשנו הלעג השאננים הבוז לגאיונים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "שיר המעלות הנה ברכו את יהוה כל עבדי יהוה העומדים בבית יהוה בלילות :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "שאו ידיכם קדש וברכו את יהוה : יברכך יהוה מציון עושה שמים וארץ :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "והוא רחום יכפר עון ולא ישחית והרבה להשיב אפו ולא יעיר כל חמתו : יהוה הושיעה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "המלך יעננו ביום קראנו : ברכו את יהוה המבורך : ועונין ברוך יהוה המבורך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "לעולם ועד : ברוך אתה יהוה אלהינו מלך העולם אשר בדברו מעריב ערבים בחכמה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "פותח",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 18,
+   "span": "ערבית[?]"
+  },
+  {
+   "line": 18,
+   "span": "יש[?]"
+  },
+  {
+   "line": 19,
+   "span": "מדינה[?]"
+  },
+  {
+   "line": 25,
+   "span": "שומרך[?]"
+  }
+ ],
+ "sha256_text": "810074286be5d5abe9ab421f851cd86ae67b4622e2dfe1e05fd877d8665b9da6",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.1611,
+   "bag_WER": 0.2746,
+   "ref_chars": 2278
+  },
+  "recheck_deskew_baseline_order": {
+   "cer": 0.1312,
+   "edits": 297,
+   "ref_chars": 2264,
+   "bag_WER": 0.3019,
+   "deskew_deg": -0.8
+  }
+ },
+ "text_file": "../text/fol19b_spread22_right.txt"
+}

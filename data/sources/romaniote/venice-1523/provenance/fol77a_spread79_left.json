@@ -1,0 +1,240 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 79,
+ "side": "left",
+ "folio": "77a",
+ "printed_folio_number": "עז",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של צום אסתר | עז",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "להעיר רוח קנאה ˙ | ותבט עיני בשורי : כמעט",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "דלים אשר יזכירו ˙ | נסים הראשונים ˙ | ותשועות יודיעו ˙ | אבות על בנים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "יאנחו במר נפש ˙ | בידי מוכרים וקונים ˙ | לאמר איה פלאים ˙ | אשר נעשו לפנים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "וצפו עלי נחלים ˙ | ממים הזדונים ˙ | והכום וצררום ˙ | הם זולתך אדונים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "ואריות הדיחו ˙ | את שארית עדרי : כמעט ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "הרם ימינך כמאז ˙ | לגנון על דליך ˙ | מחזיקים בבריתך ˙ | והרוגים עליך ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "ומתוך בור דלותם ˙ | יתמכו בחבליך ˙ | ועת צרה כי תקרב ˙ | מנוסתם אליך ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "כי לא ילכו ריקם ˙ | העם מיחליך ˙ | השיבנו ונשובה ˙ | אל קדוש היכליך ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "והאר כשמש מאורי ˙ | וחדש כנשר נעורי ˙ | כי לא על צדקותינו וכו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "ויש אומרים אחר יהירים סליחה זאת ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "אגגי | אז כעמד להחריבני בפחד ˙ | בהטלת חלשו הפיל פור לאבדני כאחד ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "גם הוא וזרעו נופצו יחד ˙ | ויאמר המן למלך אחשורוש ישנו עם אחד :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "דרוש דרשו אויבי בכל כחם ˙ | השמידוני הצמיתוני בלי חרטה ונוחם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "ועלי פערו פיהם וילחמוני בלחם ˙ | ולמלך אין שוה להניחם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "זדים קמו עלי והערימו סודם ˙ | חרה חרה להם בכל מאדם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "טרף טרפוני ולא שמו אלהים לנגדם ˙ | אם על המלך טוב יכתב לאבדם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "יחד נוסדו בעם קדוש וממלכה ˙ | כליון חרוץ להשיתני בקשתם דרוכה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "לץ יהיר פרשת הכסף לערכה ˙ ועשרת אלפים ככר כסף אשקול על ידי עושי המלאכה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "מלך השיבו הנהו למולך ˙ | נתון ומסור בידך כעמך וחבלך ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "שריד ופליט בל תשאיר כנמת[?] במלוכך[?] ˙ | ויאמר המלך להמן הכסף נתון לך :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "כנמת[?]",
+    "במלוכך[?]"
+   ]
+  },
+  {
+   "n": 22,
+   "text": "עליו אל תחוס עינך בחרונך ˙ | פגרהו הללהו בעוצם המוניך ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "צמת הכנע החרב ברוב שאונך ˙ | והעם לעשות בו כטוב בעיניך ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "קיש בשמעו כי נגזרה גזרה | רחפו כל עצמותיו כאשה מצירה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "שק לבש וברחוב העיר קרא ˙ | ויזעק זעקה גדולה ומרה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "תומך סומך נופלים שר ממעל ˙ | יוקש ומכשול להסיר ויצריח תעל ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "צלוב זדון שח ויפעל ˙ | בור כרה ויחפרהו ויפול בשחת יפעל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "חורחר והולהב כלהב הבוערת אשו ˙ | קמט בלא עתו ועלה באשו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "ברב יועציו יעץ עם ידוה להורישו ˙ | ישוב עמלו בראשו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "יה הושיענו ודורשינו האל הנורא ˙ | קרב טוב ניסיך וישעך מהרה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "חזקנו ואמצנו בעת צרה ˙ | ענינו כשענית למרדכי ואסתר בשושן הבירה : | חל מלך[?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "מלך[?]"
+   ]
+  },
+  {
+   "n": 32,
+   "text": "ויש אומרים אחר יום רכב סליחה זאת ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 21,
+   "span": "כנמת[?]"
+  },
+  {
+   "line": 21,
+   "span": "במלוכך[?]"
+  },
+  {
+   "line": 31,
+   "span": "מלך[?]"
+  }
+ ],
+ "sha256_text": "e98f3b06c17c2149461fa6a0dd605f7bc71674f06a7a3f266d240e4f850fe6c8",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0931,
+   "bag_WER": 0.1847,
+   "ref_chars": 1783
+  }
+ },
+ "text_file": "../text/fol77a_spread79_left.txt"
+}

@@ -1,0 +1,212 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 65,
+ "side": "left",
+ "folio": "63a",
+ "printed_folio_number": "סג",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של ארבע ערכים | סג",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "פתיחה | ערך שקלים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "עדתי | לאל מיחלת ˙ | בנותנה כופר משקולת ˙ | בקע לגלגלת ˙ | מחצית השקל ׃ | בקע",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "דגולי אל ידידים ˙ | היותם תת חרדים ˙ | כל העובר על הפקודים ˙ | מחצית השקל | ובקע",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ועיר קדשך תחדש ˙ | ואת עדתך קדש ˙ | תת חצי שקל הקדש ˙ | עשרים גרה השקל ׃ | בקע",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "דגולי שוכני ערץ ˙ | הקם נס נין בן פרץ ˙ | אל מקום ארץ ˙ | ארבע מאות שקל ׃ | בקע",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "פתיחה אחרת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "ממחצית | שקל ˙ | תקחו תרומתי ˙ | מדל ומעשיר ˙ | כאמור בתורתי ˙ | ממחצית",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "שדי לציר צוה ˙ | שא נא ברוב חדוה ˙ | מעם אשר אוה ˙ | חפת יריעתי ˙ | ממחצית",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "הן מה מאד תמה ˙ | ענו והתמהמה ˙ | דעת וסוד למה ˙ | פדיון ליונתי ˙ | ממחצית",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "חזון הלא נעלם ˙ | מנו ולא נכלם ˙ | שיעור ומשקלם ˙ | כסף גויתי ˙ | ממחצית",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "זה יתנו הראה ˙ | באש ובמראה ˙ | עשיר ודל נכאה ˙ | בקע גזירתי ˙ | ממחצית",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "קדוש אני לכם ˙ | עמי בגורלכם ˙ | מספר פקודיכם ˙ | נרמז בתורתי ׃ | ממחצית",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "פתיחה אחרת לרבי יהודה קילטי[?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "קילטי[?]"
+   ]
+  },
+  {
+   "n": 15,
+   "text": "ארון | עולם אשר נעלם באלים ˙ | אהלל לו בזה שבת שקלים ׃",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "נתיבותיו בלי דמיון ורעיון ˙ | והוא עליון ומביט בשפלים ׃",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "יהי נא בעדם כופר נפשים ˙ | בתתם מחצית עשיר ודלים ׃",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "יסוד היסוד בסוד עדה ישרה ˙ | אהללך בניב שפה ומלים ׃",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "הכי הוא אל מחדש היצורים ˙ | והוא קדמון וממציא כל פעלים ׃",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "והוא עלה לכל עלה וסבה ˙ | וזולתו הלא הכל עלולים ׃",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "דמות אין לו ולא ערך וחקר ˙ | וממקרים משולל בכללים ׃",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "השיבנו אלהים חי ונשוב ˙ | כמקדם לכפר בשקלים ׃",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "יוצרו הנעים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "אשא | דעי למרחוק ˙ | אספרה אל חוק ˙ | אגגי דחקני דחוק ˙ | בוראי מספר מחוק ׃",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "גלה צור עקוליו ˙ | גזר מאז קלקוליו ˙ | דן והבין פגוליו ˙ | הקדים שקלי לשקליו ׃",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "המון חוגג נשמעים ˙ | הוד ופאר נקמעים ˙ | ויכוח חוסן נשמעים ˙ | באחד באדר משמעים ׃",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "זיקוק ריח דודאים ˙ | זמן מפקד טלאים ˙ | חשבון קולבון מסולאים ˙ | חוב שקלים וכלאים ׃",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "טבוע לשוע וקל ˙ | טבע זה המשקל ˙ | יצר הרים ושקל ˙ | ופנים לא קלקל ׃",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "כלל גדול הענין ˙ | כנוס שלש לקנין ˙ | לשון יוני המנין ˙ | לאסוף נדבת הבנין ׃",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 14,
+   "span": "קילטי[?]"
+  }
+ ],
+ "sha256_text": "bcbfcc27a346041664fea2b9c73f7d3dfb898d3dd2515504dccebec7a5550669",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.1676,
+   "wer": 0.2652,
+   "ref_chars": 1557,
+   "scope": "facing-page overlap segments removed from raw"
+  }
+ },
+ "text_file": "../text/fol63a_spread65_left.txt"
+}

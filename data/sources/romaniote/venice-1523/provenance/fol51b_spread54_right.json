@@ -1,0 +1,229 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 54,
+ "side": "right",
+ "folio": "51b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של חנוכה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "וידבר | ידוה אל משה לאמר : דבר אל אהרן ואמרת אליו בהעלתך את",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "הנרות אל מול פני המנורה יאירו שבעת הנרות : ויעש כן אהרן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "אל מול פני המנורה העלה נרתיה כאשר צוה ידוה את משה : וזה מעשה המנרה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "מקשה זהב עד ירכה עד פרחה מקשה הוא כמראה אשר הראה ידוה את משה כן עשה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "את המנרה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "שבת | וחנוכה | פתיחה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "בנר | חנוכה אודך צור בשירי ˙ כי אתה תאיר נרי : בנר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "יחיל לשמך אל צעדי ˙ באמור צר לנפשי נודי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "ובהערים סוד להכחידי ˙ אחסה בך אלי צורי : בנר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "המון מסיבי הכריע ˙ ועצתם חיש תפריע אז לשמך אריע ˙ ירננו לאל חי לבי ובשרי : בנר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "ונפוצות חיש קבץ ˙ ותשובבם אל מרבץ ˙ כאשר מאז בימי יעבץ ˙ יגל כבודי אף בשרי : בנר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "דורך פורה לבדך ˙ לאום עליזה בפירך ˙ ויז נצחם בבגדך ˙ ולציון ענה התעוררי : בנר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "התפתחי מוסריך ˙ כי הן חלפו צורריך ˙ וחרפת אלמנותיך לא תזכרי : בנר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "#R ויש אומרים פתיחה מעריך והוא כתוב בקדים [?] ויש אומרים פתיחה זאת ˙",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 16,
+   "text": "אלהינו | לך יאתה מלוכה ˙ ורם על כל תהלה וברכה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "עזור עמך מאד ירד בגלות ˙ והחיה לב שפל רוח ודכא :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "בני יעקב אשר בשמך קראתם ˙ שלח נא חיש למכתם ארוכה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "חזה נושאים לך עין בבכיה ˙ ודמעתם עלי לחיים מבכה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "קרא ישע לעדה לך ירועה ˙ ולפדותה לך תמיד מחכה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "ואמץ אום לך היתה סגלה ˙ והיא היום לכל רגל רדוכה [?] :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 22,
+   "text": "וזכור בן לך יקרא בשביו ˙ עשה לי נס כנסי עת חנכה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "אמנה יאמין בך חיש גאלה ˙ ואז יגדל שמך כי לך מלוכה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "קדיש ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "ישעך יזכירו ˙ עם בך יכתירו ˙ שיר בשי יגשו ˙ ושמך יקדישו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "העלו על לבם ˙ זכרך הנעים ˙ ימצאו תוך חובם ˙ משמך שעשועים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "וכפי כח בם ˙ חסדך מביעים ˙ איש לאיש יעזורו ˙ משפטי אל יורו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "ממתים יפגושו ˙ בך ולא יבושו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "ואשר לא נועדו ˙ להיות מעבדיו ˙ בלבבם ייחדו ˙ אל ואין בלעדיו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "אם בפיהם כיחדו ˙ הן בקרבם עדיו ˙ איך יצוריו יאמרו ˙ כי בלי אל נוצרו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "ואשר",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 15,
+   "span": "[?]"
+  },
+  {
+   "line": 21,
+   "span": "[?]"
+  }
+ ],
+ "sha256_text": "f34a2f1419328c51502a18424a17d5ceba8568008e2cd39d1782fe4d28d42d77",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0866,
+   "wer": 0.2035,
+   "ref_chars": 1478
+  }
+ },
+ "text_file": "../text/fol51b_spread54_right.txt"
+}

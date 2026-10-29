@@ -1,0 +1,228 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 50,
+ "side": "right",
+ "folio": "47b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של ראש חדש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "לעמוסי בטן שהן עתידין להתחדש כמותה ולפאר ליוצרם על כבוד מלכותו על כל מה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "שברא ברוך אתה יהוה מחדש חדשים : | ברוך יצרך ברוך עושך ברוך קונך ברוך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "בוראך : | ומרקד כנגדה ג' פעמים ואומר | כשם שאני מרקד ואיני מגיעך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "כך אם ירקדו אויבי להגיעני לא יגיעו בי : | וג' פעמים | תפול עליהם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "אימתה ופחד בגדול זרועך ידמו כאבן | כאבן ידמו זרועך בגדול ופחד אימתה עליהם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "תפול : | ואחר כך אומר הסמים מספרים כו' ו[?] מזמור [?] הללויה הללו אל בקדשו כו'",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ו[?]",
+    "[?]"
+   ]
+  },
+  {
+   "n": 8,
+   "text": "סימן טוב ג' פעמים : | דוד מלך ישראל חי וקיים : | ואומר קדיש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "ברכת הקשת | ברוך אתה יהוה אלהינו מלך העולם זוכר הברית נאמן בבריתו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "וקיים במאמרו ברוך אתה ידוה זוכר הברית :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "הפטרה לשבת שמחרתו ראש חדש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "ויאמר | לו יהונתן מחר חדש ונפקדת כי יפקד מושבך : ושלשת תרד מאד ובאת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "אל המקום אשר נסתרת שם ביום המעשה וישבת אצל האבן האזל : ואני",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "שלשת החצים צדה אורה לשלח לי למטרה : | והנה אשלח את הנער לך מצא את",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "החצים אם אמר אמר לנער הנה החצים ממך והנה קחנו ובאה כי שלום לך ואין דבר חי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "ידוה : | ואם כה אמר לעלם הנה החצים ממך והלאה לך כי שלחך ידוה : | והדבר אשר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "דברנו אני ואתה הנה ידוה ביני ובינך עד עולם : | ויסתר דוד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "בשדה ויהי החדש וישב המלך על הלחם לאכל : | וישב המלך על מושבו כפעם בפעם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "אל מושב הקיר ויקם יהונתן וישב אבנר מצד שאול ויפקד מקום דוד : | ולא דבר שאול",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "מאומה ביום ההוא כי אמר מקרה הוא בלתי טהור הוא כי לא טהור :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "ויהי ממחרת החדש השני ויפקד מקום דוד ויאמר שאול אל יהונתן בנו מדוע לא בא בן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "ישי גם תמול גם היום אל הלחם : | ויען יהונתן את שאול נשאל נשאל דוד מעמדי עד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "בית לחם : | ויאמר שלחני נא כי זבח משפחה לנו בעיר והוא צוה לי אחי ועתה אם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "מצאתי חן בעיניך אמלטה נא ואראה את אחי על כן לא בא אל שלחן המלך : | ויחר אף",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "שאול ביהונתן ויאמר לו בן נעות המרדות הלא ידעתי כי בחר אתה לבן ישי לבשתך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "ולבשת ערות אמך : | כי כל הימים אשר בן ישי חי על האדמה לא תכון אתה ומלכותך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "ועתה שלח וקח אתו אלי כי בן מות הוא : | ויען יהונתן את שאול אביו ויאמר אליו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "למה יומת מה עשה : | ויטל שאול את החנית עליו להכתו וידע יהונתן כי כלה היא מעם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "אביו להמית את דוד : | ויקם יהונתן מעם השלחן בחרי אף ולא אכל ביום החדש השני",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "לחם כי נעצב אל דוד כי הכלמו אביו : | ויהי בבקר ויצא יהונתן השדה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "למועד",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 7,
+   "span": "ו[?]"
+  },
+  {
+   "line": 7,
+   "span": "[?]"
+  }
+ ],
+ "sha256_text": "15a93e4f882c4e7fee006e48dc2ea85cc824dd70c1bab28a985fa2de77e07cb7",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0463,
+   "bag_WER": 0.1285,
+   "ref_chars": 1922
+  }
+ },
+ "text_file": "../text/fol47b_spread50_right.txt"
+}

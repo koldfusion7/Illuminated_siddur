@@ -1,0 +1,229 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 39,
+ "side": "right",
+ "folio": "36b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של שבת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "רעש גדול ברוך כבוד יהוה ממקומו · ונטלתני רוחא ושמעית בתראי קל זיע סגי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "דמשבחין ואמרין בריך יקרא דיהוה מאתר בית שכינתיה יהוה ימלוך לעולם ועד · יהוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "מלכותיה קיימא לעלם ולעלמי עלמיא · יהוה אלהי אברהם יצחק וישראל אבותינו שמרה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "זאת לעולם ליצר מחשבות לבב עמך והכן לבבם אליך · והוא רחום יכפר עון ולא ישחית",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "והרבה להשיב אפו ולא יעיר כל חמתו · כי אתה יהוה טוב וסלח ורב חסד לכל קראיך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "צדקתך צדק לעולם ותורתך אמת תתן אמת ליעקב חסד לאברהם אשר נשבעת לאבותינו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "מימי קדם · ברוך אלהינו שבראנו לכבודו והבדילנו מן התועים ונתן לנו את תורתו תורת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "אמת לחיי עולם נטעה בתוכנו אב הרחמן הוא יפתח לבנו בתורתו ויתן בלבנו יראתו לעשות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "רצונו כרצונו לעבדו וליחדו בלבב שלם ובנפש חפצה למען לא נגע לריק ולא נלד לבהלה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "שכן יהי רצון מלפניך יהוה אלהינו ואלהי אבותינו שנשמור חוקיך בעולם הזה ונזכה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "ונחיה ונראה ונירש את שני ימות המשיח לטובה לברכה לששון ולשמחה ולזכות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "ולמעשים טובים ולשם טוב ולחיים ולחיי העולם הבא · יהוה אדונינו מה אדיר שמך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "בכל הארץ · יהוה חפץ למען צדקו יגדיל תורה ויאדיר : | וקדיש עד דאמירן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "ואומר ואני תפלתי על פי המדרש דכתיב ישיחו בי יושבי שער ונגינות שותי שכר ואני תפלתי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "אמר דוד מלכי אומות העולם שותין ומשתכרין ואני שומר זמן תפלת מנחה להתפלל לפניך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "ולכן אין אומרי' אותו ביו\"ט[?] שחל להיות בשבת :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ביו\"ט[?]"
+   ]
+  },
+  {
+   "n": 18,
+   "text": "ואני תפלתי לך יהוה עת רצון אלהים ברוב חסדך ענני באמת ישעך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "תכון תפלתי קטורת לפניך משאת כפי מנחת ערב :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "הקשיבה לקול שועי מלכי ואלהי כי אליך אתפלל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "שמע קול תחנוני בשועי אליך בנשאי ידי אל דביר קדשך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "ואתה יהוה מגן בעדי כבודי ומרים ראשי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "שובה יהוה חלצה נפשי הושיעני למען חסדך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "ואני ברב חסדך אבוא ביתך אשתחוה אל היכל קדשך ביראתך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "ומוציאין ספר תורה וקורין ג' בפרשה הבאה ולאחר קריאת התורה אומר יהי רצון לרחם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "וכו' וקדיש עד דאמירן ועומדין בתפלה ומתפללין שלש ראשונות :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "אתה אחד ושמך אחד ומי כעמך ישראל גוי אחד בארץ תפארת גדולה ועטרת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "ישועה מנוחה וקדושה לעמך נתת אברהם יגל יצחק ירנן יעקב ובניו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "ינוחו בו מנוחת אהבה ונדבה מנוחת שלום השקט ובטח מנוחה שלימה שאתה רוצה בה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "יכירו וידעו כל בניך כי מאתך היא מנוחתם ועל מנוחתם יקדישו את שמך זכר למעשה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "בראשית : אלהינו ואלהי אבותינו רצה במנוחתינו קדשינו במצותיך תן חלקנו בתורתך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "ושבענו בטובך ושמח נפשנו בישועתך וטהר את לבנו לעבדך באמת ובלבב שלם והנחילנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 17,
+   "span": "ביו\"ט[?]"
+  }
+ ],
+ "sha256_text": "28bcf56753cae593d1c9f19127f7544b203f5ea152631536667ce3c0cc83ed25",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0569,
+   "bag_WER": 0.1979,
+   "ref_chars": 2055
+  }
+ },
+ "text_file": "../text/fol36b_spread39_right.txt"
+}

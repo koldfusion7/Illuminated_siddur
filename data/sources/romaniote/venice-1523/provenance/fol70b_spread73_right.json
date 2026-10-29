@@ -1,0 +1,241 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 73,
+ "side": "right",
+ "folio": "70b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של ארבע ערכים[?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ערכים[?]"
+   ]
+  },
+  {
+   "n": 2,
+   "text": "ידי הרימותי מדור לדור יונחל ˙ | עמלק מלקלק וכבודי איך ייחל ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "קנאתי לשמי ולבני בכורי כי זחל ˙ | ויבא שאול וירב בנחל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "בנשימה אחת בני המן תגמור ˙ | חדוה ופרסום נסים בלי ספד לאמר ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "זכר הפורים לא ימוש מפלטי מכמור ˙ | את האלהים ירא ואת מצותיו שמור :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "קדקד אגגי מחצת לדורות ˙ | ושמו אבדת ותפילהו במהמורות ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "כן יאבדו כל אויביך ידוה ואוהביך לרבות ולפרות ˙ | מחסה ועוז עזרה בצרות :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "מי כמוך לרבי יהודה הלוי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "ארון חסדך בל יחדל ˙ | אמתך לעד עוז ומגדל ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "כי היית מעוז לדל ˙ | מחסה לאביון בצר לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "בימי חרפי מקדמוני | כי דבר רוח ידוה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "והיום אם גרשוני עוני ˙ | דודי לי ואני לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "גמלני מאז טובות ˙ | היו גלויות לכליות ולבבות ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "גם אם יהיו הצרות מרובות ˙ | אשרי כל חוכי לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "דמי מתקוממי אזה ˙ | דגלי ארים בדבר כל חוזה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "הנה אלהינו זה ˙ | קוינו לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "היום אביעה חידות ˙ | היו מני קדם עתידות ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "נגלה בם המבין צפוני סודות | יוצרי מבטן לעבד לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "ויהי בימי אחשורוש ˙ | מלך הוקם על כברוש ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "נשא ורם על כל קצין וראש ˙ | וידוה הניח לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "זמן בשנת שלש למלכותו ˙ | להראות לכל תכונתו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "ואבני נזר מתנוססות על אדמתו ˙ | ועפרות זהב לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "חלק לכל בני שושן נתן ˙ | והקדיש קרואיו כחתן ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "בחצר גינת ביתן ˙ | אוה למושב לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "טעם עשות רצון כל איש ויצרו ˙ | ואין אונס לאיש יין עברו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "ולתת לשואל די מחסורו ˙ | אשר יחסר לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "יחד אוספו כל הנדרשים ˙ | גם ושתי המלכה עשתה משתה נשים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "ומשתה הנשים כאנשים ˙ | שבעת ימים יספרו לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "כטוב לב המלך ביין ˙ | אמר להביא את ושתי יפת העין ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "ותמאן בדברו לאמר אין ˙ | העזה פניה ותאמר לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "לקרובים אליו היושבים עלי כן ˙ | שאל ויעצהו ממוכן ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "הוא המן לפורענות מוכן ˙ | לבו יקבוץ און לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "מועצותיו כדת נתונות ˙ | היו לעמי רצופות צפונות ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "שאלולי",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 1,
+   "span": "ערכים[?]"
+  }
+ ],
+ "sha256_text": "41be6309f7723cd86b376eda1b7217fc37a4a93590ea06c43ee2fb011633d8ea",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.1506,
+   "bag_WER": 0.137,
+   "ref_chars": 1481
+  }
+ },
+ "text_file": "../text/fol70b_spread73_right.txt"
+}

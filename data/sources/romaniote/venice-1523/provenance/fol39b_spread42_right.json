@@ -1,0 +1,263 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 42,
+ "side": "right",
+ "folio": "39b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של שבת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "שובה ידוה עד מתי והנחם על עבדיך · שבענו בבקר חסדך ונרננה ונשמחה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "בכל ימינו : שמחנו כימות עניתנו שנות ראינו רעה · יראה אל עבדיך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "פעליך והדרך על בניהם : | בשבוע שיש יט [?] אין אומר ויהי נועם וסימנו שבוז [?] אין כלי ז [?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]",
+    "[?]",
+    "[?]"
+   ]
+  },
+  {
+   "n": 5,
+   "text": "ויהי נועם ידוה אלהינו עלינו ומעשה ידינו כוננה עלינו ומעשה ידינו כוננהו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "יושב בסתר עליון בצל שדי יתלונן : אמר ליהוה מחסי ומצודתי אלהי אבטח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "בו : כי הוא יצילך מפח יקוש מדבר הוות : באברתו יסך לך ותחת כנפיו תחסה צנה וסוחרה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "אמתו : לא תירא מפחד לילה מחץ יעוף יומם : מדבר באפל יהלוך מקטב ישוד צהרים : יפל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "מצדך אלף ורבבה מימינך אליך לא יגש : רק בעיניך תביט ושלמת רשעים תראה : כי אתה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "ידוה מחסי עליון שמת מעונך : לא תאנה אליך רעה ונגע לא יקרב באהלך : כי מלאכיו יצוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "לך לשמרך בכל דרכיך : על כפים ישאונך פן תגוף באבן רגלך : על שחל ופתן תדרוך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "תרמוס כפיר ותנין : כי בי חשק ואפלטהו אשגבהו כי ידע שמי : יקראני ואענהו עמו אנכי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "בצרה אחלצהו ואכבדהו : ארך ימים אשביעהו ואראהו בישועתי : | ואתה קדוש והוא [?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 14,
+   "text": "כתוב בחול ואומר קדיש תתקבל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "לכן אמור הנני נותן לו את בריתי שלום : ויתן לך האלהים מטל השמים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "ומשמני הארץ ורב דגן ותירוש · יעבדוך עמים אלהים וישתחוו לך לאמים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "הוי גביר לאחיך וישתחוו לך בני אמך אורריך ארור ומברכיך ברוך · | ואל שדי יברך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "אותך ויפרך וירבך והיית לקהל עמים ויתן לך את ברכת אברהם לך ולזרעך אתך לרשתך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "את ארץ מגריך אשר נתן אלהים לאברהם · | המלאך הגואל אתי מכל רע יברך את",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "הנערים ויקרא בהם שמי ושם אבותי אברהם ויצחק וידגו לרב בקרב הארץ · | מאל אביך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "ויעזרך ואת שדי ויברכך ברכות שמים מעל ברכות תהום רבצת תחת ברכות שדים ורחם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "ברכות אביך גברו על ברכות הורי עד תאות גבעות עולם תהיין לראש יוסף ולקדקד נזיר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "אחיו · | ידוה אלהיכם הרבה אתכם והנכם היום ככוכבי השמים לרב · | ידוה אלהי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "אבתיכם יסף עליכם ככם אלף פעמים ויברך אתכם כאשר דבר לכם · | ברוך אתה בעיר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "וברוך אתה בשדה · ברוך אתה בבאך וברוך אתה בצאתך · | ברוך טנאך ומשארתך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "ברוך תהיה מכל העמים לא יהיה בך עקר ועקרה ובבהמתך · | והסיר יהוה ממך כל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "חלי וכל מדוי מצרים הרעים אשר ידעת לא ישימם בך ונתנם בכל שנאיך · | יתן יהוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "את איביך הקמים עליך נגפים לפניך בדרך אחד יצאו אליך ובשבעה דרכים ינוסו לפניך ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "יצו ידוה אתך את הברכה באסמיך ובכל משלח ידיך וברכך בארץ אשר יהוה אלהיך נתן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "לך · | יפתח ידוה לך את אוצרו הטוב את השמים לתת מטר ארצך בעתו ולברך את כל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "מעשה ידיך והלוית גוים רבים ואתה לא תלוה · | אשריך ישראל מי כמוך עם נושע",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "ביהוה מגן עזרך ואשר חרב גאותך ויכחשו איביך לך ואתה על במותימו תדרוך · | ופדויי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "ידוה ישובון ובאו ציון ברנה ושמחת עולם על ראשם ששון ושמחה ישיגו נסו יגון ואנחה ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "ואמר ביום ההוא הנה אלהינו זה קוינו לו ויושיענו זה ידוה קוינו לו נגילה ונשמחה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "בישועתו",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 4,
+   "span": "[?]"
+  },
+  {
+   "line": 4,
+   "span": "[?]"
+  },
+  {
+   "line": 4,
+   "span": "[?]"
+  },
+  {
+   "line": 13,
+   "span": "[?]"
+  }
+ ],
+ "sha256_text": "bfa821cdb82ec708831391a3355cb47292c34bc36bf60a31f4d1e17ce6664889",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0468,
+   "bag_WER": 0.1516,
+   "ref_chars": 2374
+  }
+ },
+ "text_file": "../text/fol39b_spread42_right.txt"
+}

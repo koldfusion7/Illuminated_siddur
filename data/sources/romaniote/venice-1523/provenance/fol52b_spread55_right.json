@@ -1,0 +1,229 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 55,
+ "side": "right",
+ "folio": "52b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של חנוכה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "פחדו מהם המונים ˙ וצלחו מגשי [?] שמנים ˙ לירח האיתנים :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 3,
+   "text": "צררום ורדפום מעכו ˙ ועד נמרים לדכו ˙ להרחיקם מגבול דרכו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "חנכה ששית היא זאת ˙ היתה למי זאת ˙ שביעית ימהר לנו כזאת ˙ קדוש :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "קומם בית בחירתך ˙ מקום שכינתך ˙ ותכונן הר נחלתך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "רעה בשבטך עמך ˙ שדי הקם נואמיך ˙ ויהי עלימו רחמיך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "שמם שמת בשמך ˙ העמוסים ממך ˙ והנשואים ברחמיך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "תמיד משבחים לשמך ˙ ומעריצים בסוד שמך ˙ ומשלשים קדושת שמך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "קדוש : | הכל יודוך וכו'",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "אופן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "שני | זתים נכרתים ˙ בגן נעול יצהירו : לראש קהתי ואפרתי ˙ שתי עטרות יכתירו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "מול מנורה ˙ הטהורה ˙ כמו נרות יאירו : הן במשאת ˙ כל איש את ˙ רעהו יעזורו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "הן במחנה ˙ אל מול פני ˙ המנורה יאירו : כן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "לבן פורת פנת יקרת ˙ אשר היה כציץ נובל : ולנמשח אשר הושח ˙ כאניה בלי חובל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "זכור מראה ˙ אשר ראה ˙ זכריהו בעיר בבל : כמו זכרתם והושעתם אזי על יד זרובבל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "זכור זרעם ˙ והושיעם ˙ בעת תקרא שנת יובל : ושים אותם מקום אבותם ˙ היות משלים בכל חבל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "ומעל יד ˙ איש ציד ˙ טבעתם יסירו : כן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "ממלכה ˙ ממושכה ˙ לעיר ציון תשיבנה : ובת כבודה ˙ ברב עבודה ˙ לבית אמה תשיבנה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "והגבירה ˙ והצעירה ˙ לראש דודה תקימנה : ומצנפת ˙ מעולפת ˙ לראש אהרן תשימנה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "והתמיד ˙ אזי יעמיד ˙ והמנחה תרימנה : והמרקח אשר לקח ˙ ולא ראיתיו עד הנה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "והקטורת מקוטרת ˙ לאהרן יקטירנה : והנרות ממאורות ˙ בני אהרן יבעירו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "הן במחנה ˙ אל מול פני ˙ המנורה יאירו : כן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "הנכאה והצמאה ˙ אשר תמיד לך תייליל : סמוך ידה לבן דודה ˙ אשר נקרא שמו חכליל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "והכניסם ˙ לחר בושם ˙ וחופתם בהוד תכליל : והוליכם ˙ והמליכם ˙ לעיר ציון והגליל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "ועם פרוכים יהו ברוכים ˙ כל רואיהם יכירו : כן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "זולת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "אזכור | מעללי יה ˙ ואתן לו הודיה ˙ במעשה שהיה ˙ בימי מתתיא :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "בהיותי בזויה ˙ שבויה ודחויה ˙ מבית אבות דחויה ˙ הוציאני לרויה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "גבר ועלה ˙ אלכסנדרוס בגדולה ˙ ממלכות יון בתחלה ˙ היא הקרן הגדולה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "דימה לאבדני באפילה ˙ ובן לא היה לו להנחילה ˙ חלק מלכות וממשלה ˙ לארבעה בני עולה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "הם היו לסגלה ˙ קוץ ודרדר וחרולה ˙ וגזרו בחימה לכלה ˙ תורת משה לגעלה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "והגיון",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 2,
+   "span": "[?]"
+  }
+ ],
+ "sha256_text": "6a43f28018460a0ad3dbacc107f3164ba4bb2a1d68434bd1f1176a9bdcc71389",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0751,
+   "wer": 0.2015,
+   "ref_chars": 1784
+  }
+ },
+ "text_file": "../text/fol52b_spread55_right.txt"
+}

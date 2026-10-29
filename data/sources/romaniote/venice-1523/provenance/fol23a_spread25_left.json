@@ -1,0 +1,246 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 25,
+ "side": "left",
+ "folio": "23a",
+ "printed_folio_number": "כג",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של שבת כג",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": ": ספק חשכה ספק אינה חשכה אין מעשרין את הודאי ואין מטבילין את הכלים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "ואין מדליקין את הנרות אבל מעשרין את הדמאי ומערבין וטומנין את החמין :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "אמר רבי אלעזר אמר רבי חנינא תלמידי חכמים מרבים שלום בעולם שנאמר וכל בניך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "למודי יהוה ורב שלום בניך אל תקרי בניך אלא בוניך יהי שלום בחילך שלוה בארמנותיך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "למען אחי ורעי אדברה נא שלום בך למען בית יהוה אלהינו אבקשה טוב לך וראה בנים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "לבניך שלום על ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "יתגדל ויתקדש שמיה רבה בעלמא דברא כרעותיה וימליך מלכותיה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "ויצמח פורקניה ויקרב משיחיה ויפרוק עמיה ברחמיה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "בחייכון וביומיכון ובחיי דכל בית ישראל בעגלא ובזמן קריב ואמרו אמן : יהא שמיה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "רבה מברך לעלם ולעלמי עלמיא יתברך וישתבח ויתפאר ויתרומם ויתנשא ויתהדר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "ויתעלה ויתהלל שמיה דקודשא בריך הוא : לעילא ולעילא מן כל ברכתא שירתא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "שבחתא ונחמתא דאמירן בעלמא ואמרו אמן : יהא שלמא רבא מן שמיא וחיים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "טובים עלינו ועל כל עדת עמו בית ישראל ואמרו אמן עושה שלום במרומיו הוא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "ברחמיו יעשה שלום עלינו ועל כל עמו ישראל ואמרו אמן : ואחר כך מתחיל החזן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "ברוך יהוה אשר נתן מנוחה לעמו ישראל ביום השבת :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "מזמור שיר ליום השבת : טוב להודות ליהוה ולזמר לשמך עליון :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "להגיד בבקר חסדך ואמונתך בלילות : עלי עשור ועלי נבל עלי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "הגיון בכנור : כי שמחתני יהוה בפעליך במעשי ידיך ארנן : מה גדלו מעשיך יהוה מאד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "עמקו מחשבתיך : איש בער לא ידע וכסיל לא יבין את זאת : בפרח רשעים כמו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "עשב ויציצו כל פעלי און להשמדם עדי עד : ואתה מרום לעולם יהוה : כי הנה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "איביך יהוה כי הנה איביך יאבדו יתפרדו כל פעלי און : ותרם כראים קרני בלתי בשמן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "רענן : ותבט עיני בשורי בקמים עלי מרעים תשמענה אזני : צדיק כתמר יפרח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "כארז בלבנון ישגה : שתולים בבית יהוה בחצרות אלהינו יפריחו : עוד ינובון בשיבה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "דשנים ורעננים יהיו להגיד כי ישר יהוה צורי ולא עולתה בו : יהוה מלך גאות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "לבש לבש יהוה עז התאזר אף תכון תבל בל תמוט : נכון כסאך מאז מעולם אתה : נשאו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "נהרות יהוה נשאו נהרות קולם ישאו נהרות דכים : מקולות מים רבים אדירים משברי ים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "אדיר במרום יהוה : עדתיך נאמנו מאד לביתך נאוה קדש יהוה לארך ימים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "יש אומרים אחר זה וירא[?] בכר[?] להם וכו' ויש שאומרים זה המזמור ואינו מתחיל מזמור לתודה שאין מביאין",
+   "confidence": "low",
+   "uncertain_spans": [
+    "וירא[?]",
+    "בכר[?]"
+   ]
+  },
+  {
+   "n": 30,
+   "text": "תודה מנחה בשבת לכך החזן מתחיל כך ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "שירו לאלהים זמרו שמו סולו לרוכב בערבות ביה שמו ועלזו לפניו : והעם עונין",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "הריעו ליהוה כל הארץ · עבדו את יהוה בשמחה באו לפניו ברננה · דעו כי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "יהוה הוא אלהים הוא עשנו ולא אנחנו עמו וצאן מרעיתו · באו שעריו בתודה חצרותיו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "בתהלה הודו לו ברכו שמו · כי טוב יהוה לעולם חסדו ועד דור ודור אמונתו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 29,
+   "span": "וירא[?]"
+  },
+  {
+   "line": 29,
+   "span": "בכר[?]"
+  }
+ ],
+ "sha256_text": "4c032d29aa9b44e874fc4b639c305d78ba20b787ebd8fd973a333a91127ab113",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0506,
+   "bag_WER": 0.1542,
+   "ref_chars": 2215
+  }
+ },
+ "text_file": "../text/fol23a_spread25_left.txt"
+}

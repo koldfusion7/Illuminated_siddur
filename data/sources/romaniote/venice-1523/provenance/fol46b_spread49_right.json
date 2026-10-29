@@ -1,0 +1,247 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 49,
+ "side": "right",
+ "folio": "46b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של ראש חדש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "אולם השער מחוץ ועמד על מזוזת השער ועשו הכהנים את עולתו ואת שלמיו והשתחוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "על מפתן השער ויצא והשער לא יסגר עד הערב : והשתחוו עם הארץ פתח השער",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "ההוא בשבתות ובחדשים לפני ידוה : | והעלה אשר יקריב הנשיא לידוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ביום השבת ששה כבשים תמימם [?] ואיל תמים : ומנחה איפה לאיל ולכבשים מנחה",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 6,
+   "text": "מתת ידו ושמן הין לאיפה : | וביום החדש פר בן בקר תמימים וששת כבשים ואיל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "תמימים יהיו : ואיפה לפר ואיפה לאיל יעשה מנחה ולכבשים כאשר תשיג ידו ושמן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "הין לאיפה : ובבוא הנשיא דרך אולם השער יבוא ובדרכו יצא : ובבוא עם הארץ",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "לפני ידוה במועדים הבא דרך שער צפון להשתחות יצא דרך שער נגב והבא דרך שער",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "נגב יצא דרך שער צפונה לא ישוב דרך השער אשר בא בו כי נכחו יצאו : והנשיא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "בתוכם בבואם יבוא ובצאתם יצאו : ובחגים ובמועדים תהיה המנחה איפה לפר ואיפה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "לאיל ולכבשים מתת ידו ושמן הין לאיפה : וכי יעשה הנשיא נדבה עולה או שלמים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "נדבה לידוה ופתח לו את השער הפנה קדים ועשה את עולתו ואת שלמיו כאשר יעשה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "ביום השבת ויצא וסגר את השער אחרי צאתו : וכבש בן שנתו תמים תעשה עולה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "ליום לידוה בבקר בבקר תעשה אתו : ומנחה תעשה עליו בבקר בבקר ששית האיפה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "ושמן שלישית ההין לרס את הסלת מנחה לידוה חקות עולם תמיד : ועשו את הכבש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "ואת המנחה ואת השמן בבקר בבקר עולת תמיד : | כה אמר אדני ידוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "כי יתן הנשיא מתנה לאיש מבניו נחלתו היא לבניו תהיה אחזתם היא בנחלה : וכי יתן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "מתנה מנחלתו לאחד מעבדיו והיתה לו עד שנת הדרור ושבת לנשיא אך נחלתו בניו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "להם תהיה : | ולא יקח הנשיא מנחלת העם להונתם מאחזתם מאחזתו ינחיל את בניו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "למען אשר לא יפצו עמי איש מאחזתו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "ואומר מי שבירך וכו ותהלה וקדיש עד דאמירן ועומדין בתפלה יי שפתי עד מחיה המתים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "כתר | יתנו לך ידוה אלהינו מלאכים המוני מעלה עם עמך ישראל קבוצי מטה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "יחד כלם קדושה לך ישלשו ושבחך בכל יום תמיד יחדשו כדבר האמור",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "על יד נביאך וקרא זה אל זה ואמר קדוש קדוש קדוש ידוה צבאות מלא כל הארץ כבודו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "כבודו והודו מלא עולם משרתיו שואלים זה לזה איה מקום כבודו להעריצו ולהקדישו [?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 27,
+   "text": "פעמים בכל יום ואומרים שמע ישראל ידוה אלהינו ידוה אחד ממקומך תופיע ותושיע",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "כי מחכים אנחנו לישועתך מתי תמלוך בציון ועינינו תראנה בתפארת עזך ובמלכות בית",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "דוד משיחך ככתוב בדברי קדשך ימלוך ידוה לעולם אלהיך ציון לדור ודור הללויה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "לדור ודור נגיד גדלך ולנצח נצחים קדושתך נקדיש ושבחך ידוה אלהינו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "מפינו לא ימוש לעולם ועד כי אל מלך גדול וקדוש אתה ברוך אתה ידוה האל הקדוש :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "אתה | יצרת עולמך מקדם כלית מלאכתך ביום השביעי בחרת בנו מכל העמים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "ורצית בנו מכל הלשונות וקדשתנו במצותיך וקרבתנו מלכנו לעבודתך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "ושמך",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 5,
+   "span": "[?]"
+  },
+  {
+   "line": 26,
+   "span": "[?]"
+  }
+ ],
+ "sha256_text": "e9c367302d03bb0eb0457fc2e5e83d71a2addc60f4cb543ccb1f620730b4b5d9",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0267,
+   "wer": 0.0915,
+   "ref_chars": 2208
+  }
+ },
+ "text_file": "../text/fol46b_spread49_right.txt"
+}

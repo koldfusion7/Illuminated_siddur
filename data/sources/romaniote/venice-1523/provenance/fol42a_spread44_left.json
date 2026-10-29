@@ -1,0 +1,247 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 44,
+ "side": "left",
+ "folio": "42a",
+ "printed_folio_number": "מב",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של ראש חדש | מב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "ויש קהלות שאומרים נשמת ויש נוהגין להתחיל מהעולם ועד העולם כו' משום שאין נפש יתרה בראש חדש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "ואומר אלהינו בהודאה וקורין ההלל אחר התפלה בדלוג מדאיתא בתעניות רב אקלע בבבל בריש ירחא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "ואשכח צבורא דקרו הללא ואקפד סבר לאפסוקינהו כיון דחזנהו דמדלגין שבקינהו אמר שמע מינה מנהג",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "אבותיהם בידיהם מיהו לענין ברכה אפליגו רבוותא אם ראוי לברך לקרוא וכיון דהלל ר\"ח מנהג גמור",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "ועלה אמר רבא הלל דר\"ח לאו דאוריתא כדאיתא בפירקא דחסידי טוב שלא לברך מיהו יש קצת קהלות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "שנוהגין לברך בצבור לקרוא אבל ביחיד דכולי עלמא מודו שאין לברך ורוב הקהלות נהגו שלא לברך וכן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "עיקר · ומכל מקום למה נהגו לדלג ולמה מדלגין אלה השתי פרשיות לא מצאתי לזה טעם נכון ולי נר' שמפני",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "שפרשת לא לנו כמו פרשת ה' זכרנו ברב ענינים[?] ופרשת אהבתי עם מה אשיב שוות לכן השמיטו כל אחת",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ענינים[?]"
+   ]
+  },
+  {
+   "n": 10,
+   "text": "מחברת' והורו שאין הקריא' בשלמו' חובה ולכן מנעו הכפל מאודך ולמטה : נוסח ברכה כשמדלגין :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "ברוך אתה ידוה אלהינו מלך העולם אשר קדשנו במצותיו וצונו לקרוא את ההלל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "הללויה הללו עבדי יהוה הללו את שם ידוה : יהי שם ידוה מבורך מעתה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "ועד עולם : ממזרח שמש עד מבואו מהלל שם ידוה : רם על",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "כל גוים ידוה על השמים כבודו : מי כידוה אלהינו המגביהי לשבת : המשפילי לראות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "בשמים ובארץ : מקימי מעפר דל מאשפות ירים אביון : להושיבי עם נדיבים עם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "נדיבי עמו : מושיבי עקרת הבית אם הבנים שמחה הללויה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "בצאת ישראל ממצרים בית יעקב מעם לועז : היתה יהודה לקדשו ישראל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "ממשלותיו : הים ראה וינוס הירדן יסוב לאחור : ההרים רקדו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "כאילים גבעות כבני צאן : מה לך הים כי תנוס הירדן תסוב לאחור : ההרים תרקדו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "כאילים גבעות כבני צאן : מלפני ארון חולי ארץ מלפני אלוה יעקב : ההופכי הצור",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "אגם מים חלמיש למעינו מים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "ידוה זכרנו יברך יברך את בית ישראל יברך את בית אהרן : יברך יראי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "ידוה הקטנים עם הגדולים : יוסף ידוה עליכם עליכם ועל בניכם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "ברוכים אתם לידוה עושה שמים וארץ : השמים שמים לידוה והארץ נתן לבני אדם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "לא המתים יהללו יה ולא כל יורדי דומה : ואנחנו נברך יה מעתה ועד עולם הללויה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "מה אשיב לידוה כל תגמולוהי עלי : כוס ישועות אשא ובשם ידוה אקרא :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "נדרי לידוה אשלם נגדה נא לכל עמו : יקר בעיני ידוה המותה לחסידיו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "אנא ידוה כי אני עבדך אני עבדך בן אמתך פתחת למוסרי : לך אזבח זבח תודה ובשם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "ידוה אקרא : נדרי לידוה אשלם נגדה נא לכל עמו : בחצרות בית ידוה בתוככי ירושלם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "הללויה : הללו את ידוה כל גוים שבחוהו כל האמים : כי גבר עלינו חסדו ואמת ידוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "לעולם הללויה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "הודו לידוה כי טוב כי לעולם חסדו : יאמר נא ישראל כי לעולם חסדו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "יאמרו נא בית אהרן כי לעולם חסדו : | יאמרו נא יראי ידוה כי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "לעולם חסדו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "ו ב",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 9,
+   "span": "ענינים[?]"
+  }
+ ],
+ "sha256_text": "6c7bbd6ed39cff7808e894f3ed44d8d62c909354846125a103d44992f746f055",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0904,
+   "bag_WER": 0.2921,
+   "ref_chars": 2268
+  }
+ },
+ "text_file": "../text/fol42a_spread44_left.txt"
+}

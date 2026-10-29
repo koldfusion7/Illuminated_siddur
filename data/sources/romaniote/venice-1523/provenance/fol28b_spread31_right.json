@@ -1,0 +1,247 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 31,
+ "side": "right",
+ "folio": "28b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של שבת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "כי יעשה יהוה דין עני משפט אביונים : אך צדיקים יודו לשמך ישבו ישרים את פניך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "מזמור לדוד יהוה קראתיך חושה לי האזינה קולי בקראי לך : תכון",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "תפלתי קטרת לפניך משאת כפי מנחת ערב : שיתה יהוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "שמרה לפי נצרה על דל שפתי : אל תט לבי לדבר רע להתעולל עלילות ברשע את",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "אישים פעלי און ובל אלחם במנעמיהם : יהלמני צדיק חסד ויוכיחני שמן ראש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "אל יני ראשי כי עוד ותפלתי ברעותיהם : נשמטו בידי סלע שפטיהם ושמעו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "אמרי כי נעמו : כמו פלח ובקע בארץ נפזרו עצמינו לפי שאול : כי אליך יהוה אדני",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "עיני בכה חסיתי אל תער נפשי : שמרני מידי פח יקשו לי ומקשות פעלי און : יפלו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "במכמריו רשעים יחד אנכי עד אעבור :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "משכיל לדוד בהיותו במערה תפלה : קולי אל יהוה אזעק קולי אל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "יהוה אתחנן : אשפך לפניו שיחי צרתי לפניו אגיד : בהתעטף",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "עלי רוחי ואתה ידעת נתיבתי בארח זו אהלך טמנו פח לי : הבט ימין וראה ואין לי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "מכיר אבד מנוס ממני אין דורש לנפשי : זעקתי אליך יהוה אמרתי אתה מחסי חלקי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "בארץ החיים : הקשיבה אל רנתי כי דלותי מאד הצילני מרדפי כי אמצו ממני :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "הוציאה ממסגר נפשי להודות את שמך בי יכתרו צדיקים כי תגמל עלי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "מזמור לדוד יהוה שמע תפלתי האזינה אל תחנוני באמנתך ענני בצדקתך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "ואל תבא במשפט את עבדך כי לא יצדק לפניך כל חי : כי רדף אויב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "נפשי דכא לארץ חיתי הושיבני במחשכים כמתי עולם : ותתעטף עלי רוחי בתוכי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "ישתומם לבי : זכרתי ימים מקדם הגיתי בכל פעליך במעשה ידיך אשוחח : פרשתי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "ידי אליך נפשי בארץ עיפה לך סלה : מהר ענני יהוה כלתה רוחי אל תסתר פניך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "ממני ונמשלתי עם ירדי בור : השמיעני בבקר חסדך כי בך בטחתי הודיעני דרך זו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "אלך כי אליך נשאתי נפשי : הצילני מאיבי יהוה אליך כסיתי : למדני לעשות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "רצונך כי אתה אלוהי[?] רוחך טובה תנחני בארץ מישור : למען שמך יהוה תחייני",
+   "confidence": "low",
+   "uncertain_spans": [
+    "אלוהי[?]"
+   ]
+  },
+  {
+   "n": 25,
+   "text": "בצדקתך תוציא מצרה נפשי : ובחסדך תצמית איבי והאבדת כל צררי נפשי כי אני",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "עבדך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "לדוד ברוך יהוה צורי המלמד ידי לקרב אצבעתי למלחמה : חסדי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "ומצודתי משגבי ומפלטי לי מגני ובו חסיתי הרודד עמי תחתי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "יהוה מה אדם ותדעהו בן אנוש ותחשבהו : אדם להבל דמה ימיו כצל עובר : יהוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "הט שמיך ותרד גע בהרים ויעשנו : ברוק ברק ותפיצם שלח חציך ותהמם : שלח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "ידיך ממרום פצני והצילני ממים רבים מיד בני נכר : אשר פיהם דבר שוא וימינם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "ימין שקר : אלהים שיר חדש אשירה לך בנבל עשור אזמרה לך : הנותן תשועה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "למלכים הפוצה את דוד עבדו מחרב רעה : פצני והצילני מיד בני נכר אשר פיהם דבר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "שוא וימינם ימין שקר : אשר בנינו כנטעים מגדלים בנעוריהם בנותינו כזוית",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "מחטבות",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 24,
+   "span": "אלוהי[?]"
+  }
+ ],
+ "sha256_text": "237a720a62a1c71507cfd6975f9a9c66de1411f152a19ba78b003111ed8a17bd",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0344,
+   "bag_WER": 0.1158,
+   "ref_chars": 2125
+  }
+ },
+ "text_file": "../text/fol28b_spread31_right.txt"
+}

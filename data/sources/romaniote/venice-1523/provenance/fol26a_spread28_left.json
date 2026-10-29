@@ -1,0 +1,343 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 28,
+ "side": "left",
+ "folio": "26a",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של שבת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "ועל מלכות בית דוד משיחך ועל הבית הגדול והקדוש שנקרא שמך עליו ועלינו אבינו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "רענו זוננו פרנסנו כלכלנו הרויחנו הרוח לנו מהרה מכל צרותינו ואל נא תבטיחנו ואל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "נא תביאנו לידי מתנת בשר ודם לפי שמתנתם מעוטה וחרפתם מרובה אלא לידך הטובה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "המלאה העשירה השבעה הפתוחה הרוחה שלא נבוש בעולם הזה ולא נכלם לחיי העולם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "הבא כי בשם קדשך הגדול קוינו הראנו נחמה ישועה בקרוב בימינו והשב ישראל לנוהו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "ומלכותך ומלכות בית דוד משיחך החזירנה למקומה כי לך יהוה אלהינו מיחלות עינינו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "ולישועתך קוינו · ואף לפי שאכלנו ושתינו חרבן ביתך הגדול והקדוש ושאר פזור",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "גליותינו לא שכחנו ואל נא תשכחנו גם אתה לנצח כאמור אם אשכחך ירושלם תשכח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "ימיני תדבק לשוני לחכי אם לא אזכרכי אם לא אעלה את ירושלם על ראש שמחתי : ונאמר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "בונה ירושלם יהוה נדחי ישראל יכנס :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "[right column heading] בראש חדש ובמועד אומר זה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "[right column]",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "אלהינו ואלהי אבותינו יעלה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "ויבא יגיע יראה ירצה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "ישעה[?] ישמע יפקד ויזכר זכרוננו וזכרון",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ישעה[?]"
+   ]
+  },
+  {
+   "n": 17,
+   "text": "אבותינו וזכרון ירושלם עירך וזכרון משיח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "בן דוד משיחך וזכרון כל עמך ישראל יעלה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "לפניך לטובה ולרחמים | ביום המנוח[?] הזה",
+   "confidence": "low",
+   "uncertain_spans": [
+    "המנוח[?]"
+   ]
+  },
+  {
+   "n": 20,
+   "text": "ביום ראש חדש הזה | ביום חג המצות הזה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "ביום חג השבועות הזה | ביום הזכרון הזה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "ביום חג הסכות הזה | ביום שמיני עצרת הזה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "זכרנו יהוה אלהינו בו לטובה ופקדנו בו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "לברכה והושיענו בו לחיים טובים בדבר י",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "ישועה ורחמים חוס וחננו ורחם עלינו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "והושיענו מלטנו מכל צרה ומחלה מיגון",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "ואנחה כי אליך עינינו כי אל מלך חנון ורחום אתה : עד כאן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "[left column heading] אם הוא שבת אומר זה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "[left column]",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "רצה והחליצנו יהוה אלהינו בכל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "מצותיך ומצות יום השביעי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "השבת הגדול והקדוש הזה נשבות בו וננוח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "בו ונתענג בו באהבה כמצות חוקי רצונך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "ואל תהא לנו כלום צרה ויגון ואנחה ביום",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "מנוחתנו · כי כה אמר דוד הניח יהוה אלהי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 36,
+   "text": "ישראל לעמו וישכון בירושלם עד עולם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 37,
+   "text": "ונאמר שם אצמיח קרן לדוד ערכתי נר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 38,
+   "text": "למשיחי ותמלוך עלינו אתהו לבדך ות[?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ות[?]"
+   ]
+  },
+  {
+   "n": 39,
+   "text": "תושיענו למען שמך ותנחמנו · כי אתהו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 40,
+   "text": "בעל הנחמות ובעל הישועות · ברוך אתה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 41,
+   "text": "יהוה מנחם עמו ישראל בבנין ירושלם אמן :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 42,
+   "text": "[end columns]",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 43,
+   "text": "ברוך אתה יהוה בונה עירו עיר ירושלם אמן :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 44,
+   "text": "בחיינו במהרה בימינו תבנה עיר ציון וישוכלל אפריון ברוך אתה יהוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 45,
+   "text": "אלהינו מלך העולם תתברך האל לעד אבינו מלכנו מחסנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 46,
+   "text": "אדירנו בוראנו גואלנו קדושנו קדוש יעקב המלך הטוב והמטיב שבכל יום ויום",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 47,
+   "text": "הוא מטיב עמנו הוא יטיב אחריתנו הוא גמלנו הוא יגמלנו הוא עתיד לגמלנו לעדי עד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 48,
+   "text": "חיים חן וחסד וריוח ורחמים ובכל טוב נתברך באלהי אמן נשבע באלהי אמן :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 49,
+   "text": "הרחמן הוא ישתבח בשמים ובארץ : | הרחמן הוא יתפאר לדורי דורים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 16,
+   "span": "ישעה[?]"
+  },
+  {
+   "line": 19,
+   "span": "המנוח[?]"
+  },
+  {
+   "line": 38,
+   "span": "ות[?]"
+  }
+ ],
+ "sha256_text": "916258772a3b74468cc56657ee62c0a2c288f3a2a7b3d9f37030480e16ed4814",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.3459,
+   "bag_WER": 0.1221,
+   "ref_chars": 2096
+  }
+ },
+ "text_file": "../text/fol26a_spread28_left.txt"
+}

@@ -1,0 +1,240 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 32,
+ "side": "right",
+ "folio": "29b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של שבת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "אשר חפץ יהוה עשה בשמים ובארץ בימים וכל תהמות : מעלה נשאים מקצה הארץ",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "ברקים למטר עשה מוצא רוח מאוצרותיו : שהכה בכורי מצרים מאדם עד בהמה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "שלח אותת ומפתים בתוככי מצרים בפרעה ובכל עבדיו : שהכה גוים רבים והרג",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "מלכים עצומים : לסיחון מלך האמרי ולעוג מלך הבשן ולכל ממלכות כנען : ונתן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "ארצם נחלה נחלה לישראל עמו : יהוה שמך לעולם יהוה זכרך לדור ודר : כי ידין",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "יהוה עמו ועל עבדיו יתנחם : עצבי הגוים כסף וזהב מעשה ידי אדם : פה להם ולא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "ידברו עינים להם ולא יראו : אזנים להם ולא יאזינו אף אין יש רוח בפיהם : כמוהם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "יהיו עשיהם כל אשר בטח בהם : בית ישראל ברכו את יהוה בית אהרן ברכו את",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "יהוה : בית הלוי ברכו את יהוה יראי יהוה ברכו את יהוה : ברוך יהוה מציון שכן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "ירושלם הללויה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "ברוך שאמר והיה העולם ברוך הוא : ברוך אומר ועושה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "ברוך בורא בראשית : ברוך גוזר ומקיים : ברוך דן יחידי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "לכל באי העולם ברוך הוא : ברוך המרחם על הארץ : ברוך המרחם על הבריות :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "ברוך והוא כאחד ומי ישוכנו ברוך הוא : ברוך זן ומפרנס לכל : ברוך חי לעד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "וקיים לנצח : ברוך טוב ומטיב לכל : ברוך יחיד בעולמו ברוך הוא :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "ברוך כבודו ממקומו : ברוך לא יעף ולא יגע אין חקר לתבונתו ברוך הוא :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "ברוך מעביר אפלה ומביא אורה : ברוך נותן ליעף כח ולאין אונים עצמה ירבה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "ברוך הוא : ברוך סומך נופלים רופא חולים ומתיר אסורים : ברוך עושה גדולות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "עד אין חקר ונפלאות עד אין מספר ברוך הוא : ברוך פודה ומציל : ברוך פועל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "ישועות בקרב הארץ : ברוך צדיק וחסיד בכל הדורות ברוך הוא : ברוך קרוב לכל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "קראיו באמת : ברוך רם ונשא שוכן עד וקדוש שמו ברוך הוא : ברוך שאין לפניו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "לא עולה ולא שכחה לא כזב ולא מרמה לא משוא פנים ולא מקח שוחד ברוך הוא :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "ברוך תמים בכל דרכיו ככתוב האל תמים דרכו אמרת יהוה צרופה מגן הוא לכל החוסים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "בו : ויברכו שם כבודך ומרומם על כל ברכה ותהלה : כי יהוה עליון נורא מלך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "גדול על כל הארץ : כל הארץ ישתחוו לך ויזמרו לשמך עליון סלה : ברוך אתה יהוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "אלהינו מלך העולם האל המלך אב הרחמן המהולל המשובח והמפואר בפי עמו ובלשון",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "כל חסידיו ועבדיו ובשירי דוד עבדך בן ישי נהללך יהוה אלהינו נשבחך נפארך נרוממך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "ונמליכך ונזכיר את שמך מלכנו אלהינו יחיד חי העולמים מלך משובח ומפואר לעדי עד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "לנצח ברוך אתה יהוה מלך מהולל בשבחות :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "[small-type printed rubric]",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "מזמור שיר ליום השבת ה' מלך כתוב בערבית וגומר כל הזמירות עד וצבא השמים לך משתחוים אתהו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "ה' האלהים וגו' ושירת הים יהי שם ה' מבורך וגו' ואחר מתחיל נשמת ואומר עד בפי ישרים ועומד השליח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "ומתחיל בפי ישרים ויש נוהגים לומר נשמת קודם אתהו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "[catchword] נשמת",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "5927c1b580abbaceefaadbd8914ef64f0bec4c9294ebd501aaa154afaa103ee2",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0374,
+   "bag_WER": 0.1082,
+   "ref_chars": 2167
+  }
+ },
+ "text_file": "../text/fol29b_spread32_right.txt"
+}

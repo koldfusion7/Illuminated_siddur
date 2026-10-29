@@ -1,0 +1,247 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 47,
+ "side": "right",
+ "folio": "44b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של ראש חדש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "מדי חדש בחדשו ומדי שבת בשבתו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "טובו אהלי יעקב שנים ˙ ישראל ולוי שני מחנים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "שבת וחדש במאזנים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "כבד את יום השבת להפנג ˙ לשמוח בראש חדש ולהתענג",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "וקראת לשבת עונג :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "משבת אל שבת תהי מנחתכם ˙ נא ספרו לחדשכם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "וביום שמחתכם ומועדיכם ובראשי חדשיכם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "סדרו חדשיכם על כח הנחלקים ˙ עם לו שעות ותשצג חלקים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "ויום שלשים להקים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "פקודת ימים ויב' עונה ˙ צא אותם זו כלהנה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "וישאר בידך איב' תשצג' הנמנה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "קבצם עתה שנים עשר פעמים ˙ ראוים היות שנד' ושליש ימים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "וגם תתעו חלקים שלמים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "שלמים כלם זו להכפילה ˙ תשאר בידך דח תתעו סלה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "ובראשי חדשיכם תקריבו עולה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "עולה תקריבו בארץ דבש וחלב זבת ˙ ובשמים החדשים יעמדו נצורי כבבת[?] ˙",
+   "confidence": "low",
+   "uncertain_spans": [
+    "כבבת[?]"
+   ]
+  },
+  {
+   "n": 18,
+   "text": "אמונים בחורים לאל אשר שבת :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "ויש אומרים זה ליוצר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "ויהי | אדיר שחקים כמחקר דעה ˙ וכאהל מתחם בלי ליאות ויגיעה נוטה שמים כיריעה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "הקפיא נשיה על מים לכוססה[?] ˙ ועליה אורים לפאר ולנוססה ˙ יוצר הארץ ועושה :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "לכוססה[?]"
+   ]
+  },
+  {
+   "n": 22,
+   "text": "ויכלו שניהם במעשה ידיו ˙ לא קדם אחד מהם כאשר אמרו עדיו ˙ קורא אני עליהם יעמדו יחדיו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "יחדו שכם אחד בחרו לעבדו ˙ תמיד יגדל שמו וכבודו כי אין בלעדו : | קדוש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "מה | מתקו טעמי שבת ˙ ומה חלקו נועמי חדש :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "אמר שבת למנוחה ˙ רמה גביעי ˙ כי הנה אל מנוחה שעשועי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "ויברך אלהים את יום השביעי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "נשלם בי עולם ומתכנתו ˙ ומלאכים אמרו זה יום קדש האל לתפארתו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "כי בו שבת מכל מלאכתו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "ידעו להולכי דרך נכוחה ˙ ויקראהו שבת למנוחה ˙ ויספו ענוים בידוה שמחה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "שמחה לחי ולמת בערבו ˙ כי ששת ימים חבוט הקבר עצבו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "וביום השביעי שבת לא יהיה בו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "ויען | החדש ויאמר לשבת ˙ ידוע תדע שבת כבודי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "כי בי הלבנה מתחדשת ˙ ויש לאל ידי ˙ הנה בשמים עדי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "ואיכה",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 17,
+   "span": "כבבת[?]"
+  },
+  {
+   "line": 21,
+   "span": "לכוססה[?]"
+  }
+ ],
+ "sha256_text": "511a80062f97e84ace6b6a2daf293174f0f56bf7f63bcfc879735e6e6a737053",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0541,
+   "bag_WER": 0.1163,
+   "ref_chars": 1424
+  }
+ },
+ "text_file": "../text/fol44b_spread47_right.txt"
+}

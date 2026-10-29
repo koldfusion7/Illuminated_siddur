@@ -1,0 +1,240 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 26,
+ "side": "right",
+ "folio": "23b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של שבת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "וירא בצר להם בשמעו את רנתם ויזכור להם בריתו וינחם כרוב חסדיו ויתן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "אותם לרחמים לפני כל שוביהם · הושיענו יהוה אלהינו וקבצנו מן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "הגוים להודות לשם קדשך להשתבח בתהלתך · ברוך יהוה אלהי ישראל מן העולם ועד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "העולם ואמר כל העם אמן הללויה : הללויה הללו אל בקדשו הללוהו ברקיע עזו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "הללוהו בגבורותיו הללוהו כרב גדלו · הללוהו בתקע שופר הללוהו בנבל וכנור",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "הללוהו בתוף ומחול הללוהו במנים ועגב · הללוהו בצלצלי שמע הללוהו בצלצלי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "תרועה כל הנשמה תהלל יה הללויה : ועומד שליח ציבור ומתחיל יהוה הושיעה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "המלך יעננו ביום קראנו : ויש מתחילין",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "ברכו את יהוה המבורך : ועונין ברוך יהוה המבורך לעולם ועד :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "ברוך אתה יהוה אלהינו מלך העולם אשר בדברו מעריב ערבים בחכמה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "פותח שערים בתבונה משנה עתים מחליף את הזמנים מסדר את הככבים במשמרותיהם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "ברקיע כרצונו גולל אור מפני חשך וחשך מפני אור המעביר יום ומביא לילה המבדיל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "בין יום ובין לילה יהוה צבאות שמו ושמו אל חי וקיים תמיד הוא ימלוך עלינו לעולם ועד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "ברוך אתה יהוה המעריב ערבים : אהבת עולם בית ישראל עמך אהבת תורה ומצוות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "חקים ומשפטים אותנו למדת על כן יהוה אלהינו בשכבנו ובקמנו חן בלבנו ונשיח בחקי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "רצונך ונשמח ונעלוז בדברי תלמוד תורתך ובמצותיך לעולם ועד כי הם חיינו ואורך ימינו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "ובהם נהגה יומם ולילה ואהבתך וחסדך אל תסר ממנו עד נצח נצחים ברוך אתה יהוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "אוהב את עמו ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "שמע ישראל יהוה אלהינו יהוה אחד : ברוך שם כבוד מלכותו לעולם ועד :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "ואהבת את יהוה אלהיך בכל לבבך ובכל נפשך ובכל מאדך : והיו הדברים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "האלה אשר אנכי מצוך היום על לבבך : ושננתם לבניך ודברת בם בשבתך בביתך ובלכתך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "בדרך ובשכבך ובקומך : וקשרתם לאות על ידיך והיו לטוטפות בין עיניך : וכתבתם על",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "מזזות ביתך ובשעריך : והיה אם שמע תשמעו אל מצותי אשר אנכי מצוה אתכם היום",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "לאהבה את יהוה אלהיכם ולעבדו בכל לבבכם ובכל נפשכם : ונתתי מטר ארצכם בעתו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "יורה ומלקוש ואספת דגנך ותירושך ויצהרך : ונתתי עשב בשדך לבהמתך ואכלת ושבעת :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "השמרו לכם פן יפתה לבבכם וסרתם ועבדתם אלהים אחרים והשתחויתם להם : וחרה אף",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "יהוה בכם ועצר את השמים ולא יהיה מטר והאדמה לא תתן את יבולה ואבדתם מהרה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "מעל הארץ הטובה אשר יהוה נותן לכם : ושמתם את דברי אלה על לבבכם ועל נפשכם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "וקשרתם אותם לאות על ידכם והיו לטוטפות בין עיניכם : ולמדתם אותם את בניכם לדבר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "בם בשבתך בביתך ובלכתך בדרך ובשכבך ובקומך : וכתבתם על מזוזות ביתך ובשעריך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "למען ירבו ימיכם וימי בניכם על האדמה אשר נשבע יהוה לאבותיכם לתת להם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "כימי השמים על הארץ : ויאמר יהוה אל משה לאמר : דבר אל בני ישראל ואמרת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "אליהם ועשו להם ציצת על כנפי בגדיהם לדורותם ונתנו על ציצת הכנף פתיל תכלת :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "והית",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "4a98a3c024d95a6ae0ea3b72ff3118ffd0a93f1530b477a043f5a489ed540863",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0274,
+   "bag_WER": 0.0935,
+   "ref_chars": 2265
+  }
+ },
+ "text_file": "../text/fol23b_spread26_right.txt"
+}

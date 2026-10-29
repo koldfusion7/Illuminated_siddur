@@ -1,0 +1,240 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 27,
+ "side": "right",
+ "folio": "24b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של שבת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "הגבור והנורא אל עליון גומל חסדים טובים וקונה את הכל וזוכר חסדי אבות ומביא גואל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "לבני בניהם למען שמו באהבה מלך רחמן אל חי גואל עוזר ומושיע ומגן ברוך אתה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "יהוה מגן אברהם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "אתה גבור לעולם יהוה מחיה מתים אתה רב להושיע מוריד הטל ובחורף",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "משיב הרוח ומוריד הגשם מכלכל חיים בחסד מחיה מתים ברחמים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "רבים סומך נופלים רופא חולים מתיר אסורים משען לאביונים ומקיים אמונתו לישני",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "עפר מי כמוכה אדון הגבורות ומי דומה לך מלך ממית ומחיה ומצמיח לנו ישועה בקרוב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "ונאמן אתה להחיות מתים ברוך אתה יהוה מחיה המתים : לדור ודור נגיד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "גדלך ולנצח נצחים קדושתך נקדיש ושבחך יהוה אלהינו מפינו לא ימוש לעולם ועד כי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "אל מלך גדול וקדוש אתה ברוך אתה יהוה האל הקדוש :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "אתה קדשת את יום השביעי לשמך תכלית מעשה שמים וארץ וברכתו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "מכל הימים וקדשתו מכל הזמנים וכן כתוב בתורתך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "ויכלו השמים והארץ וכל צבאם ויכל אלהים ביום השביעי מלאכתו אשר עשה וישבות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "ביום השביעי מכל מלאכתו אשר עשה ויברך אלהים את יום השביעי ויקדש אותו כי בו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "שבת מכל מלאכתו אשר ברא אלהים לעשות : אלהינו ואלהי אבותינו רצה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "במנוחתנו קדשנו במצוותיך חן חלקנו בתורתך ושבענו בטוביך ושמח את נפשנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "בישועתך וטהר את לבנו לעבדך באמת ובלבב שלם והנחילנו יהוה אלהינו באהבה וברצון",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "את שבת קדשך וינוחו בו כל ישראל המקדשים את שמך ברוך אתה יהוה מקדש השבת :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "רצה יהוה אלהינו בעמך ישראל ובתפלתם שעה והשב עבודת כהנים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "לדביר ביתך ואישי ישראל בעבודתם ותפלתם מהרה באהבה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "תקבל ברצון ותהי לרצון תמיד עבודת עמך כל בית ישראל בימינו ותחזינה עינינו בשובך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "לציון ברחמים כמאז וכשנים קדמוניות ברוך אתה יהוה המשיב שכינתו לציון :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "מודים אנחנו לך שאתה הוא יהוה אלהינו ואלהי אבותינו על חיינו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "המסורים בידך ועל נשמותינו הפקודות לך הטוב כי לא כלו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "רחמיך המרחם וכי לא תמו חסדיך כי מעולם רבות קוינוך לא הכלמתנו יהוה אלהינו ולא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "עזבתנו ולא הסתרת פניך ממנו ועל כלם יתרומם ויתברך וישתבח שמך מלכנו לעולם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "ועד וכל החיים יודוך סלה ויהללו ויברכו ויודו לשמך הטוב באמת חי העולמים ונודה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "לך ברוך אתה יהוה הטוב שמך ולך נאה להודות :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "שים שלום טובה וברכה חיים חן וחסד וריוח ורחמים עלינו ועל כל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "ישראל עמך ברכנו אבינו כולנו יחד באור פניך כי באור",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "פניך נתת לנו יי אלהינו תורת חיים אהבה חן וחסד צדקה ברכה ישועה רחמים רבים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "ושלום וטוב יהיה בעיניך לברך את כל עמך ישראל תמיד בשלומך ברוך אתה יהוה המברך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "את עמו ישראל בשלום אמן : ומתחיל בקול רם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "ויכלו",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "0821e0168c84eaac11d692b45bd456dc2525ef895cc4d87601d4e189a5c227a8",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0559,
+   "bag_WER": 0.1091,
+   "ref_chars": 2094
+  }
+ },
+ "text_file": "../text/fol24b_spread27_right.txt"
+}

@@ -1,0 +1,259 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 23,
+ "side": "right",
+ "folio": "20b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות החול",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "רודפיהם בתהומות טבע וראו בנים את גבורתו והודו לשמו ומלכותו ברצון קבלו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "עליהם משה ובני ישראל לך ענו שירה בשמחה רבה כשעלו מן הים ענו ואמרו כולם מי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "כמוכה באלים יהוה מי כמוכה נאדר בקדש נורא תהלות עושה פלא · מפי עוללים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ויונקים שירה שמעת ועל שפת הים יחד כולם הודו והמליכו ענו ואמרו יהוה ימלוך לעולם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "ועד : ונאמר כי פדה יהוה את יעקב וגאלו מיד חזק ממנו ברוך אתה יהוה גאל ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "השכיבנו יי אלהינו לשלום והעמידנו מלכנו לחיים ולשלום ופרוס עלינו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "סוכת שלומך והגן בעדנו ותקננו בעצה שהיא טובה מלפניך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "ותושיענו למען שמך והסר מעלינו מכת אויב דבר חרב רעב ומשחית ומגפה ויגון ואנחה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "והשבת שטן מלפנינו ומאחרינו ושמור צאתנו ובואנו מעתה ועד עולם כי אל שומרנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "מצילנו אתה ברוך אתה יהוה שומר עמו ישראל לעד אמן : ברוך יי לעולם אמן ואמן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "ומלוך יהוה לעולם אמן ואמן ברוך יהוה מציון שוכן ירושלם הללויה · ברוך יהוה אלהים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "אלהי ישראל עושה נפלאות לבדו וברוך שם כבודו לעולם וימלא כבודו את כל הארץ",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "אמן ואמן · יהי כבוד יי לעולם ישמח יי במעשיו · כי לא יטוש יי את עמו בעבור שמו הגדול",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "כי הואיל יהוה לעשות אתכם לו לעם וירא כל העם ויפלו על פניהם ויאמרו יהוה הוא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "האלהים יהוה הוא האלהים והיה יי למלך על כל הארץ ביום ההוא יהיה יהוה אחד ושמו אחד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "יהי חסדך יהוה עלינו כאשר יחלנו לך הושיענו יהוה אלהינו וקבצנו מן הגוים להודות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "לשם קדשך להשתבח בתהלתך · כל גוים אשר עשית יבאו וישתחוו לפניך יהוה ויכבדו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "לשמך · ואנחנו עמך וצאן מרעיתך נודה לך לעולם לדור ודור נספר תהלתך · ברוך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "יהוה ביום ברוך יהוה בלילה ברוך יהוה בשכבנו ברוך יהוה בקומנו האלהים אשר בידו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "נפש כל חי ורוח כל בשר איש בידך אפקיר רוחי פדית אותי יהוה אל אמת אלהינו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "שבשמים יחד שמך וזכרך ושכלל היכלך וקיים מלכותך תמיד ואתה תמלוך עלינו לעולם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "ועד :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "יראו עינינו וישמח לבנו ותגל נפשנו בישועתך באמת באמר לציון מלך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "אלהיך יהוה מלך יהוה מלך יהוה ימלוך לעולם ועד כי המלכות שלך היא ולעולמי עד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "תמלוך בכבוד ברוך אתה יהוה המולך בכבודו חי וקים תמיד הוא ימלוך עלינו לעולם ועד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "ועל כל מעשיו לנצח :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "ויש נוהגין לומר במקום יראו עינינו יהללוך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "יהללוך יהוה אלהינו כל פה וכל לשון כי אתה עשיתם ואתה יצרתם יודוך מלכנו כל רוח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "ונשמה שאתה ממית ואתה מחיה את כלם ולך יהוה המלוכה והקדושה לבדך ואתה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "תמלוך עלינו לעולם בכבוד כי אין לנו מלך אלא אתה ברוך אתה יהוה מלך משובח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "ומפואר חי וקיים תמיד הוא ימלוך עלינו לעולם ועד ועל כל מעשיו לנצח :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "יתגדל ויתקדש שמיה רבה בעלמא דברא כרעותיה וימליך מלכותיה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "ויצמח פורקניה ויקרב משיחיה ויפרוק עמיה ברחמתיה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "בחייכון וביומכון ובחיי דכל בית ישראל בעגלא ובזמן קריב ואמרו אמן : יהא שמית",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 36,
+   "text": "רבה מברך לעלם ולעלמי עלמיא ויתברך וישתבח ויתפאר ויתרומם ויתנשא ויתהדר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 37,
+   "text": "ויתעלה",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "91157772ab17b7086ef78cce9615f03c4bc9493491cc794c8f4ca8aae334139d",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0346,
+   "bag_WER": 0.1161,
+   "ref_chars": 2369
+  },
+  "recheck_deskew_baseline_order": {
+   "cer": 0.0334,
+   "edits": 79,
+   "ref_chars": 2366,
+   "bag_WER": 0.1183,
+   "deskew_deg": -0.4
+  }
+ },
+ "text_file": "../text/fol20b_spread23_right.txt"
+}

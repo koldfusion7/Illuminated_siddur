@@ -1,0 +1,217 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 50,
+ "side": "left",
+ "folio": "48a",
+ "printed_folio_number": "מח",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של חנוכה | מח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "למועד דוד ונער קטן עמו : | ויאמר לנערו רץ מצא נא את החצים אשר אנכי מורה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "הנער רץ והוא ירה החצי להעברו : | ויבא הנער עד מקום החצי אשר ירה יהונתן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "ויקרא יהונתן אחרי הנער ויאמר הלוא החצי ממך והלאה : | ויקרא יהונתן אחרי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "הנער מהרה חושה אל תעמד וילקט נער יהונתן את החצי ויבא אל אדניו : | והנער",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "לא ידע מאומה אך יהונתן ודוד ידעו את הדבר : | ויתן יהונתן את כליו אל הנער אשר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "לו ויאמר לו לך הביא העיר : | הנער בא ודוד קם מאצל הנגב ויפל לאפיו ארצה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "וישתחו שלש פעמים וישקו איש את רעהו ויבכו איש את רעהו עד דוד הגדיל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "ויאמר יהונתן לדוד לך לשלום אשר נשבענו שנינו אנחנו בשם ידוה לאמר ידוה יהיה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "ביני ובינך ובין זרעי ובין זרעך עד עולם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "סדר | חנוכה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "בערב נכנסין לבית הכנסת ומתחיל החזן יי מלך ואחר כך אומר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "מזמור | שיר חנכת הבית לדוד : | ארוממך ידוה כי דליתני ולא שמחת אויבי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "לי : | ידוה אלהי שועתי אליך ותרפאני : | ידוה העלית מן שאול",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "נפשי חייתני מירדי בור : | זמרו לידוה חסידיו והודו לזכר קדשו : | כי רגע באפו חיים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "ברצונו בערב ילין בכי ולבקר רנה : | ואני אמרתי בשלוי בל אמוט לעולם : | ידוה ברצונך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "העמדתה להררי עז הסתרת פניך הייתי נבהל : | אליך ידוה אקרא ואל אדני אתחנן : | מה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "בצע בדמי ברדתי אל שחת היודך עפר היגיד אמתך : | שמע ידוה וחנני ידוה היה עוזר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "לי : | הפכת מספדי למחול לי פתחת שקי ותאזרני שמחה : | למען יזמרך כבוד ולא ידום",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "ידוה אלהי לעולם אודך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "הודו לה' כי טוב כסדר ר\"ח ואומר על הנסי' בהודאה ואם טעה קודם שיעקור רגליו מחזירין אותו לדעת ר\"ת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "אבל ר\"י והרמב\"ם וכל הפוסקים כתבו דאין מחזירין אותו מיהו הטור כתב שאם נזכר קודם שיסיים[?] ברכת",
+   "confidence": "low",
+   "uncertain_spans": [
+    "שיסיים[?]"
+   ]
+  },
+  {
+   "n": 23,
+   "text": "ההודאה חוזר אפילו בין אתה לה' כל זמן שלא הזכיר השם וכן בשחרית ובמוסף של שבת ור\"ח מזכיר על",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "הנסים והאומר בסוף כשם שעשית נסים לאבותינו טועה הוא ובברכת המזון מזכיר בברכת הארץ :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "על | הנסים ועל הגבורות ועל התשועות ועל המלחמות ועל הפדות ועל הפרקן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "שעשית לאבותינו בימים ההם בזמן הזה · בימי מתתיא בן יוחנן כהן גדול",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "חשמנאי ובניו כשעמדה עליהם מלכות יון הרשעה לשכחם מתורתך ולהעבירם מחקי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "רצונך ואתה ברחמיך הרבים עמדת להם בעת צרתם רבת את ריבם דנת את דינם נקמת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "את נקמתם מסרת גבורים ביד חלשים ורבים ביד מעטים ורשעים ביד צדיקים וטמאים ביד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "טהורים וזדים ביד עוסקי תורתך ולך עשית שם גדול וקדוש ולעמך ישראל עשית תשועה",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 22,
+   "span": "שיסיים[?]"
+  }
+ ],
+ "sha256_text": "ff82032b71dbc0ea20c67a91ecdbecf9c4e3f5c91ab0a8a5eb084d537f3e21be",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0579,
+   "bag_WER": 0.2141,
+   "ref_chars": 1987
+  }
+ },
+ "text_file": "../text/fol48a_spread50_left.txt"
+}

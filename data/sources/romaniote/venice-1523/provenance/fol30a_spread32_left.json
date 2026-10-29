@@ -1,0 +1,325 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 32,
+ "side": "left",
+ "folio": "30a",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של שבת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "נשמת כל חי תברך את שמך יהוה אלהינו ורוח כל בשר תפאר ותרומם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "זכרך מלכנו תמיד מהעולם ועד העולם אתה אל · ומבלעדיך אין",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "לנו מלך גואל עוזר ומושיע פודה ומציל בכל עת צרה וצוקה אלא אתה ולך אנחנו מודים ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "אלו פינו מלא שירה כים ולשוננו רנה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "כהמון גליו ושפתותנו שבח כמרחבי רקיע",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "ועינינו מאירות כשמש וירח וידינו פרושות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "כנשרי שמים ורגלינו קלות כאילות אין אנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "מספיקין להודות לך יהוה אלהינו ולברך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "את שמך על אחת מאלף אלפי אלפים ורבי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "רבבות פעמים הטובות שעשית עמנו ועם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "אבותינו ממצרים גאלתנו יהוה אלהינו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "ומבית עבדים פדיתנו מלכנו ברעב זנתנו ובשבע כלכלתנו מחרב הצלתנו ומדבר מלטתנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "מחלאים רעים רבים רפאתנו · ועד הנה עזרתנו ורחמיך לא עזבונו אל יעזבונו חסדיך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "יהוה אלהינו · לכן איברים שפלגת בנו ורוח ונשמה שנפחת באפנו ולשון אשר שמת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "בפינו · הן הם יודו ויברכו וישבחו לשמך יהוה אלהינו כי כל פה לך יודה וכל לשון בך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "תשבע וכל ברך לך תכרע וכל קומה לפניך תשתחוה וכל הלבבות יראוך והקרב והכליות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "יזמרו לשמך כל עצמותי תאמרנה יהוה מי כמוך מציל עני מחזק ממנו ועני ואביון מגזלו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "וכתוב רננו צדיקים ביהוה לישרים נאוה תהלה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "בפי ישרים תתרומם ובדברי צדיקים תתברך ובלשון",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "חסידים תתקדש ובקרב קדושים תתהלל · במקהלות רבבות עדת עמך כל בית ישראל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "יתפאר שמך וזכרך מלכנו בכל דור ודור שכן חובת כל הנוצרים הבאים לפניך יהוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "אלהינו ואלהי אבותינו להודות להלל לשבח לפאר לרומם לגדל ולקדש ולנצח לשמך על",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "כל דברי זמירות שירות ותושבחות · שאמר לפניך דוד בן ישי עבדך משיחך · ובכן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "יתרומם וישתבח שמך לעד מלכנו האל המלך הגדול והקדוש בשמים ובארץ · כי לך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "לברך נאה יהוה אלהינו ואלהי אבותינו שיר ושבח הלל וזמרה עוז וממשלה נצח גדולה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "וגבורה מלכות תפארת ועטרת והוד והדר וכבוד מעתה ועד עולם : ברוך אתה יהוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "האל המלך גדול השבחות רב ההודאות ואל ההודאות אדון הנפלאות אדיר בכל המעשים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "הבוחר בשירי זמרה מלך נאמן יחיד חי העולמים אמן :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "מלכותך יהוה אלהינו מלכות כל עולמים וממשלתך מלכנו בכל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "דור ודור שאתהו אדיר בקדושה ולך יאתה המלוכה יהי שם יהוה מבורך מעתה ועד עולם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "ממזרח שמש עד מבואו מהולל שם יהוה · יהוה אדונינו מה אדיר שמך בכל הארץ :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "גדלו ליהוה אתי ונרוממה שמו יחדו : גדול",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "יהוה ומהולל מאד ולגדולתו אין חקר :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "[small-type printed rubrics]",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 36,
+   "text": "יש אומרים אחר מלת אלא אתה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 37,
+   "text": "אלהי הראשונים והאחרונים אלוה כל בריות אדון כל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 38,
+   "text": "תולדות המהולל ברוב התשבחות המנהג[?] עולמו ·",
+   "confidence": "low",
+   "uncertain_spans": [
+    "המנהג[?]"
+   ]
+  },
+  {
+   "n": 39,
+   "text": "בחסד ובריותיו ברחמים ויי' ער[?] לא ינום ולא יישן",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ער[?]"
+   ]
+  },
+  {
+   "n": 40,
+   "text": "המעורר ישנים והמקיץ נרדמים מחיה מתים ורופא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 41,
+   "text": "חולים פוקח עורים וזוקף כפופים המשיח אלמים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 42,
+   "text": "המפענח נעלמים ולך לבדך אנחנו מודים וכו' :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 43,
+   "text": "מכאן מתחילין קצת מן הקהלות שאומרין נשמת אחר שירת הים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 44,
+   "text": "ואומר השירה עד ביום ההוא יהיה יי אחד ושמו אחד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 45,
+   "text": "ועומד השליח ואומר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 46,
+   "text": "ועונין",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 47,
+   "text": "וחוזר השליח ואומר גדול יי ומהולל וגו'",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 38,
+   "span": "המנהג[?]"
+  },
+  {
+   "line": 39,
+   "span": "ער[?]"
+  }
+ ],
+ "sha256_text": "5f8039cf22c59acb93a4673ea892e69741edb56190f3dfdac14c3a0c698db212",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.3619,
+   "bag_WER": 0.2014,
+   "ref_chars": 2379
+  }
+ },
+ "text_file": "../text/fol30a_spread32_left.txt"
+}

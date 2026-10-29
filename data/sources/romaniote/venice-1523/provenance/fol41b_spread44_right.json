@@ -1,0 +1,253 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 44,
+ "side": "right",
+ "folio": "41b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של ראש חדש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "את הירח וכוכבים לממשלות בלילה | כלח : | למכה מצרים בבכוריהם | כלח :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "ויוצא ישראל מתוכם | כלח : | ביד חזקה ובזרוע נטויה | כלח :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "לגוזר ים סוף לגזרים | כלח : | והעביר ישראל בתוכו | כלח :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ונער פרעה וחילו בים סוף | כלח : | למוליך עמו במדבר | כלח :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "למכה מלכים גדולים | כלח : | ויהרג מלכים אדירים | כלח :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "לסיחון מלך האמורי | כלח : | ולעוג מלך הבשן | כלח :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "ונתן ארצם לנחלה | כלח : | נחלה לישראל עבדו | כלח :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "שבשפלנו זכר לנו | כלח : | ויפרקנו מצרינו | כלח :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "נותן לחם לכל בשר | כלח : | הודו לאל השמים | כלח :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "שיר למעלות אשא עיני אל ההרים וגו' ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "וירא בצר להם בשמעו את רנתם : ויזכר[?] להם בריתו וינחם כרוב חסדיו : ויתן",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ויזכר[?]"
+   ]
+  },
+  {
+   "n": 13,
+   "text": "אותם לרחמים לפני כל שוביהם : הושיענו יהוה אלהינו וקבצנו מן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "הגוים להודות לשם קדשך להשתבח בתהלתך : ברוך יהוה אלהי ישראל מן העולם ועד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "העולם ואמר כל העם אמן הללויה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "הללויה הללו אל בקדשו הללוהו ברקיע עזו : הללוהו בגבורותיו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "הללוהו כרב גדלו : הללוהו בתקע שופר הללוהו בנבל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "וכנור : הללוהו בתוף ומחול הללוהו במנים ועגב : הללוהו בצלצלי שמע הללוהו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "בצלצלי תרועה : כל הנשמה תהלל יה הללויה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "ומתפללין ערבית ותפלה כסדר וכשמגיע להודאה אומ' אלהינו · ואם טעה ולא הזכיר של ר\"ח בתפלת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "שחרית ומנחה חוזר · בערבית אינו חוזר לפי שאין מקדשין החדש בלילה · ואם טעה שליח צבור אפילו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "בשחרית אין מחזירין אותו מפני טורח הצבור שהרי תפלת מוסף לפניו · ודין החזרה אם זכר קודם שעקר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "רגליו חוזר לעבודה ואם זכר אחר שעקר רגליו חוזר לראש · ובברכת המזון אומרים אלהינו בבונה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "ירושלם · ואם טעה אינו חוזר כלל דאי בעי לא אכיל ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "אלהינו ואלהי אבותינו יעלה ויבא יגיע יראה וירצה ישמע יפקד ו[?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ו[?]"
+   ]
+  },
+  {
+   "n": 26,
+   "text": "זכרוננו וזכרון אבותינו וזכרון ירושלם עירך וזכרון משיח בן דוד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "עבדך וזכרון כל עמך בית ישראל יעלה לפניך לטובה ולחן ולחסד ולרחמים ביום ראש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "חדש הזה זכרנו ידוה אלהינו בו לטובה ופקדנו בו לברכה והושיענו בו לחיים טובים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "בדבר ישועה ורחמים חוס וחננו ורחם עלינו והושיענו מלטנו מכל צרה ומחלה ויגון",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "ואנחה כי אליך עינינו כי אל מלך חנון ורחום אתה : | ותחזינה וכו'",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "בשחרית | מתפללין כסדר ויש אומרים בברכת התמיד גם כן ובראשי חדשיכם · והמנהיג כתב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "שאין לאמרו והטור מתיר לאמרו ואומ' אחר מלכות שמים ה' מלך שיר חדש הודו כסדר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "ואחר כך אומרים הודו לה' קראו בשמו ומדלגין בקצת קהלות תפלה למשה ולדוד אליך ה' מפני שהוא כורו[?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "כורו[?]"
+   ]
+  },
+  {
+   "n": 34,
+   "text": "ויש",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 12,
+   "span": "ויזכר[?]"
+  },
+  {
+   "line": 25,
+   "span": "ו[?]"
+  },
+  {
+   "line": 33,
+   "span": "כורו[?]"
+  }
+ ],
+ "sha256_text": "a6db3b83c110d84f1f33d969728c947ae87ce0415bab29be977fc67878206b84",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.1143,
+   "bag_WER": 0.3389,
+   "ref_chars": 1995
+  }
+ },
+ "text_file": "../text/fol41b_spread44_right.txt"
+}

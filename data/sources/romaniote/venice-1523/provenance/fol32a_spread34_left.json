@@ -1,0 +1,241 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 34,
+ "side": "left",
+ "folio": "32a",
+ "printed_folio_number": "לב",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של שבת לב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "שירה חדשה שבחו גאולים לשמך על שפת הים יחד כלם הודו והמליכו ענו ואמרו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "יהוה ימלוך לעולם ועד בגלל אבות הושעת בנים ותביא גאולה לבני בניהם כי מעולם אתה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "גואל ככתוב גואלנו יהוה צבאות שמו קדוש ישראל ברוך אתה יהוה גאל ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "אדני שפתי תפתח ופי יגיד תהלתך · ברוך אתה יהוה אלהינו ואלהי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "אבותינו אלהי אברהם אלהי יצחק ואלהי יעקב האל הגדול",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "הגבור והנורא אל עליון גומל חסדים טובים וקונה את הכל וזוכר חסדי אבות ומביא גואל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "לבני בניהם למען שמו באהבה מלך רחמן אל חי גואל עוזר ומושיע ומגן ברוך אתה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "יהוה מגן אברהם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "אתה גבור לעולם יהוה מחיה מתים אתה רב להושיע משיב הרוח ומוריד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "הגשם בקיץ מוריד הטל מכלכל חיים בחסד מחיה מתים ברחמים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "רבים סומך נופלים רופא חולים מתיר אסורים משען לאביונים ומקיים אמונתו לישני",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "עפר מי כמוכה אדון הגבורות ומי דומה לך מלך ממית ומחיה ומצמיח לנו ישועה בקרוב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "ונאמן אתה להחיות מתים ברוך אתה יהוה מחיה המתים : נקדש[?] את שמך",
+   "confidence": "low",
+   "uncertain_spans": [
+    "נקדש[?]"
+   ]
+  },
+  {
+   "n": 15,
+   "text": "בעולם כשם שמקדישין אותו בשמי מרום וכן כתוב על יד נביאך : וקרא זה אל זה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "ואמר קדוש קדוש קדוש יהוה צבאות מלא כל הארץ כבודו · לעומתם משבחים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "ואומרים ברוך כבוד יהוה ממקומו · ובדברי קדשך כתוב לאמר ימלוך יהוה לעולם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "אלהיך ציון לדור ודור הללויה · לדור ודור נגיד גדלך ולנצח נצחים קדושתך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "נקדיש[?] ושבחך יהוה אלהינו מפינו לא ימוש לעולם ועד כי אל מלך גדול וקדוש אתה",
+   "confidence": "low",
+   "uncertain_spans": [
+    "נקדיש[?]"
+   ]
+  },
+  {
+   "n": 20,
+   "text": "ברוך אתה יהוה האל הקדוש :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "ישמח משה במתנת חלקו כי עבד נאמן קראת אותו אלהינו כליל תפארת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "בראשו נתת בעמדו לפניך על הר סיני שני לוחות אבנים הוריד לנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "בידיו וכתוב בהן חק שמירת שבת וכן כתוב בתורתך · ושמרו בני ישראל את השבת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "לעשות את השבת לדרתם ברית עולם ביני ובין בני ישראל אות היא לעולם כי ששת ימים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "עשה יהוה את השמים ואת הארץ וביום השביעי שבת וינפש : חמדת ימים אותו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "קראת זכר למעשה בראשית · אלהינו ואלהי אבותינו רצה במנוחתינו קדשינו במצותיך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "תן חלקינו בתורתיך ושבענו בטובך ושמח את נפשנו בישועתך וטהר את לבנו לעבדך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "באמת ובלבב שלם והנחילנו יהוה אלהינו באהבה וברצון את שבת קדשך וינוחו בו כל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "ישראל המקדשים את שמך ברוך אתה יהוה מקדש השבת :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "רצה יהוה אלהינו בעמך ישראל ובתפלתם שעה והשב עבודת כהנים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "לדביר ביתך ואישי ישראל בעבודתם ותפלתם מהרה באהבה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "תקבל ברצון ותהי לרצון תמיד עבודת עמך כל בית ישראל בימינו ותחזינה עינינו בשובך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "לציון ברחמים כמאז וכשנים קדמוניות ברוך אתה יהוה המשיב שכינתו לציון :",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 14,
+   "span": "נקדש[?]"
+  },
+  {
+   "line": 19,
+   "span": "נקדיש[?]"
+  }
+ ],
+ "sha256_text": "5c6917328f6fbb309ef0270cd8486acaa39896f84ef2b34e0e77034965c2517c",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0398,
+   "wer": 0.1045,
+   "ref_chars": 2061
+  }
+ },
+ "text_file": "../text/fol32a_spread34_left.txt"
+}

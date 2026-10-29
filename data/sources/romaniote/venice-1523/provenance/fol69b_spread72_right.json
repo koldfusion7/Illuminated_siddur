@@ -1,0 +1,271 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 72,
+ "side": "right",
+ "folio": "69b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweeps 2 and 3. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של ארבע ערכים[?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ערכים[?]"
+   ]
+  },
+  {
+   "n": 2,
+   "text": "פונים אחרי לבם ˙ ואון ועמל בקרבם ˙ הן לא בידם טובם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "ויען המלך אחשורוש ויאמר להמן ˙ בנים לו קראם אלהיהם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "ואיך אוכל לנגוע בהם ˙ ידוה יריב ריבם וקבע את קובעיהם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "רדה עמים תחתם ובצר ˙ את בוצריהם ושמיהם לא עצר ˙ בכל צרתם לו צר :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "באר להם בספר תורתם ˙ ואף גם זאת בהיותם בגלותם ˙ לא מאסתים ולא געלתים לכלותם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "יסרם כאב לבנו ˙ וכתב להם בספר קנינו ˙ כל הנוגע בהם כנוגע בבבת עינו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "ויען המן ויאמר למלך אחשורוש ˙ ישנו ממצות והפרו חקים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "עם אחד ואין בהם צדיקים ˙ רחם משכיל ושדים[?] צומקים :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ושדים[?]"
+   ]
+  },
+  {
+   "n": 10,
+   "text": "עברו דתך וסרו ממצותיך ˙ מה תירא מהם והם ברשותך ˙ בכל מדינות מלכותך ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "קמם הכחד ועקור נטעם כי לא יתחתנו בך ולא תתחתן בזרעם ˙ ודתיהם שונות מכל עם : פוסים[?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "פוסים[?]"
+   ]
+  },
+  {
+   "n": 12,
+   "text": "ויען המלך אחשורוש ויאמר להמן ˙ בעבורם פרעה וחילו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "טבע בים סוף ומי זה מכילו ˙ ויעבר את אשר לו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "קרבם לסיני ודתו הנחילם ˙ ויאכילם המן ומעמים כלם ˙ סמוכים לעד לעולם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "לך מעלי רודף אביוניו ˙ פן יראה ידוה ורע בעיניו ˙ אל תלשן עבד אל אדוניו : יסרים[?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "יסרים[?]"
+   ]
+  },
+  {
+   "n": 16,
+   "text": "ויען המן ויאמר למלך אחשורוש ˙ עותו תורות והרבו מועדים לשמחה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "היום שבת ומחר הנחה ˙ לא ידעו עשות נכוחה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "יחבוט בקרקע כוסו וימאסנו ˙ אם תגע בו לא ישאנו ˙ טמא יטמאנו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "וזבוב אם יפול בתוכו וזהמתו ˙ ישליכוהו ממנו ולא יחתו ˙ אך שמריה ימצו ישתו : פוסים[?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "פוסים[?]"
+   ]
+  },
+  {
+   "n": 20,
+   "text": "ויען המלך אחשורוש ויאמר להמן ˙ חקים לא טובים אנכי אבזה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "שלח מעל פני לא אוכל אחזה ˙ אין נפשי אל העם הזה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "זאת טבעתי הויה על ימינך ˙ ולך נתון כספך וקנינך ˙ והעם לעשות בו כטוב בעיניך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "קראתי בכל לב מרום מראשון ˙ כי לך לבדך נשאתי אישון ˙ לאדם מערכי לב ומידוה מענה לשון :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "לשון הלשין ונמחה ˙ זבור כרה שם נפל ונדחה ˙ וליהודים היתה אורה ושמחה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "אופן בנגון כל ססון[?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ססון[?]"
+   ]
+  },
+  {
+   "n": 26,
+   "text": "יוצר הכל הקדים חובש למכה ˙ לעם עני ונבזה ˙ ושפל ודכא ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "אשר עמד המן ˙ בחמה שפוכה ˙ להשמיד להרוג ולדכא במדוכה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "ועשרת אלפים פלס במלוכה ˙ ומרדכי והעיר שושן נבוכה ˙ ומרדכי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "בני ציון היקרים ˙ תנו תודה וזמרה ˙ לאל גדול ונורא ˙ וגבור ועליון ונורא ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "אשר הפר עצתו ˙ ומחשבתו סרה ˙ וישלח עזרה אל עם נברא ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "ויתלו המן ובניו ˙ ואשתו הארורה ˙ ומרדכי יצא ˙ בלבוש מלכות ועטרה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "ומרדכי והעיר צהלה ושמחה : ומרדכי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "שגיא כח ˙ והצילם מאנחה ˙ ונהפך יגונם ˙ לששון ולשמחה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "ומאבל",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 1,
+   "span": "ערכים[?]"
+  },
+  {
+   "line": 9,
+   "span": "ושדים[?]"
+  },
+  {
+   "line": 11,
+   "span": "פוסים[?]"
+  },
+  {
+   "line": 15,
+   "span": "יסרים[?]"
+  },
+  {
+   "line": 19,
+   "span": "פוסים[?]"
+  },
+  {
+   "line": 25,
+   "span": "ססון[?]"
+  }
+ ],
+ "sha256_text": "6ea50f2c74e1cef36e5edd7e32d49a3656355a641cc3011fbdf91fbb13319ff6",
+ "proofed": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.0832,
+   "bag_WER": 0.1441,
+   "ref_chars": 1947
+  }
+ },
+ "text_file": "../text/fol69b_spread72_right.txt"
+}
