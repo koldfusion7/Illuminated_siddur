@@ -1,0 +1,241 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 120,
+ "side": "right",
+ "folio": "117b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של פסח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "לעושה השמים בתבונה | כלח | לרוקע הארץ על המים | כלח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "לעושה אורים גדולים | כלח | את השמש לממשלת ביום | כלח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "את הירח וכוכבים לממשלות בלילה | כלח | למכה מצרים בבכוריהם | כלח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ויוצא ישראל מתוכם | כלח | ביד חזקה ובזרוע נטויה | כלח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "לגוזר ים סוף לגזרים | כלח | והעביר ישראל בתוכו | כלח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "ונער פרעה וחילו בים סוף | כלח | למוליך עמו במדבר | כלח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "למכה מלכים גדולים | כלח | ויהרג מלכים אדירים | כלח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "לסיחון מלך האמורי | כלח | ולעוג מלך הבשן | כלח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "ונתן ארצם לנחלה | כלח | נחלה לישראל עבדו | כלח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "שבשפלנו זכר לנו | כלח | ויפרקנו מצרינו | כלח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "נותן לחם לכל בשר | כלח | הודו לאל השמים | כלח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "אז | רוב נסים הפלאת בלילה ˙ | בכל אשמורות זה הלילה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "גר צדק נצחתו כנחלק לו לילה ˙ | ויהי בחצי הלילה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "דנת מלך גרר בחצי הלילה ˙ | הפחדת ארמי באמש לילה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "וישראל ישר למלאך ויוכל לו לילה ˙ | ויהי בחצי הלילה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "זרע בכורי פתרוס מחצת בחצי הלילה ˙ | חילם לא מצאו בקומם בלילה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "טיסת נגיד חרושת סלית בכוכבי לילה : | ויהי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "יעץ מחרף לנופף באיווי ˙ | והובשת פגריו בלילה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "כרע בל ומצבו באישון לילה ˙ | לאיש חמודות נגלה רז חזות לילה ˙ | ויהי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "משתכר בכלי קדש נהרג בו בלילה ˙ | נושע מבור אריות פותר חלומות לילה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "שנאה נטר אגגי וכתב ספרים בלילה ˙ | ויהי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "עוררת נצחך עליו בנדדה שנת לילה ˙ | פורה תדרוך לשומר מה מלילה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "צרח כשומר ושח אתא בקר וגם לילה : | ויהי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "קרב קץ אשר הוא לא יום ולא לילה ˙ | רם תודיע כי לך יום אף לך לילה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "שומרים הפקד לעירך כל היום וכל הלילה ˙ | תאיר כאור יום חשכת לילה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "עושה | פלא במצרים כן עשה פלא בצורים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "במצרים שלחת אותות ומופתים ˙ | ובאדום תשלח תמרות עשן ומופתים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "מי כמוכה באלים ידוה ומי כמוך נאדר בקדש נורא תהלות עושה פלא ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "במצרים פסחת על הבתים ˙ | ובאדום תפסח על הר הזתים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "במצרים רכבת על עב קל לבא ˙ | ובאדום תרכב על עב קל וחבא :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "במצרים אמרנו קול דודי זה ˙ | ובציון נאמר הנה אלהינו זה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "במצרים שלחת משה ואהרן ˙ | ובציון תשלח נגיד ולבוש בדי ארון :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "במצרים הושעתנו שוכן רומה ובמהרה תגאלנו מעול ישמעאל ורומה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "ואומר",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "5528bc8665b28effa034bb40e53ae5a8865a4b7f06848d8ceaa945242f70ecca",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.097,
+   "wer": 0.18
+  }
+ },
+ "text_file": "../text/fol117b_spread120_right.txt"
+}

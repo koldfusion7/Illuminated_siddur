@@ -1,0 +1,229 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 108,
+ "side": "left",
+ "folio": "106a",
+ "printed_folio_number": "קו",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות לשבת הגדול",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "צעק משה והתפלל לפני האל ˙ | אנא ידוה מושיע וגואל ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "למה ידוה אלהי ישראל ˙ | היתה זאת בישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "מאז באתי אל פרעה לדבר בשמך ˙ | הרע לעם הזה ולא הצלת אנשי שלומך ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "הושע ידוה את עמך ˙ | את שארית ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "דבר אתו אלהים משמים ˙ | אני אשפוך חמתי בחרון אפים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "לפרעה ולמצרים ˙ | על אודות ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "עתה תראה מה אעשה לפרעה הפושע ˙ | ואת עמי אוציא בחוזק יד ובזרוע ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "ואת שם קדשי אודיע ˙ | בתוך בני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "בא דבר אל פרעה רודף אביוני ˙ | שלח עמי ויעבדון לפני ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "לבוא בהר ידוה ˙ | אל צור ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "פרעה ואנשיו בדבר ידוה לא שמעו ˙ | החזיקו לבם וערפם הקשו והרעו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "כי עצמו מאד ולא שעו ˙ | על קדוש ישראל ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "הפך מימי היאור לדם וילאו לשתות בו ˙ | צפרדעים השריץ בארצו בחדר משכבו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "כי נטה לבבו ˙ | מעם ידוה אלהי ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "נהיה עפרם כנים ערוב ודבר הבחילם בפחד ˙ | מאדם עד בהמה הכרית וקימם נכחד ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "ולא מת אחד ˙ | ממקנה בני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "שחין פורח בבשרם רשם : | ברד השחית עצם וכל ארצם השם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "רק בארץ גושן אשר שם ˙ | בני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "העלה ארבה וישם ארצם לשמה ˙ | חשך החשיך ולא נותרה בם נשמה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "כי עשו זימה ˙ | ונבלה בישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "הכם מבכור פרעה עד בכור השפחה ˙ | ותהי צעקה גדולה במצרים בכי ואנחה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "ולא היתה בם עוד רוח ˙ | מפני בני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "ויקרא פרעה למשה ויאמר עתה ידעתי ˙ | נפלאות אלהיך ומעשיו ראיתי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "אמנה אנכי חטאתי ˙ | לידוה אלהי ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "צא אתה והעם אשר אתך ממקומי ˙ | כאשר דברתם ולכו ולא יכרת שמי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "קמו צאו מתוך עמי ˙ | גם אתם גם בני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "ויסעו כל העם ממצרים יצאו חפשים ˙ | וינצלו את מצרים אנשים ונשים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "וחמושים ˙ | עלו בני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "ויהפך לבב פרעה ועבדיו מאנו ˙ | למה הנחנו את ישראל מעובדנו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "מה זאת עשינו ˙ | כי שלחנו את ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "ויאסור את רכבו ויקח מכל גבורי ˙ | עמו שולף חרב וחץ יורה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "וירדוף אחרי ˙ | בני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "125653c221a38dbccdff2176aa92ad69028960c597ffc79b212b0ea8cd5f071c",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.16,
+   "wer": 0.273
+  }
+ },
+ "text_file": "../text/fol106a_spread108_left.txt"
+}

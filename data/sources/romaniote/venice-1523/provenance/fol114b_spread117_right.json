@@ -1,0 +1,123 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 117,
+ "side": "right",
+ "folio": "114b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "# leaf 114b (spread 117 right). Square type PROOFED; lines tagged [RASHI-UNPROOFED] are raw OCR, not proofed.",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "הגדה של פסח",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "בית מקדשך ושם נאכל מן הזבחים ומן הפסחים אשר יגיע דמם על קיר מזבחך לרצון",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "ונודה לך שיר חדש על גאולתנו ועל פדות נפשנו ברוך אתה ידוה גאל ישראל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ברוך אתה ידוה אלהינו מלך העולם בורא פרי הגפן :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "[RASHI-UNPROOFED] raw lines 6-7",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "ברוך אתה ידוה אלהינו מלך העולם המוציא לחם מן הארץ :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "[RASHI-UNPROOFED] raw lines 9-12",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "ברוך אתה ידוה אלהינו מלך העולם אשר קדשנו במצותיו וצונו על אכילת מצה :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "[RASHI-UNPROOFED] raw lines 14-16",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "ברוך אתה ידוה אלהינו מלך העולם אשר קדשנו במצותיו וצונו על אכילת מרור :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "[RASHI-UNPROOFED] raw lines 18-20",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "זכר למקדש כהלל הזקן שהיה כורכן ואוכלן בבת אחת לקיים מה שנאמר על מצות",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "ומרורים יאכלוהו :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "[RASHI-UNPROOFED] raw lines 23-34",
+   "confidence": "low",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "6dd3f90bb5782e8ed90cb03eff042dcbed1ee57538220ed4a38cd7edb12a9af3",
+ "proofed": false,
+ "status": "partial",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.1458,
+   "wer": 0.3737,
+   "scope": "square type only"
+  }
+ },
+ "text_file": "../text/fol114b_spread117_right.txt",
+ "proofing_note": "Partly proofed page: Rashi-type notes or rubrics, or other explicitly marked lines, await expert proofreading. Supplied markers are retained unchanged. Supplied CER/WER values for partly proofed sides are approximate; they are retained without recomputation. Low line confidence conservatively reflects the mixed proofing scope."
+}

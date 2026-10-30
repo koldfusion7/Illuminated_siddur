@@ -1,0 +1,195 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 102,
+ "side": "left",
+ "folio": "100a",
+ "printed_folio_number": "ק",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של שבת הגדול | ק",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "השער ההוא בשבתות ובחדשים לפני ידוה : והעלה אשר יקריב הנשיא לידוה ביום השבת",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "ששה כבשים תמימים ואיל תמים : ומנחה איפה לאיל ולכבשים מנחה מתת ידו ושמן הין",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "לאיפה : וביום החדש פר בן בקר תמימים וששת כבשים ואיל תמימים",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "יהיו : ואיפה לפר ואיפה לאיל יעשה מנחה ולכבשים כאשר תשיג ידו ושמן הין לאיפה :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "ובבוא הנשיא דרך אולם השער יבוא ובדרכו יצא : ובבוא עם הארץ לפני ידוה במועדים",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "הבא דרך שער צפון להשתחות יצא דרך שער נגב והבא דרך שער נגב יצא דרך שער",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "צפונה לא ישוב דרך השער אשר בא בו כי נכחו יצאו : והנשיא בתוכם בבואם יבוא",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "ובצאתם יצאו : ובחגים ובמועדים תהיה המנחה איפה לפר ואיפה לאיל ולכבשים מתת ידו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "ושמן הין לאיפה : וכי יעשה הנשיא נדבה עולה או שלמים נדבה לידוה ופתח לו את",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "השער הפנה קדים ועשה את עולתו ואת שלמיו כאשר יעשה ביום השבת ויצא וסגר את",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "השער אחרי צאתו : וכבש בן שנתו תמים תעשה עולה ליום לידוה בבקר בבקר תעשה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "אתו :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "[RASHI-TYPE NOTE, 7 lines — UNPROOFED; raw OCR in s102_left_NOTE_UNPROOFED_rawOCR.txt]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "סדר שבת הגדול | פתיחה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "נדיבי עמים ˙ | צורכם לרצות ˙ | שבעת ימים ˙ | תאכל מצות : | שבעת",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "שם אל זכרו ˙ | ודרשו וחקרו פלאיו אמרו ˙ וחמץ בערו ˙ כשנו וגמרו חכמי מליצות : | שבעת",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "רם[?] עליליה שוכן עליה ˙ הקדים רטיה ˙ ופרה שבויה ˙ סוערה עניה ˙ והגדיל תושיה ˙",
+   "confidence": "low",
+   "uncertain_spans": [
+    "רם[?]"
+   ]
+  },
+  {
+   "n": 19,
+   "text": "והפליא עצות : | שבעת",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "קדיש",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "נעלה | ברוב אונים ועצמה ˙ | יתגדל שמיה רבא בעלמא : | נעלה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "אשר נטה שחקים בכחו ˙ | ושפר שמים ברוחו ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "ומגיד לאדם מה שיחו ˙ | מוציא לאור תעלומה : | נעלה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "בידו רוח כל בשר איש ˙ | עושה כסיל וכימה ועיש ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "ישאג כלביא וכליש ˙ | ידוה אדוננו נגילה ונרוממה : | נעלה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "יב ד",
+   "confidence": "low",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 18,
+   "span": "רם[?]"
+  }
+ ],
+ "sha256_text": "804aa25b47e8e09d2629322cbd982d917096cae1bb2ecb5e1cf1f0e7a533f042",
+ "proofed": false,
+ "status": "partial",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.081,
+   "wer": 0.195
+  }
+ },
+ "text_file": "../text/fol100a_spread102_left.txt",
+ "proofing_note": "Partly proofed page: Rashi-type notes or rubrics, or other explicitly marked lines, await expert proofreading. Supplied markers are retained unchanged. Separate unproofed note or rubric OCR is not included in the corrected page text or its line records; references to those supplied files are retained unchanged. Supplied CER/WER values for partly proofed sides are approximate; they are retained without recomputation. Low line confidence conservatively reflects the mixed proofing scope."
+}

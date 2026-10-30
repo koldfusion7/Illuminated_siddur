@@ -1,0 +1,242 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 119,
+ "side": "right",
+ "folio": "116b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של פסח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "ידוה זכרנו יברך יברך את בית ישראל יברך את בית אהרן : יברך יראי ידוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "הקטנים עם הגדולים : יוסף ידוה עליכם עליכם ועל בניכם : ברוכים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "אתם לידוה עושה שמים וארץ השמים שמים לידוה והארץ נתן לבני אדם : לא המתים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "יהללו יה ולא כל יורדי דומה : ואנחנו נברך יה מעתה ועד עולם הללויה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "אהבתי כי ישמע ידוה את קולי תחנוני : כי הטה אזנו לי ובימי אקרא :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "אפפוני חבלי מות ומצרי שאול מצאוני צרה ויגון אמצא :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "ובשם ידוה אקרא אנא ידוה מלטה נפשי : חנון ידוה וצדיק ואלהינו מרחם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "שומר פתאים ידוה דלותי ולי יהושיע : שובי נפשי למנוחייכי כי ידוה גמל עליייכי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "כי חלצת נפשי ממות את עיני מן דמעה את רגלי מדחי אתהלך לפני ידוה בארצות החיים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "האמנתי כי אדבר אני עניתי מאד : אני אמרתי בחפזי כל האדם כוזב :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "מה אשיב לידוה כל תגמולוהי עלי : כוס ישועות אשא ובשם ידוה אקרא :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "נדרי לידוה אשלם נגדה נא לכל עמו : יקר בעיני ידוה המותה לחסידיו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "אנה ידוה כי אני עבדך אני עבדך בן אמתך פתחת למוסרי : לך אזבח זבח תודה ובשם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "ידוה אקרא : נדרי לידוה אשלם נגדה נא לכל עמו : בחצרות בית ידוה בתוככי ירושלם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "הללויה : הללו את ידוה כל גוים שבחוהו כל האמים : כי גבר עלינו חסדו ואמת ידוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "לעולם הללויה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "הודו לידוה כי טוב כי לעולם חסדו : יאמר נא ישראל כי לעולם חסדו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "יאמרו נא בית אהרן כי לעולם חסדו : יאמרו נא יראי ידוה כי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "לעולם חסדו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "מן המצר קראתי יה ענני במרחב יה : ידוה לי לא אירא מה יעשה לי אדם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "ידוה לי בעוזרי ואני אראה בשונאי : טוב לחסות בידוה מבטוח באדם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "טוב לחסות בידוה מבטוח בנדיבים : כל גוים סבבוני בשם ידוה כי אמילם : סבוני",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "גם סבבוני בשם ידוה כי אמילם : סבוני כדבורים דועכו כאש קוצים בשם ידוה כי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "אמילם : דחה דחיתני לנפול וידוה עזרני : עזי וזמרת יה ויהי לי לישועה : קול רנה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "וישועה באהלי צדיקים ימין ידוה עושה חיל : ימין ידוה רוממה ימין ידוה עושה חיל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "לא אמות כי אחיה ואספר מעשה יה : יסור יסרני יה ולמות לא נתנני : פתחו לי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "שערי צדק אבא בם אודה יה : זה השער לידוה צדיקים יבאו בו : אודך כי עניתני",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "ותהי לי לישועה : אבן מאסו הבונים היתה לראש פנה : מאת ידוה היתה זאת היא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "נפלאת בעינינו : זה היום עשה ידוה נגילה ונשמחה בו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "אנא ידוה הושיעה נא אנא ידוה הצליחה נא : ברוך הבא בשם ידוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "ברכנוכם מבית ידוה : אל ידוה ויאר לנו אסרו חג בעבותים עד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "קרנות המזבח : אלי אתה ואודך אלהי ארוממך : הודו לידוה כי טוב כי לעולם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "חסדו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "יהללוך",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "d0ad58a98bdbd6f214b2e06067d6b73954c52b8054e1dabc802536576c7fdbdf",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.101,
+   "wer": 0.216
+  }
+ },
+ "text_file": "../text/fol116b_spread119_right.txt",
+ "proofing_note": "Proofreading was not strictly at full resolution and needs re-checking."
+}

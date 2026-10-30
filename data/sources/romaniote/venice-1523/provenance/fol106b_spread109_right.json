@@ -1,0 +1,242 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 109,
+ "side": "right",
+ "folio": "106b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של שבת הגדול",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "כאשר יצאו את העיר ולא הרחיקו ˙ | השיגום חונים על הים ואת עמי הדביקו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "וייראו מאר[?] ויצעקו ˙ | בני ישראל :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "מאר[?]"
+   ]
+  },
+  {
+   "n": 4,
+   "text": "נפל משה ולארץ הרכין ראשו ˙ | ויצעק אל ידוה בצקון לחשו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ותקצר נפשו ˙ | בעמל ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "ידוה אמר לו קום וראה מפעלי ˙ | משפטי אודיע למצרים ומעללי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "מה תצעק אלי ˙ | דבר אל בני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "אחשוף זרועי ואכה כל חיל מצרים ˙ | היום אושיע את עמי ויצאו פרויים[?] ˙",
+   "confidence": "low",
+   "uncertain_spans": [
+    "פרויים[?]"
+   ]
+  },
+  {
+   "n": 9,
+   "text": "וידעו כל הגוים ˙ | כי אני ידוה מקדש את ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "ואתה הרם מטך בים ויבשהו ˙ | וגזור את מימיו בתוך וחלקהו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "ונטה ידך על הים ובקעהו ˙ | ויבואו בני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "ויט משה ידו על הים ויעש חומותים ˙ | ויהי חשך למצרים ולישראל אור שבעתים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "ויאמר מצרים ˙ | אנוסה מפני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "וישב ידוה את הים על פרעה ויכסהו ˙ | חילו ופרשיו וכל מחנהו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "ויושע ידוה ביום ההוא ˙ | את ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "ידוה נלחם בעדי בכבודו ˙ | וינער את מצרים ואל תהום הורידו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "ויאמינו בידוה ובמשה עבדו ˙ | אז ישיר משה ובני ישראל ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "ולפני צאתנו ידוה הזהירנו ˙ | לקחת שה במכסת נפשותינו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "בכסה ליום חגינו ˙ | כי חק לישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "נאכל שלם באמוריו לבל ישאירו לבקרים ˙ | צלי אש ומצות על מרורים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "הלילה הזה לידוה שמורים ˙ | לכל בני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "תושב ושכיר וערל כל זכר ˙ | חמול ימול ואז יאכל אשכר ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "לכל בן נכר ˙ | בתוך בני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "חקה אחת יהיה לכם ˙ | ולכל אשר בארצכם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "לאזרח ולגר הגר בתוככם ˙ | ויעשו כל בני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "צונו להשבית שאור וחמץ ˙ | בחמש שעות ובשש יבעיר וימץ ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "כי כל אוכל חמץ ˙ | ונכרתה הנפש ההיא מישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "מצות יאכל ואת שם החמץ תמחוק ˙ | אל ימצא בתחומין למרחוק ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "וישמיה לחק ˙ | ולמשפט לישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "שבעת ימים שאור לא ימצא בביתם ˙ | מועדי ידוה מקרא קדש תקראו אותם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "חקת עולם לדורותם ˙ | מאת בני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "מצוה להגיד לבנינו ולמלל ˙ | ולשבח לאל בורא עולם ותבל מחולל ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "להודות להלל ˙ | לידוה אלהי ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 3,
+   "span": "מאר[?]"
+  },
+  {
+   "line": 8,
+   "span": "פרויים[?]"
+  }
+ ],
+ "sha256_text": "737a691f550650100235977f2737a27338995ecb8e1534dc262034bc77e0c897",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.039,
+   "wer": 0.139
+  }
+ },
+ "text_file": "../text/fol106b_spread109_right.txt"
+}

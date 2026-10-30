@@ -1,0 +1,236 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 84,
+ "side": "left",
+ "folio": "82a",
+ "printed_folio_number": "פב",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של פורים | פב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "ידוה אלהי אם עשיתי זאת אם יש עול בכפי : אם גמלתי שלמי[?] רע ואחלצה צוררי",
+   "confidence": "low",
+   "uncertain_spans": [
+    "שלמי[?]"
+   ]
+  },
+  {
+   "n": 3,
+   "text": "ריקם : ירדוף אויב נפשי וישג וירמס לארץ חיי וכבודי לעפר ישכן סלה : קומה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "ידוה באפך הנשא בעברות צוררי ועורה אלי משפט צוית : ועדת לאמים תסובבך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ועליה למרום שובה : ידוה ידין עמים שפטני ידוה כצדקי וכתמי עלי : יגמר נא רע",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "רשעים ותכונן צדיק ובוחן לבות וכליות אלהים צדיק : מגני על אלהים מושיע ישרי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "לב : אלהים שופט צדיק ואל זועם בכל יום : אם לא ישוב חרבו ילטוש קשתו דרך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "ויכוננה : ולו הכין כלי מות חציו לדולקים יפעל : הנה יחבל און והרה עמל וילד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "שקר : בור כרה ויחפרהו ויפול בשחת יפעל : ישוב עמלו בראשו ועל קדקדו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "חמסו ירד : אודה ידוה כצדקו ואזמרה שם ידוה עליון : | הודו לה'",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "הללויה הללו וכו ומתפללין כסדר וכשמגיע להודאה עד ולא הסתרת פניך ממנו אומר ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "על | הנסים ועל הגבורות ועל התשועות ועל המלחמות ועל הפדות ועל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "הפורקן שעשית לאבותינו בימים ההם בזמן הזה בימי מרדכי ואסתר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "בשושן הבירה כשעמד עליהם המן הרע ובקש להשמיד להרוג ולאבד את כל היהודים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "מנער ועד זקן טף ונשים ביום אחד ושללם לבוז ואתה ברחמיך הרבים הפרת את עצתו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "וקלקלת את מחשבתו והשבות לו גמולו בראשו ותלו אותו ואת בניו על העץ : ועל כלם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "ואומר קדיש ועומד הקורא לקרוא ומברך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "ברוך | אתה ידוה אלהינו מלך העולם אשר קדשנו במצותיו וצונו על מקרא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "מגלה : ברוך אתה ידוה אלהינו מלך העולם שעשה נסים לאבותינו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "בימים ההם בזמן הזה : ברוך אתה ידוה אלהינו מלך העולם שהחיינו וקימנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "והגיענו לזמן הזה : ואומר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "ויהי | בימי אחשורוש הוא אחשורוש המלך מהדו ועד כוש שבע ועשרים ומאה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "מדינה : בימים ההם כשבת המלך אחשורוש על כסא מלכותו אשר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "בשושן הבירה : בשנת שלוש למלכו עשה משתה לכל שריו ועבדיו חיל פרס ומדי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "הפרתמים ושרי המדינות לפניו : בהראותו את עשר כבוד מלכותו ואת יקר תפארת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "גדולתו ימים רבים שמונים ומאת יום : ובמלואת הימים האלה עשה המלך לכל העם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "הנמצאים בשושן הבירה למגדול ועד קטן משתה שבעת ימים בחצר גנת ביתן המלך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "חור כרפס ותכלת אחוז בחבלי בוץ וארגמן על גלילי כסף ועמודי שש מטות זהב וכסף על",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "רצפת בהט ושש ודר וסחרת : והשקות בכלי זהב וכלים מכלים שונים ויין מלכות רב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "כיד המלך : והשתיה כדת אין אנס כי כן יסד המלך על כל רב ביתו לעשות כרצון איש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "ואיש : גם ושתי המלכה עשתה משתה נשים בית המלכות אשר למלך אחשורוש :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "ביום השביעי כטוב לב המלך ביין אמר למהומן בזתא חרבונא בגתא ואבגתא זתר וכרכס",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "יא ב",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 2,
+   "span": "שלמי[?]"
+  }
+ ],
+ "sha256_text": "058485fdf8735bbf95cf2d04792924f013d9d869d95d333526dd9c7a7bbc6bd9",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.071,
+   "wer": 0.186
+  }
+ },
+ "text_file": "../text/fol82a_spread84_left.txt"
+}

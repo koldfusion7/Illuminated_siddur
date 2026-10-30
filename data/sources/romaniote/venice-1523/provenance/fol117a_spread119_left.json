@@ -1,0 +1,218 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 119,
+ "side": "left",
+ "folio": "117a",
+ "printed_folio_number": "קיז",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של פסח קיז",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "יהללוך מעשיך ישבחוך עמוסיך יודוך חוסיך כפי גודל נסיך וכתוב כל הנשמה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "תהלל יה הללויה : ברוך אתה ידוה מלך מהלל בתושבחות :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "נשמת כל חי תברך את שמך ידוה אלהינו ורוח כל בשר תפאר ותרומם",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "זכרך מלכנו תמיד מהעולם ועד העולם אתה אל ˙ ומבלעדיך אין",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "לנו מלך גואל עוזר ומושיע פודה ומציל בכל עת צרה וצוקה אלא אתה ולך אנחנו מודים",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "אילו פינו מלא שירה כים ולשוננו רנה כהמון גליו ושפתותינו שבח כמרחבי רקיע",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "ועינינו מאירות כשמש וירח וידינו פרושות כנשרי שמים ורגלינו רצות כאילות אין אנו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "מספיקין להודות לך ידוה אלהינו ולברך את שמך על אחת מאלף אלפי אלפים ורבי",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "רבבות פעמים הטובות שעשית עמנו ועם אבותינו ממצרים גאלתנו ידוה אלהינו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "ומבית עבדים פדיתנו מלכנו ברעב זנתנו ובשבע כלכלתנו מחרב הצלתנו ומדבר מלטתנו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "מחלאים רעים רבים רפאתנו ˙ ועד הנה עזרתנו רחמיך ולא עזבונו ואל יעזבונו חסדיך",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "ידוה אלהינו ˙ לכן איברים שפלגת בנו ורוח ונשמה שנפחת באפינו ולשון אשר שמת",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "בפינו הן הם יודו ויברכו וישבחו לשמך ידוה אלהינו כי כל פה לך יודה וכל לשון לך",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "תשבע וכל ברך לך תכרע וכל קומה לפניך תשתחוה וכל הלבבות ייראוך והקרב והכליות",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "יזמרו לשמך כל עצמותי תאמרנה ידוה מי כמוך מציל עני מחזק ממנו ועני ואביון מגזלו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "וכתוב רננו צדיקים בידוה לישרים נאוה תהלה :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "בפי ישרים תתרומם ובדברי צדיקים תתברך ובלשון חסידים תתקדש ובקרב",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "קדושים תתהלל : במקהלות רבבות רבבות עמך כל בית ישראל יתפאר",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "שמך מלכנו בכל דור ודור שכן חובת כל היצורים הבאים לפניך ידוה אלהינו ואלהי",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "אבותינו להודות להלל לשבח לפאר לרומם לגדל ולקדש ולנצח לשמך על כל דברי",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "זמירות שירות ותושבחות ˙ שאמר לפניך דוד בן ישי עבדך משיחך ˙ ובכן יתרומם",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "וישתבח שמך לעד מלכנו האל המלך הגדול והקדוש בשמים ובארץ ˙ כי לך לבדך נאה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "ידוה אלהינו ואלהי אבותינו שיר ושבח הלל וזמרה ברכה והודאות הוד והדר וכבוד מלכות",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "מעתה ועד עולם : ברוך אתה ידוה אל מלך גדול בתשבחות רב ההודאות אדון",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "הנפלאות אדיר בכל המעשים הבוחר בשירי זמרה מלך נאמן יחיד חי העולמים˙ אמן :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "[UNPROOFED: 3-line Rashi-type rubric (כוס חמישי / הלל הגדול) — for expert proofreader]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "הודו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "לידוה כי טוב כי לעולם חסדו :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "הודו לאלהי האלהים כי לעולם חסדו :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "[UNPROOFED: last line (הודו לאדוני האדונים … כלח … לעושה נפלאות גדולות לבדו … כלח) not verified at 1:1 before cutoff]",
+   "confidence": "low",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "0bd6f933da7bb676058127ab5e03093002a07118957cb33bbc51f16abd8cc144",
+ "proofed": false,
+ "status": "partial",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.162,
+   "wer": 0.29
+  }
+ },
+ "text_file": "../text/fol117a_spread119_left.txt",
+ "proofing_note": "Partly proofed page: Rashi-type notes or rubrics, or other explicitly marked lines, await expert proofreading. Supplied markers are retained unchanged. Proofreading was not strictly at full resolution and needs re-checking. Supplied CER/WER values for partly proofed sides are approximate; they are retained without recomputation. Low line confidence conservatively reflects the mixed proofing scope."
+}

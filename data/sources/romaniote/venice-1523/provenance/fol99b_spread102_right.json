@@ -1,0 +1,242 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 102,
+ "side": "right",
+ "folio": "99b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "פרשה לפרשת החדש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "ויאמר ידוה אל משה ואל אהרן בארץ מצרים לאמר : החדש הזה לכם ראש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "חדשים ראשון הוא לכם לחדשי השנה : דברו אל כל עדת ישראל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "לאמר בעשר לחדש הזה ויקחו להם איש שה לבית אבת שה לבית : ואם ימעט הבית מהיות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "משה ולקח הוא ושכנו הקרב אל ביתו במכסת נפשות איש לפי אכלו תכסו על השה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "שה תמים זכר בן שנה יהיה לכם מן הכבשים ומן העזים תקחו : והיה לכם למשמרת עד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "ארבעה עשר יום לחדש הזה ושחטו אתו כל קהל עדת ישראל בין הערבים : ולקחו מן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "הדם ונתנו על שתי המזוזות ועל המשקוף על הבתים אשר יאכלו אתו בהם : ואכלו את",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "הבשר בלילה הזה צלי אש ומצות על מררים יאכלהו : אל תאכלו ממנו נא ובשל מבשל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "במים כי אם צלי אש ראשו על כרעיו ועל קרבו : ולא תותירו ממנו עד בקר והנתר ממנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "עד בקר באש תשרפו : וככה תאכלו אתו מתניכם חגרים נעליכם ברגליכם ומקלכם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "בידכם ואכלתם אתו בחפזון פסח הוא לידוה : ועברתי בארץ מצרים בלילה הזה והכיתי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "כל בכור בארץ מצרים מאדם ועד בהמה ובכל אלהי מצרים אעשה שפטים אני ידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "והיה הדם לכם לאת על הבתים אשר אתם שם וראיתי את הדם ופסחתי עליכם ולא יהיה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "בכם נגף למשחית בהכתי בארץ מצרים : והיה היום הזה לכם לזכרון וחגתם אתו חג לידוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "לדרתיכם חקת עולם תחגהו : שבעת ימים מצות תאכלו אך ביום הראשון תשביתו שאר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "מבתיכם כי כל אכל חמץ ונכרתה הנפש ההוא מישראל מיום הראשון עד יום השביעי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "וביום הראשון מקרא קדש וביום השביעי מקרא קדש יהיה לכם כל מלאכה לא יעשה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "בהם אך אשר יאכל לכל נפש הוא לבדו יעשה לכם : ושמרתם את המצות כי בעצם היום",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "הזה הוצאתי את צבאותיכם מארץ מצרים ושמרתם את היום הזה לדרתיכם חקת עולם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "בראשון בארבעה עשר יום לחדש בערב תאכלו מצות עד יום האחד ועשרים לחדש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "בערב : שבעת ימים שאור לא ימצא בבתיכם כי כל אכל מחמצת ונכרתה הנפש ההוא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "מעדת ישראל בגר ובאזרח הארץ : כל מחמצת לא תאכלו בכל מושבתיכם תאכלו מצות :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "הפטרה לפרשת החדש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "בראשון בארבעה עשר יום לחדש יהיה לכם הפסח חג שבעות ימים מצות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "יאכל : ועשה הנשיא ביום ההוא בעדו ובעד כל עם הארץ פר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "חטאת : ושבעת ימי החג יעשה עולה לידוה שבעת פרים ושבעת אילים תמימים ליום",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "שבעת הימים וחטאת שעיר עזים ליום : ומנחה איפה לפר ואיפה לאיל יעשה ושמן הין",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "לאיפה : בשביעי בחמשה עשר יום לחדש בחג יעשה כאלה שבעת הימים כחטאת כעולה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "וכמנחה וכשמן : כה אמר אדני ידוה שער החצר הפנימית הפנה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "קדים יהיה סגור ששת ימי המעשה וביום השבת יפתח וביום החדש יפתח : ובא הנשיא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "דרך אולם השער מחוץ ועמד על מזוזת השער ועשו הכהנים את עולתו ואת שלמיו [?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 33,
+   "text": "והשתחוה על מפתן השער ויצא והשער לא יסגר עד הערב : והשתחוו עם הארץ פתח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "השער",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 32,
+   "span": "[?]"
+  }
+ ],
+ "sha256_text": "9e1cc3d6eeb272504a614ec48e9323cb746042f799008c874e810c8dd5f9197d",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.063,
+   "wer": 0.136
+  }
+ },
+ "text_file": "../text/fol99b_spread102_right.txt"
+}

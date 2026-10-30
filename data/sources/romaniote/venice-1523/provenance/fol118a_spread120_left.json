@@ -1,0 +1,31 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 120,
+ "side": "left",
+ "folio": "118a",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [],
+ "uncertain_spans": [],
+ "sha256_text": null,
+ "proofed": false,
+ "status": "unproofed",
+ "text_available": false,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": null,
+   "wer": null
+  }
+ },
+ "text_file": null,
+ "proofing_note": "The supplied c50 metadata marks this side UNPROOFED, but no corrected transcription file was supplied. No text has been reconstructed."
+}

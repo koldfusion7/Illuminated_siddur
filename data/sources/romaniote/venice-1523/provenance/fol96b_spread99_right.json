@@ -1,0 +1,236 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 99,
+ "side": "right",
+ "folio": "96b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות לערך פרה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "סלוק",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "יציאות שבת שתים ˙ שהן ארבע בנתים ˙ חוצה העני עומד ˙ חייב בהוצאה מאומר :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "בעל הבית בפנים ˙ פטור באלו פנים ˙ קבעו הוראה בניסה ˙ שניהם פטורים בהכנסה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ביציאה וביאה למעט ˙ בשיעור מדידה מלבעט ˙ כמו חרות בעט ˙ יושב ושונה ולועט :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "רבוץ באכילה ושתיה ˙ כבדהו בכסות נקייה ˙ ממצוא חפצך דומיה ˙ ודבר דבר שהיה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "יתרון חפציך אסורים ˙ חפצי שמים מותרים ˙ לפקח בעסקי חברים ˙ לפנות מפני העוברים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "והתירו זוהרם כשמש ˙ קופות ארבע וחמש ˙ מפנים מפני משמש ˙ ומפני בטול המשתמש[?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "המשתמש[?]"
+   ]
+  },
+  {
+   "n": 9,
+   "text": "והקדימו דלים חכמיהם ˙ לאוספם ולהכניסם עמכם ˙ הזהרו בשבת אלהיכם ˙ חציו לידוה וחציו [?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 10,
+   "text": "אופן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "מלאכים ממליכים ˙ | ומעריצים בכל פיאות ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "ומקדישים ומרגישים ˙ | ומגישים ברוב תשואות ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "נוראים ואין נראים ˙ | נפלאים ונפלאות ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "אומרים קדוש קדוש | קדוש ידוה צבאות : | אומרים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "שמו לעד ברוב רעד ˙ | באימה הם יעריצו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "שאון שרפים ברוב עפים ˙ | כברקים ירוצצו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "שואלים זה רשות מזה ˙ | להראות אל במוראות : | אומרים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "המון עירים ואדירים ˙ | ברגש יעריצו אל ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "המולתם קדושתם ˙ | בעת שלוש קדושת אל ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "בקול רעם בטוב טעם ˙ | בקול מראה להתראות : | אומרים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "אופן אחר נאה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "שובב | כירחי ראש ˙ | עם נאמני ˙ | האומרים קדוש ˙ | קדוש ידוה : | האומרים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "יצב דביר נחרב ˙ | היום משומם ˙ | אין מי יריב עריו ˙ | אין מי ירומם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "קרית למלך רב ˙ | אין מי יקומם ˙ | על מה גביר תשוש ˙ | עמי ובני : | האומרים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "ולחצרות אלי ˙ | כמה בשרי ˙ | שובב להיכלי ˙ | מלכי ושרי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "עם בת מתי מחלי ˙ | ובני מררי ˙ | ונשיא נשיא הראש ˙ | הוא על דכני : | האומרים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "שמח בגלותי ˙ | לבי בך אל ˙ | רק את עבודתי ˙ | תדע לך אל ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "אין לעלות ביתי ˙ | לבנות אריאל ˙ | עוזך עדה ולבוש ˙ | ופדה המוני : | האומרים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "פנת מנוחתך ˙ | שים נא חדשה ˙ | שם נעריץ אותך ˙ | בנעים קדושה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "עם יושבי ביתך ˙ | ילדי שלשה ˙ | נקדיש לך שלש ˙ | כבני המוני ˙ | האומרים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "ויש אומרים אל כערך והוא כתוב בשבת וראש חדש ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "זולת",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 8,
+   "span": "המשתמש[?]"
+  },
+  {
+   "line": 9,
+   "span": "[?]"
+  }
+ ],
+ "sha256_text": "b406acaa6342ac991fc7592a147bd1740f6eb3c23fed84b51753011a7963db98",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.086,
+   "wer": 0.216
+  }
+ },
+ "text_file": "../text/fol96b_spread99_right.txt"
+}

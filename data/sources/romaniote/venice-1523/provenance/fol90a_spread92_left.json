@@ -1,0 +1,236 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 92,
+ "side": "left",
+ "folio": "90a",
+ "printed_folio_number": "צ",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "צ תפלות של פרשת פרה ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "פרה | עצר צירי · | היות לי ערוכה וחובש וצרי ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "פועלי וגוחי ויוצרי · | התלה רוע יצרי ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "צחו כתמי חצרי · | פרה שעשה חנמאל המצרי ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "תשע פרות נעשו · | ושמונה מהם נכסו ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "ערות בני שמונה יכסו · | להודות לשמך כי בו חסו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "ברוך אתה ה' הטוב שמך כו' · שים שלום עד בשלומך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "פרה | קשרתי להביא · | זכר לגיא גרות אבי ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "וישע הכמוס בחבי · | שוללתי מקרבי ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "תמימה עוד מי יביא · | כפרה שעשה ישמעאל בן פי אבי ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "שבע פרות נעשו · | ושש מהם נכסו ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "ערות בני שש יכסו · | לברכם בשלום כי בו חסו : ב״א[?] המברך את עמו בשלום",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ב״א[?]"
+   ]
+  },
+  {
+   "n": 13,
+   "text": "צדקתך כו' ואומר קדיש שלם הללויה הודו[?] הללויה אמרי וקדיש :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "הודו[?]"
+   ]
+  },
+  {
+   "n": 14,
+   "text": "שבת פרה | פתיחה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "שחרית | אקדמה · אל אל ישועתי · וכשי וניחוח · תכון תפלתי · וכשי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "לך אחוה קדמון ממציא יסוד אמון · וקרא לקול המון · כנס לעדתי : וכשי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "ופנה לסוד קרבן · | בנה יסוד חרבן · | וזכור חמדן אשבן · | לבית תפלתי · וכשי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "מזאת יהי כחה · | סבת יסוד מנחה · | ושרוף באש לקחת · | פרה אדומתי : וכשי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "חזק לעם עולים · | לחוג חגיגתי · | בני עליון גדלו · | לידוה אתי : וכשי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "פתיחה אחרת לרבי יהודה קלטי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "אשר | יצר שחקים על אדמה · | אהלל לו ביום פרה אדומה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "נבונים חקרו את תעלומה · | ולא יכלו מצוא דעת מזימה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "יחיד עולם לבד ידע מקומה · | וחק חוקה סתומה וחתומה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "ישרה אמרת אל ועצומה · | וממרה מסורה ורשומה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "המון שיחי לזאת אפצה באימה · | לך צורי ואכף ראש וקומה[?] ·",
+   "confidence": "low",
+   "uncertain_spans": [
+    "וקומה[?]"
+   ]
+  },
+  {
+   "n": 26,
+   "text": "ואם אין בי יכולת ונשמה · | היה עזרה לאין אונים ועצמה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "דבר סורה מאד עמוק בחכמה · | ומי יוכל חקור דבר מאומה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "הלא אם אין במי פרה קדומה · | שפתינו תמור פרה נשלמה ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "ויתגדל בסוד עדה תמימה : | ויתקדש שמיה רבה בעלמא :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "פתיחה אחרת לרבי אליהו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "יב ב",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 12,
+   "span": "ב״א[?]"
+  },
+  {
+   "line": 13,
+   "span": "הודו[?]"
+  },
+  {
+   "line": 25,
+   "span": "וקומה[?]"
+  }
+ ],
+ "sha256_text": "7bb7e39d6d745b9618f1d46e11a8513022298f6a6fd01c43fd672080a37fdd65",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.168,
+   "wer": 0.337
+  }
+ },
+ "text_file": "../text/fol90a_spread92_left.txt"
+}

@@ -1,0 +1,242 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 91,
+ "side": "left",
+ "folio": "89a",
+ "printed_folio_number": "פט",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של פורים | פט",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "שמרי ולא ינום ˙ | נדדה שנת מלכי ˙ | עליון אשר ירום ˙ | האיר אישון חשכי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "על צוררי יקום ˙ | שמע בקול ובכי ˙ | און בלב חרש ˙ | מוכן לאיד המן ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "נתלה בעץ חרש ˙ | מעשה ידי אמן ˙ | שיר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "הן מאמר אסתר ˙ | קים דבר פורים ˙ | עת חתמו ספר ˙ | לעמוד לדור דורים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "יום מצאו כופר ˙ | דלים ונמכרים ˙ | נעלה ונתקדש ˙ | האב מאד רחמן ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "יואל בנות מקדש ˙ | יחיש פדות וזמן : | שיר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "פתיחה | לרבי מנחם תמר :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "שוררו | לאל ידידים ˙ | שוררו שירה נכוחה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "יום אשר בו ליהודים ˙ | היתה אורה ושמחה : | יום",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "מפלאות נורא עלילה ˙ | תזכרו תמיד לדורות ˙ | נעלה על כל תהלה ˙ הוא ומי ידע ספורות ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "אך עלי מקרא מגלה ˙ | נאמירנו בשירות ˙ | דר בחביון רם ועליון ˙ גם בפדיון דל ואביון ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "הוא מאד עזרה בצרות ˙ | לו לבד תאות שבחה : | יום",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "נעלה בן המדתא ˙ | האגגי נין מעני ˙ | שומרי הקדים ואתא ˙ | מרדכי בן איש ימיני ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "בז ואז הביא בעתה ˙ | שוד לעם אביון ועני ˙ | לאביד עם ˙ אל וזעם ˙ בוז לבצעם כי בפשעם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "באדר חשב לשוטני ˙ | ותהי אז רק צוחה : | יום",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "חס עלי עמו קדושו ˙ | חש ושלח הגאולה ˙ | את עמלו שב בראשו ˙ | שב עלי ראשו ונתלה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "נהפך יומו וחדשו ˙ | אז לעם אל הסגולה ˙ | משחות אל שמוח ˙ | גם שלוח יד בכח ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "להרוג שונאים לכלה ˙ | צוררים שכנו צחיחה : | יום",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "מאמר אסתר ואומנה ˙ | חק וקיים ליהודים ˙ | את ימי פורים ברנה ˙ | כאשר המה פקודים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "קבלו אבות באומנה ˙ | ועלי כל העתידים ˙ | על בניהם אחריהם ˙ | ועליהם כל ימיהם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "יום אשר בו מפחדים ˙ | היתה להם רוחה : | יום",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "באדר ימים זכורים ˙ | בם קרוא את המגילה ˙ | נקראו פורים לעברים ˙ לעשות משתה וגילה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "משלוח לחברים ˙ | עוד מנאות ואכילה ˙ | שור לדלים נחשלים ˙ | גם להשלים האמרים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "החיות רוח שפלה ˙ | להיות ידם פתוחה : | יום",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "חלצנו צור יצורים ˙ | מן ידי אומר ותימן ˙ | זך זכור חסד נעורים ˙ | מאמר אומר לתימן ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "קבצה אוברים פזורים ˙ | והרוף [?] אויבי כהמן ˙ | שוב שניה לקריה ˙ | העניה הבנויה ˙",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 28,
+   "text": "עוד כקדם ובזמן ˙ | ישבה שוקטה בבטחה : | יום אשר בו ליהודים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "נשלמו תפלות של פורים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "ברוך | לערך פרה הכרוה [?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 31,
+   "text": "אתה ה' אלהינו ואלהי אבותינו אלהי אברהם אלהי יצחק ואלהי יעקב האל הגדול הגבור",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "והנורא אל עליון קונה שמים וארץ :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "יב א",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 27,
+   "span": "[?]"
+  },
+  {
+   "line": 30,
+   "span": "[?]"
+  }
+ ],
+ "sha256_text": "780321d46ea86566ccf0f8ac1784e6a303673f0854611c0ce039d5667964f5b9",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.085,
+   "wer": 0.227
+  }
+ },
+ "text_file": "../text/fol89a_spread91_left.txt"
+}

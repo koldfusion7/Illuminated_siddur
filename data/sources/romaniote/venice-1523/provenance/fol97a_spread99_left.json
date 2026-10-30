@@ -1,0 +1,260 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 99,
+ "side": "left",
+ "folio": "97a",
+ "printed_folio_number": "צז",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות לפרשת החדש | צז",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "זולת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "אז מראש הורדתי ˙ | לא שלותי ולא נחתי ˙ | הלכתי בגולה ובשבי ˙ | מימי אברהם אבי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "ומיום נולד יצחק ˙ | הייתי נדחה ונרחק ˙ | כל אח עקוב יעקב ˙ | מאז שטמו עשו ליעקב :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "באהבת יעקב יוסף בלבו ˙ | נתקנאו אחיו בו ˙ | על מילת שני סלעים ˙ | מכרו אותו לקלעים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "יום יום הלכו אחורים ˙ | נתגלגל הדבר וירדו למצרים ˙ | וירבו תחת רודה ˙ | רבבה כצמח השדה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "גדלו על צבאותם ˙ | ותמלא הארץ אותם ˙ | ומת יוסף וכל הדור ˙ | מלך עתיד לכידור :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "ויקם מלך חדש ˙ | אז גזירות חדש ˙ | יזם צר בעמלו ˙ | הבה נתחכמה לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "דמו עלי חמסים ˙ | דבר לבנים מסים ˙ | בעול חומר ולבנים ˙ | הפריכו אבות ובנים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "הרגיזו אב ובן ˙ | לקושש קש לתבן ˙ | ותעל שועתם כבדה ˙ | אל האלהים מן העבודה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "העיר אל שנאה ˙ | ולבש בגדי קנאה ˙ | אל אומה מלוכלכת ˙ | בלבוש נקם ללכת :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "וקם עליהם בחמתו ˙ | להוציא מתוכם תמתו ˙ | במשלחת מלאכי רעים ˙ | נתן קולו והרעים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "זלעפות אש וברד ˙ | בכל גבולם ירד ˙ | השלים שני אויבים ˙ | לעשות חייבים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "חשים חפצים במלאכתם ˙ | לא יסבו בלכתם ˙ | להודיע כחו וגבורתו ˙ | את דור עברתו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "טירני[?] סגני כהונה ˙ | כח בידם נתונה ˙ | שולחו אצל פוטים ˙ | לעשות בהם שפטים ˙",
+   "confidence": "low",
+   "uncertain_spans": [
+    "טירני[?]"
+   ]
+  },
+  {
+   "n": 16,
+   "text": "נתנו כתף סוררת ˙ | נוכו במכה נגדרת ˙ | העמידם בעבור זה ˙ | גוים רבים יזה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "יזם בפיו מכתיר ˙ | בו בלשון התיר ˙ | נמשל עליו המשל ˙ | בקדרה שבשל נתבשל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "היתה זאת מידו ˙ | ראו עיניו כידו ˙ | פה אמר מלשלח ˙ | הוא התחיל אשלח :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "בכלב שב על קיאו ˙ | כהתעות שכור בקיאו ˙ | כי ראה ר[?]חת ˙ | חרדה קינה וצוחה :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ר[?]חת"
+   ]
+  },
+  {
+   "n": 20,
+   "text": "צר לבו הכביד ˙ | צור שרידיו האביד ˙ | התחיל בתחלה ˙ | לכן לקה תחלה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "לבט[?] עוצי שתק ˙ | איסור באיסור עתק ˙ | יעבצני כי ברח ˙ | כפרח שושן פרח :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "לבט[?]"
+   ]
+  },
+  {
+   "n": 22,
+   "text": "צא ולמד מארובה ˙ | מדה טובה מרובה ˙ | ממדת פרענות מוכפלת ˙ | כמה מעלות מושפלת :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "מורד זה ראשון ˙ | עליו אין לישון ˙ | בעדו לבי צהל ˙ | אגלה רעתו בקהל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "שמעו נא נגידים ˙ | יום חתת בוגדים ˙ | דוגמא היא לדורות ˙ | ללמוד[?] וללמד ולהורות :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ללמוד[?]"
+   ]
+  },
+  {
+   "n": 25,
+   "text": "נבל בלבו נואל ˙ | אין אלהים בישראל ˙ | לא ידעתי אותו ˙ | מה לי לנוותו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "כל מלכי הארץ ˙ | קדמוני שלום לחרץ ˙ | חפשתי בכל גנזי ˙ | אין זכרון בחרוזי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "סרסור עמד כגבור ˙ | מלתעות תנין לשבור ˙ | דבר לו דברים ˙ | הוא אלהי העברים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "רומחו אש ולפיד ˙ | בצר עמו מקפיד ˙ | עתה תראה סברי ˙ | היקרך דברי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "עליון העיר אפו ˙ | סערו מפה ומפה ˙ | שם חוחים בלחייו ˙ | טורף נפשו בחייו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "בא דרך מלכים ˙ | מכבש עירות ופלכים ˙ | נפצם כאבני גיר ˙ | חייתם לדבר הסגיר :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "פתח ידוה אוצרו ˙ | שומר ישראל ונוצרו ˙ | הוציא כלי זעמו ˙ | המשל ופחד עמו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "ויפן כה וכה ˙ | ראה עברו אבי סוכו ˙ | מה תעמוד ידידי ˙ | שלחתי את ידי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "צר מכחד ומחריץ ˙ | יכחד מן הארץ ˙ | הקשה לב נכוחי ˙ | אראנו את כחי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "יג א",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 15,
+   "span": "טירני[?]"
+  },
+  {
+   "line": 19,
+   "span": "ר[?]חת"
+  },
+  {
+   "line": 21,
+   "span": "לבט[?]"
+  },
+  {
+   "line": 24,
+   "span": "ללמוד[?]"
+  }
+ ],
+ "sha256_text": "207471e1baae6123b62dd471813ebdc77d086d8e7e6faaa5c1e63d89d22738b8",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.125,
+   "wer": 0.289
+  }
+ },
+ "text_file": "../text/fol97a_spread99_left.txt"
+}

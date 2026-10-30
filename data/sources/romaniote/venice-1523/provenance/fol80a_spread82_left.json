@@ -1,0 +1,224 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 82,
+ "side": "left",
+ "folio": "80a",
+ "printed_folio_number": "פ",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של צום אסתר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "אז | בגלותי בפרך ˙ | צורי ענני ˙ | עמד צר אכזרי ˙ | עלי לבלעני ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "בין זרע עמלק נחש הקדמוני ˙ | בימי בן יאיר ˙ | בן קיש איש ימיני : בימי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "יעץ אכזרי ˙ | איש צר ואויב | לפני המלך ˙ | להשמידי חייב ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "הממני כי הוא ˙ | להשחיתי אייב ˙ | וביום צרה וצוקה | ידוה עזרני : בימי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "בצרתה לי ˙ | קראתי ליוצרי ˙ | ויזכור רחם ˙ | ויך אכזרי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "וינחם כרוב ˙ | חסדיו לנערי ˙ | בראותו כי כל | גוים סבבוני : בימי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "רא לנו עשה ˙ | כי אם בזכותו ˙ | בעת הפליא חסדו ˙ | מרוב חמלתו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "ובעתות צרה ˙ | זכר את בריתו ˙ | וצרים הכה ˙ | כי אמצו ממני : בימי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "שיח פי תשעה ˙ | והקל שעבודי ˙ | רחם בן נכאה ˙ | כי אין לאל ידי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "וגם אין עוזר לי ˙ | להפג את שורי ˙ | מאיש מרמה ˙ | ועולה תפלטני ˙ בימי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "דלני מעוני ˙ | ואורך גלותי ˙ | וקבץ את שביי ˙ | וכפר את חטאתי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "וזכור איתנים ˙ | שומרי תורתי ˙ | תרב גדולתי ˙ | ותסוב תנחמני : בימי כלען",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "סליחה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "אתה | אלהים מתנשא לכל לראש ˙ | ביטה על גאים אשר נתנו בברותי ראש ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "גאה בימים הראשונים דמי תדרוש ˙ | ויהי בימי אחשורוש :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "דת ודין כעברו בניך וחטאם אדם ˙ | הודעתם בחטאם כי קרוב יום אידם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "ויקם מזרע אגגי ברצח לשרדם ˙ | הפיל פור הוא הגורל להמם ולאבדם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "זחל ימיני בשמעו רוע הגזירה ˙ | חגר שק להשבית יום זעם ועברה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "טוב איה חסדיך ועל מי ננוס לעזרה ˙ | ויזעק זעקה גדולה ומרה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "יעצתו הדסה לך כנוס שפלים וגבוהים ˙ | כלם יצעקו כי איככה עיניהם כהים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "לילה ויום שלשה נעצרו בוכים ונוהים ˙ | ותעל שועתם אל האלהים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "מדת רחמים עמדה פני משפיל אף מרומם ˙ | נאקת בניך עולה מחמת מציק ומתהומם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "סלח נא והעבר צר ואויב בל יהומם וירחמם ˙ | ויחן ידוה אותם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "עזרה בצרות נמצאת אף לפי אויביהם ˙ | פקחת עין ותחוס על גרות נויהם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "צוית לתתם לרחמים לפני כל שוביהם ˙ | ואף גם זאת בהיותם בארץ אויביהם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "קוה קויתיך אל ועיני דאבה ˙ | רחם ברוגז תזכור לבת השובבה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "שועתה תקשיב לאום הנשבה ˙ | אל תרחק ממנו כי צרה קרובה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "תחשוב ניב שפתים אל שוכן מרומים ˙ | תודה ומנחה זבח ועולה ושלמים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "תסלח והעביר אשמים אשר בם אנחנו אשמים ˙ | אל מלך יושב על כסא רחמים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "ואחר כן אומר וידוים[?] ואחר כך אגגי העמיק ככתוב למעלה ˙",
+   "confidence": "low",
+   "uncertain_spans": [
+    "וידוים[?]"
+   ]
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 31,
+   "span": "וידוים[?]"
+  }
+ ],
+ "sha256_text": "730b9da37b0945d9c6731d1f57e271e588687c4686f5c8d12e136ce230c0679d",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.073,
+   "wer": 0.231
+  }
+ },
+ "text_file": "../text/fol80a_spread82_left.txt"
+}

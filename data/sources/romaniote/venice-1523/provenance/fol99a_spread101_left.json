@@ -1,0 +1,248 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 101,
+ "side": "left",
+ "folio": "99a",
+ "printed_folio_number": "צט",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של פרשת החדש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "צט",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "בא אל פרעה מלך מצרים ˙ | ואמרת כה אמר ידוה אלהי העברים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "שלח את עמי ויחגו לי על אחד ההרים ˙ | כי חג לידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ידעתי כי לא יתן אתכם מלך מצרים ˙ | למען רבות מופתי משמים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "ועתה הרם מטך ונטה ידך על המים ˙ | אל קנא ונוקם ידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "לך אל פרעה ודברת אליו דבריך ˙ | כי אם מאן אתה לשלח את עמי מאסוריך ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "הנה אנכי הורג את בנך בכורך ˙ | כי ידין ידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "ועברתי בארץ מצרים ˙ | והכתי כל בכור מבכור אדם ועד בכור הרחים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "ובכל אלהי מצרים ˙ | אעשה שפטים אני ידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "ויקם פרעה וכל עמו השכם ˙ | לאמר קחו גם צאנכם גם בקרכם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "ולכו עבדו את ידוה כדברכם ˙ | רם על כל גוים ידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "ויסעו בני ישראל מרעמסס מתניהם חגורים | כשש מאות אלף רגלי הגברים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "ויעשו הפסח על מצות ומרורים ˙ | ליל שמורים הוא לידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "ראשו על כרעיו ועל קרבו ˙ | ועצם לא ישברו בו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "וכל ערל לא יאכל בו ˙ | כי תועבת ידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "ויהי בשלח פרעה את העם ˙ | ומצרים רדפו אחריהם בנסעם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "ויצעקו בני ישראל למושיעם ˙ | כי שומע אל אביונים ידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "וישאו בני ישראל את עיניהם ˙ | והנה מצרים נוסע אחריהם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "וייראו מאד מהם ˙ | ויצעקו בני ישראל אל ידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "הנותן בים דרך ובמים עזים נתיבה ˙ | הקפיא מי תהום רבה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "וישם את הים לחרבה ˙ | נשאו נהרות ידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "כי בא סוס פרעה ברכבו ובפרשיו בים ˙ | ובני ישראל הלכו ביבשה בתוך הים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "אדירים משברי ים ˙ | אדיר במרום ידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "אשירה לידוה הצילנו מיד ארונים קשה ˙ | אותנו ממים רבים ימשה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "אז ישיר משה ˙ | ובני ישראל את השירה הזאת לידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "שירה חדשה שבחו גאולים ˙ | הקטנים עם הגדולים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "למלך עוזר דלים ˙ | מי כמוך באלים ידוה ˙ סירה[?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "סירה[?]"
+   ]
+  },
+  {
+   "n": 29,
+   "text": "ומתפללים תפלה ומוציאין ב׳ ספרים בא׳ קורי׳ ז׳[?] בפרשת היום ומשלים קור׳ בפרש׳ בא החדש",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ז׳[?]"
+   ]
+  },
+  {
+   "n": 30,
+   "text": "הזה עד בכל מושבותיכם תאכלו מצות ומפטיר חוזר וקורא ג״ פסוקים ˙ ומפטי׳ ביחזקאל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "בראשון באחד לחדש ˙ ואפי׳ חל ר״ח ניסן בשבת או ביום א׳ כתבו בתוספות שאינו מפטיר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "מחר חדש דשקלים והחדש הכרזת החדש הוו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "פרשת החדש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "יג ג",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 28,
+   "span": "סירה[?]"
+  },
+  {
+   "line": 29,
+   "span": "ז׳[?]"
+  }
+ ],
+ "sha256_text": "980030283adb4eb8c44a9621d8cb18b862ab66f39bd90f365a1036e04b70eb8d",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.072,
+   "wer": 0.231
+  }
+ },
+ "text_file": "../text/fol99a_spread101_left.txt"
+}

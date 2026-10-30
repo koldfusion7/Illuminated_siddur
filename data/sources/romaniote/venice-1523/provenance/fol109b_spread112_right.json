@@ -1,0 +1,253 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 112,
+ "side": "right",
+ "folio": "109b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של פסח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "ויעמידה ליעקב לחק לישראל ברית עולם : לאמר לך אתן את ארץ כנען חבל נחלתכם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "בהיותם מתי מספר כמעט וגרים בה : ויתהלכו מגוי אל גוי מממלכה אל עם אחר : לא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "הניח אדם לעשקם ויוכח עליהם מלכים : אל תגעו במשיחי ולנביאי אל תרעו : ויקרא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "רעב על הארץ כל מטה לחם שבר : שלח לפניהם איש לעבד נמכר יוסף : ענו בכבל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "רגלו ברזל באה נפשו : עד עת בא דברו אמרת ידוה צרפתהו : שלח מלך ויתירהו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "מושל עמים ויפתחהו : שמו אדון לביתו ומושל בכל קנינו : לאסור שריו בנפשו וזקניו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "יחכם : ויבא ישראל מצרים ויעקב גר בארץ חם : ויפר את עמו מאד ויעצימהו מצריו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "הפך לבם לשנוא עמו להתנכל בעבדיו : שלח משה עבדו אהרן אשר בחר בו : שמו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "בם דברי אותותיו ומופתים בארץ חם : שלח חשך ויחשוך ולא מרו את דברו : הפך את",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "מימיהם לדם וימת את דגתם : שרץ ארצם צפרדעים בחדרי מלכיהם : אמר ויבא ערוב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "כנים בכל גבולם : נתן גשמיהם ברד אש להבות בארצם : ויך גפנם ותאנתם וישבר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "עץ גבולם : אמר ויבא ארבה וילק ואין מספר : ויאכל כל עשב בארצם ויאכל פרי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "אדמתם : ויך כל בכור בארצם ראשית לכל אונם : ויוציאם בכסף וזהב ואין בשבטיו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "כושל : שמח מצרים בצאתם כי נפל פחדם עליהם : פרש ענן למסך ואש להאיר לילה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "שאל ויבא שלו ולחם שמים ישביעם : פתח צור ויזובו מים הלכו בציות נהר : כי זכר את",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "דבר קדשו את אברהם עבדו : ויוציא עמו בששון ברנה את בחיריו : ויתן להם ארצות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "גוים ועמל לאומים יירשו : בעבור ישמרו חקיו ותורותיו ינצורו הללויה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "הודו לה׳ כי וירח[?] בכר[?] הללו הל׳ בקדשו כמו שכתוב בר״ח חדש ועומד ש״צ ואומר :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "וירח[?]",
+    "בכר[?]"
+   ]
+  },
+  {
+   "n": 20,
+   "text": "ידוה הושיעה המלך יעננו ביום קראנו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "ליל | שמורים אותו אל חצה ˙ | בחצות לילה בתוך מצרים כיצא ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "גבור על אדום יחצנו כחצת ˙ | דוד למעריב ערב נזמרנו בנפש חפצה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "ליל | שמורים הוא זה הלילה ˙ | ותקנו אל אומר בחצות הלילה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "זה אשר לו יום וגם לילה ˙ | חי יזכור לנו אהבת חלק עליהם הוא זה הלילה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "[?] ים קהלות שמוסיפין זה",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 26,
+   "text": "ליל | שמורים פסח אכלו פחוזים ˙ | נפלאות חוזים ˙ | בימי חג פסח :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "פסח | בנו לשמור לדורות | פני לנו להורות ˙ | בימי חג פסח :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "פסח | גזר ענוי אמונים ˙ | ארבע מאות נמנים ˙ | בימי חג פסח :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "פסח | דת שבועים ימלא ˙ | ויום נקם יגלה ˙ | בימי חג פסח :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "פסח | הרג נכרי חם ˙ | ובן בכורו נחם ˙ | בימי חג פסח :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "פסח | וועד לשפוט מרשיעים ˙ | להעלות מושיעים ˙ | בימי חג פסח :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "פסח | זמיר בנוף נתן ˙ | לגמול בני איתן ˙ | בימי חג פסח :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "פסח | חרב חדה על ארום ˙ | ביד צח וארום ˙ | בימי חג פסח :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "פסח",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 19,
+   "span": "וירח[?]"
+  },
+  {
+   "line": 19,
+   "span": "בכר[?]"
+  },
+  {
+   "line": 25,
+   "span": "[?]"
+  }
+ ],
+ "sha256_text": "95c06cba50060951216458ee5b3ef57e0e9b085a1b27200d3b9f2fe4f0338669",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.065,
+   "wer": 0.182
+  }
+ },
+ "text_file": "../text/fol109b_spread112_right.txt"
+}

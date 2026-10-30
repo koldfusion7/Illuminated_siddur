@@ -1,0 +1,223 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 101,
+ "side": "right",
+ "folio": "98b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "שמוע ישמע פרעה צעקה גדולה ˙ | בארץ מצרים בחצי הלילה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "יקום הוא ועבדיו בחילה ˙ | לאמר צאו גם אתם גם בני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "ישא העם טרם יחמץ את בצקו ˙ | מרוב לחצו ודחקו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "משארתו צרורה בשקו ˙ | עשו כדבר משה בני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "בין הערבים ישחטוהו ˙ | ובליל חמשה עשר יצלוהו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "על מצות ומרורים יאכלוהו ˙ | כל קהל עדת ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "יחד ראשו על כרעיו ועל קרבו ˙ | ועצם לא תשברו בו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "כל בן נכר לא יאכל בו ˙ | כי לא מבני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "בחדש הראשון הוא ראש חדשים ˙ | יצאו ממצרים חופשים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "חלוצים וחמושים ˙ | עלו בני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "חונים עמוד ענן ועמוד אש עליהם ˙ | לנחותם הדרך ולהאיר להם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "והנה מצרים נוסע אחריהם ˙ | ויצעקו בני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "זכר את אבותם ˙ | נעקר ונחתם ואיש תם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "ויושע ידוה אותם ˙ | ויסעו בני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "קם פרעה וחילו אחריהם לנסוע ˙ | ולא ידע כי עת לנטוע ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "ועת לעקור נטוע ˙ | לנקום נקמת בני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "שוררו לאל פלטם ממלך קשה ˙ | ממים רבים ימשה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "אז ישיר משה ˙ | ובני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "שירה חדשה שבחו גאולים ˙ | לסומך נופלים ועוזר דלים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "מי כמוך באלים ˙ | ומי כעמך ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "מי כמוך אחר לרבי שלום",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "מי כמוך שתים בגבורה ˙ | מורכבים מחמר וצורה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "תנועתם סבובית לא ישרה ˙ | השמים שמים לידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "להם נפש וציור בתנועתם ˙ | לא יסבו בלכתם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "והאופנים מתנשאים לעמתם ˙ | ויודו שמים פלאך ידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "וארבעה פנים לאחד ˙ | נבדלו החמרים לאחד אחד ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "חשקם אל חשוקם יחד ˙ | ואתה מרום לעולם ידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "מוליך לימין משה זרוע תפארתו ˙ | פקד עמי את כל ענותו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "ויזכור להם את בריתו ˙ | כי אל רחום ידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "פקוד פקד אתכם ˙ | ואת העשוי לכם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "כה תאמר לבני ישראל אהיה שלחני אליכם ˙ | זה דבר ידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "בא",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "bd306be937c821ad221695779460e7495397a2e0d7f84593842e00ac789b9f54",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.043,
+   "wer": 0.145
+  }
+ },
+ "text_file": "../text/fol98b_spread101_right.txt"
+}

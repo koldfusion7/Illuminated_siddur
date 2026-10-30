@@ -1,0 +1,248 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 85,
+ "side": "right",
+ "folio": "82b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "מגילה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "שבעת הסריסים המשרתים את פני המלך אחשורוש : להביא את ושתי המלכה לפני",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "המלך בכתר מלכות להראות העמים והשרים את יפיה כי טובת מראה הוא : ותמאן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "המלכה ושתי לבוא בדבר המלך אשר ביד הסריסים ויקצף המלך מאד וחמתו בערה בו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ויאמר המלך לחכמים יודעי העתים כי כן דבר המלך לפני כל ידעי דת ודין :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "והקרוב אליו כרשנא שתר אדמתא תרשיש מרס מרסנא ממוכן שבעת שרי פרס ומדי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "ראי פני המלך הישבים ראשונה במלכות : כדת מה לעשות במלכה ושתי על אשר לא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "עשתה את מאמר המלך אחשורוש ביד הסריסים : ויאמר מומכן לפני המלך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "והשרים לא על המלך לבדו עותה ושתי המלכה כי על כל השרים ועל כל העמים אשר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "בכל מדינות המלך אחשורוש : כי יצא דבר המלכה על כל הנשים להבזות בעליהן בעיניהן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "באמרם המלך אחשורוש אמר להביא את ושתי המלכה לפניו ולא באה : והיום הזה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "תאמרנה שרות פרס ומדי אשר שמעו את דבר המלכה לכל שרי המלך וכדי בזיון וקצף :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "אם על המלך טוב יצא דבר מלכות מלפניו ויכתב בדתי פרס ומדי ולא יעבור אשר לא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "תבא ושתי לפני המלך אחשורוש ומלכותה יתן המלך לרעותה הטובה ממנה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "ונשמע פתגם המלך אשר יעשה בכל מלכותו כי רבה היא וכל הנשים יתנו יקר לבעליהן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "למגדול ועד קטן : וייטב הדבר בעיני המלך והשרים ויעש המלך כדבר ממוכן :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "וישלח ספרים אל כל מדינות המלך אל מדינה ומדינה ככתבה ואל עם ועם כלשונו להיות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "כל איש שרר בביתו ומדבר כלשון עמו : אחר הדברים האלה כשך חמת המלך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "אחשורוש זכר את ושתי ואת אשר עשתה ואת אשר נגזר עליה : ויאמרו נערי המלך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "משרתיו יבקשו למלך נערות בתולות טובות מראה : ויפקד המלך פקידים בכל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "מדינות מלכותו ויקבצו את כל נערה בתולה טובת מראה אל שושן הבירה אל בית הנשים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "אל יד הגא סריס המלך שמר הנשים ונתון תמרוקיהן : והנערה אשר תיטב בעיני",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "המלך תמלך תחת ושתי וייטב הדבר בעיני המלך ויעש כן :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "איש | יהודי היה בשושן הבירה ושמו מרדכי בן יאיר בן שמעי בן קיש איש ימיני :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "אשר הגלה מירושלים עם הגלה אשר הגלתה עם יכניה מלך יהודה אשר ה[?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ה[?]"
+   ]
+  },
+  {
+   "n": 26,
+   "text": "הגלה נבוכד נצר מלך בבל : ויהי אמן את הדסה היא אסתר בת דדו כי אין לה אב ואם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "והנערה יפת תאר וטובת מראה ובמות אביה ואמה לקחה מרדכי לו לבת : | ויהי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "בהשמע דבר המלך ודתו ובהקבץ נערות רבות אל שושן הבירה אל יד הגי ותלקח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "אסתר אל בית המלך אל יד הגי שמר הנשים : ותטב הנערה בעיניו ותשא חסד לפניו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "ויבהל את תמרוקיה ואת מנותיה לתת לה ואת שבע הנערות הראיות לתת לה מבית",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "המלך וישנה ואת נערותיה לטוב בית הנשים : לא הגידה אסתר את עמה ואת מולדתה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "כי מרדכי צוה עליה אשר לא תגיד : ובכל יום ויום מרדכי מתהלך לפני חצר בית הנשים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "לדעת את שלום אסתר ומה יעשה בה : ובהגיע תר נערה ונערה לבא אל המלך אחשורוש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "מקץ היות לה כדת הנשים שנים עשר חדש כי כן ימלאו ימי מרוקיהן ששה חדשים בשמן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "המר",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 25,
+   "span": "ה[?]"
+  }
+ ],
+ "sha256_text": "93740a786f4778406ac24d2112ae76d6368901a1065f92a828c6cc2fa98c06d9",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.045,
+   "wer": 0.12
+  }
+ },
+ "text_file": "../text/fol82b_spread85_right.txt"
+}

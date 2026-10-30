@@ -1,0 +1,265 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 106,
+ "side": "left",
+ "folio": "104a",
+ "printed_folio_number": "קד",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של שבת הגדול קד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "עמי ונחלתי הם ˙ זכרתי ברית אבותיהם ˙ שבועה נשבעתי להם ˙ לכן אמור לבני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "פקד פקדתי אתכם ˙ ואת העשוי לכם ˙ ואומר אעלה אתכם ˙ כי לי בני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "ציר נכחד ונאלח ˙ נם למה אותי תשלח ˙ שלח נא ביד תשלח ˙ המושיע ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "קדוש חרה בחבר ˙ ועמו אחיו חבר ˙ היות מליץ ומדבר ˙ בין מצרים ובין ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "ראותך בלבו ישמח ˙ וכהונה ממנו תצמח ˙ ופשע העם כעב ימח ˙ לכפר על בני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "שניהם הלכו יחדיו ˙ ויאספו זקניו חסידיו ˙ וברית אל הודיעם וסודיו ˙ כי פקד ידוה את בני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "תמכו כולם באמונה ˙ וישתחוו לאל ברננה ˙ ידוה אלהים הושע נא ˙ את שארית ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "נגון אחר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "אחר[?] באו צירים ˙ ופצו למושל מצרים ˙ כה אמר ידוה אלהי העברים ˙ שלח את בני ישראל :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "אחר[?]"
+   ]
+  },
+  {
+   "n": 11,
+   "text": "בשמעו דברי איתני ˙ הקשה לומר מי ידוה ˙ לא אשמע בקול ידוה ˙ לשלח את בני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "רם ראה זדון לבו ˙ וכובד ערלת לבבו ˙ ויחזק ידוה את לבו ˙ ולא שלח את בני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "חדור[?] הראה כבודו ˙ גודלו ותפארת הודו ˙ לעשות משפט עבדו ˙ ומשפט עמו ישראל :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "חדור[?]"
+   ]
+  },
+  {
+   "n": 14,
+   "text": "מופתים ואותות רמים ˙ הביא בתוך ענמים ˙ ומימיהם נהפכו לדמים ˙ לנקום נקמת בני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "ביאור צפרדע השריץ ˙ כנים וערוב הריץ ˙ ומקניהם נגפו במריץ ˙ ולא מת ממקנה ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "רחש שחין שאיריהם ˙ ברד הכה גפניהם ˙ ארבה המית פלטיהם ˙ ושלום על ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "ישר החשיך עליהם ˙ ולא ראו עיניהם ˙ ולא קמו מתחתיהם ˙ לוחצי ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "עוד נגע אחת ˙ הביא בבכורי ישחת ˙ וראשית אונם שחת ˙ והקדיש בכורי ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "ויקם[?] פרעה לילה ˙ ויקרא לשרי סגלה ˙ קומו צאו מן הגולה ˙ גם אתם גם בני ישראל :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ויקם[?]"
+   ]
+  },
+  {
+   "n": 20,
+   "text": "בעדי בקשו תפלה ˙ ולא תעשו אותי כלה ˙ עתה ידעתי סלה ˙ אין כאלהי ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "מהרו ושלחום בחזקה ˙ מרוב צעקה ונאקה ˙ כי כל מצרים בעקה ˙ ויסעו בני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "קדושים כלשו שאור ˙ בצווי אדיר ונאור ˙ ויהי הבקר אור ˙ וילכו בני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "סכותה סעו ברורים ˙ ויעשו פסח על מצות ומרורים ˙ בלילה ליל שמורים ˙ זכרון לבני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "תולדות בני יעקב ˙ יצאו מכור בלי עקוב ˙ כי פדה ידוה את יעקב ˙ ושב שבות ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "רעים[?] נשאו עיניהם ˙ והנה מצרים נוסע אחריהם ˙ ויראה ורעד אחזה להם ˙ ויזעקו בני ישראל :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "רעים[?]"
+   ]
+  },
+  {
+   "n": 26,
+   "text": "יחיד שוכן זבולה ˙ נם למשוי משאולה ˙ מה תזעק ותרבה תפלה ˙ דבר אל בני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "אתה הרם מטך בחזקה ˙ ונטה ידך החזקה ˙ ובקע הים לחלקה ˙ למספר בני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "הים ראה וינס ˙ מפחד אל מנוס ˙ וממיו עלו לאורנוס ˙ מלפני אדון ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "ידידים עברו בחרבה ˙ שמחים על כל הטובה ˙ כי הציל ידוה את עם רבה ˙ רבבות אלפי ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "גאולים[?] דוחקים[?] לנגאלים בתוך הים ˙ רוטשו הוללים ˙ וחרונו שלח למסתוללים ˙ מלך צור ישראל :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "גאולים[?]",
+    "דוחקים[?]"
+   ]
+  },
+  {
+   "n": 31,
+   "text": "מי כמוך מושיע צור ישראל ˙ עושה פלא לעמו ישראל ˙ לכן שוררוהו ישרי אל ˙ משה ובני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "מי כמוך אל כביר אביר יעקב ˙ משגב ומנוס לזרע יעקב ˙ נא בישועתך יגל יעקב ˙ ישמח ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "מי כמוך אמן אלהי ישראל ˙ מצמיח צדיק וגואל ˙ לכונן בנין אריאל ˙ ועלו מושיעים בני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 10,
+   "span": "אחר[?]"
+  },
+  {
+   "line": 13,
+   "span": "חדור[?]"
+  },
+  {
+   "line": 19,
+   "span": "ויקם[?]"
+  },
+  {
+   "line": 25,
+   "span": "רעים[?]"
+  },
+  {
+   "line": 30,
+   "span": "גאולים[?]"
+  },
+  {
+   "line": 30,
+   "span": "דוחקים[?]"
+  }
+ ],
+ "sha256_text": "f84e01b3d99692d4b4a671b1a11a5ebc77ce9f25b354200861e01c1d8625eada",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.136,
+   "wer": 0.27
+  }
+ },
+ "text_file": "../text/fol104a_spread106_left.txt"
+}

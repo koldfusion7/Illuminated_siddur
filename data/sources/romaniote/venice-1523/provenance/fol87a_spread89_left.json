@@ -1,0 +1,241 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 89,
+ "side": "left",
+ "folio": "87a",
+ "printed_folio_number": "פז",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של פורים | פז",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "אלפבית",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "אספרה | אל חוק ˙ פלאות לחוק ˙ אשא דעי למרחוק ˙ בבצור לדחוק :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "בקום עלי צפע ˙ משרש אפע ˙ הון פלס בשפע ˙ והוקע בעץ שפע :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "גש והפיל פור ˙ | מיום ליום ספור ˙ | ויצא חפור ˙ | בהכינו ספור :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "דרש ימי שבוע ˙ | לשוט קבוע ˙ | ואיזה חדש טבוע ˙ | קוב ספר רבוע :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "הן יום ראשון ˙ | הניב לחשון ˙ | ומי זה בא ללשון ˙ | בעד נצורי כאישון :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "וגיא ודוק נבראו ˙ | ולשמם נקראו ˙ | ואם ימדו ויחקרו ˙ | אז אלה יעקרו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "זע יום שני ˙ | להצדיק שפת שני ˙ | ואלם מלושני ˙ | מלהלשיני :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "חי בי הרקיע ˙ | והבדיל רקיע ˙ | ומי זה בא להשקיע ˙ | זוהר הרקיע ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "טס יום שלישי ˙ | והטיל חלשי ˙ | במעון פלשי ˙ | וחיילי ושלשי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "יושר עץ ודגן ˙ | כי נוטעו בגן ˙ | ואם כדברי נרגן ˙ | למה נבראת גן :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "כהפיל מרעי ˙ | פור עלי רביעי ˙ | מול פני רועי ˙ | אומצה זרועי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "למאורות חמם ˙ | בכור שור כשמם ˙ | וצר מה זמם ˙ | לאבדם ולהומם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "מהר יום חמישי ˙ | בפורו להמשי ˙ | והגיה אמשי ˙ | בהעריב שמשי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "נוצה וזיז ונשר ˙ | בי עופפו ביושר ˙ | ומי יוביל תשר ˙ | אם עפו נשואי נשר ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "סבר לרוששי ˙ | צר כפור ששי ˙ | ועלה ואששי ˙ | והזהיר עששי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "ערך בהמות ˙ | מוכן לנחמות ˙ | שאג בעדי חומות ˙ | ושיכך חימות :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "פאר שיר שבת ˙ | חל פני משיבת ˙ | אם זו יושבת ˙ | מי בי ישבת :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "צפה עלי חרשים ˙ | והטיל חלשים ˙ | ומזלות הרשים ˙ | להכחיר קדושים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "קדם ועלה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "רץ שני כאומן ˙ | ראש חדשים למעלה ˙ | טלה חלב העלה ˙ | פסוח למי זאת עולה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "שלישי שמר ˙ | ובידו זכות מן ˙ | ורץ אל שור וזומן ˙ | ויתלו את המן :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "תמוז חן לשמים ˙ | מתן דת במשמר ˙ | ובתאומי תמר ˙ | הדס זמר תומר :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "אמל ורבך ˙ | בלי תקום צרה פעמים ˙ | וסרטן גדל במים ˙ | העיר משוי ממים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "חמישי והונבך ˙ | דיוי כי בי סובך ˙ | כאריה מסובך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "לעטור בהמה ˙ | ששי המה ˙ | מבתולה הומה ˙ | ושכך חימה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "עלצו עלות בסגל ˙ | ריע זכפור ורגל ˙ | ונוסף מנוח רגל ˙ | למרובעי דגל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "זכות סר מרע ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "ראה בירח בול ˙ | במאזני צדק מוכרע ˙ | הזכר להפרע ˙ | מהמן הרע :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "בו תר לקרב ˙ | כי בו רד מבול ˙ | ולא ידע כי קץ זבול ˙ | באבו סכול :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "יסוד היכל קדש ˙ | לעלות ביום קרב ˙ | ויושב על עקרב ˙ | עקצו כעקרב :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "רע פרש רשתו ˙ | וחנוך מנורת קדש ˙ | תשיעי החדש ˙ | הזכר לאנשי קדש :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "ונהיתה לבשתו ˙ | כי באיתן קשתו ˙ | נשברה קשיותו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "בחדש אשר בל סמך ˙ | תר היות מסומך ˙ | ושבט הרשע תמך ˙ | ובעץ חמשים נסמך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "d3245cd702cff39939d3f18a503dc325348b6a2bef490a33a3f63add05528dc1",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.119,
+   "wer": 0.251
+  }
+ },
+ "text_file": "../text/fol87a_spread89_left.txt"
+}

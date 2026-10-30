@@ -1,0 +1,236 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 105,
+ "side": "left",
+ "folio": "103a",
+ "printed_folio_number": "קג",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של שבת הגדול | קג",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "בכורי ואם אב אני · איה כבוד מעני · באתי למענך אני · והכתי כל בכור · | לפליטת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "רחומיך אנחו · דתך ואם שכחו · כפלים לקחו · כי זה משפט הבכור : | לפליטת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "ממעין ישועה שאב · ולקץ פדותי תאב · ותשימני לאב · ואני אשימך בכור : | לפליטת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "זולת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "אמת | ויציב דבריך הנעימים · | באשר הבטחת לזרע תמימים ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "גזרת בשורות ככוכבי מרומים · | דברים טובים דברים נחומים ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "דברים טובות עתידות ונחמות · | הבטחת לנביאים בחזיונות וחלומות ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "וראשי החוקים משיב חימות · | משה ואהרן ומרים בחכמות ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "יה זה [?] אחים חסידים כשרים · | חברת יחד לבשר ישרים ·",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 11,
+   "text": "טובים נעימים אסורים ואזורים · | יבאו שניהם בליל שמורים ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "יהושע נער תלמיד ענו · | כתר קבל מהוד אדוניו ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "להיות מושל בצרכי בניו · | משה ואהרן בכהניו ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "מגזע לוי קם שמואל · | נביא היה בישע אל ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "שכל לבניו אביה ויואל · | וישם בניו שופטים על ישראל ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "על חוקם דוד בן ישי · | פיו דבר בנבואת ישושי ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "צמח צדיק גר חמישי · | לך יובילו מלכים שי ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "קם שלמה הנקרא ידידיה · | רוח מלא מפי דודיה ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "שבחות ונחמות אמר ישעיה · | ביום ההוא יהיה ישראל שלישיה ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "את זכריה בן ברכיה בן עדו הנביא · | היה דבר ידוה את עבדי צמח הנני מביא ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "הוא יהיה לי לעם ויקראני אבי · | הנני שולח לכם את אליה הנביא :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "זולת אחר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "אלכה | לי ואשובה · אל אישי הראשון · אלוף נעורי בעלי · נצרני כבת אישון :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "בחור נאה כארזים · תהלתו בכל לשון · בזכרי בו איננו מניח לי לישון :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "גאה ורב ענוה · כמה מעלות מעולות · גמלני בגיא גירות [?] · בפגת בוחן וצלמות :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 26,
+   "text": "דודי לי כארזים · ברוב אהבה וחמלות · דחיתי רגלי ריעי · הודחתי כחיות ארמלות :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "היום אני זכורה הוד שמחת חפתי · הדר מוהר בתולי · כתב לי חריפתי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "ואהיה אצלו אמון · יום יום בתקיפתי · ונקראתי חפצי בה · יונתי רעיתי תמתי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "זכור אלה יעקב · כי אתם עדי · זה זמן חתונתי · ואלה הם מועדי ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "חפני פז וחרוץ · שמעני אין בלעדי · חח ונזם וצמיד · כומז עגיל ואצעדי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "טבלתי במקוה המלך · ובאתי בעדי עדיים · טהרותי נקיות דודי · נתנו ריח דודאים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "יצועי ריעי עלה · ולן בין שדיים · יפעתי ישרה בעיניו · חבקני חבוק ידים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 10,
+   "span": "[?]"
+  },
+  {
+   "line": 25,
+   "span": "[?]"
+  }
+ ],
+ "sha256_text": "2ba8156edb1d6604b8671e21c316dca99957fcb006681fac04b209b386f50d02",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.168,
+   "wer": 0.308
+  }
+ },
+ "text_file": "../text/fol103a_spread105_left.txt"
+}

@@ -1,0 +1,241 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 86,
+ "side": "right",
+ "folio": "83b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "מגילה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "בשלושה עשר לחדש שנים עשר הוא חדש אדר ושללם לבוז : פתשגן הכתב להנתן דת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "בכל מדינה ומדינה גלוי לכל העמים להיות עתידים ליום הזה : הרצים יצאו דחופים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "בדבר המלך והדת נתנה בשושן הבירה והמלך והמן ישבו לשתות והעיר שושן נבוכה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ומרדכי ידע את כל אשר נעשה ויקרע מרדכי את בגדיו וילבש שק ואפר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "ויצא בתוך העיר ויזעק זעקה גדולה ומרה : ויבוא עד לפני שער המלך כי אין לבוא אל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "שער המלך בלבוש שק : ובכל מדינה ומדינה מקום אשר דבר המלך ודתו מגיע אבל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "גדול ליהודים וצום ובכי ומספד שק ואפר יצע לרבים : ותבואינה נערות אסתר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "וסריסיה ויגידו לה ותתחלחל המלכה מאד ותשלח בגדים להלביש את מרדכי ולהסיר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "שקו מעליו ולא קבל : ותקרא אסתר להתך מסריסי המלך אשר העמיד לפניה ותצוהו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "על מרדכי לדעת מה זה ועל מה זה : ויצא התך אל מרדכי אל רחוב העיר אשר לפני",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "שער המלך : ויגד לו מרדכי את כל אשר קרהו ואת פרשת הכסף אשר אמר המן לשקול",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "על גנזי המלך ביהודיים לאבדם : ואת פתשגן כתב הדת אשר נתן בשושן להשמידם נתן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "לו להראות את אסתר ולהגיד לה ולצוות עליה לבוא אל המלך להתחנן לו ולבקש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "מלפניו על עמה : ויבוא התך ויגד לאסתר את דברי מרדכי : ותאמר אסתר להתך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "ותצוהו אל מרדכי : כל עבדי המלך ועם מדינות המלך ידעים אשר כל איש ואשה אשר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "יבוא אל המלך אל החצר הפנימית אשר לא יקרא אחת דתו להמית לבד מאשר יושיט לו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "המלך את שרביט הזהב וחיה ואני לא נקראתי לבא אל המלך זה שלושים יום : ויגידו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "למרדכי את דברי אסתר : ויאמר מרדכי להשיב אל אסתר אל תדמי בנפשך להמלט בית",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "המלך מכל היהודים : כי אם החרש תחרישי בעת הזאת רוח והצלה יעמוד ליהודים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "ממקום אחר ואת ובית אביך תאבדו ומי יודע אם לעת כזאת הגעת למלכות : ותאמר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "אסתר להשיב אל מרדכי : לך כנוס את כל היהודים הנמצאים בשושן וצומו עלי ואל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "תאכלו ואל תשתו שלשת ימים לילה ויום גם אני ונערתי אצום כן ובכן אבוא אל המלך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "אשר לא כדת וכאשר אבדתי אבדתי : ויעבר מרדכי ויעש ככל אשר צותה עליו אסתר :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "ויהי ביום השלישי ותלבש אסתר מלכות ותעמד בחצר בית המלך הפנימית נכח בית המלך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "והמלך ישב על כסא מלכותו בבית המלכות נכח פתח הבית : ויהי כראות המלך את",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "אסתר המלכה עמדת בחצר נשאה חן בעיניו ויושט המלך לאסתר את שרביט הזהב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "אשר בידו ותקרב אסתר ותגע בראש השרביט : ויאמר לה המלך מה לך אסתר המלכה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "ומה בקשתך עד חצי המלכות וינתן לך : ותאמר אסתר אם על המלך טוב יבוא המלך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "והמן היום אל המשתה אשר עשיתי לו : ויאמר המלך מהרו את המן לעשות את דבר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "אסתר ויבא המלך והמן אל המשתה אשר עשתה אסתר : ויאמר המלך לאסתר במשתה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "היין מה שאלתך וינתן לך ומה בקשתך עד חצי המלכות ותעש : ותען אסתר ותאמר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "שאלתי ובקשתי : אם מצאתי חן בעיני המלך ואם על המלך טוב לתת את שאלתי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "ולעשות את בקשתי יבוא המלך והמן אל המשתה אשר אעשה להם ומחר אעשה כדבר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "המלך",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "b91da63ef124c63bc3a5c1745dc75d9aa2499e03658840a8d7b9a84563d97eba",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.038,
+   "wer": 0.113
+  }
+ },
+ "text_file": "../text/fol83b_spread86_right.txt"
+}

@@ -1,0 +1,248 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 116,
+ "side": "right",
+ "folio": "113b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "הגדה של פסח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "נותן בהם סמנים דצך עדש באחב : | רבי יוסי הגלילי אומר מנין אתה אומר שלקו [?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 3,
+   "text": "המצרים במצרים עשר מכות ועל הים לקו חמשים מכות במצרים מה הוא אומר ויאמרו [?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 4,
+   "text": "החרטומים אל פרעה אצבע אלהים היא ועל הים מה הוא אומר וירא ישראל את היד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "הגדולה אשר עשה ידוה במצרים כמה לקו באצבע עשר מכות אמור מעתה במצרים לקו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "עשר מכות ועל הים לקו חמשים מכות : | רבי אליעזר אומר מנין שכל מכה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "ומכה שהביא הקדוש ברוך הוא על המצרים במצרים היתה של ארבע מכות שנאמר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "ישלח בם חרון אפו עברה וזעם וצרה משלחת מלאכי רעים ˙ | עברה אחת זעם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "שתים צרה שלש משלחת מלאכי רעים ארבע אמור מעתה במצרים לקו ארבעים מכות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "ועל הים לקו מאתים מכות : | רבי עקיבא אומר מנין שכל מכה ומכה שהביא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "הקדוש ברוך הוא על המצרים במצרים היתה של חמש מכות שנאמר ישלח בם חרון",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "אפו עברה וזעם וצרה משלחת מלאכי רעים ˙ | חרון אפו אחת עברה שתים זעם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "שלש צרה ארבע משלחת מלאכי רעים חמש אמור מעתה במצרים לקו חמשים מכות ועל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "הים לקו מאתים וחמשים מכות :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "כמה מעלות טובות למקום עלינו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "אילו הוציאנו ממצרים ˙ | ולא עשה בהם שפטים דיינו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "אילו עשה בהם שפטים ˙ | ולא עשה באלהיהם דיינו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "אילו עשה באלהיהם ˙ | ולא הרג את בכוריהם דיינו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "אילו הרג את בכוריהם ˙ | ולא נתן לנו את ממונם דיינו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "אילו נתן לנו את ממונם ˙ | ולא קרע לנו את הים דיינו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "אילו קרע לנו את הים ˙ | ולא העבירנו בתוכו בחרבה דיינו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "אילו העבירנו בתוכו בחרבה ˙ | ולא שקע שנאינו בתוכו דיינו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "אילו שקע שנאינו בתוכו ˙ | ולא ספק צרכנו במדבר ארבעים שנה דיינו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "אילו ספק צרכנו במדבר ארבעים שנה ˙ | ולא האכילנו את המן דיינו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "אילו האכילנו את המן ˙ | ולא נתן לנו את השבת דיינו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "אילו נתן לנו את השבת ˙ | ולא קרבנו לפני הר סיני דיינו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "אילו קרבנו לפני הר סיני ˙ | ולא נתן לנו את התורה דיינו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "אילו נתן לנו את התורה ˙ | ולא הכניסנו לארץ ישראל דיינו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "אילו הכניסנו לארץ ישראל ˙ | ולא בנה לנו את בית הבחירה דיינו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "על אחת כמה וכמה טובה כפולה ומכפלת למקום עלינו ˙ הוציאנו ממצרים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "עשה בהם שפטים ˙ עשה באלהיהם ˙ הרג את בכוריהם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "נתן לנו את ממונם ˙ קרע לנו את הים ˙ העבירנו בתוכו בחרבה ˙ שקע שנאינו בתוכו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "ספק צרכנו במדבר ארבעים שנה ˙ האכילנו את המן נתן לנו את השבת ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "קרבנו לפני הר סיני ˙ נתן לנו את התורה ˙ הכניסנו לארץ ישראל ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 2,
+   "span": "[?]"
+  },
+  {
+   "line": 3,
+   "span": "[?]"
+  }
+ ],
+ "sha256_text": "a36d4e42195d64916bcaad932a6b5dfa1ebe4b10826ab4adcdcf5fdf9683e71c",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.068,
+   "wer": 0.156
+  }
+ },
+ "text_file": "../text/fol113b_spread116_right.txt"
+}

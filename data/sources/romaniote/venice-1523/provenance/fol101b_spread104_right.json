@@ -1,0 +1,254 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 104,
+ "side": "right",
+ "folio": "101b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של שבת הגדול",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "הגיגת כללן וציחצוחן · | מעץ ואבן שרין כחדחן ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "מחרש מצוה להניחן · | כשהן גרורות בחול להדיחן :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "ושמוש סכין וענינו · | מדיחין אותו לתקנו ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "בכלי ראשון תקונו · | וכן הגעלתו ובהונו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "ולבון ברזל באור לגלשון · | לטהרו מכל רפשון ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "וקתא בחמין נצורי כאישון · | והלכתא כולן בהגעלה בכלי ראשון :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "זרוז מיד ולדורות · | להדיח להפקיע כוסות וקערות ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "בכלי עץ ובכלי מתכות להכשרות · | אבל כלי חרש אין בהן דין טהרות :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "זהירת כלים נתוכים [?] עופרת · | הלכה זו מבוארת ·",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 11,
+   "text": "קוניא שועין ככלי מתכות לאום ננצרת · | ובעו טבילה לפליטה הנשארת :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "חקור קדרי ונפה ושפוד ואסקלא · | מעולות הן כולן בהגעלה ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "ומאני דקוניא כפחרא משולה · | מותרין בהדחה כבורמי גללא :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "חיוב כלים הרי הן מרווחין · | מאסורן מצוחצחין ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "וכדת הן מונחין · | תמו הלכות הגעלה ברותחין :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "טעמי דת מוסר · | מהם בלי להסר ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "בדיקת חמץ לנו נמסר · | מאור ארבעה עשר :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "טירת גפן בוקקה · | אין בודקין לא לאור החמה ולא לאבוקה ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "כי אם לנר דליקה · | שהנר יפה לבדיקה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "יודעין ביאורו לאמץ · | המתחיל לבער חמץ ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "מברך כזאת באומץ · | ברוך אשר קדשנו במצותיו וצונו על ביעור חמץ :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "ישראל מתי מצוה עליהם · | לבדוק ביושר נויהם ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "עשות פקוד רוקמיהם · | כשבני אדם מצויין בבתיהם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "כוי [?] בתי עליונים ותחתונים · | לשאור אינם מזומנים ·",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 25,
+   "text": "ואמצעיים לבד פונים · | שחמץ בם נותנים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "כלל גג ויציע ומגדל ורפת בקר · | ולולין ומתכנין בלי לבקר ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "ואוצרות יין ושמן לבקר · | אלו אין בודקין כל עיקר :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "לאמצעית חור בינו לבין קרובו · | זה בודק עד מקום מגעת ידו בארבו ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "וזה בודק מחצית ארובו · | והשאר מבטלו בלבו ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "לחוק יהודי וגוי שותפין · | לא יבדוק נמו צופים ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "מפני סכנת גופים · | פן יחשדוהו בכשפים ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "מפולת על חמץ בעבורו בל נטרחים · | הרי הוא כמבוער במקום מדוחים ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "לבל חופשין אחריו נובחין · | וחפישתן שלשה טפחים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "מרתף בשתי שורות · | בהכנסת חמץ מתחקרות ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "ואוצרות",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 10,
+   "span": "[?]"
+  },
+  {
+   "line": 24,
+   "span": "[?]"
+  }
+ ],
+ "sha256_text": "fb25ea7494cb4c125444a227d00624fa57aad7de2dfda2c5e097ce1b572e6105",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.034,
+   "wer": 0.136
+  }
+ },
+ "text_file": "../text/fol101b_spread104_right.txt"
+}

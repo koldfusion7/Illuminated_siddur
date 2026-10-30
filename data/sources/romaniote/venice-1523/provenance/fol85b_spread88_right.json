@@ -1,0 +1,182 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 88,
+ "side": "right",
+ "folio": "85b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "מגילה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "כי המן בן המדתא האגגי צרר כל היהודים חשב על היהודים לאבדם והפל פור הוא הגורל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "להמם ולאבדם : ובבואה לפני המלך אמר עם הספר ישוב מחשבתו הרעה אשר חשב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "על היהודים על ראשו ותלו אתו ואת בניו על העץ : על כן קראו לימים האלה פורים על",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "שם הפור על כן על כל דברי האגרת הזאת ומה ראו על ככה ומה הגיע אליהם : קימו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "וקבלו היהודים עליהם ועל זרעם ועל כל הנלוים עליהם ולא יעבור להיות עשים את שני",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "הימים האלה ככתבם וכזמנם בכל שנה ושנה : והימים האלה נזכרים ונעשים בכל דור",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "ודור משפחה ומשפחה מדינה ומדינה ועיר ועיר וימי הפורים האלה לא יעברו מתוך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "היהודים וזכרם לא יסוף מזרעם : | ותכתוב אסתר המלכה בת אביחיל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "ומרדכי היהודי את כל תקף לקיים את אגרת הפרים הזאת השנית : וישלח ספרים אל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "כל היהודים אל שבע ועשרים ומאה מדינה מלכות אחשורוש דברי שלום ואמת :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "לקיים את ימי הפרים האלה בזמניהם כאשר קים עליהם מרדכי היהודי ואסתר המלכה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "וכאשר קימו על נפשם ועל זרעם דברי הצומות וזעקתם : ומאמר אסתר קים דברי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "הפרים האלה ונכתב בספר : | וישם המלך אחשורש מס על הארץ ואיי הים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "וכל מעשה תקפו וגבורתו ופרשת גדלת מרדכי אשר גדלו המלך הלוא הם כתובים על",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "ספר דברי הימים למלכי מדי ופרס : כי מרדכי היהודי משנה למלך אחשורוש וגדול",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "ליהודים ורצוי לרוב אחיו דרש טוב לעמו ודבר שלום לכל זרעו : | חזק",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "ברוך | אתה ידוה אלהינו מלך העולם הרב את ריבנו והדן את דיננו והנוקם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "את נקמתנו והנפרע לנו מצרינו והמשלם גמול לכל אויבי נפשנו וה[?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "וה[?]"
+   ]
+  },
+  {
+   "n": 20,
+   "text": "והגואלנו והמושיענו מכף כל העריצים ברוך אתה ידוה הנפרע לעמו ישראל מכל צריהם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "האל המושיע : ברוך ידוה ˙ ברוך וברוך ידוה ˙ ברוך וברוך וברוך ידוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "ברוך מרדכי ˙ ברוך וברוך מרדכי ˙ ברוכה אסתר ˙ ברוכה וברוכה אסתר ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "ברוכים כל ישראל ˙ ברוכים וברוכים כל ישראל ˙ ארור המן ˙ ארורה זרש אשתו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "ארורים כל גוים שכיחי אלהים ˙ ברוכים כל ישראל : חרבונה זכור לטוב ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 19,
+   "span": "וה[?]"
+  }
+ ],
+ "sha256_text": "c0eee06250ebb7eff7b1645abfbc7fec01dec1b54eb864b6f775cc9564450061",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.033,
+   "wer": 0.13
+  }
+ },
+ "text_file": "../text/fol85b_spread88_right.txt"
+}
