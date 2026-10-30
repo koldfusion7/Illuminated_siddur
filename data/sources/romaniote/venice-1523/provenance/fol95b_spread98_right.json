@@ -1,0 +1,224 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 98,
+ "side": "right",
+ "folio": "95b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של שבת החדש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "שבת החדש | פתיחה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "שעה אלי אלי שועי כאישים ˙ | אשר עלו במשכן הקרשים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "בהקריבי בכל יום את תמידי ˙ | ומוספי בימים הקדושים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "תמורם אשפכה שיחי בכל יום ˙ | ושבתות וגם ראשי חדשים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "יחיד עולם אשר אין בלתך כל ˙ | ואתה כל לעורר החלשים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "חמול עלי וכונן בית אריאל ˙ | להקטיר עוד בקדש הקדשים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "בכל שנה במזבח זהבי ˙ | לכפר יום ביום כפור ענושים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "יצו שדי להחיש את פדותי ˙ | לבד נשוב בכל לב עם נפשים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "בחיינו יהי רצון לקרב ˙ | משיחנו בניסן ראש חדשים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "פתיחה אחרת לרבי יהודה קלשי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "אשר נקדש בסוד שרפי קדושים ˙ | אהלל לו בניסן ראש חדשים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "נצורה הגאולה מתחלה ˙ | עלי יד נאמן עלו חמושים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "יהולל אל בפי הכל ורבה ˙ | אמונתו ישנים גם חדשים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "יחוו כל פליאותיו ומופתיו ˙ | אשר שלח במצרים במוקשים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "הדרך יה שחקים לא יכילון ˙ | וארץ עם גויות גם נפשים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "והכם צור בעשר תחלואים ˙ | ואמנם סוף נגפמו במוקשים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "דבר קרבן לקיחתו בעשור ˙ | בדמו נמלטו דלים ורשים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "הלא מאז יעדם צור בחוקיו ˙ | והוקם בו נוה משכן קדושים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "ויתגדל בתוך חכמי ישישים ˙ | ויתקדש בניסן ראש חדשים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "פתיחה אחרת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "ראשון | לציון אלהיכם ובשרכם ˙ | החדש הזה לכם | ראשון",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "דגל עמך הרם ודרכו ˙ תכין והשבית ניבי ערכו ˙ ובשר את בניך כה ˙ אמר יי גואלכם : | החדש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "והעלם מאדום ועדינה[?] ˙ כמאז מנוף יצאו ברנה ˙ השמיעם בבכורת בתאנה ˙ מצאתי אבותיכם | החדש",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ועדינה[?]"
+   ]
+  },
+  {
+   "n": 25,
+   "text": "יורו נא כל מוני ˙ בקבצך עדת המוני ˙ ויאמרו גואלכם ידוה ˙ אלהי אבותיכם : | החדש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "דלתיך יום יום נשקוד ˙ לפניך נכרע ונקוד ˙ בשרנו עוד פקוד ˙ פקדתי אתכם : | החדש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "פתיחה אחרת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "ויש אומרים [?] בסיר והוא כתוב בקדישים ˙",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 29,
+   "text": "מקבץ | המוני ˙ יופיע אורה ˙ ושוכן מעוני ˙ יקבץ פזורה ˙ | יענך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "ועורכי רנני ˙ יתנו זמרה ˙ יענך ידוה ˙ ביום צרה : | שוכן",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 24,
+   "span": "ועדינה[?]"
+  },
+  {
+   "line": 28,
+   "span": "[?]"
+  }
+ ],
+ "sha256_text": "b53fe93627525019f0d7e58ce482bc4097ff093e3cf30a71db1a029b3ab0f058",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.07,
+   "wer": 0.188
+  }
+ },
+ "text_file": "../text/fol95b_spread98_right.txt"
+}

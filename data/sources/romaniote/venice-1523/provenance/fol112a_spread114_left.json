@@ -1,0 +1,135 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 114,
+ "side": "left",
+ "folio": "112a",
+ "printed_folio_number": "קיב",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "לששת ימי המעשה בין קדושת שבת לקדושת יום טוב הבדלת ואת יום השביעי מששת",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "ימי המעשה קדשת והבדלת וקדשת לעמך ישראל בקדושתך ברוך אתה ידוה המבדיל",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "בין קדש לקדש :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "ברוך אתה ידוה אלהינו מלך העולם בורא פרי האדמה :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ברוך אתה ידוה אלהינו מלך העולם בורא נפשות רבות וחסרונן על כל מה שבראת :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "בבהילו יצאנו ממצרים | הא לחמא עניא די אכלו אבהתנא בארעא",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "דמצרים כל דכפין יתי | וייכול מאן דצריך יתי ויפסח הא שתא",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "הכא לשתא דאתיא בארעא דישראל הא שתא הכא עבדי לשתא דאתיא בארעא דישראל",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "בני חורין :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "מה נשתנה הלילה הזה מכל הלילות שבכל הלילות אנו אוכלין חמץ ומצה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "הלילה הזה כלו מצה שבכל הלילות אנו אוכלין שאר ירקות הלילה הזה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "מרור שבכל הלילות אין אנו מטבלין אפילו פעם אחת הלילה הזה שתי פעמים שבכל",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "הלילות אנו אוכלין בין יושבין בין מסובין הלילה הזה כלנו מסובין :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "עבדים היינו לפרעה במצרים ויוציאנו ידוה אלהינו משם ביד חזקה ובזרוע נטויה שאילו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "לא הוציא הקדוש ברוך הוא את אבתינו ממצרים כבר אנו ובנינו ובני בנינו משעבדים",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "היינו לפרעה במצרים לפיכך מצוה עלינו לספר ביציאת מצרים ואפילו כלנו חכמים כלנו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "נבונים כלנו יודעים את התורה מצוה עלינו לספר ביציאת מצרים שכל המספר ביציאת",
+   "confidence": "low",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "0bcfb5822eed323ba4fabf24c0d5533825931fa23a0b8dbb52193e88a92a7754",
+ "proofed": false,
+ "status": "partial",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.149,
+   "wer": 0.295,
+   "scope": "square-type body proofed; Rashi-type rubrics unproofed"
+  }
+ },
+ "text_file": "../text/fol112a_spread114_left.txt",
+ "proofing_note": "Partly proofed page: Rashi-type notes or rubrics, or other explicitly marked lines, await expert proofreading. Supplied markers are retained unchanged. The full corrected file is used instead of its duplicate _body variant. Supplied error rates cover the square-type body; the supplied scope leaves Rashi-type rubrics unproofed. Supplied CER/WER values for partly proofed sides are approximate; they are retained without recomputation. Low line confidence conservatively reflects the mixed proofing scope."
+}

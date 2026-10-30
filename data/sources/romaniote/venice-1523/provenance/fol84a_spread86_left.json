@@ -1,0 +1,254 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 86,
+ "side": "left",
+ "folio": "84a",
+ "printed_folio_number": "פד",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "פד מגילה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "המלך : ויצא המן ביום ההוא שמח וטוב לב וכראות המן את מרדכי בשער המלך ולא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "קם ולא זע ממנו וימלא המן על מרדכי חמה : ויתאפק המן ויבוא אל ביתו וישלח ויבא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "את אהביו ואת זרש אשתו : ויספר להם המן את כבוד עשרו ורב בניו ואת כל אשר גדלו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "המלך ואת אשר נשאו על השרים ועבדי המלך : ויאמר המן אף לא הביאה אסתר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "המלכה עם המלך אל המשתה אשר עשתה כי אם אותי וגם למחר אני קרוא לה עם המלך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "וכל זה איננו שוה לי בכל עת אשר אני ראה את מרדכי היהודי ישב [?] בשער המלך :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 8,
+   "text": "ותאמר לו זרש אשתו וכל אהביו יעשו עץ גבה חמשים אמה ובבקר אמר למלך ויתלו את",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "מרדכי עליו ובא עם המלך אל המשתה שמח וייטב הדבר לפני המן ויעש העץ : בלילה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "ההוא נדדה שנת המלך ויאמר להביא את ספר הזכרונות דברי הימים ויהיו נקראים לפני",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "המלך : וימצא כתוב אשר הגיד מרדכי על בגתנא ותרש שני סריסי המלך משמרי הסף",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "אשר בקשו לשלח יד במלך אחשורוש : ויאמר המלך מה נעשה יקר וגדלה למרדכי על",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "זה ויאמרו נערי המלך משרתיו לא נעשה עמו דבר : ויאמר המלך מי בחצר והמן בא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "לחצר בית המלך החיצונה לאמר למלך לתלות את מרדכי על העץ אשר הכין לו ויאמרו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "נערי המלך אליו הנה המן עמד בחצר ויאמר המלך יבא : ויבוא המן ויאמר לו המלך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "מה לעשות באיש אשר המלך חפץ ביקרו ויאמר המן בלבו למי יחפץ המלך לעשות יקר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "יותר ממני : ויאמר המן אל המלך איש אשר המלך חפץ ביקרו : יביאו לבוש מלכות אשר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "לבש בו המלך וסוס אשר רכב עליו המלך ואשר נתן כתר מלכות בראשו : ונתון הלבוש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "והסוס על יד איש משרי המלך הפרתמים והלבישו את האיש אשר המלך חפץ ביקרו ו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "והרכיבהו על הסוס ברחוב העיר וקראו לפניו ככה יעשה לאיש אשר המלך חפץ ביקרו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "ויאמר המלך להמן מהר קח את הלבוש ואת הסוס כאשר דברת ועשה כן למרדכי היהודי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "היושב בשער המלך אל תפל דבר מכל אשר דברת : ויקח המן את הלבוש ואת הסוס",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "וילבש את מרדכי וירכיבהו ברחוב העיר ויקרא לפניו ככה יעשה לאיש אשר המלך חפץ",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "ביקרו : וישב מרדכי אל שער המלך והמן נדחף אל ביתו אבל וחפוי ראש : ויספר המן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "לזרש אשתו ולכל אהביו את כל אשר קרהו ויאמרו לו חכמיו וזרש אשתו אם מזרע ה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "היהודים מרדכי אשר החלות לנפל לפניו לא תוכל לו כי נפול תפול לפניו : עודם מדברים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "עמו וסריסי המלך הגיעו ויבהלו [?] להביא את המן אל המשתה אשר עשתה אסתר :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 28,
+   "text": "ויבא המלך והמן לשתות עם אסתר המלכה : ויאמר המלך לאסתר גם ביום השני",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "במשתה היין מה שאלתך אסתר המלכה ותנתן לך ומה בקשתך עד חצי המלכות ותעש :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "ותען אסתר המלכה ותאמר אם מצאתי חן בעיניך המלך ואם על המלך טוב תנתן לי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "נפשי בשאלתי ועמי בבקשתי : כי נמכרנו אני ועמי להשמיד להרוג ולאבד ואלו לעבדים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "ולשפחות נמכרנו החרשתי כי אין הצר שוה בנזק המלך : ויאמר המלך אחשורוש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "ויאמר לאסתר המלכה מי הוא זה ואי זה הוא אשר מלאו לבו לעשות כן : ותאמר אסתר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "איש צר ואויב המן הרע הזה והמן נבעת מלפני המלך והמלכה : והמלך קם בחמתו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "יא ד",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 7,
+   "span": "[?]"
+  },
+  {
+   "line": 27,
+   "span": "[?]"
+  }
+ ],
+ "sha256_text": "dee3211f6f53bbf45c5ebce16503d672b1d01fa5d3657e38202f25d3b6303f09",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.063,
+   "wer": 0.161
+  }
+ },
+ "text_file": "../text/fol84a_spread86_left.txt"
+}

@@ -1,0 +1,242 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 89,
+ "side": "right",
+ "folio": "86b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של פורים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "בראשו חש לענותינו ˙ | ובסופו נחלש על אודותינו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "מאל היתה ישועתנו ˙ | ישוב ירחמנו יכבוש עונותינו : בא״ חנון המרבה לסלוח ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "זמם מחשבות און לחרוש ˙ | זיד למד רע לאחשורוש ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "זימן כתיבה דחרש לחרשים ראש ˙ | זלעף לאבד אום דלת ראש ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "זעק מור בשמים ראש ˙ | זעוף רשע בגובה אפו בל ידרוש :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "בל ידרוש אלוה להכירהו ˙ | בור כרה ויחפרהו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "יראי ידוה הללוהו ˙ | גאולים ויושע ידוה ביום ההוא : בא״ גואל ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "חשב לבצור כרם ולעוללו ˙ | חתוך לפניו פרחי גדולו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "חתיית אש חתה לו ˙ | חש והפיל פור גורלו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "חפר ונפל בשחת מפעלו ˙ | חלל וגם קבורה לא היתה לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "לו ולזרעו השמדתי בעבורך ˙ | להזריח בחושך אורך ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "מי כמוך ישוררוך ˙ | רפאות תהי לשריך : בא״ רופא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "טמן רשתו לשחתם ˙ | טלטל לטבחם ולהכותם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "טבע חרותים בחותם ˙ | טרוף אבותם ואמותם וטף תולדותם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "טוב ראה בצרתם בשמעו רנתם ˙ | טאטות והמטים עקלקלותם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "עקלקלותם מטים אוי להם ˙ | לא נותר מהם ולא מהמהם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "ותמימים יתברכו באלהיהם ˙ | בגשם יבלו בטוב ימיהם ושניהם : בא״ מברך השנים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "יקשם צר והמרירם ˙ | יופי פניהם שיחר והקדירם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "ישנו פץ להכאירם ˙ | יעץ באודו להבעירם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "ימחה שמו ושם זכרו מלהזכירם ˙ | יושמד[?] ויוכרת מארץ זכרם :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "יושמד[?]"
+   ]
+  },
+  {
+   "n": 22,
+   "text": "זכרם ומלכותם ידוה יהרס ˙ | יגון ואנחה מנו להנס ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "מי הים כנד כונס ˙ | נדחי ישראל יכנס : בא״ מקבץ",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "כופר נפש כנתנו לידוה ˙ | כעס השבית ונרצה לידוה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "כנאם צר לשקול כסף ליראי ידוה ˙ | כלתה בו חמת אל אלהים ידוה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "כי הנה אויביך ידוה ˙ | כן יאבדו כל אויביך ידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "ידוה יהי שמך שלם בקריה ˙ | באבדך שם רשעים מנשיה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "בעשותך בהם משפט כתוב הללויה ˙ | ויאמר כי יד על כס יה : בא״ אוהב צדקה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "לעורר ריב ומדון ˙ | לחש כהולך על גחון ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "לקנות עם ולטחון ˙ | לנגאלו בלא כסף והון ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "לו נאמר בא זדון ˙ | ויבא קלון לפני שבר גאון :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "גאון וגאה תשפיל מגאונם ˙ | להשתיק פיהם ולהחריש אזנם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "בפקדך עליהם עונם ˙ | יתמו חטאים מן הארץ ורשעים עוד אינם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "אספרה",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 21,
+   "span": "יושמד[?]"
+  }
+ ],
+ "sha256_text": "ec815c46911f5cf0dcec195918199d336d68584bbba6223e0d3b4dafe35fc05c",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.045,
+   "wer": 0.17
+  }
+ },
+ "text_file": "../text/fol86b_spread89_right.txt"
+}

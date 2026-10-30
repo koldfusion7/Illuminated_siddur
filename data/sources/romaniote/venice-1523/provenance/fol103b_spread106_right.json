@@ -1,0 +1,248 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 106,
+ "side": "right",
+ "folio": "103b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות לשבת[?] הגדול",
+   "confidence": "low",
+   "uncertain_spans": [
+    "לשבת[?]"
+   ]
+  },
+  {
+   "n": 2,
+   "text": "בצל יצאוני בני ˙ וכל מבחר שתילי ˙ כמעט רגע עברתי ˙ נתקו גדילי פתילי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "לא נחתי מאז ˙ בכל פנות כותלי ˙ לועגים הכוני פצעוני ˙ מעכו דדי בתולי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "משבי אל שבי טולטלתי ˙ באף וחימות ˙ ברוב חלולים חללתי ˙ אל משבית מלחמות :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "נשאו את רדידי מעלי ˙ שומרי החומות ˙ נודדתי מפנה אל פנה ˙ שבויה בלי נחמות :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "סמוכה אני בכתובתי ˙ כתובה היא וחתומה ˙ סופרי המלך חתומים ושמו חתום בחתימה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "עדות חתני קיימת ˙ בפרט ולא בסתימה ˙ עקר זמן תשובתו ˙ בקיום תורה תמימה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "פונה אני ומצפה ˙ יום גאולה וישועה ˙ פדות אסירי המלך ˙ מיד מלכות הרשעה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "צרתי זאת נחמתי ˙ ממנה היות נושעה ˙ צופי נכאו עלי ˙ לעת צרה תשועה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "קנינים כמה הוספתי ˙ על אבותי וזקני ˙ קשר שני כתרים ˙ קשרתי לו בסיני :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "רחש לבי עליהם ˙ שושו מעי ומצפוני ˙ רני רני השיטה ˙ התנופפי בנוי ארמוני :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "שירי המיוחד לי ˙ לידוה שיר חדש ˙ שם נשיר כלנו ˙ ולפי הזמן יחודש :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "תודה וקול זמרה ˙ בליל חג התקדש ˙ תהלות ידוה נספר ˙ בבנין בית המקדש :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "ושישי אמרו אמן ˙ כה יאמר המלך ˙ צאן אבידה לקבץ ˙ מכל עיר ופלך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "חפצי בה התבשרי הקשיבי צהלי קולך ˙ קומי שבי ירושלם ˙ הרחיבי מקום אהלך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "מי כמוך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "מי כמוך אל נורא תהלות ˙ ברוך ומבורך במקהלות ˙ המרבה נפלאות גדולות ˙ לכל זרע ישראל[?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ישראל[?]"
+   ]
+  },
+  {
+   "n": 18,
+   "text": "מי כמוך אין עוד מלבדך ˙ בשמים ובארץ הודך ˙ מלא כל הארץ כבודך ˙ יושב תהלות ישראל[?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ישראל[?]"
+   ]
+  },
+  {
+   "n": 19,
+   "text": "מי כמוך אדיר במרום ידוה ˙ גיאות לבש ידוה ˙ אין קדוש כידוה ˙ ומי כעמך ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "בחר עמו לנחלה ˙ וקראם צאן סגלה ˙ היות לשם ולתהלה ˙ קהל עדת ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "גוי גאל חשק אבותיהם ˙ ויבחר בזרעם אחריהם ˙ ומאהבתו קרא להם ˙ בני בכורי ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "דגלם וסגלם לשמו ˙ למען ברית נואמו ˙ ושמם יכנה בשמו ˙ אל אלהי ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "הוגלו בצוען מקדמה ˙ וירדו אבותינו מצרימה ˙ בשבעים נפש סכומה ˙ שמות בני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "ויקם מלך חדש ˙ ועליהם גזרות חדש ˙ ולהם חרב הידש ˙ ויכנעו בני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "זממו עלילות מרמה ˙ הבה לו נתחכמה ˙ לכו ונכחידם בערמה ויקצו מפני בני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "חשבו עליהם לודים ˙ על הזכרים הילודים ˙ להמית מבטן ילדים ˙ ויאנחו בני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "טעו כזב ברבי ˙ שקם משבט הלוי ˙ להכחיד שם הנביא ˙ כי הוא רועה ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "יום הולדת אותו ˙ כחתן יוצא מחפתו ˙ וידעו כל משפחתו ˙ כי הוא מושיע ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "כבדה עבודה קשה ˙ הרבו תחנה ובקשה ˙ ידוה לעזרתנו חושה ˙ מקוה ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "לא מאס ברית יעקב ˙ משגב ומנוס לזרע יעקב ˙ אל תראי תולעת יעקב ˙ מתי ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "משה היה רועה ˙ צאנו כטוב מרעה ˙ נגלה אליו הרועה ˙ ידוה אלהי ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "נם לו אל שדי ˙ אני ואין בלעדי ˙ לך והוצא את ידידי ˙ את עמי בני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "שית נאקתם הקשבתי ˙ עניים ראה ראיתי ˙ וגם אני שמעתי ˙ את נאקת בני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 1,
+   "span": "לשבת[?]"
+  },
+  {
+   "line": 17,
+   "span": "ישראל[?]"
+  },
+  {
+   "line": 18,
+   "span": "ישראל[?]"
+  }
+ ],
+ "sha256_text": "8c808e1513b6bcdb137249805dfc389771cdcc6ff15e2f3943859e851761ba16",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.047,
+   "wer": 0.124
+  }
+ },
+ "text_file": "../text/fol103b_spread106_right.txt"
+}

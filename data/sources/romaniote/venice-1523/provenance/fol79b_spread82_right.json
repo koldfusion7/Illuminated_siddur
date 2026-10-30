@@ -1,0 +1,230 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 82,
+ "side": "right",
+ "folio": "79b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של צום אסתר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "דאוי בצבור היותה נכרת ˙ | לכן שבין כתובים לרבים נאסרת ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "ואם מחסרא פורתא או מיתרא פורתא נכשרת ˙ | לקיים את כל דברי האגרת :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "אם קרא ושהה כדי לגמור את כולה ˙ | הלכה שחוזר וקורא למקום שפסק חלילה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "וקורא ופושט את המגילה ˙ | כל היום וכל הלילה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "בקלקנתוס ובמי עפצה אם היא כתובה ˙ | בקלף מעובד מאד חשובה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "וכן צריכה היות משורטטת כתורה וכמצות ˙ | כאשר למדוה[?] בגזירה שוה :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "למדוה[?]"
+   ]
+  },
+  {
+   "n": 8,
+   "text": "ויען היות לנו עזרה בצרתה ˙ | ובני אגגי אזדקיפו בחדא זקיפתה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "חויבנו לקרוא בנשימה אחת את פרשנדתא ˙ | את אריסי את ארידי ואת ויזתא :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "שירת המגילה שמות למעלה ואתין למטה נכונה ˙ | אריח על גבי אריח ולבנה על גבי לבנה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "אשורית על הכל הגונה ˙ | רבות בנות עשו חיל ואת עלית על כלנה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "יוצא בשירה ומפרש בים יקרא ˙ | מאחד עשר והלאה בתוך עשרה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "בימי הפורים לבד אין ספד ותענית נדרה ˙ | ליהודים היתה אורה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "זכרנו אלהים בעת צרה הושיענו ˙ | ביום שלשה עשר באדר תעניתנו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "אשר נקהלו ועמוד על נפשנו ˙ | הקשב תפלתנו שובינו אלהי ישענו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "לוחצנו תשבור גאונם מהרה ˙ | שלח תשבי לבשרנו מהרה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "עננו שומע עתירה ˙ כמו עניתה למרדכי ואסתר בשושן הבירה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "ויש אומרים אחר ארבה גזם סליחה זאת ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "איש | צר ואויב שללו חלק ˙ | בן יאיר בן שמעי נותו בילק ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "נשבר לפני אל ויהי לעלק ˙ | זכור את אשר עשה לך עמלק :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "ישר דרך לטבוח ולהחשיך אור צהרים ˙ | יעץ לשובב לפנים ואחורים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "ויאמר להשמיד יהודה ואפרים ˙ | בדרך בצאתכם ממצרים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "סמר מפחדו בשריך ושערך ˙ | פשט כילק על להקת בחיריך ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "לולי רחמי כי בי בעזרך ˙ | קרך בדרך ויזנב בך כל הנחשלים אחריך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "קרבתי צדקתי לפליטת כמתים ˙ | לשמרך הופעתי משמי גבוהים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "בראותי קרביך הומים ורוהים ˙ | ואתה עיף ויגע ולא ירא אלהים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "עיני לא העלמתי ממך[?] ונתיבך ˙ | ישרתי ולחלצך חניתי סביביך ˙",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ממך[?]"
+   ]
+  },
+  {
+   "n": 28,
+   "text": "אל תשכח מלמחות זרע עמלק יריביך ˙ | והיה בהניח ידוה אלהיך לך מכל אויביך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "חזקתי זרועך ומשנאיך נגפים ˙ | נתתי לפניך ועיניך צופים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "וסמכתים ויענו אליך נכספים ˙ סומך ידוה לכל הנופלים וזוקף לכל הכפופים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "תחנון",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 7,
+   "span": "למדוה[?]"
+  },
+  {
+   "line": 27,
+   "span": "ממך[?]"
+  }
+ ],
+ "sha256_text": "d918c255a13aa682e32fe2e186ce1c526eb25fbbae7e4854955b9a082816a01f",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.037,
+   "wer": 0.151
+  }
+ },
+ "text_file": "../text/fol79b_spread82_right.txt"
+}

@@ -1,0 +1,123 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 91,
+ "side": "right",
+ "folio": "88b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפילות של פורים",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "בידי : | ויעש יהושע כאשר אמר לו משה להלחם בעמלק ומשה אהרן וחור עלו ראש",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "הגבעה : | והיה כאשר ירים משה ידו וגבר ישראל וכאשר יניח ידו וגבר עמלק :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "וידי משה כבדים ויקחו אבן וישימו תחתיו וישב עליה ואהרן וחור תמכו בידיו מזה אחד",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ומזה אחד ויהי ידיו אמונה עד בא השמש : ויחלש יהושע את עמלק ואת עמו לפי חרב :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "ויאמר ידוה אל משה כתב זאת זכרון בספר ושים באזני יהושע כי מחה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "אמחה את זכר עמלק מתחת השמים : ויבן משה מזבח ויקרא שמו ידוה נסי : ויאמר",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "כי יד על כס יה מלחמה לידוה בעמלק מדר דר :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "פתיחה למגלה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "שיר | אהבה חדש ˙ | שירו לאל נאמן ˙ | יום מרדכי לבש ˙ | משי וארגמן",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "מדור לדור אזכיר ˙ | יום נעשה לי נס ˙ | נתן צרור המור ˙ | ריחו כיום הגנז [?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 12,
+   "text": "משתה לזאת אשמור ˙ | כדת ואין אונס ˙ | יום בן אגג נגש ˙ | לכרות נטע נעמן",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "שטנה אשר ירש ˙ | על קיש בנו הימן ˙ | שיר",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "שמרי",
+   "confidence": "low",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 11,
+   "span": "[?]"
+  }
+ ],
+ "sha256_text": "ea02ec52d041ba0fd1f26d75c56028f0c8260d5c4d4e071299fb7dd447dae49c",
+ "proofed": false,
+ "status": "partial",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.068,
+   "wer": 0.137
+  }
+ },
+ "text_file": "../text/fol88b_spread91_right.txt",
+ "proofing_note": "Partly proofed page: Rashi-type notes or rubrics, or other explicitly marked lines, await expert proofreading. Supplied markers are retained unchanged. Separate unproofed note or rubric OCR is not included in the corrected page text or its line records; references to those supplied files are retained unchanged. Supplied CER/WER values for partly proofed sides are approximate; they are retained without recomputation. Low line confidence conservatively reflects the mixed proofing scope."
+}

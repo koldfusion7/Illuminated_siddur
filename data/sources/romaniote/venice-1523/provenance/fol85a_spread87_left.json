@@ -1,0 +1,254 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 87,
+ "side": "left",
+ "folio": "85a",
+ "printed_folio_number": "פה",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "פה מגילה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "בשלושה עשר יום בו אשר הגיע דבר המלך ודתו להעשות ביום אשר שברו איבי ה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "היהודים לשלט בהם ונהפוך הוא אשר ישלטו היהודים המה בשנאיהם : נקהלו היהודים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "בעריהם בכל מדינות המלך אחשורוש לשלח יד במבקשי רעתם ואיש לא עמד לפניהם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "כי נפל פחדם על כל העמים : וכל שרי המדינות והאחשדרפנים והפחות ועשי המלאכה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "אשר למלך מנשאים את היהודים כי נפל פחד מרדכי עליהם : כי גדול מרדכי בבית המלך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "ושמעו הולך בכל המדינות כי האיש מרדכי הולך [?] וגדול : ויכו היהודים בכל איביהם מכת",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 8,
+   "text": "חרב והרג ואבדן ויעשו בשנאיהם כרצונם : ובשושן הבירה הרגו היהודים ואבד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "חמש מאות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "איש : | ואת | פרשנדתא | ואת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "דלפון | ואת | אספתא : | ואת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "פורתא | ואת | אדליא | ואת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "ארידתא : | ואת | פרמשתא | ואת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "אריסי | ואת | ארידי | ואת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "ויזתא : | עשרת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "בני המן בן המדתא צרר היהודים הרגו ובבזה לא שלחו את ידם : ביום ההוא בא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "מספר ההרוגים בשושן הבירה לפני המלך : ויאמר המלך לאסתר המלכה בשושן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "הבירה הרגו היהודים ואבד חמש מאות איש ואת עשרת בני המן בשאר מדינות המלך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "מה עשו ומה שאלתך וינתן לך ומה בקשתך עוד ותעש : ותאמר אסתר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "אם על המלך טוב ינתן גם מחר ליהודים אשר בשושן לעשות כדת היום ואת עשרת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "בני המן יתלו על העץ : ויאמר המלך להעשות כן ותנתן דת בשושן ואת עשרת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "בני המן תלו : ויקהלו היהודיים אשר בשושן גם ביום ארבעה עשר לחדש אדר ויהרגו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "בשושן שלש מאות איש ובבזה [?] לא שלחו את ידם : ושאר היהודים אשר במדינות",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 24,
+   "text": "המלך נקהלו ועמד על נפשם ונוח מאיביהם והרוג בשנאיהם חמשה ושבעים אלף",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "ובבזה לא שלחו את ידם : ביום שלושה עשר לחדש אדר ונוח בארבעה עשר בו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "ועשה אתו יום משתה ושמחה : והיהודיים אשר בשושן נקהלו בשלושה עשר בו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "ובארבעה עשר בו ונוח בחמשה עשר בו ועשה אתו יום משתה ושמחה : על",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "כן היהודים הפרוזים הישבים בערי הפרזות עשים את יום ארבעה עשר לחדש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "אדר שמחה ומשתה ויום טוב ומשלח מנות איש לרעהו : ויכתב מרדכי את הדברים האלה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "וישלח ספרים אל כל היהודים אשר בכל מדינות המלך אחשורוש הקרובים והרחוקים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "לקים [?] עליהם להיות עשים את יום ארבעה עשר לחדש אדר ואת יום חמשה עשר בו בכל",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 32,
+   "text": "שנה ושנה : כימים אשר נחו בהם היהודים מאיביהם והחדש אשר נהפך להם מיגון",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "לשמחה ומאבל ליום טוב לעשות אותם ימי משתה ושמחה ומשלח מנות איש לרעהו ום",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "ומתנות לאביונים : וקבל היהודים את אשר החלו לעשות ואת אשר כתב מרדכי אליהם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 7,
+   "span": "[?]"
+  },
+  {
+   "line": 23,
+   "span": "[?]"
+  },
+  {
+   "line": 31,
+   "span": "[?]"
+  }
+ ],
+ "sha256_text": "65af94c6c6dc9b1d92c66bca73ae7f4589a3ff4b9ead73ccdeea622001abf71e",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.075,
+   "wer": 0.212
+  }
+ },
+ "text_file": "../text/fol85a_spread87_left.txt"
+}

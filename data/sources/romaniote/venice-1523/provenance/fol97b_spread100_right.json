@@ -1,0 +1,248 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 100,
+ "side": "right",
+ "folio": "97b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות לפרשת החדש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "בבקר כעת מחר ˙ | השכם ואל תאחר ˙ | כי בעצם צהרים ˙ | אוציא את עמי ממצרים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "קנא קנאתי לרעיתי ˙ | כרמי שלי נטיעתי ˙ | שסוה פורשי חרמים ˙ | שועלים מחבלים כרמים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "אפרוש כנפי עליה ˙ | כי רבו בועליה ˙ | וידע כל פועל ˙ | כי היא בעלת בעל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "רועים שחתו כרמו ˙ | העלה אל בחרמו ˙ | יצא מחלב עינימו ˙ | דומו מעט ואינמו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "שדך לה שלוחים ˙ | אחרי שלוחים ˙ | קומי מבית מנון ˙ | ובואי הר הלבנון :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "שלחה דברים יחוסים ˙ | לא אקבל פיוסים ˙ | יבא דודי לגנו ˙ | יחזיק במעוזו ובמגינו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "בכל מלאכת מחשבת ˙ | תחתיו אני נושבת ˙ | לבעלים לא הטיתי ˙ | תחתיו לא שטיתי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "תורים הרצו דבריה ˙ | אצל בעל נעוריה ˙ | אסר אופן מרכבותיו ˙ | לאלפיו ורבבותיו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "השבית כל מעניה ˙ | זאת ראו עיניה ˙ | עשה לה אפריון ˙ | לובש צדקה כשריון :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "ימינו החזיק בה ˙ | הרבה מוהרה ונוקבה ˙ | צהלת חופת חתנים ˙ | ערכו לה איתנים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "קשרו עדי מיופה ˙ | הכניסוה בתוך חופה ˙ | וכמו אז נתעלה ˙ | תתעלה למעלה למעלה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "מי כמוך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "מי כמוך אלהים בקדש חזיתיך ˙ | בכל נפשי אויתיך ˙ | טוב לי תורת פיך ˙ | מאלפי זהב :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "בה יריעת ארמות[?] ˙ | ובה נטית מרומות ˙ | לא תסולה ברמות ˙ | לא יערכנה זהב :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ארמות[?]"
+   ]
+  },
+  {
+   "n": 16,
+   "text": "גזרת ארמה[?] דבקת ˙ | ואבן שתייה השקית ˙ | ולארבע יצוקות יצקת ˙ | ארבע טבעות זהב :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ארמה[?]"
+   ]
+  },
+  {
+   "n": 17,
+   "text": "דלית במים מחיצה ˙ | ויסדת תבל על מחצה ˙ | ותתן לכסף מוצא ˙ | ומקום לזהב :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "הטבעו על בלימה אדניה ˙ | ויסד ארץ על מכוניה ˙ | מקום ספיר אבניה ˙ | ועפרות זהב :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "והמים צוה לכנוס ˙ | והים ראה וינס ˙ | ויגדור בעד אוקיינוס ˙ | ויעש לו זר זהב :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "זרק מים משממה ˙ | והשקה פני האדמה ˙ | והלביש תבל רקמה ˙ | משבצות זהב :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "חקק נרות במרום ˙ | מלבוש ערפל לפרום ˙ | ומנורה קבועה בדרום ˙ | מקשה זהב :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "טען ימים שרץ ˙ | ומיני חיה בארץ ˙ | ויקם שפטים בארץ ˙ | שנים כרובים זהב :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "יצקם כחותם בטבעת ˙ | בין עץ חיים ובין עץ הדעת ˙ | מקום נהרות ארבעת ˙ | אשר שם הזהב :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "כתום הכל בששה ˙ | עוד שביעי נכנס בקדושה ˙ | בעונג אשפר ואשישה ˙ | והשקות בכלי זהב :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "לא עמדו בנסיון ˙ | ויוציאם בציה וציון ˙ | מהבלי עונג כלה ואפריון ˙ | רפידתו זהב :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "מקורם גבר וישרצו ˙ | וירעצו וירוצצו ˙ | ואל עולם נאצו ˙ | עצביהם כסף וזהב :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "מכל גבולם השיג ˙ | להוציא טהור מסיג ˙ | ואוצרות חיים להשיג ˙ | מצרף לכסף וכור לזהב :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "נחם פלטה הנשארת ˙ | בקשת וענן למזכרת ˙ | בראותם את האדרת ˙ | ואת לשון הזהב :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "סערו בזרוע קדושים ובשרו בנחלת קדשים מקום היבוסים והגרגשים תחת הנחשת אביא זהב :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "עקד יחידו לידוה ˙ | ויענהו משמי מעוני ˙ | יקר בעיני ידוה ˙ | איכה יועם זהב :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "פוקד במשמר ואוזל ˙ | לידוה ולעזאזל ˙ | אשר ברזל ברזל ˙ | ואשר זהב זהב :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "צפיעו כחתם משונה והכתם הטוב לא ישונה עד ירכב אותו במרכבת המשנה וישם רביד הזהב :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "קן בפתרוס מצאת ˙ | יונה ונסיונות נשאת ˙ | בחנה וכזהב יצאת ˙ | בת מטרד בת מי זהב :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "רבו",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 15,
+   "span": "ארמות[?]"
+  },
+  {
+   "line": 16,
+   "span": "ארמה[?]"
+  }
+ ],
+ "sha256_text": "c2ca70ce1365a5004e232aa4b1777e3c492d7b06d87ff11f3ea493ad640dc243",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.052,
+   "wer": 0.149
+  }
+ },
+ "text_file": "../text/fol97b_spread100_right.txt"
+}

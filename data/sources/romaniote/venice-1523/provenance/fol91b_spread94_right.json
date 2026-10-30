@@ -1,0 +1,236 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 94,
+ "side": "right",
+ "folio": "91b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של פרשת פרה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "אומרים | קדוש קדוש קדוש ידוה צבאות ˙ | אומרים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "אראלים וחשמלים ˙ לאלפים ולמאות ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "מעריצים ונקבצים ˙ | ברוב אמות ונוראות ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "להקדישם ˙ יחד שם ˙ אל עושה נפלאות : | אומרים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "ושרפים | אשר עפים ˙ | בעלי שש כנפים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "ממעל ˙ אל מעל ˙ | חוג ארץ ושמים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "דבריהם וכנפיהם | בקול המון וקול מים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "בניב נמרץ ˙ ובסוד נערץ ˙ | בנבואות נכאות : | אומרים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "בכס | נקבע ˙ בראש ארבע ˙ | דמות ספיר הטהורה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "ועל ראשם נטוי שם ˙ | כעין הקרח הנורא ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "דמות בזק בקול חזק ˙ | מברכים בשפה ברורה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "ירוממו ינעימו ˙ נראים נושאות והם נשואות : | אומרים | לאל [?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 14,
+   "text": "אופן אחר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "ישעך | יכתירו ˙ עם בך יכתירו ˙ שיר כשי יגישו ˙ ושמך יקדישו : | סיר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "העלו על לבם ˙ זכרך הנעים ˙ מצאו תוך חובם ˙ את שמך שעשועים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "ובפי טבם ˙ | חסדך מביעים ˙ איש לאיש יעזורו ˙ משפטי אל יורו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "המתים יפגושו ˙ בך ולא יבושו : | סיר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "ואשר | לא נועדו ˙ להיות מעבדיו ˙ אם בפיהם כחדו ˙ הם בקרבם עדיו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "בלבבם ייחדו ˙ איך אין בלעדיו ˙ איך יצורים יאמרו ˙ מבלי אל נוצרו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "ואשר כיחשו ˙ רחמיו ידרושו : | סיר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "דהרות | משמעתו ˙ מחנות עליות ˙ גם דמות כס שבתו ˙ יחצוב בגויות ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "מעשה מרכבתו ˙ שם בארבע חיות ˙ זאת עלי זאת גברו ˙ אך בכסאו חוברו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "קור וחום יפגושו ˙ בך ולא יחלושו : | סיר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "הררי | עולמים ˙ כבדו הר קדשו ˙ משפחות כל עמים ˙ יחדיו יקדישו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "לובשי סות אימים ˙ פחדו מאשו ˙ מעריציו מהרו ˙ ומשרתיו נהרו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "מבלי לו קדשו ˙ שלשו קדשו שלשו : | סיר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "אופן אחר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "מחנות | עליונים ˙ כלם כאחד קדושה עונים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "אדיר אשר נעלה ˙ | סוד פלאות ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "הוא אלהים אמת בצבאו ˙ | כל איש אשר יזמר סביבות כסאו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "הם לאלפי מונים ˙ | הם אחרונים והם ראשונים : | מחנות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "ברא",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 13,
+   "span": "[?]"
+  }
+ ],
+ "sha256_text": "8608e2067a4fe461f6255d858a27fcf81b6a89486e3ac08610edb36340503840",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.077,
+   "wer": 0.196
+  }
+ },
+ "text_file": "../text/fol91b_spread94_right.txt"
+}

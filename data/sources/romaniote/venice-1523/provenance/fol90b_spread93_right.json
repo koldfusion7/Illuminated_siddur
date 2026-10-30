@@ -1,0 +1,248 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 93,
+ "side": "right",
+ "folio": "90b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של פרשת פרה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "אשרו | המוני · לבבכם להורות · | דת לנאמני · | וחקים ותורות ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "סקלו אמוני · מסילות ישרות · | והגו נבוני · | עדי עד לדורות ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "אמרות ידוה · | אמרות טהורות : | והגו[?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "והגו[?]"
+   ]
+  },
+  {
+   "n": 5,
+   "text": "לעשות | דבר אל · בחיל ועצמה · | קום קרב והואל · | ובין סוד נשמה ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "סוד לצור וגואל · בפרה אדומה · | שכלך תשו אל · | דברו תמימה ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "עול ומום מגעל · ומשאת מאומה · | הן פסול ולגנאי · | ולו בן שערות ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "טעמו זקני · | ומראות שחורות : | והגו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "יעדו | קדושים · לבבכם למנזר · | שר לכל נפשים · | גביר האלעזר ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "נתקו יקושים ועול זר ואכזר · | יעלו חמשים לגבור ונאזר ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "מחזיק חלושים · וסומך לנעזר · | סוד לתחכמוני · | להביא עוברות ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "לקדש סגני באלי חצרות : | והגו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "הועלה | בחדרו · ללשכת אבנים · | יום מלאת ספרו · | בחק הנבונים ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "רץ בעוז אשורו · להר חשמנים · | קם ואל עזרו · | ושם הזקנים ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "טמאו בשרו · לנגד מענים · | לוחצי ומוני · | משני גזירות ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "נצבו לעיני · | לסיכים וסירות : | והגו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "ואחרי | עלותו · וגופו יטהר · | יעשה כסותו · | ולשחוט ימהר :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "דם בחק בריתו · להזות יזהר[?] · | מחשב עצתו · | בחוץ לא יהרהר ·",
+   "confidence": "low",
+   "uncertain_spans": [
+    "יזהר[?]"
+   ]
+  },
+  {
+   "n": 19,
+   "text": "עד כלות מלאכתו · ולב לא ייהר · | סח לציר בסיני · | אזובי וערות ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "לאזור בפני · | בארז ולירות : | והגו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "ויחצה | בידיו · לשלש עפרה · | משמרות חסידיו · | ובחיל והדרה[?] ·",
+   "confidence": "low",
+   "uncertain_spans": [
+    "והדרה[?]"
+   ]
+  },
+  {
+   "n": 22,
+   "text": "בעלה בסודיו · אלהים ונורא · | טהרת ידידיו · | לנצח שמרה ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "מעיני חסדיו · לעמו מהרה · | משמי מעוניו · | לשוכני קברות ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "יזלו ענניו · | לשמוע בשורות : | והגו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "ויש אומרים אבא[?] בשיר ערב והוא כתוב בקדישים וכן לקראת מקור חיים בפתיחות ·",
+   "confidence": "low",
+   "uncertain_spans": [
+    "אבא[?]"
+   ]
+  },
+  {
+   "n": 26,
+   "text": "ברכו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "ישורון | צא וחיש קדם ליוצרך · | רנני הוד שפוך שירך לעזרך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "צניף כבוד עדי ועבוד לנוצרך · | בליל ויום בכל אופל מאורך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "חסדי אל לך ערבך ושחרך · | יצוה מלאכי אל לך לשמרך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "קדושי יה לבבכם רך יבורך · | וברכו את ידוה המבורך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "יוצר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "ברכו",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 4,
+   "span": "והגו[?]"
+  },
+  {
+   "line": 18,
+   "span": "יזהר[?]"
+  },
+  {
+   "line": 21,
+   "span": "והדרה[?]"
+  },
+  {
+   "line": 25,
+   "span": "אבא[?]"
+  }
+ ],
+ "sha256_text": "58d0614b7cccc2ff457e4ee19d4e5923e91f22ef14fdfdf28989630b5d9263cd",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.046,
+   "wer": 0.201
+  }
+ },
+ "text_file": "../text/fol90b_spread93_right.txt"
+}

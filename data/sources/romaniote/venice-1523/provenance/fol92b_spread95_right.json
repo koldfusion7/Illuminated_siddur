@@ -1,0 +1,242 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 95,
+ "side": "right",
+ "folio": "92b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של פרשת פרה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "זמתי [?] טובות העתידות ˙ צהל לבי בתורות ˙ חשבתי עת לחדות ˙ קץ חזוק היתדות :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 3,
+   "text": "השב בציון עבודה ˙ קבץ טלאי אובדה ˙ נחיה ולא נאבדה ˙ כמו מעבודה כבדה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "מי כמוך לרבי יהודה קלטי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "מי | כמוך אל אלהי הרוחות ˙ | יודע תעלומות שת בטוחות ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "ומרומם על כל תהלות ותשבחות ˙ | עושה צדקה ומשפט :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "נעלה ונפלא על כל אלהים ˙ | וגבוה מעל גבוהים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "והכל לוהים ואליו כמהים ˙ | לעשות צדקה ומשפט :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "יסר לעמו משפטים וחקים ˙ | כראי מוצק חזקים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "וככסף שבעתים מזוקקים ˙ | כה אמר ידוה שמרו משפט :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "ישראל עמי שמעה ואעידה ˙ | בך חקה לתורה ולתעודה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "וקחו פרה אדומה בזמרה ותודה | כי אני ידוה עושה צדקה ומשפט :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "הן מצות שבת ודינים ופרה ˙ | נצטוו ישראל במרה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "היות להם לקדושה ולטהרה ˙ | שם שם לו חוק ומשפט :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "וסוד פרה מכל נעלם ˙ | סמוך לעד לעולם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "לא ידעו כי אם מלך עולם ˙ | אשרי שומרי משפט :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "דין זה עמוק מי ימצאנו ˙ | החכם מכל אדם נעלם ממנו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "אין לבקשנו וכמטמונים לחפשנו | כי אם עשות משפט :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "הדין היה להיותה קדומה ˙ | פרשת החדש לפרה אדומה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "ומפני טהרת ישראל קדמה ˙ | כי חוק לישראל הוא ומשפט :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "ברורה פרה תמימה אדמדמת ˙ | אם היו בה מומים ידועים נפגמת ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "אך אם היו כדרכה נשלמת ˙ | ההופכים ללענה משפט :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "נתינתה לידי סגן הכהנים אלעזר ˙ | ושחיטתה לפניו נכשרת בזר ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "משגיח אליו לבל יהיה מוזר ˙ | ויקרב את העולה ויעשה כמשפט :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "ראויה היותה בת שלש והגונה ˙ | ולא עגלה ולגדולה עד זאת העונה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "אחרי בלותה היתה לה עדנה ˙ | כי לכל חפץ יש עת ומשפט :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "במחיר רב מקנתה ולא גזולה ˙ | כי האל שונא גזל בעולה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "מתרומת הלשכה נלקחת בלי עולה ˙ | למדו היטב דרשו משפט :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "ישליך תוך שריפתה מן הגבוה והשפל ˙ | כל גאה ישפיל עצמו בשפל ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "ויסר מעליו חשך ענן וערפל ˙ | ואיש כי יהיה צדיק ועשה משפט :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "אודם שני תולעת על חטא תולעת יעקב ˙ | להסיר כל כתם מלב עקוב ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "יכלה מוקשים גם יקוב ˙ | כי ידוה אוהב משפט :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "העוסקים בפרה טעונים רחיצה ˙ | ובגדיהם היו עמהם לשמצה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "ובמקוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 2,
+   "span": "[?]"
+  }
+ ],
+ "sha256_text": "a9f6d2663c064e3e89290218e7c379787c6b689e50ebd10e6e3e300e0a182bbe",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.023,
+   "wer": 0.105
+  }
+ },
+ "text_file": "../text/fol92b_spread95_right.txt"
+}

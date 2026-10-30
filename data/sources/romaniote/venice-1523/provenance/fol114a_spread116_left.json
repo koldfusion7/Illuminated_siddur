@@ -1,0 +1,267 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 116,
+ "side": "left",
+ "folio": "114a",
+ "printed_folio_number": "קיד (verified)",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "הגד[?] של פסח",
+   "confidence": "low",
+   "uncertain_spans": [
+    "הגד[?]"
+   ]
+  },
+  {
+   "n": 2,
+   "text": "רבן בנה לנו את בית הבחירה לכפרה על כל עונותינו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "גמליאל היה אומר כל שלא אמר שלשה דברים אלו בפסח לא יצא ידי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "חובתו ואלו הן פסח מצה ומרור ˙ | פסח שהיו אבותינו אוכלין",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "בזמן שבית המקדש קיים שנאמר ואמרתם זבח פסח הוא לידוה אשר פסח על בתי בני",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "ישראל במצרים בנגפו את מצרים ואת בתינו הציל ויקוד העם וישתחוו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "מצה זו שאנו אוכלין על שם מה ˙ על שם שלא הספיק בצקן של אבותינו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "להחמיץ עד שנגלה עליהם מלך מלכי המלכים הקדוש ברוך הוא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "וגאלם שנאמר וישא העם את בצקו טרם יחמץ משארותם צרורות בשמלותם על שכמם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "ויאפו את הבצק אשר הוציאו ממצרים עגות מצות כי לא חמץ כי גורשו ממצרים ולא יכלו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "להתמהמה וגם צדה לא עשו להם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "מרור זה שאנו אוכלין על שם מה על שם שמררו המצרים את חיי אבותינו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "במצרים שנאמר וימררו את חייהם בעבודה קשה בחומר ובלבנים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "ובכל עבודה בשדה את כל עבודתם אשר עבדו בהם בפרך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "בכל דור ודור חייב אדם לראות את עצמו כאלו הוא יצא ממצרים שנאמר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "והגדת לבנך ביום ההוא לאמר בעבור זה עשה ידוה לי בצאתי ממצרים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "שלא את אבותינו בלבד גאל אלא אף אותנו שנאמר ואותנו הוציא משם למען הביא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "אותנו לתת לנו את הארץ אשר נשבע לאבותינו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "לפיכך אנו חייבים להודות להלל לשבח לפאר לרומם ולהדר לנצח ולגדל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "למי שעשה לאבותינו ולנו את כל הנסים האלה והוציאנו מפרך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "לחופש מלחץ לנופש מעבדות לחירות מיגון לשמחה ומאבל ליום טוב ומאפלה לאור [?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 22,
+   "text": "ונאמר לפניו הללויה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "הללויה הללו עבדי ידוה הללו את שם ידוה : יהי שם ידוה מברך מעתה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "ועד עולם : ממזרח שמש עד מבואו מהלל שם ידוה : רם על",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "כל גוים ידוה על השמים כבודו : מי כידוה אלהינו המגביהי לשבת המשפילי לראות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "בשמים ובארץ : מקימי מעפר דל מאשפות ירים אביון : להושיבי עם נדיבים עם נדיבי עמו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "מושיבי עקרת הבית אם הבנים שמחה הללויה : | בצאת ישראל ממצרים בית",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "יעקב מעם לועז היתה יהודה לקדשו ישראל ממשלותיו : הים ראה וינס [?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 29,
+   "text": "הירדן יסב לאחור : ההרים רקדו כאלים גבעות כבני צאן : מה לך הים כי תנוס הירדן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "תסוב לאחור : ההרים תרקדו כאלים גבעות כבני צאן : מלפני [?] חולי ארץ מלפני",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 31,
+   "text": "אלוה יעקב : ההופכי הצור אגם מים חלמיש למעינו מים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "ברוך אתה ידוה אלהינו מלך העולם אשר גאלנו וגאל את אבותינו ממצרים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "והגיענו הלילה הזה לאכול בו מצה ומרור ˙ כן ידוה אלהינו ואלהי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "אבותינו יגיענו לרגלים הבאים עלינו לשלום שמחים בבנין עירך ששים בעבודתך [?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 1,
+   "span": "הגד[?]"
+  },
+  {
+   "line": 21,
+   "span": "[?]"
+  },
+  {
+   "line": 28,
+   "span": "[?]"
+  },
+  {
+   "line": 30,
+   "span": "[?]"
+  },
+  {
+   "line": 34,
+   "span": "[?]"
+  }
+ ],
+ "sha256_text": "ff12d3faf80b03bcbba01136d0f91079b91781f760bb8e7cf02b025672088d13",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.088,
+   "wer": 0.186
+  }
+ },
+ "text_file": "../text/fol114a_spread116_left.txt",
+ "proofing_note": "Supplied CER/WER values are from an earlier pass and were not recomputed after proofreading."
+}

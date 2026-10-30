@@ -1,0 +1,236 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 90,
+ "side": "left",
+ "folio": "88a",
+ "printed_folio_number": "פח",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של פורים | פח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "פרשת תוקף ככתבה עליהם ˙ | פתאום קיימו וקבלו עליהם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "עליהם ועל זרעם טוב ˙ | שמחה ומשתה ויום טוב ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "ותמימים יבלו ימיהם בטוב ˙ | הודו לידוה כי טוב : | ברוך אתה ה' הטוב שמך שים שלום",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "צור צמת צר צלוב צורת צלמו ˙ | קשוב קול קדושי קהל קנוית קרומו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "רם רצה רחש ריעים רוצי רוממו ˙ | שקד שמעם שפר שעשועי שיר שלומו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "תומך תוכן תוחלת תולדות תוצאות תמימו ˙ | אשנן לחש ערך זמר רנן דורש טוב לעמו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "לעמו חלץ חי מיד מרעו ˙ | זכר בריתו והושיעו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "קנמון מור בכל מדינות הולך שמעו ˙ | ודובר שלום לכל זרעו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "אלפבית",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "אז בקומם עלי אויבי ושונאי ˙ | בכל עת שמעת עניני ˙ | על כן נאמר ברוך ידוה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "גם בשער המלך היה יושב מרדכי דת שבעים לשונות היה יודע מרדכי ˙ על כן נאמר ברוך מרדכי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "חן מכל הבתולות נשאה חן אסתר ונתן בראשה מלכות וגם כתר ˙ על כן נאמר ברוכה אסתר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "זמם לאבד כל בך הואמן ˙ | חפר גומץ ובו נתמן בחרמן ˙ | על כן נאמר ארור המן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "טפשו אוהביו ואשתו זרש ˙ | יעצו בבשת נפל והחרש | על כן נאמר ארורה זרש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "כתב אגרות לאבד זרע אמוני ˙ לכן כעבד נשאתי את עיני ˙ | על כן נאמר ברוך ה'",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "מלפני המלך אז יצא מרדכי ˙ | נאם לא יבושו קווי וברוכי ˙ | על כן נאמר ברוך מרדכי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "ספרים שלח ליהודים להתר ˙ | עתר שיח תפלת אסתר ˙ | על כן נאמר ברוכה אסתר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "פורים לדורות מזומן ˙ | צור ישע עליהם הואמן ˙ | על כן נאמר ארור המן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "קהלות היהודים אויביהם לחורש ˙ | רעוץ רשע עת נתן לגרש ˙ | על כן נאמר ארורה זרש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "שבח והוראה לשוכן מעוני ˙ | תקפו אדבר בנועם עניני ˙ | על כן נאמר ברוך ה'",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "ככתוב בדברי קדשך ברוך ידוה אלהי ישראל מן העולם ועד העולם ואמר כל העם אמן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "הללויה ˙ ונאמר וכל קרני רשעים אגדע תרוממנה קרנות צדיק ˙ ונאמר ידוה עוז לעמו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "יתן ידוה יברך את עמו בשלום : | ברוך אתה ה' עושה השלום :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "ויהי [?] שם וכו' וקורים ואין אומר הלל דקריאתה זו היא הלולה ועוד שאין אומרים הלל בנס שבחוצה לארץ ואין",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 26,
+   "text": "אומרים בו וידוי ואין נופלין בו על פניהם ˙ ור״עס [?] כתב מנהג בב' ישיבות ליפול על פניהם מפני שהוא יום",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 27,
+   "text": "נס ˙ והטור כתב מצאתי תשובה לגאון שאין נופלין על פניהם וכן נהגו ומוציאין ספר וקורין ג' בפרש' ויבא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "עמלק עד סוף הפרשה ואף על גב דאין קורין בתורה פחות מי' פסוקים שאני הכא דסליק ענינה : ואם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "חל בשבת מוציאין שני ספרים וקורין בא' פרשת היום ובב' ויבא עמלק :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "פרשה של פורים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "ויבא עמלק וילחם עם ישראל ברפידם : ויאמר משה אל יהושע בחר לנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "אנשים וצא הלחם בעמלק מחר אנכי נצב על ראש הגבעה ומטה האלהים",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 25,
+   "span": "[?]"
+  },
+  {
+   "line": 26,
+   "span": "[?]"
+  }
+ ],
+ "sha256_text": "7fe7cd980a75a55da32d43f2b80f158e5eb63e4c3209c03c682efbbf9ccfeb6c",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.123,
+   "wer": 0.328
+  }
+ },
+ "text_file": "../text/fol88a_spread90_left.txt"
+}

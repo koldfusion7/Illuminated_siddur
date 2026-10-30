@@ -1,0 +1,254 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 93,
+ "side": "left",
+ "folio": "91a",
+ "printed_folio_number": "צא",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של פרשת פרה | צא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "ברכו | את ה' המבורך ברוך אתה ה' אלהינו מלך העולם יוצר אור ובורא חשך עושה שלום ובורא את",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "הכל · אור עולם אוצר חיים אורות מאופל אמר ויהי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "אקרא | יומם ולא אדמה · אשיחה צהר וערב ואהמה · למי יתן טהור מטמא ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "בן יקא משא אגור · חכם חרשים משכיל חגור · בחוזק זה נמצא סגור :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "גוזר אומר וקום יקום · | גזר ולא אוכל קום · | גזרה זו איך תקום :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "יצורי חלפו על חוקה · | קשורה בלב ומאר דחוקה · אמרתי אחכמה והיא רחוקה : קדוש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "דעת הבין בסוד עצים · | דקדק באבנים למה חולצים · | ועל ארז ואזוב ושרצים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "האיר כל דבר ועניינו · | כלל ופרט אב ובנינו · | ובזה לא עלה מנינו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "ואיה איש דעת ותחבולות · | אם יעסוק ימים ולילות · | היבין סוד נורא עלילות :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "זה למשכילים עיון והרהורים איך חוקיה משתמרים ומזהירים · לטהר טמאים ולטמא טהורים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "חוק השוה לעוסקיה בכוסף · טעונים טבילה וכבוס בחוסף · אחד השורף ואחד האוסף :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "טרם הנחת משמרת אפרות · | מדות כאלה נוהגות ספורות · | זאת תורת שבע פרות :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "יקר מחירה בלי נתינה · | לעם זו מסורה ונתונה · | צא ולמד מבין נתינה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "כיונו מורים מום כתובה · | ערימת חטים סהר נתיבה · | נימא אחת פוסלת בה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "לגיוני מלך חקרו בודקים · בניב שפתים ובראות דוקים · ואפילו עודה של שקים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "מצווי הליכותיה באש מתלקחת · עת לקיחתה בבואם לקחת · מקדשי בדק הבית כלקחת[?] :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "כלקחת[?]"
+   ]
+  },
+  {
+   "n": 18,
+   "text": "נפלאת גזירתה כמה וכמה · | מוסבות שם ואת שבמה · | אפר פרה ורוק יבמה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "סורי גפן סיג שריגים · | פוסחים כאלה וכאלה שרוגים · | נטועים הוגים הויותיה עורגים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "עקב רציתנו לצרף ולטהר · | מה יקרו רעיך להזהר · | חוקה חקתה ואין להרהר :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "פתוחות כמה וכמה עלינו · טובות גמולות למקום גמלנו · רוב נפלאותיו ומחשבותיו עלינו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "צדקו יחדיו משפטים המאושרים מה עמקו חוקיו המוכשרים · הפליא עצה ותושיה לישרים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "קנה חכמה קנה בינה · | בני אל תאהב שינה · | פן תורש ותקח בושנה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "רחש לבי דבר טוב · | שם עולם ונכבד אחשוב · | נתן לנו לקח טוב :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "שוד טורף על בנים · | שמור ומוכן לבנים · | ומקרא מעיד פנים בפנים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "תנו עוז לאל עליון · | יפיח קץ כתב גליון · | כי בנה ידוה ציון :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "ציון בחסד תפדה · | חמול קנה חרישות שדה[?] · | ואז סלה לך נודה :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "שדה[?]"
+   ]
+  },
+  {
+   "n": 28,
+   "text": "ברנה הביאנו קרית יערך · ובשירי דוד הנחמדים בעירך · הנאמרים לפני מבזחך הנערך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "יצירת עולם במקצת אבאר · | חקר והטיל בספר מבאר · | בראשית שמים וארץ תיאר :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "יחד העמידם ולהם קרא · | דברים עשרה בראשון ברא · | נבראו וכולם מן המקרא :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "הסדיר חנכל[?] שצם והחלילם · | הבדיל קטן וגדול והמשילם · | יתעלה מושל בגבורתו עולם :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "חנכל[?]"
+   ]
+  },
+  {
+   "n": 32,
+   "text": "יצב גבולות מוצאם ומובאם · חקרי ציה מדד ומחבואם · ויכולו השמים והארץ וכל צבאם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "יב ג",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "אופן",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 17,
+   "span": "כלקחת[?]"
+  },
+  {
+   "line": 27,
+   "span": "שדה[?]"
+  },
+  {
+   "line": 31,
+   "span": "חנכל[?]"
+  }
+ ],
+ "sha256_text": "16633c1a1f0dfb3c6de8e8a0e384db1a68c4de2198ee80e8a04fa28baa93f93c",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.094,
+   "wer": 0.248
+  }
+ },
+ "text_file": "../text/fol91a_spread93_left.txt"
+}

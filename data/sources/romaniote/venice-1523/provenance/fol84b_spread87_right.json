@@ -1,0 +1,254 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 87,
+ "side": "right",
+ "folio": "84b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "מגילת אחשורוש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "ממשתה היין אל גנת הביתן והמן עמד לבקש על נפשו מאסתר המלכה כי ראה כי כלתה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "אליו הרעה מאת המלך : והמלך שב מגנת הביתן אל בית משתה היין והמן נפל על המטה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "אשר אסתר עליה ויאמר המלך הגם לכבוש את המלכה עמי בבית הדבר יצא מפי המלך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ופני המן חפו : ויאמר חרבונה אחד מן הסריסים לפני המלך גם הנה העץ אשר עשה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "המן למרדכי אשר דבר טוב על המלך עמד בבית המן גבה חמשים אמה ויאמר המלך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "תלהו עליו : ויתלו את המן על העץ אשר הכין למרדכי וחמת המלך שככה : ביום ההוא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "נתן המלך אחשורוש לאסתר המלכה את בית המן צרר היהודים ומרדכי בא לפני המלך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "כי הגידה אסתר מה הוא לה : ויסר המלך את טבעתו אשר העביר מהמן ויתנה למרדכי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "ותשם אסתר את מרדכי על בית המן : ותוסף אסתר ותדבר לפני המלך ותפל לפני",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "רגליו ותבך ותתחנן לו להעביר את רעת המן האגגי ואת מחשבתו אשר חשב על ה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "היהודים : ויושט המלך לאסתר את שרבט הזהב ותקם אסתר ותעמד לפני המלך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "ותאמר אם על המלך טוב ואם מצאתי חן לפניו וכשר הדבר לפני המלך וטובה אני",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "בעיניו יכתב להשיב את הספרים מחשבת המן בן המדתא האגגי אשר כתב לאבד את",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "היהודים אשר בכל מדינות המלך : כי איככה אוכל וראיתי ברעה אשר ימצא את עמי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "ואיככה אוכל וראיתי באבדן מולדתי : ויאמר המלך אחשורוש לאסתר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "המלכה ולמרדכי היהודי הנה בית המן נתתי לאסתר ואתו תלו על העץ על אשר שלח ידו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "ביהודיים : ואתם כתבו על היהודים כטוב בעיניכם בשם המלך וחתמו בטבעת המלך כי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "כתב אשר נכתב בשם המלך ונחתום בטבעת המלך אין להשיב : ויקראו ספרי המלך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "בעת ההיא בחדש השלישי הוא חדש סיון בשלושה ועשרים בו ויכתב ככל אשר צוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "מרדכי אל היהודים ואל האחשדרפנים והפחות ושרי המדינות אשר מהדו ועד כוש שבע",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "ועשרים ומאה מדינה מדינה ומדינה ככתבה ועם ועם כלשנו ואל היהודים ככתבם וכ[?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "וכ[?]"
+   ]
+  },
+  {
+   "n": 23,
+   "text": "וכלשונם : ויכתב בשם המלך אחשורוש ויחתום בטבעת המלך וישלח ספרים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "ביד הרצים בסוסים רכבי הרכש האחשתרנים בני הרמכים : אשר נתן המלך ליהודים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "אשר בכל עיר ועיר להקהל ולעמד על נפשם להשמיד ולהרג ולאבד את כל חיל עם ומ[?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ומ[?]"
+   ]
+  },
+  {
+   "n": 26,
+   "text": "ומדינה הצרים אתם טף ונשים ושללם לבוז : ביום אחד בכל מדינות המלך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "אחשורוש בשלושה עשר לחדש שנים עשר הוא חדש אדר : פתשגן הכתב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "להנתן דת בכל מדינה ומדינה גלוי לכל העמים ולהיות היהודים עתודים ליום הזה להנקם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "מאיביהם : הרצים רכבי הרכש האחשתרנים יצאו מבהלים ודחופים בדבר המלך והדת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "נתנה בשושן הבירה : ומרדכי יצא מלפני המלך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "בלבוש מלכות תכלת וחור ועטרת זהב גדולה ותכריך בוץ וארגמן והעיר שושן צהלה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "ושמחה : ליהודים היתה אורה ושמחה וששן ויקר : ובכל מדינה ומדינה ובכל עיר ועיר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "מקום אשר דבר המלך ודתו מגיע שמחה וששון ליהודים משתה ויום טוב ורבים מעמי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "הארץ מתיהדים כי נפל פחד היהודים עליהם : ובשנים עשר חדש הוא חדש אדר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "בשלושה",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 22,
+   "span": "וכ[?]"
+  },
+  {
+   "line": 25,
+   "span": "ומ[?]"
+  }
+ ],
+ "sha256_text": "12b761ff610a0466d7da3f933b60c676547e3100c485857a664197ef15a2f91a",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.065,
+   "wer": 0.175
+  }
+ },
+ "text_file": "../text/fol84b_spread87_right.txt"
+}

@@ -1,0 +1,248 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 110,
+ "side": "right",
+ "folio": "107b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות לשבת הגדול",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "גזרו רבותינו אנשי הכנסת הבאים להתפלל ולהתקדש ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "יש לנו חג המצות יום פלוני ויום פלוני כחשבון רבותינו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "כך | אז | כגלגל שעבוד הורים ˙ | בכבלי עם לועז להיות אסורים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "גמרו לבלעם כדובים ונמרים ˙ | רשום כהדוש גורן עמרים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "השליכו והטילו ליאור זכרים ˙ | וחוק ברית מילה מפרים ומעקרים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "זעקו וחננו לאל משפיל ומרים ˙ | חנונם הקשיב משמי אוירים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "טס וירא ובא להוציא אסירים ˙ | ירע[?] דברו ללא איש דברים ˙",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ירע[?]"
+   ]
+  },
+  {
+   "n": 9,
+   "text": "כציר נאמן הלך למלך מצרים ˙ | לשלח להחפיש רצוצים ושבורים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "מרד וסרב למולו וחל להקשות אמרים ˙ | נם מי הוא זה אלהי העברים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "ספר לי כחו וגדלו בבירורים ˙ | עד כמה כרכים כבש בכל עברים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "פקודיו וצבאיו במה מתגברים ˙ | ציר השיבו אלהינו אדיר אדירים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "קשתו אש וחציו שלהבת ורמחו לפידים בוערים ˙ ראוים מעשיו ונפלאותיו ברנה מספרים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "שאונו משבר סלעים ומפרק הרים ˙ | תוקף גדולתו רום ותחת מספרים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "בכל | זאת לא שב ולא רחק מבעורים ˙ | נדמה לעבד לא יוסר בדברים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "יוצר נגעו בנגעים משונים ועכורים ˙ | ממכת דם ועד מכת בכורים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "יללו ונחמו והמו גדולים וצעירים ˙ | בכנע ערפם והורד גאונם לעפרים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "ואז שלחום ולוום חשים ונמהרים ˙ | עדויי כסף וזהב ופנינים יקרים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "ולפני | צאתם הוזהרו בחירים ˙ | קחת צאן ממכלאות עדרים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "ולאכלו על מצות ומרורים ˙ | רגלים נעולות ומתנים חגורים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "ונעשה דמו דמות כנפי נשרים ˙ | ועפו ודאו לנחלת צבי מהירים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "ואכרו שם הפסח בהלולים ושירים ˙ | כי חוצה לארץ פסחים לא נכשרים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "לכן ימי הפסח קבועים לדורי דורים ˙ | כחק מצות אלהינו וכהוריית מורים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "ומה | טעם בחרוסת מטבלין ושורין ˙ | זכר לעבודת טיט אשר היו חומרין :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "ומה טעם שני תבשילין בקערה סודרין ˙ | זכר לאהרן ומשה שני שלוחים צירים[?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "צירים[?]"
+   ]
+  },
+  {
+   "n": 26,
+   "text": "ומה טעם שולחן ממקומו עוקרין ˙ | כדי שישאלו מה שונה ליל זה נערים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "ומה טעם בוצע בפרוסת ככרות חררים ˙ | כי אין ככר שלימה בכלי עניים וחסרים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "ומה טעם ארבע כוסות שעורים ˙ | זכר לארבע גליות בני ציון היקרים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "ומה טעם בלא ברכה אכילת מרורים ˙ | זכר למקדש החרב בחט וסררים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "ומה טעם בהסיבה שותין וגומרין ˙ | זכר לעבדים שנעשו בני חורין :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "ומה טעם בחמישי הלל הגדול אומרין ˙ | זכר לכוס ישועות אשא וארים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "ואחרי | צאתם רדפום כפתורים ˙ | בכל כלי זין חגורים ואזורים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "והשיגום חונים על שפת ים מוגרים ˙ | ונשאו עין וזעקו עדת בחירים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "לגוזר",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 8,
+   "span": "ירע[?]"
+  },
+  {
+   "line": 25,
+   "span": "צירים[?]"
+  }
+ ],
+ "sha256_text": "68bde1c5b8be571c491441812045740b2c6054656387ce1f1c3980405719d0ea",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.045,
+   "wer": 0.136
+  }
+ },
+ "text_file": "../text/fol107b_spread110_right.txt"
+}

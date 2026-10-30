@@ -1,0 +1,236 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 112,
+ "side": "left",
+ "folio": "110a",
+ "printed_folio_number": "קי",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של פסח | קי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "פסח | טביחת מיני כוש ˙ | להוציא עמו ברכוש ˙ | בימי חג פסח :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "פסח | ידידת קץ שדודה ˙ | כנס לאום נדודה ˙ | בימי חג פסח :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "פסח | כרת לשמו חוסים ˙ | להוציא עמו בנסים ˙ | בימי חג פסח :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "פסח | לוחצנו ילחץ ˙ | וירפאנו ממחץ ˙ | בימי חג פסח :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "פסח | ממלא המון הריקה ˙ | והסיע גפן שורקה ˙ | בימי חג פסח :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "פסח | נגינת נוף יפיל ˙ | וגיל עמו יאיר ויכפיל ˙ | בימי חג פסח :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "פסח | סגר זדים לדברי ˙ | ורפא עמו משבר ˙ | בימי חג פסח :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "פסח | עבור כל גוי שמור ˙ | ונקם עמו כאמור ˙ | בימי חג פסח :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "פסח | פחד בתי מצרים ˙ | ובן צווי נוצרים ˙ | בימי חג פסח :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "פסח | צבירת צר בעלוקה ˙ | כנס לאום חלוקה ˙ | בימי חג פסח :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "פסח | קשר לצר אבידה ˙ | וגאל ידידים מעבודה ˙ | בימי חג פסח :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "פסח | רמים זדים הרסת ˙ | ורעיתי ארשת ˙ | בימי חג פסח :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "פסח | שת בכל בית יליל ˙ | בצאתו בחצות ליל ˙ | בימי חג פסח :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "פסח | תוקן וחוקק לאות ˙ | להראינו נפלאות ˙ | בימי חג פסח :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "פסח | תהלה לשם שוכן שחקים ˙ | תקפו הודיע קרובים ורחוקים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "תוקף כבודו בים מחוקקים ˙ | שיר תושבחות משוררים ומצועקים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "בגלה ברנה בשמחה רבה | עד כאן תוספת לקצת קהלות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "ליל | שמורים סימן הוא לעתיד לבא ˙ | עליון כי בא יבא ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "פקוד יפקוד עם קרובו ˙ | צורינו הוא נגילה ונשמחה בו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "ליל | שמורים קרב קץ גמולה ˙ | אשר יפקוד בו אום סגלה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "רעוץ ירעוץ אום מדקה ואוכלה ˙ | שאחרון קץ לכל תכלה ˙ הוא זה הלילה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "ליל | שמורים שמור הוא לאחרונים ˙ | להגאל בו כראשונים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "וישמחו בו אבות ובנים ˙ | תפרוש שלומך אם על בנים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "ב״א[?] הפורש סוכת שלום עלינו ועל כל עמו ישראל ועל ירושלם עיר הקדש :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ב״א[?]"
+   ]
+  },
+  {
+   "n": 26,
+   "text": "אלה מועדי ידוה מקראי קדש אשר תקראו | בשבת אומרים זה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "אותם במועדם : ואומר קדיש | ושמרו בני ישראל את השבת לעשות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "את השבת לדורותם ברית",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "כי ששת ימים עשה ידוה את השמים ואת הארץ וביום | עולם ˙ ביני ובין בני ישראל אות היא לעולם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "השביעי שבת וינפש : אלה מועדי וכו׳",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "ארוני[?] | שפתי תפתח ופי יגיד תהלתך ˙ ברוך אתה ידוה אלהינו ואלהי",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ארוני[?]"
+   ]
+  },
+  {
+   "n": 32,
+   "text": "אבותינו אלהי אברהם אלהי יצחק ואלהי יעקב האל הגדול הגבור",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 25,
+   "span": "ב״א[?]"
+  },
+  {
+   "line": 31,
+   "span": "ארוני[?]"
+  }
+ ],
+ "sha256_text": "32d14decbabd4199e717e8bcc94b16ec86c0851b5b47e78b32308eb7a19b5b95",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.182,
+   "wer": 0.368
+  }
+ },
+ "text_file": "../text/fol110a_spread112_left.txt"
+}

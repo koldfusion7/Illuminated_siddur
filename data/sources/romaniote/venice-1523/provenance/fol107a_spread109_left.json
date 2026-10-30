@@ -1,0 +1,253 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 109,
+ "side": "left",
+ "folio": "107a",
+ "printed_folio_number": "קז",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של שבת הגדול",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "ארבעה כוסות לשתות בהסבה ˙ | זכר לעבדים שנגאלו בחבה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "על כל הטובה ˙ | אשר עשה אלהים לישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "ולשמו נשיר לרוממו וליחדו ˙ | אשר הקים דברו לאברהם עבדו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "זכר חסדו ˙ | ואמונתו לבית ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "ונודה לאל על כל חסדיו ˙ | אשר הפליא טובו לעמו ועבדיו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "וירם קרן לעמו תהלה לכל חסידיו ˙ | לבני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "כן יזכנו לראות בנין בית הבחירה ˙ | ושיר חדש נשורר ברנה וזמרה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "לידוה אנכי אשירה ˙ | אזמר לידוה אלהי ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "ויחיש קצנו וישלח לנו פדיון ˙ | לקבץ גליותינו מארבע כנפות אל עליון ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "מי יתן מציון ˙ | ישועת ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "ונגלה אלי בהודו ובכבודו ˙ | וינקום נקמתי ועל אויבי תפול אימתו ופחדו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "לעשות משפט עבדו ˙ | ומשפט עמו ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "שמח עמי כי שמע ידוה תחנוניך ˙ | אכול בשמחה לחמך ושתה בלב טוב יינך ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "וראה בנים לבניך ˙ | שלום על ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "אשריך ישראל הנה ברכתיך ברוך אויבך יכחשו לך ˙ | וחרב על קמיך תערוך ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "ואתה על במותימו תדרוך ˙ | אשריך ישראל : | תם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "מי כמוך באלים ה[?] מי כמוך נאדר בקדש נורא תהלות עושה פלא :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ה[?]"
+   ]
+  },
+  {
+   "n": 19,
+   "text": "שירה לרבי יהודה הלוי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "יום | ליבשה נהפכו מצולים ˙ שירה חדשה שבחו גאולים ˙ | שירה חדשה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "יה בצר נכבדת ˙ ועלי נחמדת ˙ וליעוז יסדת ˙ מפי יונקים ועוללים ˙ | שירה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "חטבעת בתרמית ˙ רגלי בת ענמית ˙ ופעמי שולמית ˙ יפו בנעלים : | שירה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "וכל רואיהם יכירון ˙ בית הודו ישירון ˙ אין כאל ישורון ˙ ואויבינו פלילים : | שירה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "דגלי כן תרים ˙ על הנשארים ˙ ותלקט פזורים ˙ כמלקט שבולים : | שירה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "הרואה אותותם ˙ כרואה אותם ˙ על כנפות כסותם ˙ עשו גדילים : | שירה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "הבאים עמך ˙ בברית חותמך ˙ מבטן לשמך ˙ המה נמולים : | שירה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "למי זאת נרשמת ˙ הכר נא דבר אמת ˙ למי החותמת ˙ והפתילים ˙ | שירה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "ושוב שנית לקדשה ˙ ואל תוסף לגרשה ˙ והעלה אור שמשה ˙ ונסו הצללים : | שירה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "ידידים רוממוך ˙ בשירה קדמוך ˙ ענו מי כמוכה ˙ ידוה באלים : | שירה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "ומתפללין תפלה כסדר וקורין בפרשת צו בשנה פשוטה מפני שיש בו דין הגעלה ובמעובר בפרשת מצורע",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "שיש בו טהרת הטמאים ג״כ[?] וסימן קקור[?] ופסח בפשוט סגור ופסח במעובר ומפטירין בענין הפרשה :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ג״כ[?]",
+    "קקור[?]"
+   ]
+  },
+  {
+   "n": 32,
+   "text": "במנחה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "נכנסין לבית הכנסת ומתפללין בסדר ואחר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "התפלה אומר זה לרבי בנימין ברבי שמואל",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 18,
+   "span": "ה[?]"
+  },
+  {
+   "line": 31,
+   "span": "ג״כ[?]"
+  },
+  {
+   "line": 31,
+   "span": "קקור[?]"
+  }
+ ],
+ "sha256_text": "65304f1d51fd5941c67fc8debfbcf2234528e31447ef7b636b013972b15676f4",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.132,
+   "wer": 0.349
+  }
+ },
+ "text_file": "../text/fol107a_spread109_left.txt"
+}

@@ -1,0 +1,196 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 117,
+ "side": "left",
+ "folio": "115a",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "# 115a (spread 117 left) — PARTIAL. Lines 1-? Rashi-type rubric block: [RASHI-UNPROOFED]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "# Upper square-type lines (ברכת המזון opening, הרחמן/זימון): UNPROOFED, see raw/s117_left.txt",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "[RASHI-UNPROOFED]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "[UNPROOFED: zimmun/opening lines through \"הגדול תמיד\"]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "...ברוך זכרו ברוך כחו ברוכה לעד מתנתו ברוך אתה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "ידוה אלהינו מלך העולם הזננו הזן את העולם כלו בטובו בחן ובחסד וברחמיו ובחסדיו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "[?] כי הוא נותן לחם לכל בשר כי לעולם חסדו ˙ חסדו לעד יהא עמנו ובטובו הגדול",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 8,
+   "text": "[?] בעבור שמו הגדול כי הוא אל זן מרחם ומפרנס ומכלכל ומכין מחיה ומזון",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 9,
+   "text": "לכל בריותיו ולכל מעשה ידיו אשר ברא ברוך אתה ידוה הזן את הכל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "[?] ארצנו ועל נחלתנו נודה לך ידוה אלהינו נפארך מלכנו נהדרך מושיענו",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 11,
+   "text": "ונמליכך מלכנו מלך יחיד חי העולמים שרצית והנחלת את אבותינו ארץ",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "חמדה טובה ורחבה ברית ותורה וחיים ומזון ועל שהוצאתנו מארץ מצרים ופדיתנו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "מבית עבדים ועל בריתך שחתמת בבשרינו ועל תורתך שלמדתנו ועל חוקי רצונך",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "[?] ועל חיים חן וחסד ומזון שאתה חונן ומלוה אותנו בכל יום בכל עת בכל שעה",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 15,
+   "text": "ובכל זמן ועל הכל ידוה אלהינו אנו מודים לך ומברכין את שמך תמיד אלהי ישענו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "[?] ומטובך תשביע את נפשנו ונודה לך ידוה אלהינו על נחלתנו ועל",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 17,
+   "text": "נחלת אבותינו תושיבנו ותושיענו ותנחילנו ותטענו בגבולנו ככתוב ואכלת ושבעת וברכת",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "את ידוה אלהיך על הארץ הטובה אשר נתן לך ברוך אתה ידוה על הארץ ועל המזון :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "ידוה אלהינו בציון עירך ברנה ובשכלול בית מקדשך ורחם ידוה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "אלהינו עלינו ועל ישראל עמך ועל ציון משכן כבודך ועל מלכותך",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "טו ג",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "# margin initial words (נחמנו etc.) and marginal handwriting excluded; first-word margin cues [?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 7,
+   "span": "[?]"
+  },
+  {
+   "line": 8,
+   "span": "[?]"
+  },
+  {
+   "line": 10,
+   "span": "[?]"
+  },
+  {
+   "line": 14,
+   "span": "[?]"
+  },
+  {
+   "line": 16,
+   "span": "[?]"
+  },
+  {
+   "line": 22,
+   "span": "[?]"
+  }
+ ],
+ "sha256_text": "5dfb689fd4d00fc9e92373fe6d24faa7283417bdfc8663bc736f51e869e9ea05",
+ "proofed": false,
+ "status": "partial",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {},
+ "text_file": "../text/fol115a_spread117_left.txt",
+ "proofing_note": "Partly proofed page: Rashi-type notes or rubrics, or other explicitly marked lines, await expert proofreading. Supplied markers are retained unchanged. Only part of this side was proofed at reduced resolution; the opening lines and Rashi-type block are explicitly UNPROOFED. No error-rate measurement was supplied for this side. Supplied CER/WER values for partly proofed sides are approximate; they are retained without recomputation. Low line confidence conservatively reflects the mixed proofing scope."
+}

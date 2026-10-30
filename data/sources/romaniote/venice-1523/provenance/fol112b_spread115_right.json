@@ -1,0 +1,244 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 115,
+ "side": "right",
+ "folio": "112b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "מצרים הרי זה משובח : מעשה ברבי אליעזר ורבי יהושע ורבי אלעזר בן עזריה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "ורבי עקיבא ורבי טרפון שהיו מסובין בבני ברק והיו מספרין ביציאת מצרים כל אתו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "הלילה עד שבאו תלמידיהם ואמרו להם רבותינו הגיע זמן קרית שמע של שחרית :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "אמר להם רבי אלעזר בן עזריה הרי אני כבן שבעים שנה ולא זכיתי שתאמר",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "יציאת מצרים בלילות עד שדרשה בן זומא שנאמר למען תזכור את יום צאתך מארץ",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "מצרים כל ימי חייך ימי חייך הימים כל ימי חייך הלילות וחכמים אומרים ימי חייך העולם",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "הזה כל ימי חייך העולם הבא להביא ימות המשיח : ברוך המקום",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "ברוך הוא ברוך שנתן תורה לישראל ברוך הוא כנגד ארבעה בנים דברה תורה אחד",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "חכם ואחד רשע ואחד תם ואחד שאינו יודע לשאול : חכם מה הוא אומר",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "מה העדות והחוקים והמשפטים אשר צוה ידוה אלהינו אותנו אף אתה אמור לו כהלכות",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "הפסח אין מפטירין לאחר הפסח אפיקימון : רשע מה הוא אומר מה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "העבודה הזאת לכם לכם ולא לו ולפי שהוציא את עצמו מן הכלל וכפר בעיקר אף אתה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "אמור לו והקהה את שיניו בעבור זה עשה ידוה לי בצאתי ממצרים לי ולא לו שאילו יהיה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "שם לא היה נגאל : תם מה הוא אומר מה זאת ואמרת אליו בחוזק יד הוציאנו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "ידוה ממצרים מבית עבדים : ושאינו יודע לשאול את פתח לו שנאמר והגדת",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "לבנך ביום ההוא לאמר בעבור זה עשה ידוה לי והגדת לבנך יכול מראש חדש תלמוד",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "לומר ביום ההוא אי ביום ההוא יכול מבעוד יום תלמוד לומר בעבור זה לא אמרתי אלא",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "בשעה שמצה ומרור מונחים לפניך : מתחלה עובדי עבודה זרה היו אבותינו ועכשיו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "קרבנו המקום לעבודתו שנאמר ויאמר יהושע אל כל העם כה אמר ידוה אלהי ישראל",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "בעבר הנהר ישבו אבותיכם מעולם תרח אבי אברהם ואבי נחור ויעבדו אלהים אחרים",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "ואקח את אביכם את אברהם מעבר הנהר ואולך אותו בכל ארץ כנען וארבה את זרעו [?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 22,
+   "text": "ואתן לו את יצחק ואתן ליצחק את יעקב ואת עשו ואתן לעשו את הר שעיר לרשת אותו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "ויעקב ובניו ירדו מצרים : ברוך שומר הבטחתו לישראל ברוך הוא שהקדוש ברוך הוא",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "מחשב את הקץ לעשות מה שאמר לאברהם אבינו בין הבתרים שנאמר ויאמר לאברם",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "ידוע תדע כי גר יהיה זרעך בארץ לא להם ועבדום וענו אותם ארבע מאות שנה : וגם",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "את הגוי אשר יעבודו דן אנכי ואחרי כן יצאו ברכוש גדול : והיא שעמדה לאבותינו ולנו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "שלא אחד בלבד עמד עלינו אלא שבכל דור ודור עומדים עלינו לכלותינו והקדוש ברוך",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "הוא מצילנו מידם : צא ולמד מה בקש לבן הארמי לעשות ליעקב אבינו שפרעה לא גזר",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "אלא על הזכרים ולבן בקש לעקור את הכל שנאמר ארמי אובד אבי וירד מצרימה ויגר",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "שם במתי מעט ויהי שם לגוי גדול עצום ורב : וירד מצרימה אנוס על פי הדבור :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "ויגר שם מלמד שלא ירד יעקב אבינו להשתקע במצרים אלא לגור שם : שנאמר ויאמרו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "אל פרעה לגור בארץ באנו כי אין מרעה לצאן אשר לעבדיך כי כבד הרעב בארץ כנען",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "ועתה ישבו נא עבדיך בארץ גשן : במתי מעט כמה שנאמר בשבעים נפש ירדו אבותיך",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "מצרימה",
+   "confidence": "low",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 21,
+   "span": "[?]"
+  }
+ ],
+ "sha256_text": "351c1a5b5413f2cc1c2b241a55165ffd8ca0fac0fea3db75dcd8cd7a91f22ce6",
+ "proofed": false,
+ "status": "partial",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.127,
+   "wer": 0.194,
+   "scope": "square-type body proofed; Rashi-type rubrics unproofed"
+  }
+ },
+ "text_file": "../text/fol112b_spread115_right.txt",
+ "proofing_note": "Partly proofed page: Rashi-type notes or rubrics, or other explicitly marked lines, await expert proofreading. Supplied markers are retained unchanged. The full corrected file is used instead of its duplicate _body variant. Supplied error rates cover the square-type body; the supplied scope leaves Rashi-type rubrics unproofed. Supplied CER/WER values for partly proofed sides are approximate; they are retained without recomputation. Low line confidence conservatively reflects the mixed proofing scope."
+}

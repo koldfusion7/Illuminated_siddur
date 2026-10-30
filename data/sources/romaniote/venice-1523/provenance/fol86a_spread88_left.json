@@ -1,0 +1,248 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 88,
+ "side": "left",
+ "folio": "86a",
+ "printed_folio_number": "פו",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של פורים | פו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "ואם חל | במוצאי שבת כתב הטור משם רבי אליעזר ממיץ שאומר ויהי נועם אחר המגלה[?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "המגלה[?]"
+   ]
+  },
+  {
+   "n": 3,
+   "text": "ואתה קדוש : שחרית | מתפללין כסדר של אתמול ואומר על הנסים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "בהודאה ומחזיר שליח צבור התפלה ואומר | קרובה זאת :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ברוך | אתה ה' אלהינו ואלהי אבותינו אלהי אברהם אלהי יצחק ואלהי יעקב האל הגדול",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "הגבור והנורא אל עליון קונה שמים וארץ :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "אמתך | וחסדך אל תרחק ˙ | אימתך הפל וחנית הרק ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "אויביך כרגע לחנק ˙ | אמוניך ישועה להענק :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "את שם צר צוית למחות ולמחק ˙ | אמת מלחמה לידוה בעמלק :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "עמלק אשר בא על בנים לשחטם ˙ | שקד אל מידו למלטם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "אורה ושמחה להעטם ˙ | ויעזרם ידוה ויפלטם : בא״ מגן אברהם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "בז בעיניו למולי ˙ | בכספו לאבד כל קהלי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "בשטמת זקנו לשבלי ˙ | בחרק שיניו לאכלי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "בהקדמת כסף שקלי ˙ | בנת כי גאים טמנו פח לי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "לי לספר כל נפלאותיך ˙ | וצדק נוראותיך ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "בהזילך גשם על אדמתך ˙ | לעד יהיו מתיך : בא״ מחיה המתים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "גבה לבו להרע ˙ | גאה ובדרך התעה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "גמולו לבניו הופרע ˙ | גזעו בחרב הכרע ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "געש ועל עצו הכנע ˙ | גחל כי משרש נחש יצא צפע :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "צפע ינשך הולכי מעקשים ˙ | המטהרים והמתקדשים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "ויוקדש במוקדשים ˙ | אל נערץ בסוד קדושים ˙ בא״ האל הקדוש :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "דומה כנחש בשופו ˙ | דבקיו להדליק באש רשפו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "דבר לשקול כספו ˙ | דעת לא ידע מה יהא בסופו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "דוקר בעץ ספו עם טפו ˙ | דבר הוקם ישלח בם חרון אפו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "אפו ישלח במכעיסים ˙ | האוכלים ומדיקים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "ורופסים וילמדו דעת חוסים ˙ | כמים לים מכסים : בא״ חונן הדעת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "הכין רשתו ופעל דולקיו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "הוביש כעש רקב ˙ | הבות בני תם עקב עקב ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "הכתיב אל בדת חוקיו ˙ | התלות עם עשרת חלוקיו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "ירקב שם רע חושבים ˙ | הגות שם רשעים ירקב :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "ויקשיבו מדרכיהם שבים ˙ | יהיו כמוץ לפני רוח נצבים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "ועקל נתיב מעקשו ˙ | שובו בנים שובבים ˙ בא״ הרוצה בתשובה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "והבעיר להב אשו ˙ | והלשין לישוך בלחשו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "ומור והרס חלשו ˙ | והוצת אורו בגדישו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "ולא נאמר ישוב עמלו בראשו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 2,
+   "span": "המגלה[?]"
+  }
+ ],
+ "sha256_text": "0358aa1ad1487b6bd3e302b60094f6ff771488efda32b6e7bfe805f8ab99c44c",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.107,
+   "wer": 0.368
+  }
+ },
+ "text_file": "../text/fol86a_spread88_left.txt"
+}

@@ -1,0 +1,248 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 107,
+ "side": "right",
+ "folio": "104b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של שבת הגדול",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "מי כמוך לרבי בנימן הלוי ואומרים[?] אותו קצת קהלות קודם היוצר",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ואומרים[?]"
+   ]
+  },
+  {
+   "n": 3,
+   "text": "אדיר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "אדירים חונן דל ומאזין שועתו ˙ שומר חסדו לעמו ונאמן בבריתו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "אשר כרת את אברהם ליצחק ושבועתו ˙ ויעמידה ליעקב לחק לישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "בימי קדם ומאז הגדלת חסדיך עמי ˙ עזרי היית מעולם ונלחם את לוחמי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "לכן שמעה עמי ˙ ואדברה ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "גודל חסדיו שמעו ואשרוהו ˙ אשר עשה עם אבותינו והללוהו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "כל זרע יעקב כברוהו ˙ וגורו ממנו כל זרע ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "דרשו נפלאות אל שוכן גבוהים : מופתיו ומשפטי נגוהים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "במקהלות ברכו אלהים ˙ ידוה ממקור ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "היום אביע גלגול שעבוד הורי ˙ ואשר רדו עלי שוטני וצוררי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "רבת צררוני מנעורי ˙ יאמר נא ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "ויהי בימי פרעה במלכו ובתעצומו ˙ חשב להשמיד את עמי ולהחרימו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "ויאמר אל כל עמו ˙ הנה עם בני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "זימן את אנשיו ויועציו במרוץ ˙ הבה נתחכמה לעם הזה וגדרו נפרוץ ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "וכאשר יענו אותו כן ירבה וכן יפרוץ ˙ ויקוצו מפני בני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "חכמיו וחרטומיו יודעי דיעה ˙ נמו באזנינו שמענו שמעה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "בן נולד והוא יחל להושיע ˙ את ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "טפלו על זדים ארורים ˙ כל הבן הילוד מילדי ברורים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "ושלך[?] ביאור וישמעו העברים ˙ וכל ישראל :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ושלך[?]"
+   ]
+  },
+  {
+   "n": 22,
+   "text": "יזמו עלי להכרית מארץ זכרי ˙ ביום אשר נולד מורי וגבירי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "ויצו אל עמו וגם אל הנכרי ˙ אשר לא מעמך ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "כלימה יעטו חוזי שוא מוציאי דבה ˙ אשר תעו כי היום נפל שר הצבא ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "ולא ידעו כי המה מי מריבה ˙ אשר רבו בני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "ליאור כהושלך אחר שלשה חדשים ˙ זרע כשר מבני קדושים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "כלם אנשים ˙ ראשי בני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "מרים אחותו נצבה מראש האשמורת ˙ לדעה מה יעשה על דר וסוחרת ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "אשר יהיה לגאון ולתפארת ˙ לפליטת ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "נכספה בת פרעה לרחץ ביאור ותבוא ˙ ותרא את התבה והילד הופיע אור סביבו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "אשר בימיו יבא ˙ כבוד ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "סדרה לקרוא מן העבריות ולתת שכרה ˙ להניק הילד להיות לה לתשורה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "ומשה יהיה נקרא ˙ שמו בישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "פירש",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 2,
+   "span": "ואומרים[?]"
+  },
+  {
+   "line": 21,
+   "span": "ושלך[?]"
+  }
+ ],
+ "sha256_text": "3c4849c5798519b4b523513591868c41a26c286c3ca3acb711278c2529a83806",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.081,
+   "wer": 0.262
+  }
+ },
+ "text_file": "../text/fol104b_spread107_right.txt"
+}

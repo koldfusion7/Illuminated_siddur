@@ -1,0 +1,260 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 100,
+ "side": "left",
+ "folio": "98a",
+ "printed_folio_number": "צח",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות לפרשת החדש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "צח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "רבו נטעי גנה ˙ | ופרחי כהונה ˙ | והיצהרים שלוחי חתונה ˙ | המריקים מעליהם זהב :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "שולחו לפרעה לאמר ˙ | שלח עפרים להר המור ˙ | וכל מועדי ידוה לשמור ˙ | הנחמדים מזהב :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "תנין השיב מענה ˙ | מי לעבוד את ידוה יענה ˙ | אשר העשרתים במקנה ˙ | בכסף ובזהב :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "יראה כבודי וגדלי ˙ | כי אין על עפר משלי ˙ | ובכחי כנסתי לי ˙ | גם כסף גם זהב :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "היתפאר עלי נופל למשואות ˙ ועל אלהים ידבר נפלאות ˙ כה אמר ידוה צבאות ˙ לי הכסף ולי הזהב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "ואיך השיאך זדונך ˙ | להעביד בן ארוניך[?] ˙ | הלא אתה תלביש עדניך ˙ | וצפית אותם זהב :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ארוניך[?]"
+   ]
+  },
+  {
+   "n": 9,
+   "text": "דהו[?] אל מנגע אל נגע ˙ | והכה בכוריו עת ופגע ˙ | ויקרא לפניו כרגע ˙ | כוזו כסף בוזו זהב :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "דהו[?]"
+   ]
+  },
+  {
+   "n": 10,
+   "text": "הושיע חבצלת השרון ˙ | בשמחה ובשירים ורון ˙ | ולפניהם משה ואהרן ˙ | שני צנתרות זהב :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "לכם בים סוף יהים ˙ | חרדים למות וכמהים ˙ | עד הושיט משה איש האלהים את | שרביט הזהב :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "ישיר משה ובני ישראל ˙ | כי ראו יד האל ˙ | ובא לציון גואל ˙ | ויוציאם בכסף ובזהב :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "מי כמוך אחר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "מי כמוך שומר עמך ישראל ˙ | בכל צרה עמנו אל ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "עוזר ומושיע פודה וגואל ˙ | אל אלהי ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "ברא כל בחכמה ˙ | משקיף ממעון קדשו השמימה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "להוציא ביד רמה ˙ | את עמו בני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "תמים פעלו ˙ | נותן לאיש כמעלו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "ושב ורפא לו ˙ | הנה צעקת בני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "יחיד אשר אין בלתו ˙ | זכר את בריתו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "ויאמר למשה נאמן ביתו ˙ | הוצא את עמי בני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "בהוציאך את העם ממצרים ˙ | תעבדון על ההר הזה עושה ארץ ושמים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "והוא יחיינו מיומים ˙ | כה תאמר אל בני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "נורא נשגב ואיום ˙ | הנני הולך לחוכי פדיום ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "ואמרו לי מה שם שלחך היום ˙ | מה אומר אל בני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "ראה ראיתי את עני עמי ˙ | אשר מצרים מעבידים לאומי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "ידוה שלחני זה שמי ˙ | לעולם בני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "אלהי אבותיכם ˙ | פקד פקדתי אתכם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "ואת העשוי לכם ˙ | דבר אל בני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "בואו אל פרעה מלך מצרים ˙ | ואמרתם כה אמר אלהי העברים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "נלכה נזבחה אל אחד ההרים ˙ | יאמר נא ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "ידעתי כי לא יתן אתכם למען רבות מופתי ˙ | בארץ מצרים נפלאותי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "והוצאתי את צבאותי ˙ | את עמי בני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "יג ב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "ו[?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ו[?]"
+   ]
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 8,
+   "span": "ארוניך[?]"
+  },
+  {
+   "line": 9,
+   "span": "דהו[?]"
+  },
+  {
+   "line": 35,
+   "span": "ו[?]"
+  }
+ ],
+ "sha256_text": "f32887e075437954c1a1e05cfaf8963d13e2d5debde8833aca1f62b391a65cae",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.166,
+   "wer": 0.313
+  }
+ },
+ "text_file": "../text/fol98a_spread100_left.txt"
+}

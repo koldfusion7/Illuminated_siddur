@@ -1,0 +1,254 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 113,
+ "side": "left",
+ "folio": "111a",
+ "printed_folio_number": "קיא",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של פסח | קיא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "תחלה וראש לישועתנו לרוחתנו ולשועתנו ולפדות נפשנו ˙ ובו תזכרנו ידוה אלהינו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "בזכרון טוב מלפניך ˙ ופוקדנו בפקודת ישועה ורחמים ˙ ובברכתך וישועתך מהרה תבא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "עלינו ˙ ויראו שונאינו ושוטננו ואויבינו ויבושו כי אתה ידוה עזרתנו ונחמתנו : והשיאנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "רצה | ידוה אלהינו בעמך ישראל ולתפלתם שעה והשב עבודת כהנים לדביר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "ביתך ואשי ישראל בעבודתם ותפלתם מהרה באהבה תקבל ברצון",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "ותהי לרצון תמיד עבודת עמך כל בית ישראל בימינו ותחזינה עינינו בשובך לציון",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "ברחמים כמאז וכשנים קדמוניות ברוך אתה ידוה המשיב שכינתו לציון :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "מודים | אנחנו לך שאתה הוא ידוה אלהינו ואלהי אבותינו על חיינו המסורים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "בידך ועל נשמותינו הפקודות לך הטוב כי לא כלו רחמיך המרחם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "וכי לא תמו חסדיך כי מעולם רבות קוינוך ˙ לא הכלמתנו ידוה אלהינו ולא עזבתנו ולא",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "הסתרת פניך ממנו ועל כולם יתברך ויתרומם וישתבח שמך מלכנו לעולם ועד וכל החיים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "יודוך סלה ויברכו ויודו לשמך הטוב באמת חי העולמים כי יחיד אתה ואין זולתך מלכנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "ברוך אתה ידוה הטוב שמך ולך נאה להודות :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "שים | שלום טובה וברכה חיים חן וחסד וריוח ורחמים עלינו ועל כל ישראל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "עמך ברכנו אבינו כלנו יחד באור פניך כי באור פניך נתת לנו ידוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "אלהינו תורה וחיים אהבת חן וחסד צדקה ברכה ישועה רחמים רבים ושלום וטוב יהיה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "בעיניך לברך את כל עמך ישראל תמיד בכל יום בכל עת בכל רגע ובכל שעה בשלומך ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "ברוך אתה ידוה המברך את עמו ישראל בשלום :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "ומוסיף ג׳ פסיעות ונותן שלום על שמאלו ועל ימינו ואומר קדיש ואם חל בשבת אומר ויכלו ואין אומר ברכה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "מעין שבע מפני שהוא לילה המשומר מהמזיקין ואומ׳ אין כאלהינו וקדיש שלם וברכו ויש קצת קהלו׳ שגומרי׳",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "אחר כך ההלל בבית הכנסת ומברכין לפניו ולאחריו מדאמרי׳ בגולה שתי לילות יחיד גומ׳ בהן את ההלל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "ומנהג יפה הוא שהרי בסעודה מפסיקין בנתים[?] ושוהין שמפני זה אין מברכין עליו וכן כתב הטור וכל בו :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "בנתים[?]"
+   ]
+  },
+  {
+   "n": 24,
+   "text": "סדר אגדה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "מצות | עשה מן התורה לספר ביציאת מצרים בלילה זאת שנאמר והגדת לבנך ביום ההוא לאמר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "בעבור זה בשעה שמצה ופסח ומרור מונחים לפניך ובזמן הזה שאין קרבן פסח אכילת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "מצה מצוה בפני עצמה שנ׳ בערב תאכלו מצות הכתוב קבעו חובה ואכילת מרור מצוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "מדברי סופרי׳ וכן החרוסת לטבל בו מצוה מד״ס ואף על פי שבשאר שבתות וימים טובים מוסיפין מחול",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "על הקדש בלילה זו צריך להמתין עד הלילה לצאת ידי חובה בזמנה והכי איתא בירושלמי פסח מצה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "ומרור אוכלן בבת אחת מאימתי אוכלן משתחשך ותנן נמי במתני׳ הפסח אינו נאכל אלא בלילה ומצה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "איתקש לפסח דכתיב על מצות ומרורי׳ יאכלוהו ואין ראוי לאחר גם כן מפני שלא יישנו התינוקו׳ כדי[?] שישאלו",
+   "confidence": "low",
+   "uncertain_spans": [
+    "כדי[?]"
+   ]
+  },
+  {
+   "n": 32,
+   "text": "וכל אדם לא יאכל עד שיסב ומסב׳ בשמאל והיסבת ימין לאו שמיה הסיב׳ ולדעת ר״שבם אטר מסב בשמאלו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "שהוא ימין כל אדם אבל לא לדעת ר״מי[?] השוכב פרקדן אינה היסבה או על פניו בן אצל אביו צריך הסבה ˙",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ר״מי[?]"
+   ]
+  },
+  {
+   "n": 34,
+   "text": "תלמיד אצל רבו אין צריך הסיבה מפני שמורא רבו עליו אלא א״כ נתן לו רבו רשות ˙ שמש צריך הסבה",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 23,
+   "span": "בנתים[?]"
+  },
+  {
+   "line": 31,
+   "span": "כדי[?]"
+  },
+  {
+   "line": 33,
+   "span": "ר״מי[?]"
+  }
+ ],
+ "sha256_text": "b800ca69cec10ba4fbb719312c87e8fcfcad33d420295b84262908ab2d1e2a7a",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.143,
+   "wer": 0.394
+  }
+ },
+ "text_file": "../text/fol111a_spread113_left.txt"
+}

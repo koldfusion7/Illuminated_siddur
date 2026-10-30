@@ -1,0 +1,229 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 83,
+ "side": "left",
+ "folio": "81a",
+ "printed_folio_number": "פא",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של צום אסתר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "יום | דלה ונאנחה ˙ | צורי חטבת חטוב ˙ | כורה ללוכדה שוחה ˙ | שמת עצו לחטוב ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "ולך שפכה שיחה ˙ | הצלתה מקטוב ˙ | מיגון לשמחה ˙ | ומאבל ליום טוב : מיגון",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "יום נשאתי עיני ˙ | אל אל רחמיו חשו ˙ | ויאירו פני | וחסדיו נפגשו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ומתי חבל מוני ˙ | נלכדו נוקשו ˙ | ולאור הוציא דיני ˙ | יה וכפירים רשו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "רעבו ודורשי ידוה לא יחסרו כל טוב : מיגון",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "ובתחנון ובתפלה ˙ | ובצום ימיני צעק ˙ | ובכי ואפר מקלה ˙ | וישם במתניו שק ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "ויתן ביללה ˙ | קולו עד שוד פסק ˙ | יושב קדם סלה ˙ | ויכבה אש פסק ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "כי לו שועו עלה ˙ | טוב שם משמן טוב : מיגון",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "סבוני כדבורים ˙ | וכאש קוצים דועכו ˙ | בגלות אכזרים ˙ | המלכים אשר מלכו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "ואשר אזרע קוצרים ˙ | ויקבי ידרוכו ˙ | ועמך עלי דוברים ˙ | וכבודי יתמוכו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "ויגיעי לאחרים ˙ | האומרים לרע טוב : מיגון",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "פרוע משחת ˙ | פחדו על כל עמים ˙ | נפל במצאו נחת ˙ | אחרי נושאו אימים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "אל תירא ואל תחת ˙ | אויביך הקמים ˙ | עליך בורחת ˙ | זריתים ושממים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "כי צרה נשכחת ˙ | ושמחת בכל הטוב : מיגון",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "קנאתי לגאלך ˙ | עטוי בשת מונים ˙ | יום המן לשללך ˙ | ותחיל מיגונים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "על כן שיר מהללך ˙ | תביע ורננים ˙ | ומתנות חילך ˙ | תתן לאביונים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "ובם יפתח ידוה לך ˙ | את אוצרו הטוב : מיגון כלען",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "סליחה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "חיים | אשאלה ממך לי מלכי ˙ | בקדש חזיתיך תהלות יהגה חכי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "גרסה לך נפשי לחיותה כי ˙ | עמך מקור חיים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "חיים דרי תבל שאלו ממך אל לא נראה ˙ | הנם נועדו ונוסדו יחד ולבם משתאה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "ואתה קדוש בשר רש מפגין למולך ראה ˙ | נתתי לפניכם היום את החיים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "חיים זכרוני ואבדיל אתכם מן העמים ˙ | חסד ורחמים אעש ממרומים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "טוב טעם ודעת אלמדה אתכם ותחיון וירבון הימים ˙ | אשר אתם חיים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "חיים ישענו ואורנו ˙ | ממך שברנו ותוחלתנו ˙ | כי לא תחפוץ במות המת כי אם בשובנו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "לטובה עשה עמנו אות ונחיה ולא נמות אנחנו ˙ | אלה פה היום כלנו חיים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "חיים מלך עולם כוננת ארץ ותעמוד ˙ | נא עצור נגף ואל כמפעל תמוד ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "שגב עדתך בישעך כמאז ויעמוד ˙ | בין המתים ובין החיים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "חיים עבדיך ישבעו וצאצאיהם לעיניהם ˙ | פנה אל תפלתך והדרך על בניהם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "צבאם רבה ובשרם כי הם ˙ | וכל אשר להם חיים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "חיים קראנוך ורוע גזר דין קרע ואם נרשם ˙ | רענו בשבטך ולא נמות והאדמה לא תשם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "שית תעלה ארוכה למכה ויאמרו כי שם ˙ | צוה ידוה את הברכה חיים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "6d28878dd4fe448dd15ed18353bbf3cc31dfe726ab47f9d5ba4587d50fe80195",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.14,
+   "wer": 0.296
+  }
+ },
+ "text_file": "../text/fol81a_spread83_left.txt"
+}

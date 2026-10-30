@@ -1,0 +1,237 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 115,
+ "side": "left",
+ "folio": "113a",
+ "printed_folio_number": "קיג",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "מצרימה ועתה שמך ידוה אלהיך ככוכבי השמים לרוב : ויהי שם לגוי מלמד שהיו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "ישראל מצויינים שם לגוי גדול ועצום שנאמר ובני ישראל פרו וישרצו וירבו ויעצמו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "במאד מאד ותמלא הארץ אותם : ורב כמה שנאמר רבבה כצמח השדה נתתיך",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "ותרבי ותגדלי ותבואי בעדי עדיים שדים נכונו ושערך צמח ואת ערום ועריה :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "וירעו אותנו המצרים ויענונו ויתנו עלינו עבודה קשה : וירעו אותנו המצרים",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "כמה שנאמר הבה נתחכמה לו פן ירבה והיה כי תקראנה מלחמה ונוסף גם הוא על",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "שונאינו ונלחם בנו ועלה מן הארץ : ויענונו כמה שנאמר וישימו עליו שרי",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "מסים למען ענותו בסבלותם ויבן ערי מסכנות לפרעה את פיתום ואת רעמסס :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "ויתנו עלינו עבודה קשה כמה שנאמר ויעבידו מצרים את בני ישראל בפרך :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "ונצעק אל ידוה אלהי אבותינו וישמע ידוה את קולינו וירא את עניינו ואת",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "עמלנו ואת לחצנו : ונצעק אל ידוה אלהי אבותינו כמה שנאמר ויאנחו בני",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "ישראל מן העבודה ויזעקו ותעל שועתם אל האלהים מן העבודה : וישמע",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "ידוה את קולנו כמה שנאמר וישמע אלהים את נאקתם ויזכור אלהים את בריתו את אברהם",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "את יצחק ואת יעקב : וירא את עניינו זו פרישות דרך ארץ כמה שנאמר",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "וירא אלהים את בני ישראל וידע אלהים : ואת עמלינו אלו הבנים כמה שנאמר כל הבן",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "הילוד היאורה תשליכוהו וכל הבת תחיון : ואת לחצנו זה הדחק כמה שנאמר וגם",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "ראיתי את הלחץ אשר מצרים לוחצים אותם ואזכור את בריתי : ויוציאנו ידוה ממצרים",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "ביד חזקה ובזרוע נטויה ובמורא גדול ובאותות ובמופתים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "ויוציאנו ידוה ממצרים",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "לא על ידי מלאך ולא על ידי שרף ולא על ידי שליח אלא הקדוש ברוך הוא בעצמו ובכבודו :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "שנאמר ועברתי בארץ מצרים בלילה הזה והכיתי כל בכור בארץ מצרים מאדם ועד בהמה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "ובכל אלהי מצרים אעשה שפטים אני ידוה : ועברתי בארץ מצרים אני ולא מלאך",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "והכיתי כל בכור בארץ מצרים אני ולא שרף ובכל אלהי מצרים אעשה שפטים אני ולא ש",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "שליח אני ידוה אני הוא ולא אחר : ביד חזקה זה הדבר כמה שנאמר הנה יד ידוה הויה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "במקנך אשר בשדה בסוסים בחמורים בגמלים בבקר ובצאן דבר כבד מאד : ובזרוע",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "נטויה זו החרב כמה שנאמר וחרבו שלופה בידו נטויה על ירושלם : ובמורא",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "גדול זו גלוי שכינה שנאמר או הנסה אלהים לבא לקחת לו גוי מקרב גוי במסות",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "באותות ובמופתים ובמלחמה וביד חזקה ובזרוע נטויה ובמוראים גדולים ככל",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "אשר עשה לכם ידוה אלהיכם במצרים לעיניך : ובאותות זה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "המטה כמה שנאמר ואת המטה הזה תקח בידך אשר תעשה בו את האותות :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "ובמופתים זה הדם כמה שנאמר ונתתי מופתים בשמים ובארץ דם ואש ותמרות עשן :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "דבר אחר ביד חזקה שתים ובזרוע נטויה שתים ובמורא גדול שתים ובאותות שתים",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "ובמופתים שנים : אלו עשר מכות שהביא הקדוש ברוך הוא על המצרים במצרים ואלו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "הן דם צפרדע כנים ערוב דבר שחין ברד ארבה חשך מכת בכורות : רבי יהודה היה",
+   "confidence": "low",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "0a8209efc5f328d43b952da8ac0aa054b8f35d3685602efd19f1ef027635b606",
+ "proofed": false,
+ "status": "partial",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.138,
+   "wer": 0.265,
+   "scope": "square-type body proofed; Rashi-type rubrics unproofed"
+  }
+ },
+ "text_file": "../text/fol113a_spread115_left.txt",
+ "proofing_note": "Partly proofed page: Rashi-type notes or rubrics, or other explicitly marked lines, await expert proofreading. Supplied markers are retained unchanged. The full corrected file is used instead of its duplicate _body variant. Supplied error rates cover the square-type body; the supplied scope leaves Rashi-type rubrics unproofed. Supplied CER/WER values for partly proofed sides are approximate; they are retained without recomputation. Low line confidence conservatively reflects the mixed proofing scope."
+}

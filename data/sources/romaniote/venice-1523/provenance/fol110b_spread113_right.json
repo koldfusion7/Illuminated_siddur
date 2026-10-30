@@ -1,0 +1,248 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 113,
+ "side": "right",
+ "folio": "110b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של פסח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "והנורא אל עליון גומל חסדים טובים וקונה את הכל זוכר חסדי אבות ומביא גואל לבני",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "בניהם למען שמו באהבה מלך רחמן אל חי גואל עוזר ומושיע ומגן ברוך אתה ידוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "מגן אברהם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "אתה | גבור לעולם ידוה מחיה מתים אתה רב להושיע משיב הרוח ומוריד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "הגשם מכלכל חיים בחסד מחיה מתים ברחמים רבים סומך נופלים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "רופא חולים מתיר אסורים משען לאביונים מקיים אמונתו לישיני עפר מי כמוך ארון[?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ארון[?]"
+   ]
+  },
+  {
+   "n": 8,
+   "text": "הגבורות ומי דומה לך מלך ממית ומחיה ומצמיח לנו ישועה בקרוב ונאמן אתה להחיות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "מתים ברוך אתה ידוה מחיה המתים : לדור ודור נגיד גדלך ולנצח נצחים קדושתך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "נקדיש ושבחך ידוה אלהינו מפינו לא ימוש לעולם ועד כי אל מלך גדול וקדוש אתה ברוך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "אתה ידוה האל הקדוש :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "אתה | בחרתנו מכל העמים אהבת אותנו ורצית בנו ורוממתנו מכל הלשונות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "קדשתנו במצותיך וקרבתנו מלכנו לעבודתך ושמך הגדול והקדוש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "עלינו קראת ˙ ותתן לנו ידוה אלהינו | ואם חל במוצאי שבת אומר זה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "באהבה שבתות למנוחה מועדים לשמחה | ותודיענו משפטי צדקך ותלמדנו לעשות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "חגים וזמנים לששון ימים טובים לישועה | מצות חקי רצונך ותתן לנו ידוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "את יום השבת ואת יום חג המצות הזה | אלהינו באהבה משפטים ישרים ותורות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "זמן חירותנו באהבה מקרא קדש זכר | אמת חוקים ומצות טובים אשר יעשה אותם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "ליציאת מצרים : | האדם וחי בהם ותנחילנו זמני ששון ומועדי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "אלהינו ואלהי אבותינו יעלה ויבא יגיע | קדש וחגי נדבה ˙ ותורישנו קדושת שבת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "יראה וירצה ישמע יפקד | וכבוד מועד וחגיגת הרגל בין קדושת שבת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "ויזכר זכרוננו וזכרון אבותינו וזכרון ירושלם | לקדושת יום טוב הבדלת ואת יום השביעי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "עירך וזכרון משיח בן דוד עבדך וזכרון כל | מששת ימי המעשה קדשת והבדלת וקדשת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "עמך בית ישראל יעלה לפניך לטובה | לעמך ישראל בקדושתך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "ולרחמים ביום חג המצות הזה זכרנו ידוה | והשיאנו ידוה אלהינו את ברכת שבתותיך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "אלהינו בו לטובה ˙ ופקדנו בו לברכה ˙ | ומועדיך לחיים ולשלום כאשר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "והושיענו בו לחיים טובים בדבר ישועה | אמרת ורצית לברכנו כן תברכנו סלה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "ורחמים ˙ חוס וחננו ורחם עלינו והושיענו | קדשנו במצותיך תן חלקנו בתורתך שבענו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "מלטנו מכל צרה ומחלה מיגון ואנחה ˙ | מטובך ושמח את נפשנו בישועתך וטהר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "חננו ועננו והחיינו והושיענו כי אליך עינינו | את לבנו לעבדך באמת ולבב שלם והנחילנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "כי אל מלך חנון ורחום אתה : | ידוה אלהינו בשמחה ובששון את שבתות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "יש קהלות שנוהגין לומר קודם והשיאנו זה | ו מועדי קדשך ברוך אתה ידוה מקדש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "אתה | חי לברך נקראת ויהי יום זה | השבת ו ישראל והזמנים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "סוף קץ ותכלית לכל צרותינו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "תחלה",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 7,
+   "span": "ארון[?]"
+  }
+ ],
+ "sha256_text": "7dea03292816d842068f0e39390b88c56828fda8c8d4245ee9c68605cba54756",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.287,
+   "wer": 0.489
+  }
+ },
+ "text_file": "../text/fol110b_spread113_right.txt"
+}

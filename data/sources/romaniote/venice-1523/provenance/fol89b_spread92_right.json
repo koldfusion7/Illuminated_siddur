@@ -1,0 +1,254 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 92,
+ "side": "right",
+ "folio": "89b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות לערך פרה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "פרה | אמרה קשה · | מכל ניחוחי אשה ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "באיביה כל שער מקשה · | מעמקיה מי ימשה ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "גאה לעד לא תנשה · | פרה שעשה משה ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "שבע פרות נעשו · | ושש מהם נכסו ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "ערות בני שש יכסו · | לעזרם במגן כי בו חסו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "ברוך אתה ה' מגן אברהם · אתה גבור עד ונאמן[?] אתה להחיות מתים :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ונאמן[?]"
+   ]
+  },
+  {
+   "n": 8,
+   "text": "פרה | דתה גזורה · | בדבור חוקה וגזורה ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "הגונה לטהרת עזרה · | כבד וסגן מנוזרה ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "ובדקדוקיה נתאזרה · | פרה שעשה עזרא ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "תשע פרות נעשו · | ושמונה מהם נכסו ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "ערות בני שמונה יכסו · | להחיינו בגשם כי בו חסו · ב״י[?] מחיה המתים",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ב״י[?]"
+   ]
+  },
+  {
+   "n": 13,
+   "text": "נקדישך | ונעריצך מלכנו ונשלש לך קדושה כסוד אלי קדש וכן כתוב על יד נביאך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "וקרא זה אל זה ואמר | קדוש קדוש קדוש ידוה צבאות מלא כל הארץ",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "כבודו : לעומתם | עד מלך גדול וקדוש אתה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "פרה | זלזלים תדיק[?] · | כמשוכת חרק להחריק ·",
+   "confidence": "low",
+   "uncertain_spans": [
+    "תדיק[?]"
+   ]
+  },
+  {
+   "n": 17,
+   "text": "חלוקים ברשפה להדיק · | חלדם באפרה להדיק ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "טהורים בה להצדיק · | כבשתים שעשה שמעון הצדיק ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "שבע פרות נעשו · | ושש מהם נכסו ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "ערות בני שש יכסו · | להקדיש לקדוש כי בו חסו ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "ברוך אתה ה' האל הקדוש · אתה אחד עד האוהבי' ומקדשי' את שמך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "פרה | יקחו גוי גדול · | זכר לשם הגדול ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "כבוס חטא גדול · | אשר המירו כבוד מלך גדול ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "להדיח דמי בית גדול · | כבשתים שעשה יוחנן כהן גדול ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "תשע פרות נעשו · | ושמונה מהם נכסו ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "ערות בני שמונה יכסו · | לענגם בנופש כי בו חסו ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "ברוך אתה ה' מקדש השבת · רצה ה' עד ברחמים כמאז[?] :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "כמאז[?]"
+   ]
+  },
+  {
+   "n": 28,
+   "text": "פרה | ממתקת לעיני · | משטפת טנוף המוני ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "נקיון לטוהר מעוני · | שמוה משעיני ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "סדורה היתה לעיני · | כפרה שעשה אליהו עיני ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "שבע פרות נעשו · | ושש מהם נכסו ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "ערות בני שש יכסו · | לרצותך בשי כי בו חסו ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "ברוך אתה ה' שאותך לבדך ביראה נעבוד מודים אנחנו לך עד מימי קדם : | פרה",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 7,
+   "span": "ונאמן[?]"
+  },
+  {
+   "line": 12,
+   "span": "ב״י[?]"
+  },
+  {
+   "line": 16,
+   "span": "תדיק[?]"
+  },
+  {
+   "line": 27,
+   "span": "כמאז[?]"
+  }
+ ],
+ "sha256_text": "433e6c4812fee4086e1631eeb91e413a5d0034735187710af41e51d24990b0d1",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.095,
+   "wer": 0.294
+  }
+ },
+ "text_file": "../text/fol89b_spread92_right.txt"
+}

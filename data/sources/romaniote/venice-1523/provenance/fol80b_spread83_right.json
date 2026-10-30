@@ -1,0 +1,211 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 83,
+ "side": "right",
+ "folio": "80b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של צום אסתר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "תחנון",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "המן | נלחץ ומרדכי נושע ˙ | פעמיו ירחץ בדם רשע ˙ | המן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "מגוי מרעים ˙ | נולד עמלק ˙ | ומאוד פושעים ˙ | יצא דולק ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ושלל בן שועים ˙ | דמה לחלק ˙ | ואחרי נושעים ˙ | אביו דולק ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "כי מרשעים יצא רשע : | המן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "שקטו זרויים ˙ | היום ונחו ˙ | ופצחו שבוים ˙ | ברון ושמחו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "ואביונים ועניים ˙ | צוקות שכחו ˙ | וקראו באיים ˙ | יום שונאים נמחו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "גערת גוים ˙ | אבדת רשע ˙ | המן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "הרנינו לפני ˙ | צורי כתות כתות ˙ | ועוררו שנוני ˙ | לב בני אמהות ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "יום בו נתנו בני ˙ | המן לתלות ˙ | חוק אל ישונה ˙ | מאכול ושתה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "כי נחתם מפני ˙ | עקת רשע ˙ | פעמיו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "סליחה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "אגגי | אשר חשב לבצור כרם ולעוללו ˙ | בשטמת זקנו הפיל פור גורלו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "ימיני געה בבכיה והרים קולו ˙ | לידוה מלך ישראל וגואלו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "אגגי דמה כנחש לנושכני ˙ | הכין רשת לפעמי ללכדני ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "ימיני ולא הסיר תפלתו ממני ˙ | אל תבואני רגל גאוה ויד רשעים אל תנידני :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "אגגי חשב לשקול כספו להממני ˙ | כתב ספרים ושלח להחרימני ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "ימיני לחש ורחש בתפלתו לרוממני ˙ | ידוה חנני והקימני ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "אגגי מלאו לבו לאבד שה פזורה ˙ | נצח אפו ועברתו שמרה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "ימיני סמך בטחונו לאל עוטה אורה ˙ | טוב ידוה למעוז ביום צרה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "אגגי עת זמן במשתה סעודה ˙ | פיה פתחה חכמה יחידה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "ימיני צעק בעד שארית יהודה ˙ | ידוה אלהים אל נא נאבדה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "אגגי קבץ חכמיו לספר חיל המונו ˙ | רוב בניו וגודל קנינו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "ימיני שמח בראותו מכת דראונו ˙ | יבוש מקורו ויחרב מעינו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "תם וישר בחסד עולם תומך ˙ | שועת עמך האזן אל עוזר וסומך ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "חטאתו בל תמח ובל ימצא עזר להתמך ˙ | עונותיו ילכדונו את הרשע ובחבלי חטאתו יתמך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "יחיד אל נאזר בגבורה ˙ | תחנת חסדיו הקשיב משמי שפרה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "חנון זכר ופקד וקול ששון השמיע בשושן הבירה ˙ | ליהודים היתה אורה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "תחנון",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "53a11a5029a4754df4905f5fd3115c70fcc4307c5920a0ce9d6d67825e5d360a",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.067,
+   "wer": 0.181
+  }
+ },
+ "text_file": "../text/fol80b_spread83_right.txt"
+}

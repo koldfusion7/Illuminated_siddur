@@ -1,0 +1,213 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 103,
+ "side": "right",
+ "folio": "100b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של שבת הגדול",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "רננו וצהלו עדת אמוני ˙ | שירו להם שירי רנני ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "זה היום עשה ידוה ˙ | ומעשהו כלם בחכמה : | נעלה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "מתי ניסיך אראה ˙ | לנחם עמך הנכאה ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "בהר ידוה יראה ˙ | ימין ידוה רוממה : | נעלה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "ברכו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "שארית | תם הטוב זמר ליוצרך ˙ | ואל תגרע תהלתך ושירך ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "בלב נבר עמוד לפני מהולל ˙ | ואל תרום בסלסולך וזמרך ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "תפאר צור בקרב כל קדושים ˙ | ובלשון כל חסידים אל יבורך ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "יראוהו קדושיו כבדוהו ˙ | וברכו את ידוה המבורך :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "[RASHI-TYPE RUBRIC, 1 line — UNPROOFED; see s103_right_RASHI_UNPROOFED_rawOCR.txt]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "ידידי[?] | אל תנו זמר בניב רך ˙ | והודו לו אשר גדל וערך ˙",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ידידי[?]"
+   ]
+  },
+  {
+   "n": 13,
+   "text": "צבא שחק משול ליל ויומם ˙ | ברוב חסדו אשר הכין וערך ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "חדר חרס בעת פתחו יהי אור ˙ | והחשך אזי ימס וירך ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "קדושי אל לזאת שימו לבבכם ˙ | וברכו את ידוה המבורך :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "יוצר",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "ברכו | [RASHI-TYPE BLESSING, 3 lines — UNPROOFED; see s103_right_RASHI_UNPROOFED_rawOCR.txt]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "אלי | צורי וישועתי ˙ | יעטה כמעיל שועתי ˙ | תלבושת נקם פגיעתי :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "בקומי בעוז מגדול ˙ | צקוני לא אחדול ˙ | בזה שבת הגדול :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "גוים ראה ויתר ˙ | חזקני אל מסתתר ˙ | בהלכות אסור והתר : | קדוש",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "יורוני אבי הפעם ˙ | צוף דבש אמרי נועם ˙ | חזות קצובות בעם :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "דרשו ברותים רהיטים ˙ | קבעו בפסח לוהטים ˙ | אסור ללתות חטים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "הורו בקדושין בפרט ˙ | בפסח אסור ירט ˙ | ואפילו בחיטי אררט :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "ואך ביום הראשון ˙ | ראוי להשבית בלשון ˙ | חמץ משש מאישון :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "זה טעם נטע ˙ | יסוד אך ליטע ˙ | וחלופו מאחס בטע :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "חקרו הוראה בכלים ˙ | כל היצורים אסורים לאוכלים ˙ כל שבעה כלים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "טעונים גללים הדחים ˙ | ומאני דקוניא נדחים ˙ | לשמוש הם סרוחים",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "יורות וקערות ברתח ˙ | דופיים בולטים במתח ˙ | פתחו להם פתח :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "כלי",
+   "confidence": "low",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 12,
+   "span": "ידידי[?]"
+  }
+ ],
+ "sha256_text": "49c49cda7def3a2f68d31ee83cd2264c1339714af0df4c80df7f3cc12eec308d",
+ "proofed": false,
+ "status": "partial",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.054,
+   "wer": 0.196
+  }
+ },
+ "text_file": "../text/fol100b_spread103_right.txt",
+ "proofing_note": "Partly proofed page: Rashi-type notes or rubrics, or other explicitly marked lines, await expert proofreading. Supplied markers are retained unchanged. Separate unproofed note or rubric OCR is not included in the corrected page text or its line records; references to those supplied files are retained unchanged. Supplied CER/WER values for partly proofed sides are approximate; they are retained without recomputation. Low line confidence conservatively reflects the mixed proofing scope."
+}

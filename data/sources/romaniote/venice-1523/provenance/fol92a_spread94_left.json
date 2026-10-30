@@ -1,0 +1,242 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 94,
+ "side": "left",
+ "folio": "92a",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של פרשת פרה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "ברא | משרתים בשבעה מעלות יתרוצצו יום ויום במסילות ˙ צפון וימין סביב מזלות ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "זה לימים נמנים ˙ | וזה לחדשים ולשנים : | מחנות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "רוץ | הגלגלים בעזו הרב ˙ | אלה למזרח ואלה למערב ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "איש לדרכו פונים ˙ | נוסעים על פיו ועל פיו חונים : | מחנות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "מעון | אשר על אדמה נעלה ˙ | שמה המולה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "ושם סוד נפלא ˙ | סוד הלבנה לעין כל נגלה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "על מכונים שונים ˙ | להיות לאל עדים נאמנים : | מחנות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "זולת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "אמרות | ידוה אמרות טהורות ˙ אוגדות אגודות זוהרות ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "להבין דעת ולהורות ˙ כהות לבנות בהרות ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "בשלש עשרה מדות ˙ בכל קוץ ונקודות ˙ קנים ופתחי נדות ˙ גופי הלכות לחרות :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "גודל טעמי פרה ˙ גזירת חק אפרה ˙ איך מטמאה ומטהרה ˙ כתמי צחן הפרה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "רשונה דשון מכמר ˙ דמה להזות גמר ˙ כמה מופלא הגמר ˙ איך יתכן המאמר ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "המשכיל מאיתן אזרח ˙ הרבה עסק וטרח ˙ למצוא שביל ואורח ˙ נעלם מנו וברח ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "ואין להרהר אחריה ˙ ולא בדמי מחיריה ˙ אשרי עוסקיה ובוחריה ˙ מנקה כל משחריה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "זך ונקי גומא ˙ זהיר כל צמא ˙ נותן טהור מטמא ˙ אין לו דומה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "חק מוכח חרוק ˙ חרוק דמת לזרוק ˙ אחריו שן חרוק ˙ פן תנקש לפרוק :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "טעם אחר בנתים ˙ טעמו לני שפתים ˙ הורו בלי עצלתים ˙ פרה בת שנתים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "ישיש ראש המדברים ˙ ייחד עליה דברים ˙ חלקו עליו חברים ˙ בסברא הם סוברים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "בת גורן העגולה ˙ כן תורת העגלה ˙ ובת שלש רגילה ˙ אדומה לקוחה בגילה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "למדו חכמים ליסרה ˙ לשון מומים עשרה ˙ קפל עליה מוסרה ˙ פעולה היא ואסורה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "מתירין לפי דרכה ˙ מכשירין על ערכה ˙ כל שהיא לצרכה ˙ לא פסלה לערכה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "נתונה צרי ותרופה ˙ נקייה תמימה צרופה ˙ שבעת ימים לשריפה ˙ נפרש כהן לשרפה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "סר מבית הלשכה ˙ סמך הבירה משוכה ˙ ובית אבן נסוכה ˙ היתה נקראת ככה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "עליו היו מזים ˙ על טומאת הרזים ˙ כל שבעה זריזים ˙ כמינוי צוארי חרוזים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "פרות שבע נשחטו ˙ פרחי כהונה שחטו ראשונה ˙ בזה פרטו ˙ ומעזרא השאר נתמעטו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "צדיק וסגן כהונה ˙ צרפו שתים כהנה ˙ ובן חקיף [?] מהנה ˙ מצרי וישמעאל הנה :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 29,
+   "text": "קבר התהום חלול ˙ קבוע על התלול ˙ כוסות ממלאות מסלול ˙ משלשל ממקום חלול ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "ריבות שם יולדות ˙ רעות מגדלות ולדות ˙ כן דרך הלידות [?] ˙ שם כולם מולידות :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 31,
+   "text": "שומר פתאים ידוה ˙ שמור נדחי המוני ˙ דלותי כל עניני ˙ אישי זבחי וקרבני ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "תמו כהנים ולוים ˙ תורמים בלשכת נקיים ˙ בעבודת קדש בקיאים ˙ לכן אמאס בחיים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "יב ד",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 28,
+   "span": "[?]"
+  },
+  {
+   "line": 30,
+   "span": "[?]"
+  }
+ ],
+ "sha256_text": "cbbe18ad398062954db33567df75386e231b564476e492a86ea4e0bcf7887a8e",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.1,
+   "wer": 0.214
+  }
+ },
+ "text_file": "../text/fol92a_spread94_left.txt"
+}

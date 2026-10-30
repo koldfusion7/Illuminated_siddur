@@ -1,0 +1,260 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 104,
+ "side": "left",
+ "folio": "102a",
+ "printed_folio_number": "קב",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של שבת הגדול | קב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "ואוצרות יין ושמן במסתפק אסורות · | ואם בדקם מותרות :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "ניגון אחר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "נוה | דגים קטנים · | לבדיקה הם מזומנים ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ובתי תמרים ועצים אפונים · | צריכים בדיקה והם בחונים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "נוכח בית מלח וקירי גלוים · | לבדיקה והם ראוים ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "וחצר פלטורין ממנה קנוים · | שהעוברים [?] שם מצוים :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 8,
+   "text": "סוף ארבע שעות למשש · | ואחר כך לבער ולא לרשש ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "אוכלין כל ארבע ותולין כל חמש · | ושורפין בתחלת שש :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "שם יהודי חמץ אצל חברו · | עד ארבע שעות צריך לאחרו ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "בשש שורפו ובחמש מוכרו · | שהכל מצויין עליו לבערו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "ערל שהפקיד חמצו לישראל בביתו · | וקבל עליו שמורו ואחריותו ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "ונגנב או אבד חייב על פריעתו · | בהגעת שש חייב בהבערתו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "עמד וייחד לו מקומו · | והוציאו מרשות עצמו ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "בביאור תורה פרסמו · | ואין עליו אשמו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "פורש לים ויוצא בשיירא · | בתוך שלשים יום זקוק לבערה ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "וקודם שלשים יום נמו חכמי יקרה · | אין זקוק לפנות בית דירה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "פצו לחישוך ריפתא יהא ניעור · | חוזר ובודק מקום ביעור ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "ואומר כל חמירא בשיעור · | תמו הלכות ביעור :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "ציווי לישת עיסה מגולה · | במים שלנו בלילה ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "ובחמין ובחמי חמין פסולה · | ובמים גרופין נמו לא :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "צריכות שלש נשים להכניפה · | עסיקות בבצק בעין יפה ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "אחת לשה ואחת מקטפה · | ואחת אופה [?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 24,
+   "text": "קטון וחרש ושוטה וגר לארבעתן · | בשאור פירשו [?] לישתן ·",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 25,
+   "text": "ועבד ונכרי שלא כדת טבילתן · | בראשונות אסורות עיסתן :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "קיחת כלים איש במושבו · | ללישת עיסה פקוד לחטבו ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "אחת שמקטפת בו · | ואחת שמצננת בו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "רחיצת כלים יהו נחוצים · | לחבשירן [?] בשל עצים ·",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 29,
+   "text": "כששפכן במקום מדרון היות נפוצים · | מפני שהן מחמיצין ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "רוע מכת טרייתו · | לא ילעוס חטין לאספלניתו ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "ולא על גבי מכתו · | מפני שהיא מחמצתו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "שמש שאכל כזית מצה · | כשהוא מיסב ידי חובתו יצא ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "ושמן ויין ודבש מתחמצה · | בראשונות אסורות אבל בשאר נרצה [?] :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 7,
+   "span": "[?]"
+  },
+  {
+   "line": 23,
+   "span": "[?]"
+  },
+  {
+   "line": 24,
+   "span": "[?]"
+  },
+  {
+   "line": 28,
+   "span": "[?]"
+  },
+  {
+   "line": 33,
+   "span": "[?]"
+  }
+ ],
+ "sha256_text": "873565cd83e7338ea784d0ac486fd6078f6a42e4c0b9c6308a684a4415595dad",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.231,
+   "wer": 0.398
+  }
+ },
+ "text_file": "../text/fol102a_spread104_left.txt"
+}

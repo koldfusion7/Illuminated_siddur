@@ -1,0 +1,237 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 103,
+ "side": "left",
+ "folio": "101a",
+ "printed_folio_number": "קא",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות לשבת הגדול | קא",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "כלי חרש אבאור ˙ | הואסרו במי יאור ˙ | קשים כבית שאור ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "לכל כלי המשני ˙ | הכשר לו לשמשני ˙ | שתשמישו בכלי שני :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "מלבנים באור סכינים ˙ | קתא ברותחים מכינים ˙ | הרי אלו נכונים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "נהגו למצה שמור ˙ | טבול לעבדים כאמור ˙ | קטוף וצנון חמור :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "סמוכות שלש צריכות ˙ | נוהגת ומקטפת כריכות ˙ | ואחת אופה חריכות :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "עקר עסה הנאפה ˙ | חלתה בעין יפה ˙ | מהעומר עשירית האיפה :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "פירשו שיעור לסעוד ˙ | זיון המדה מלמעוד ˙ | ארבעים ושלש ועוד :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "צנועי בני צמח ˙ | כנסו חלה בשמח ˙ | מחמשת רבעים קמח :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "קבעו באכילת מצה ˙ | חלף יציאה נחוצה ˙ | יצאו צבאי במרוצה :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "ראש מלול ברור ˙ | מרורים על המרור ˙ | פניהם קבצו פארור :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "שינוי עניין חרוסת ˙ | זכר לטיט ותכוסת ˙ | העביר כתם ותכבוסת :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "תוקף אכילת פסחים ˙ | על פסיחת הפסחים ˙ | פסח צור פסוחים ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "לקיחתו בין הערבים ˙ | ראשו על כרעים ˙ | קב ולא קביים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "מנוי באש צלייתו ˙ | עד חצות אכילתו ˙ | נאכל למנוייו כהלכתו :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "יצר הרים בכחו ˙ | חזקים צוה לנוחו ˙ | קדש שביעי לנכחו : | קדוש",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "[RASHI-TYPE RUBRIC, 1 line — UNPROOFED; see s103_left_RASHI_UNPROOFED_rawOCR.txt]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "אדיר | דר מתוחים ˙ | בחסד כל מלחים ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "אזן אנקת אנוחים ˙ | והוציאם מבין החוחים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "אז ברוב חמלתו ˙ | רד ממעון דירתו ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "ופדה מפרך אומתו ˙ | וכנס חבל נחלתו :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "בט בשבעים עממים ˙ | ונמצאו לפניו עמומים ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "והגדיל במלאכי מרומים ˙ | ונפל חבלו בנעימים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "בשורו גוזר ומקים ˙ | שמח בעם חשוקים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "ביום נטיית דוק וארקים ˙ | תת למו דתות וחוקים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "גשתו בתוך ענוגה ורכה ˙ | אסור והתר לערוכה ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "לכל תכשילוני להמרכה ˙ | היום בדבר הלכה :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "דת טהרת מכוללה ˙ | דרשו והורו גורן עגולה ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "והגו בסדור הגעלת ˙ | להכנים יורה קטנה בתוך יורה גדולה[?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "גדולה[?]"
+   ]
+  },
+  {
+   "n": 30,
+   "text": "דוד גדולה חשופה ˙ | עושין לה כמין שפה ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "וברתוח נמצאת חפופה ˙ | מימי רותחין גופה :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "הכנת קערות ומליהן ˙ | בכלי שני שמושיהן ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "בשופכן מסיר בהן ˙ | כן זורקין רותחין עליהן ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 29,
+   "span": "גדולה[?]"
+  }
+ ],
+ "sha256_text": "5e55f4f93bbe09736172dc1e22959b4a0ea632b7415d17b11618e2b2fc412239",
+ "proofed": false,
+ "status": "partial",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.192,
+   "wer": 0.363
+  }
+ },
+ "text_file": "../text/fol101a_spread103_left.txt",
+ "proofing_note": "Partly proofed page: Rashi-type notes or rubrics, or other explicitly marked lines, await expert proofreading. Supplied markers are retained unchanged. Separate unproofed note or rubric OCR is not included in the corrected page text or its line records; references to those supplied files are retained unchanged. Supplied CER/WER values for partly proofed sides are approximate; they are retained without recomputation. Low line confidence conservatively reflects the mixed proofing scope."
+}

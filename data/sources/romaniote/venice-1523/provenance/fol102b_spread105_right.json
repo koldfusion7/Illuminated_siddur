@@ -1,0 +1,230 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 105,
+ "side": "right",
+ "folio": "102b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של שבת הגדול",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "שר מצה דמויה לחררה · | שלא בושלה כשורה ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "ונעשת חוטין בלהבה כשהכסיפה מרורה · | וחייבין עליה והיא אסורה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "תמו הלכות נשים במצות פסח לבררה · | כאנשים פקודים לשמרה ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "לבעורי חמירא ולמיכל פטירא · | ולמשתי ארבע כסי דחמרא :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "תת מצה ומרור וחרוסת בסעודה · | לפני כל אחד ואחד בנאידה ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "ואין עוקרין השלחן להעמידה · | אלא לפני מי שאומר הגדה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "אופן",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "לחייך | בתורים · צוארך בחרוזים · | לחייך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "לאום חומה אשר דומה · כרחל לפני גוזים ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "בבא עתך ותפארתך · | דדי אל גנת אגוזים ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "ויכלמו ויאלמו · | משנאיך בך חוזים : | לחייך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "וערכי רון · בקול גרון למבטך ולמצפך · צמידיך בידיך · והוד נזמך עלי אפך ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "ביום אוה · בעת צוה · ביבשה להשפך · ומי היאור · כשח נאור · לדם יחד להתהפך ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "לבל יושבת · מהיות בית · יעקב מעם לועזים : | לחייך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "יצו ישעך · ביד רועך · כמו צוה ביד משה · לירע צפרדע · בכנים וערוב קשה ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "זרוב דבר · בכל עבר · שחין מלהיב כמו אשה · ועת לשקול כברד קול ידוה שובר ארזים : | לחייך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "ביום ארבה · להחבא · יבואון במחליהם · המון צרים · מסוגרים · בבית חשך בחייהם ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "דמות כל בכור · כאז לעקור · | בקול זעקת כולהם ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "ביום שמעך · בעת נוסעך · | כל חפצם ועדייהם ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "קחו משכו · ואל תלכו · אנשים רקים · ופוחזים : | לחייך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "אופן אחר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "שוקיו | עמודי שש · בתכלת וארגמן ותולעת ושש · יחורו במקום רצוף בהט ושש ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "מראהו כלבנון · בין עטויי בכנפי אש · קדוש יושב על כסא שביבי אש ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "וכלו מחמדים · לחוכי מועד מועדים · מחננים לביאת חמוץ בגדים ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "אל גנת אגוזים · מקום כרובים ועמודים · יעמיד עטויי פעמונים כשרפים עומדים ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "חכו ממתקים · שפתותיו שושנים · זוקקות פקודים נאמנים ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "קולו נקשיב · ביות היות נכונים · ברוך לענות לו במורא · כחיות ואופנים : | לאל ברוך [?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 29,
+   "text": "אהבה לראבע",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "לפליטת | בן בכור · אהבת כלולה זכור : | לפליטת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "אבי התטוש בני · איתן ולא תענה · בנך והוא נענה · שור כי זה הבכור :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "בכורי",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 28,
+   "span": "[?]"
+  }
+ ],
+ "sha256_text": "fdcb79105bf8220cc33f3263b971d753e20a6a80851569156f142f289ca25ff1",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.063,
+   "wer": 0.161
+  }
+ },
+ "text_file": "../text/fol102b_spread105_right.txt"
+}

@@ -1,0 +1,223 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 98,
+ "side": "left",
+ "folio": "96a",
+ "printed_folio_number": "צו",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות לערך פרה | צו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "מחנות דגלי ˙ שוכן זבולי בנה אריאל ˙ | ישכנו בית אל ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "ושלש רגלי ˙ לאדון ישראל ˙ | יעלו המוני ˙ בתודה ושירה ˙ | יענך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "החדש הזה ˙ יצאו חופשים ˙ | ונאמן כי זה ˙ שח לפרושים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "צור לכם יזה ˙ מים קדושים ˙ | ועבדות בניו ˙ יתן לעזרה : | יענך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "ויש אומרים לקראת מקור חיים והוא כתוב בקדישים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "יוצר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "ברכו | את ה' המבורך : | ברוך אתה ה' אלהינו מלך העולם יוצר אור ובורא חשך עושה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "שלום ובורא את הכל אור עולם אוצר חיים אורות מאפל אמר ויהי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "אחלה | פני בורא ניב ולשון ˙ | בעד חמוקי ירכי נחשון ˙ | בערך החדש באחד בראשון :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "בראשון למנין מלכים ורגלים ˙ | לחדשי השנה וחשבון רגלים ˙ | וקרבן צבור כבשים ועגלים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "גאולי בו חופש מצאו ˙ | מעבדות לחירות אז נמצאו ˙ | כל צבאות ידוה יצאו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "יצאו צבאי חמושים ˙ | קבוץ אחד מחמשים ˙ | בשלשה חלפו משים : | קדוש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "דלוג מצוי זמן עולה ˙ | למנין יובלות ארבעה עולה ˙ | ואות עשירית לשם מעולה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "הרגיש בשר דם מתבוססת ˙ | הצריה תחבושת ותכבוסת ˙ | הכה בחורי און ופי בשת :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "ובארבע וחמש חלקו בנתים ˙ | כלם נכחים ישקו שפתים ˙ | עלו למנין חשבון מאתים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "זרו ולקו כאשר מרו ˙ | תחלת דם בדם העמידו ˙ | משמרת טהרת נקיים התמידו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "חלף נאצו תמים דעים ˙ | הלאות בשקצים דור דרעים ˙ | שרץ בכל גבולם צפרדעים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "טענו עליהם כובד להשית ˙ | נלאו ולא יכלו להתעשית ˙ | זאת היא מכה שלישית :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "יען צערום כרובים ואריות ˙ | לצוד למו חיות הריות ˙ | פרץ להם פריץ חיות :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "כבשום לרעות בהמתם בציה ˙ | נענשו בדבר נהי נהיה ˙ | הנה יד ידוה הויה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "למען בלנות חם וצונן ˙ | מאנו מורדים להתחמם ולהצטנן ˙ | יחד מכשף קוסם ומעונן :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "מנוס נוטעי פרדס וגנות ˙ | ועברום וענו אותם לענות ˙ | הכה ברד כל האילנות :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "נשף בעבור הסתר קוברים ˙ | פן יאמרו נגף בעברים ˙ | כלפי למעלה ישיחו דברים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "סקוי סקאים הדאים למעלה ˙ | עקב זריעה ומי תעלה ˙ | וזה בידם לא עלה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "עוילים ראשית פטרי גאונם ˙ | הכה צור ברעש שאונם ˙ | זאת להם תחת גאונם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "פסח צור פסוחים בדם משקוף ˙ | כסרוחים נגף באף ותקוף ˙ | סבבי היער נקף קוף :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "צפע ושפע ישנים במטה ˙ | לזה פסיחה ולזה חמיטה ˙ | לזה תשחורת ולזה שמטה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "קרוש בזרוע עולם סובל ˙ | השגיח מהסתכן בעם חבל ˙ | הואיל ונתנה רשות לחבל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "רד בעצמו עם סיעותיו ˙ | שמר בנו בין פסיעותיו ˙ | לערוץ עריצים לעדר נטיעותיו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "תהלותיו נצח ידבר פי ˙ | עד בא חליפת חורפי ˙ | ואשיבה עוד דבר לחורפי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "יצחק וישראל עברו ˙ | יודו לידוה חסדו ˙ | ונשגב שמו לבדו ˙ | קדוש",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "5cf1acd76a591fe78adc074c6fb5701039a2e158e4c052ac001b8cb26930970f",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.086,
+   "wer": 0.274
+  }
+ },
+ "text_file": "../text/fol96a_spread98_left.txt"
+}

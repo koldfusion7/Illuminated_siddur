@@ -1,0 +1,248 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 110,
+ "side": "left",
+ "folio": "108a",
+ "printed_folio_number": "קח (verified, = 108, correct)",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות לשבת הגדול | קח",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "לגוזר ים סוף לגזרים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "לגזרים | בנקרע ונעשה נתיבה ˙ | נגלה עליו בעצמו חוצב להבה ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "ובא אזרחי ועמד פני המרכבה ˙ | ונעקד ואיש תם מימין להתיצבה ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "וארבע אמהות משמאל לקרבה ˙ | ואחר הכסא שנים עשר שבטי תאות ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "ואלמלא תורה קריאה וכתיבה ˙ | אי אפשר פה לשוחחה ולנובבה ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "נגד אבותם עשה פלא בקרץ בא בה ˙ | וקול ממרום למי הים צוה ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "הזהרו והשמרו בצמחי רבבה ˙ | לבל תזיקום בטפה דקה ועבה ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "ועבדו וגזו בתוך הים בחרבה ˙ | גם בחור גם בתולה יונק עם איש שיבה ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "ורודפיהם ננערו והשכבו למעצבה ˙ | ושבחו ורננו באהבה וחבה ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "לנערץ בסוד קדושים רבה :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "רבה | תפארת הרבו לנצב בעדתו ˙ | אשר גאל ופדה מפרך איומתו ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "ושפך על רודיה אפו וחמתו ˙ | וכמו כן עתיד לחשוף זרוע תפארתו ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "ולכנס מארבע צאן מרעיתו ˙ | ולבנות היכל קדש על רום מכונתו ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "ויקיץ ויעורר ישיני אדמתו ˙ | ויוריד חנוך בן ירד ממעון דירתו ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "ויעלה מתוך שאול קרח וכל עדתו ˙ | ויעידו יחד יחוד אלהותו ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "ואז ירומם קרן עמו ונחלתו ˙ | ויקבלו כל באי עולם עול מלכותו ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "ונחזהו עין בעין בהגלותו ˙ | ונאמר הנה אלהינו והנה גבורתו ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "נגילה ונשמחה בישועתו ˙ | אנו וכל ישראל ואמרו אמן :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "[UNPROOFED below: Rashi-type rubric + closing blessing, raw OCR]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "וחומר בקבת קחלות חמר רבי חלעזר כו וכדי לומר קדים על חגדה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "אוד | סדר ביעור חמי",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "לחרבעם עסר דקינו ליל סמחרתו יד בודקין חת החמץ לחור הנר בסעה סבני חדם מכויין",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "בבתיקם וחור הנר יפה לבדיקה ובדיך כל חדם ליזקר סלח להתחיל סוס מלחכה בלילה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "ויםפיבדוק וסלח להתחיל בסעודה גס כן סקרי חפינו בדבר הלכהם חמרו חכחים בר בירב לח לפתח",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "לק בחורחח דתליסר נג הי חרב יסר דילמח מסכה ליה סמעתתח וחתי לחמכועי ממנוה בסעתה וחין",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "ולח' לחור הלבנה ולח לחור החבוקה וגכ' ים להזקר סלח לבדוק בכר סל סמן וחלב סמפני סחוסם",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "ועל בגדיו חינו בודק יפה : וחם לח בדק בלילה בודק ביום מתחלת סעת העד תחלת וכדי [שלח']",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "סור תורק דבון הוו טועה החדם וקבודק ביום נס כן לח יבדוק לחור החמם חלח בחור הנר כדי",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "אכו בחורק ובסרקין חבל חכסררח סחורו רב בודק לחור החמה וחם לח' בדק בלילה בורק ביום [ד'] | ביום [/]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "בודק בתוך המועד לח' בדק בתוך המועד יברוק לחחר המועד מסוס חרוץ סל יסרחל",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "הפסח סחסו בהנחה וים מדקרקין סלח להסיח עד גמר הבדיקה ויח' עד סימבח חמץ גס ים",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "וסנח לברך עד סימבח חמץן חו סירע בודחי סיחבח חמץ לבער וקודם סיבדוק מברך :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "כ | אתה ירוה אלהינו מלך העולם אשר",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "קדשנו במצותיו וצונו על ביעור חמץ [:",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 36,
+   "text": "",
+   "confidence": "low",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "4b3417c0b379feec667163a101ddd39d792679b78b0eb7baf800df1e157645f3",
+ "proofed": false,
+ "status": "partial",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.055,
+   "wer": 0.197
+  }
+ },
+ "text_file": "../text/fol108a_spread110_left.txt",
+ "proofing_note": "Partly proofed page: Rashi-type notes or rubrics, or other explicitly marked lines, await expert proofreading. Supplied markers are retained unchanged. Supplied CER/WER values for partly proofed sides are approximate; they are retained without recomputation. Low line confidence conservatively reflects the mixed proofing scope."
+}

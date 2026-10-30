@@ -1,0 +1,247 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 84,
+ "side": "right",
+ "folio": "81b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של פורים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "חיים בחסדך גמלנו וזכרנו ופקדנו ממעונך · להגי בל תבוז ושועתי תבא באוזניך ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "בנעימים תפיל חבלי קרא מות וחיים נתתי לפניך · הברכה והקללה ובחרת בחיים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "חיים בחרתם לכם ארפא משובותיכם ואם גדלה הלומי · ראיתי את עני עמי שמעתי צעקת ראו[?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ראו[?]"
+   ]
+  },
+  {
+   "n": 5,
+   "text": "בעבדי במשה יראתם וקרבתי חפצתם ולכן אקרא מי · האיש החפץ חיים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "חיים חויתני מירדי בור לי וליונת אלם רחוקים · זך וישר אדיר ונאור דולה עמוקים ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "קורא הדורות מראש קרא ואתם הדבקים · בידוה אלהיכם חיים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "חטאנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "ידוה | מה רבו צרי · | בקום עלי רבים להמעיט מספרי ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "גם בארצי ובארצות פזורי · | רבת צררוני מנעורי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "מנעורי דלקוני אויבי וצרי · | השחיתו שרי והפילו גבורי ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "ואני בעוני ובעון חבירי · | כמעט נטיו רגלי כאין שפכה אשורי : | חטאנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "זנחתי דת מפנינים יקרה · | חללתי מצות ונשרף מקום מה נורא ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "טולטלתי על זאת ובשושן הבירה · | על כן זחלתי ואירא :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "ואירא יד בשלחי לסעודה האסורה · | כשל כחי ונגזרה עלי גזירה ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "לולי קרע מרדכי בגדיו ולבש שק ואפר בצרה · ויצא בתוך העיר ויזעק זעקה גדולה ומרה [?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 17,
+   "text": "משלו בנו עבדים · | נמכרנו ביד זרים והושבנו ללודים ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "סיני כי לא זכרנו חקים הנחמדים · וכל העם רואים את הקולות ואת הלפידים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "לפידים עבור נעשה ונשמע זכות לנו מלמדים · פרס ומדי עת עלינו היו רודים ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "צר בכתב ספרים לכל פנות וצדדים · להשמיד להרוג ולאבד את כל היהודים : | חטאנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "קם | אגגי לה כרית מאל דבקתם · | רכל למלך להשחיתם ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "שר אל בתעניתם ובמצות עסיקתם · | וישמע אלהים את נאקתם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "נאקתם האזין בהביטו וידויים ותחנתם · | רם זכור למו ברית אבותם ·",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "כאשר קימו על נפשם ועל עצמותם · | דברי הצומות וצעקתם : | חטאנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "וכשחטאו אבותינו מה נדבר ומה נצטדק כו' ככתוב בעשרה בטבת ואומר קדיש עד דאמירן ומוציאין",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "הספר וקורין בויחל כהן קורא עד לעשות לעמו · לוי מפסול[?] לך עד ההר ההוא · ישראל מויפסול[?] עד אשר אני",
+   "confidence": "low",
+   "uncertain_spans": [
+    "מפסול[?]",
+    "מויפסול[?]"
+   ]
+  },
+  {
+   "n": 27,
+   "text": "עושה עמך והוא כתוב בעשרה לטבת · במנחה מתפללים כסדר כל יום ואין אומר וידוי כשאר תעניות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "אלא עננו כדין עשרה בטבת :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "סדר פורים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "שגיון | לדוד אשר שר לידוה על דברי כוש בן ימיני : ידוה אלהי בך חסיתי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "הושיעני מכל רודפי והצילני : פן יטרף כאריה נפשי פורק ואין מציל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "ידוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 4,
+   "span": "ראו[?]"
+  },
+  {
+   "line": 16,
+   "span": "[?]"
+  },
+  {
+   "line": 26,
+   "span": "מפסול[?]"
+  },
+  {
+   "line": 26,
+   "span": "מויפסול[?]"
+  }
+ ],
+ "sha256_text": "19e034152054d0a47e1665994950c885bdb059689eed4baeebdaf57d1dccc882",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.095,
+   "wer": 0.25
+  }
+ },
+ "text_file": "../text/fol81b_spread84_right.txt"
+}

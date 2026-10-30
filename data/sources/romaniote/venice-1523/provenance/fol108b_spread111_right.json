@@ -1,0 +1,260 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 111,
+ "side": "right",
+ "folio": "108b",
+ "printed_folio_number": null,
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של פסח",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "ומה סימכח סורפו ומטייר סיעור ב' סעודות ומכיחו בבניעה סלח' יטלוהו עסברים ויבטרך לחזור ולבדוק [/",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "ולחחד קבדיקם חומר זה חף על פי סחיכו בגמ' קבלה הוח' ביד הג חוכים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "כל חמירא דאיכא ברשותי דלא חזיתיה ודלא ביערתיה לבטיל ולהוי כעפרא דארעא :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "וחע'פ סבדק ובטל בלילם חוזר ומבטל ביום בסעה חמסית מפכי חמץ סנסחר סהיה עדין דעתו עליו וחוחר",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "כל חמירא דאיבא ברשותי דחזיתיה ודלא חזיתיה דביערתיה ודלא ביערתיה לבטיל ולה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "בעפרא דארעא [/]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "וזה חומר חסינו בסוקוכן חם ים לו חמן במקום סחינו יכול לבערו כגון בעיר החרת וכיובח בו וחסילו כם",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "קספק מב טלו ודיו : | וחם חל הפסח ביום רחסון בודקין ליל ססית לחוד הכר וחה סנסחו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "מככיעו לחכלו מקדימי בסבת זה סחל ביד' להתפלל וחין חומרי בו פיוטין כדי סלח לעבור סעה ['] | אלת",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "החמץ וכתב הטור סטוב לבער עו' החמץ קודם ו' סעות סל יום ו' סקוח' יום יג' ולקביח סיעו' ב' סעורותם",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "סלח' יבוח' לטעות בסכה חחרת חם יבעד עתה חחד חבות ולענין סעודם ג דק קיק כוקג לעסות [/] | אכם",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "עסירה ויס סעוסים בפירות וכסחל' הרחם חם יוכל לומר לנוי בסבת לקובי מפות החמץ וקכלי חון :ו | הביר",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "וקסיב לח ידעתי למק בריך חלח' יקנח קכלים ויככיעם ומבטל מק סים בביתו מקחמץ חפילו בסבת | חר",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "סעור וכוסס עליו כלי ורוחץ ידיו מחכילת החמץ בכל זום יר ולפידעת רבי יחיחל יכול לסרפו בינו סל",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "זו מכוס היח וקבערם לכורך היח' ומן הרחוי סכופס עליו כלי וכן המובח חמץ ברסותו ביטו כופה עליום",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "וב חול המועד ובערנו :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "סדר הגעלה | פסק הרחם ורז הפוסקי סהכלים סמגעיל בריך סיסקום מעת לעת סיהיו בוחול | בן",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "טעס לפגס חם קוח' בזמן חסורו חבל חם קודם סעח ה'אנעיל חפי סלי [/",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "יומו וכריך קכלים סמגעיל סינקם חותם חקוד מכל סיג וחס ים בקם גומות חו נקבים לנקר ולפת | חותם",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "קיטב וחחכ לוקח יורה גדולה מים ומרתיחה ומכנים בה כל הכלים סרוב סהם סל מתכת סכסתחטב",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "בכלי רחסון וקסכיכי חחר סיסחיזם ויתקן גומותיהם ולח יסקם הרבח חלח מטבילן ומוביחן וכהגולט",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "עליהם כסיוכיחם מים קרים לקוביח מעליהם המים הרחסוכים וכתב רסבס ורפי וריבח' סכל | הגשי",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "מקודם היורה הגדולה ברות חי וחם יס לה ספה סחי' המי עולים עליה עוסם כמק זר סביב בטיט | וחזלחם",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "מים עד סיעלו על ספתה וכבר נהנו ללבן חבנים בחם ומסליכין בתוכה כסקמים רותחים [והח] | מולין",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "וכספכי על כל כדדים וחחר כך סוסך המים ההם וסוטפה במים בכונן וחוז ומסים בקמים להגם | םו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "החחרים ורחוי לחום סלח ינוחו המים ארתיחתן כסמגעיל הכלי דיולמח הריחן ובלען מהמים ההם | וח כך",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "חוזר ומגעינה פעס חחרת וקרחם כתב סדין היורה נדולה כסחר כלים סחס היח בת יומה וקו | אוסול | אהל",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "חינה בת יומה ולחחר חיסורה חין בריך לקגעילה מקודם חבל חס ים בה חחת מחלה בריכה [הגו] | והכל",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "המים כחסרי סחן ס' כאותו וקכלים הנכנסים בה בולעי אקחסור לכן טוב להגעיל קוד זמן קחםו | יסין",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "סל נחסת סמחופין בדיל ירחה לי סבריכין הגעלה חותם סמסתמסין בהם על ידי החור חו סתם | הגם",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "בכלי רחסון ינעילוס בכלי רחסון וכמו המחבת וקדרו סל כחסת סמסת מסין בקם עי' קחור כל",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "סלימם בלי ספק ˙ וחלה הם הכסר הכלים למיניהם הספודים והחסכלחות וכיונח בקם ברים: | אר",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "סיהו ניכוכות כתזין וכלים סנסתמם בהם בכלי רחסון כגון קדירות סל נחסת וכפו' סמגיסי בחז",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "וכסוי סקדרם כל חלה ברוכין הגעלה ברותחין וקערות סמערי בהן חכלי רחסון בריסק הגי",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 36,
+   "text": "סמערה עליהן וכלי חרם חינן יובחק מדידפים ˙ כלי חבנים מתירן בהגעלה וים מכסירין בסטוכה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 37,
+   "text": "סלים סמולחין בקם קבסר לדעת חבי העזרי כריכין הגעלה ˙ כלי גדול מסיס חכיו ביורה והוה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 38,
+   "text": "החחר חחד כך ולח חיוסינן דולמח בלע חביו מחביו /] | די/",
+   "confidence": "low",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "092499bf6a3eb719c288d970fd0374ab4b437b949319f211b27ae88e0bf0cac6",
+ "proofed": false,
+ "status": "unproofed",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": null,
+   "wer": null
+  }
+ },
+ "text_file": "../text/fol108b_spread111_right.txt",
+ "proofing_note": "The supplied metadata marks this entire Rashi-type side UNPROOFED. It awaits expert proofreading despite the absence of an in-text UNPROOFED label."
+}

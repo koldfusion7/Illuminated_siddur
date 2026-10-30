@@ -1,0 +1,242 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 107,
+ "side": "left",
+ "folio": "105a",
+ "printed_folio_number": "קח (misprint for קה, kept as printed)",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות לשבת הגדול קח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "פירש ידו וחנן לאל העושה נפלאות ˙ והמית את המצרי העושה תלאות ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "בשם ידוה צבאות ˙ אלהי מערכות ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "צוה פרעה להרוג את ציץ פארו ˙ כי מסרוהו אנשי בליעל מבני דורו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ויברח ויסר אל עיר נכרי ˙ אשר לא מבני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "קדמוני בפרך והכבידו עולי מצריים ˙ לא חמלו על זקן ויונקי שדיים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "ויעבידו מצרים ˙ את בני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "ראש ולענה השקו עדת המוני ˙ ואצעק במר לב לדר מעוני ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "וישמע אדני ˙ בקול ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "שומרי פקד משמי מרומו ˙ להסיר מעלי חרון אפו וזעמו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "וידוה מחסה לעמו ˙ ומעוז לבני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "תמים דעות העלה למכתי רפואה ˙ חמל על שה רזה צולעה ונכאה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "כי ראה ˙ את לחץ ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "אלהים גלה למשה במחזה ˙ נם לו קום אבי כל חוזה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "ולך בכחך זה : והושעת את ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "נאקתם מפני נוגשיו הקשבתי ˙ צרתם לי צר ועניים ראיתי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "וגם אני שמעתי ˙ את נאקת בני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "ידוע תדע בסוד ובקרץ ˙ משפטי ארבה במצרים במרץ ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "וידעו כל הארץ ˙ כי יש אלהים בישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "ברית כרתי עם אבותם לאמר ˙ להושיעם מצריהם וזרעם אשמור ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "לכן אמור ˙ לבני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "נאמן ציר השיבו רחפו מחשבותי ומאוויי ˙ אני כבד פה ולשוני כבדה בלחיי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "מי אנכי ומי חיי ˙ משפחת אבי בישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "ישלח ידוה ביד איש אשר העדות עדות ˙ לקרוא דרור לעמך ויגאלם מעבדות ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "והרבה עמו פדות ˙ והוא יפדה את ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "ממרום ידוה השיבו אל תוסף דבר ˙ אחיך אהרן יהיה לך לפה ולחבר ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "ויצא ודבר ˙ אל ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "נם ליוצרו מה אשיב לעם נבוני ˙ מי שלחך אם יאמרו המוני ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "בי אדני ˙ במה אושיע את ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "לך אמור להם אני אלהי אבותם ˙ אהיה אשר אהיה שמי לדורותם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "אני ידוה אלהיהם אתם ˙ והמה עמי ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "ואת המטה הזה תקח ותבר[?] ˙ ועמו אותות ומופתים תגבר ˙",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ותבר[?]"
+   ]
+  },
+  {
+   "n": 33,
+   "text": "ולך דבר ˙ אל בני ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "יד א",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 32,
+   "span": "ותבר[?]"
+  }
+ ],
+ "sha256_text": "97d1c3349750829e57985f8f743612d8f2e710ad78a267ac3a13a581872d84e1",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.148,
+   "wer": 0.346
+  }
+ },
+ "text_file": "../text/fol105a_spread107_left.txt"
+}

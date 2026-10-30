@@ -1,0 +1,242 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 95,
+ "side": "left",
+ "folio": "93a",
+ "printed_folio_number": "צג [?]",
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 4. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and #R retained as supplied"
+ },
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של פרשת פרה | צג [?]",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 2,
+   "text": "ובמקוה טובלים ובהערב שמש יטהרו בריצה ˙ | להלוך אל משפט :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "דם סורה איך מטהר טמאים ומטמא טהורים ˙ | לא האפר מטהר רק משפיל ומרים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "הראה כח מעשיו לעמו ופקודיו ישרים ˙ | מעשה ידיו אמת ומשפט :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "נכח אהל מועד באצבעו הימנית ˙ | יזה שבע פעמים וכן פעם שנית ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "לבית קדש הקדשים בזה התבנית ˙ | כי שמה ישבו כסאות למשפט :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "קבלת הדם בשמאלו וימינו שולח ˙ | בגוף פרה עד שבע כריח ניחוח ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "שומר בל יתעסק במלאכה ודעתו להסיח ˙ | להכין אותה ולסעדה במשפט :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "יקר חוקה היותה אחת לשריפה ˙ | זאת בת שלש ובת שתים עגלה ערופה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "והיתה למשמרת למי נדה לתרופה ˙ | וישימיה לחוק ומשפט :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "להר המשחה לנגד הר הזתים ˙ | יוציאנה לשריפה בבגדים משרתים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "על המערכה לטהר טמאת מתים ˙ | כי את כל מעשה יביא במשפט :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "טרם שריפתה מפרישין הכהן מביתו ˙ | שבעה ימים על פני הבירה ללשכתו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "ומזין עליו כל שבעה מכל החטאות לטהרתו ˙ | בדרך נתיבות משפט :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "יתחטא הטמא בשלישי ובשביעי לטהרתו ˙ | באפר הפרה עם מי זריקתו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "ועל האהל ועל הכלים כי כן גזרה חכמתו ˙ | ויגבה ידוה צבאות במשפט :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "נורא ואדיר בחרת מקדם לעם קדושים ˙ | והיו נטהרים באפר פרה ועולת אישים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "ועתה טהרנו מטומאתנו ואם אין קדשים ˙ | ותסג אחור משפט :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "עליון זכר נא לעבדיך ˙ | והביאם קרית נחלתך בגודל חסדיך ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "כאשר דברת בחזון לחסידך ˙ | וארשתיך לי בצדק ובמשפט : | מי כמוך באלים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "מי כמוך | אחר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "מי | כמוך שוכן בשמי קדם בגבורה ˙ | האל הגדול הגבור והנורא ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "ממציא מאין ליש כל נברא ˙ | ככתוב בתורה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "ברא את האדם בצלמו ˙ | ומתחת גלגל הירח אדון השימו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "להודות לו ולרוממו ˙ | הודו לידוה קראו בשמו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "תורה הנחלת לזרע ידידיך ˙ | מן השמים הראית הודך ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "בהר סיני שמעו פקודיך ˙ | כי טובים דודיך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "ידעת להם מני קדם במרה ˙ | שלש מצות מן התורה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "שבת ודינין ופרה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "חשב לזכותם ˙ | אמרת ידוה צרופה שבעתים טהורה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "והוא עדות לממציא אותם ˙ | ומצות שבת הקדים להורותם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "במשפטים צוה להם ˙ | ידוה אלהי אבותם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "כי מלאה הארץ חמס מפניהם ˙ | הישירם בקנין המדות ולתת שלום ביניהם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "ואלה המשפטים אשר תשים לפניהם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 1,
+   "span": "[?]"
+  }
+ ],
+ "sha256_text": "be05cee047b0b8acc2e16da153a44114cf684a8500df4e2a035c9ea3475f9010",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.075,
+   "wer": 0.244
+  }
+ },
+ "text_file": "../text/fol93a_spread95_left.txt"
+}
