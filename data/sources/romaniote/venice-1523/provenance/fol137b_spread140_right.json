@@ -1,0 +1,339 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 140,
+ "side": "right",
+ "folio": "137b",
+ "printed_folio_number": null,
+ "running_head": "תפלות של פסח",
+ "catchword": "[RASHI-UNPROOFED]",
+ "signature": null,
+ "contents": [
+  "Psalm, continuation of גבר תמים...",
+  "Psalm 18 conclusion",
+  "Maariv piyyutim for last days of Passover",
+  "מעריב פיוט continuation"
+ ],
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 5. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and [RASHI-UNPROOFED] retained as supplied"
+ },
+ "supplied_status_line": "PARTIAL — diplomatic transcription; square type checked against image",
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של פסח",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "גבר תמים תתמם : עם גבר תתברר ועם עקש תתפתל : כי אתה עם עני תושיע ועינים",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "[?]מות תשפיל : כי אתה תאיר נרי ידוה אלהי יגיה חשכי : כי בך ארץ גדוד ובאלהי אדלג",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]מות"
+   ]
+  },
+  {
+   "n": 4,
+   "text": "שור : האל תמים דרכו אמרת ידוה צרופה מגן הוא לכל החסים בו : כי מי אלוה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "מבלעדי ידוה ומי צור זולתי אלהינו : האל המאזרני חיל ויתן תמים דרכי : משוה רגלי",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "כאילות ועל במתי יעמידני : מלמד ידי למלחמה ונחתה קשת נחושה זרועתי : ותתן לי",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "מגן ישעך וימינך תסעדני וענותך תרבני : תרחיב צעדי תחתי ולא מעדו קרסלי :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "ארדף אויבי ואשיגם ולא אשוב עד כלותם : אמחצם ולא יכלו קום יפלו תחת רגלי :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "ותאזרני חיל למלחמה תכריע קמי תחתי : ואיבי נתתה לי ערף ומשנאי אצמיתם : ישועו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "ואין מושיע על ידוה ולא ענם : ואשחקם כעפר על פני רוח כטיט חוצות אריקם :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "תפלטני מריבי עם תשימני לראש גוים עם לא ידעתי יעבדוני : לשמע אזן ישמעו לי בני",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "נכר יכחשו לי : בני נכר יבלו ויחרגו ממסגרותיהם : חי ידוה וברוך צורי וירום אלהי",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "ישעי : האל הנותן נקמות לי וידבר עמים תחתי : מפלטי מאיבי אף מן קמי תרוממני",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "מאיש חמס תצילני : על כן אודך בגוים ידוה ולשמך אזמרה : מגדיל ישועות מלכו ועשה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "חסד למשיחו לדוד ולזרעו עד עולם :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "[RASHI-UNPROOFED]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "הודו לה סיר למעלות וירח בכד לקם וכו הללוים [:",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "מעריב",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "יה שלח אורו ˙ והופיע בהוד הדרו ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "והושיע עמו בדברו ˙ בהעצרם מערב ועד ערב כחק דבורו :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "[RASHI-UNPROOFED]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "ברוך חתה ה' קמעריב ערבים ˙ חקבת עד נכח נכחים [/]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "המון עם שלוחים ˙ משולי שלחים ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "בחסד ואמת נשלחים ˙ באהבת אבותם משתלחים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "[RASHI-UNPROOFED]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "ברוך חתה ה' חוהב חת עמו יסרחל בחקבה סחע יסרחל עד וחין לנו חלהים זולתך:",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "ולא נחם אלהים ˙ דרך עו בדי אלילים ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "והדריכם בנעלים ˙ נותני זמר והלולים ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "על מכת בכורי ערלים ˙ ענו מי כמוך באלים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "[RASHI-UNPROOFED]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "בגילה ברנם [/']",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "שמרי מצות רגלים ˙ שמך מאשרים ומגדלים ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "על צבאותם יצאו גאולים ˙ והמליכו לצורם בין גלים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "[RASHI-UNPROOFED]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "זה כור יסענו פנו וחחרו ייירו לוך לעולם ועד [/]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 36,
+   "text": "עמדו מים כחומה ˙ במקהלות יונה תמה ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 37,
+   "text": "ושמחה בטן ערמה ˙ כי נגלה בימין רוממה :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 38,
+   "text": "[RASHI-UNPROOFED]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 39,
+   "text": "בחי מלך",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 40,
+   "text": "יודעי הלכה ותורה ˙ שלח להם אורה ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 41,
+   "text": "עודד ישעך במהרה ˙ תפרוש שלומך על עם נברא :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 42,
+   "text": "[RASHI-UNPROOFED]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 43,
+   "text": "גריד",
+   "confidence": "low",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 3,
+   "span": "[?]מות"
+  }
+ ],
+ "sha256_text": "867539e6be3b914177dbd1b4199b5714d15e79320408d1aa82c5d20745a2f236",
+ "proofed": false,
+ "status": "partial",
+ "text_available": true,
+ "marginalia_regions": [
+  {
+   "kind": "handwriting",
+   "bbox": null,
+   "note": "Upper-right pencilled numerals omitted."
+  },
+  {
+   "kind": "facing_page_overlap",
+   "bbox": [
+    0,
+    1780,
+    150,
+    2550
+   ],
+   "note": "Facing-page fragments beyond left gutter excluded."
+  },
+  {
+   "kind": "handwriting",
+   "bbox": [
+    750,
+    2490,
+    1420,
+    2680
+   ],
+   "note": "Faint possible cursive handwriting below final square-type rows, omitted."
+  }
+ ],
+ "ocr": {
+  "engine": "Kraken 7.1.1",
+  "model": "BiblIA_01 (doi:10.5281/zenodo.5468286)"
+ },
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.08,
+   "wer": 0.221,
+   "metric": "Levenshtein(raw,corrected)/corrected length; whitespace collapsed; status header and [RASHI-UNPROOFED] markers removed; punctuation and [?] retained"
+  }
+ },
+ "text_file": "../text/fol137b_spread140_right.txt",
+ "proofing_note": "Partly proofed page: square type checked against the page image; Rashi-type notes or rubrics, or other explicitly marked lines, await expert proofreading. Supplied markers are retained unchanged. Supplied CER/WER values are approximate."
+}

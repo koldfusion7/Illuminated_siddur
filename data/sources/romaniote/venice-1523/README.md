@@ -2,11 +2,12 @@
 
 Source: *Mahzor Romania*, Venice 1523, copy Kaufmann B 605, Library and Information
 Centre of the Hungarian Academy of Sciences (MTAK), Budapest. Text coverage: fol.
-5b-37a, 39b-93a and 95b-117b, 217 page sides. The original 28 weekday Shacharit
-pages (5b-19a) are followed by OCR sweeps 2 and 3 (116 additional sides) and sweep 4
-(73 additional sides). Fol. 37b-39a and 93b-95a are intentional gaps: chunks c10
-and c38 were not supplied. Sweep 4 also indexes 118a, 118b and 119a as unproofed
-metadata-only entries; no corrected text was supplied for those sides.
+5b-37a, 39b-93a, 95b-117b and 119b-139a, 257 page sides. The original 28 weekday
+Shacharit pages (5b-19a) are followed by OCR sweeps 2 and 3 (116 additional sides),
+sweep 4 (73 additional sides) and sweep 5 (40 additional sides). Fol. 37b-39a and
+93b-95a are intentional gaps: chunks c10 and c38 were not supplied. Sweep 4 also
+indexes 118a, 118b and 119a as unproofed metadata-only entries; no corrected text
+was supplied for those sides.
 
 **Status — read before use**
 
@@ -23,7 +24,7 @@ metadata-only entries; no corrected text was supplied for those sides.
 - `text/folNNx_spreadNN_side.txt` — corrected consonantal text per page (UTF-8).
 - `provenance/*.json` — folio, exact-text checksum, uncertain spans and supplied OCR error rates against the proofed text; printed folio number, catchword, signature, marginalia regions and OCR engine/model where supplied.
 - `index.json` — page list with uncertain-word counts and per-leaf sweep-4 proofing status. Metadata-only entries have `file: null` and `text_available: false`.
-- `CHANGES.md` — revisions made in the re-check pass and OCR sweeps 2, 3 and 4.
+- `CHANGES.md` — revisions made in the re-check pass and OCR sweeps 2, 3, 4 and 5.
 - `tools/pipeline.py` — OCR pipeline: mask margin notes → deskew → Kraken (blla + BiblIA_01, doi:10.5281/zenodo.5468286) → baseline-row reading order → CER/WER vs. a reference. Set `KRAKEN_BIN` / `KRAKEN_MODEL`.
 
 OCR output is a draft. The original pages were proofed against the page image;
@@ -54,3 +55,11 @@ The c47 measurement scopes mark Rashi-type rubrics unproofed on all four sides,
 so 111b, 112a, 112b and 113a are conservatively flagged `partial`.
 The c49 sides need re-checking at full resolution. Supplied CER/WER values are
 retained without recomputation and are approximate for partly proofed sides.
+
+Sweep 5 (chunks c51-c60, spreads 122-141, leaves 119b-139a) adds 40 leaf records:
+9 `proofed` and 31 `partial`. Most `partial` sides have square type proofed and
+Rashi-type rubrics or notes left as raw OCR behind [RASHI-UNPROOFED] markers, which
+remain unchanged in the text. The supplied status line at the top of each corrected
+file is recorded in provenance as `supplied_status_line` and is not part of the page
+text. Sides 123a, 129a, 130a and 133a have high OCR error rates and need re-checking.
+Chunk c61 (leaves 139b-141a) is not yet proofed and is not included.

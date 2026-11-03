@@ -1,0 +1,263 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 124,
+ "side": "right",
+ "folio": "121b",
+ "printed_folio_number": null,
+ "running_head": "תפלות של פסח",
+ "catchword": "ציון",
+ "signature": null,
+ "contents": [
+  "First-day Passover yotser: zulat אהבוך נפש להודך, with Song of Songs verse endings"
+ ],
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 5. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and [RASHI-UNPROOFED] retained as supplied"
+ },
+ "supplied_status_line": "PROOFED",
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של פסח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "זולת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "אהבוך נפש להודך ˙ מזנים בוטח ושודך ˙ אנה הלך דודך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "בשוב נוחך גנונו ˙ רבבה תרנן בגינו ˙ דודי ירד לגנו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "גשים נבנה בהחדילי ˙ דוברים נלכה להבדילי ˙ אני לדודי ודודי לי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "דמני נאה ותרוצה ˙ כנני בלא פרצה ˙ יפה את רעיתי כתרצה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "הזהירני ממעש מעניך ˙ התעב גיא כנעניך ˙ הסבי עיניך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "ועמך כלם הלולים ˙ קדש ולא חולים ˙ שניך כעדר הרחלים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "זבדני זבול ארמון ˙ טייב יושבי אמון ˙ כפלח הרמון :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "חכמי מלאכות מלכות ˙ נצח עולם הליכות ˙ ששים המה מלאכות :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "טוענים אסופות גנתי ˙ יחד נוטעים כנתי ˙ אחת היא יונתי תמתי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "יושרם יליץ התקפה ˙ גבהות קרן זקופה ˙ מי זאת הנשקפה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "כעס ושחוק יגוז ˙ דלת ראש מלגוז ˙ אל גנת אגוז :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "לגולל אבן צמתני ˙ באר חיי צימתני ˙ לא ידעתי נפשי שמתני :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "מתי לחציר נעמית ˙ תועה ומתעה להעמית ˙ שובי שובי השולמית :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "נעים התנדב מעולים ˙ ראות ולקלם מועלים ˙ מה יפו פעמיך בנעלים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "סדר עבודת כהונן ˙ השב בשיתו נוגן ˙ שררך אגן :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "ערוך אילים ופרים ˙ כאז ביד סופרים ˙ שני שדייך כשני עפרים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "פתח שיר מלדל ˙ הדר זוקן מגודל ˙ צוארך כמגדל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "צו חסד גומל ˙ ונשא כאמור חומל ˙ ראשך עליך ככרמל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "קשט תטור אשמת ˙ גנאי זכרונך שמת ˙ מה יפית ומה נעמת :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "ריב לטוב יומר ˙ ולשפלת עמק יזומר ˙ זאת קמתך דמתה לתמר :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "שטף בכל משמר ˙ כלם קדושים במאמר ˙ אמרתי אעלה בתמר :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "תען דבר טוב ˙ שורה אחת לחטוב ˙ וחכך כיין הטוב :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "שחורה ונאוה תשוקתו ˙ לא מרוב חשוקתו ˙ אני לדודי ועלי תשוקתו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "מחפורים שור ספורים ˙ הסתכל בך כופרים ˙ לכה דודי נצא השדה נלינה בכפרים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "בינה רצוי תורמים ˙ בסוס עולם גורמים ˙ נשכימה לכרמים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "יותן קול צורח ˙ הטובות והרעות הפרח ˙ הדודאים נתנו ריח :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "דודי נוח לי ˙ תנחמני ומוחל לי ˙ מי יתנך כאח לי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "חזות כאז צבאך ˙ זוהר שכינת מראך ˙ אנהגך אביאך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "קירובך עם דבקני ˙ וסת שבחך ספקני ˙ שמאלו תחת לראשי וימינו תחבקני :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "אחרית לטהר שולים ˙ מהר לשלש בכפלים ˙ השבעתי אתכם בנות ירושלם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "ציון",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "21625086a371982de0b455d33f7c1a6c1953811d6c3406b47dbf41fa41cd54b4",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "marginalia_regions": [
+  {
+   "kind": "handwriting",
+   "bbox": [
+    1730,
+    180,
+    1910,
+    320
+   ],
+   "note": "Pencilled upper outer-margin number 242; excluded."
+  },
+  {
+   "kind": "facing_page_overlap",
+   "bbox": [
+    0,
+    250,
+    145,
+    2450
+   ],
+   "note": "Facing-page fragments beyond left gutter excluded."
+  }
+ ],
+ "ocr": {
+  "engine": "Kraken 7.1.1",
+  "model": "BiblIA_01 (doi:10.5281/zenodo.5468286)"
+ },
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.163,
+   "wer": 0.429,
+   "metric": "Levenshtein(raw,corrected)/corrected length; whitespace collapsed; status header and [RASHI-UNPROOFED] markers removed; punctuation and [?] retained"
+  }
+ },
+ "text_file": "../text/fol121b_spread124_right.txt"
+}

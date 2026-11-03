@@ -1,0 +1,339 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 123,
+ "side": "left",
+ "folio": "121a",
+ "printed_folio_number": "קכא",
+ "running_head": "תפלות של פסח",
+ "catchword": null,
+ "signature": "יו א",
+ "contents": [
+  "Conclusion of Song of Songs yotser piyyut: צפותינו צפות משחרים",
+  "המאור לארץ ולדרים transition and Rashi rubric",
+  "אופן: ראשו כתם פז, with printed Song of Songs marginal cues",
+  "Rashi concluding transition"
+ ],
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 5. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and [RASHI-UNPROOFED] retained as supplied"
+ },
+ "supplied_status_line": "PARTIAL — square type proofed; Rashi blocks retained raw",
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של פסח",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "קכא",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "צפותינו צפות משחרים ˙ ציון עמוד שחרים ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "צור קוננו מכתירים ˙ צרכנו בפלל מעתירים ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "חזות נחזה בביאורים ˙ חשכנו לעד לאורים ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "חי זכנו כמתפארים ˙ קיים לדורי דורים ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "המאור לארץ ולדרים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "[RASHI-UNPROOFED]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "המחיר לחר",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "וחם הוח' סבת חוחר הכל יודוך עד ברוך כבוד ה אמקוחו [/]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "אופן",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "ראשו כתם פז ˙ תג עטור כתר ˙ תחן יוחן עתר :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "שבתו כיושב סתר ˙ שליח מפורש פותר ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "רם ונשא ביותר ˙ רב בנין וסותר ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "קוראיו פתח חותר ˙ קבל נתוח בתר ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "עיניו כיונים",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "צר רבוע דפנים ˙ צופות צפים צפונים ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "פתוחות שית צפונים ˙ פונות לאליו פונים ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "עתיד וגנוז פנינים ˙ ערוך נגדו מלפנים ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "סכיונו אין לפנים ˙ שרפים חיות ואופנים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "לחייו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "נשוף מר לקחים ˙ נעימים אמרים מלקיחים ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "מגדלות מרקח רקוחים ˙ מתן לנפש ופקוחים ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "לוחות חירות משיחים ˙ לב עלב משמחים ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "כאב ממרי[?]ים ומשיתים ˙ בערוגת ערבים שיתים :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "ממרי[?]ים"
+   ]
+  },
+  {
+   "n": 26,
+   "text": "ידיו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "ידי אדם פשוטות ˙ יצוריו קבל מלטות ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "שועים דרך קושטות ˙ טרף לכל מושיטות ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "חזקות מחזיקות מטות ˙ חיש מדחי מלקטות ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "זכות מגלגלות ומטות ˙ זעם הדין מלשטות ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "שוקיו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "וועד כתלנו מצרף ˙ ותחת רגליו שרפרף ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "הדומו מרעיד ומרפרף ˙ הים מלחיך ומשרף :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "חכו ממתקים",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "דת משלים עתיקים ˙ גוזר אומר ומקים ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 36,
+   "text": "בדברו שפר שחקים ˙ אמר ויקרא ארקים ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 37,
+   "text": "שבחו לגיוניו מפיקים ˙ המולת המון אפיקים ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 38,
+   "text": "חלים זעים קריאת שלוש קדושה מספיקים ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 39,
+   "text": "[RASHI-UNPROOFED]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 40,
+   "text": "לחל הברוך יתנו וגועד וחין לכוחלהים זולתך :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 41,
+   "text": "יו א",
+   "confidence": "low",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 25,
+   "span": "ממרי[?]ים"
+  }
+ ],
+ "sha256_text": "23742dfcccde4c1bc679af9dc52b43329afbe5aaaed06d0c7d9ba2cd10116386",
+ "proofed": false,
+ "status": "partial",
+ "text_available": true,
+ "marginalia_regions": [
+  {
+   "kind": "handwriting",
+   "bbox": [
+    180,
+    180,
+    360,
+    330
+   ],
+   "note": "Pencilled upper outer-margin number 241; excluded."
+  },
+  {
+   "kind": "facing_page_overlap",
+   "bbox": [
+    1980,
+    300,
+    2097,
+    2600
+   ],
+   "note": "Facing-page letters beyond right gutter excluded."
+  },
+  {
+   "kind": "printed_marginal_cues",
+   "bbox": [
+    1670,
+    1120,
+    1910,
+    2200
+   ],
+   "text": [
+    "עיניו כיונים",
+    "לחייו",
+    "ידיו",
+    "שוקיו",
+    "חכו ממתקים"
+   ],
+   "note": "Square type, included before the associated stanza."
+  }
+ ],
+ "ocr": {
+  "engine": "Kraken 7.1.1",
+  "model": "BiblIA_01 (doi:10.5281/zenodo.5468286)"
+ },
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.142,
+   "wer": 0.359,
+   "metric": "Levenshtein(raw,corrected)/corrected length; whitespace collapsed; status header and [RASHI-UNPROOFED] markers removed; punctuation and [?] retained"
+  }
+ },
+ "text_file": "../text/fol121a_spread123_left.txt",
+ "proofing_note": "Partly proofed page: square type checked against the page image; Rashi-type notes or rubrics, or other explicitly marked lines, await expert proofreading. Supplied markers are retained unchanged. Supplied CER/WER values are approximate."
+}

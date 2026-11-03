@@ -1,0 +1,276 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 127,
+ "side": "left",
+ "folio": "125a",
+ "printed_folio_number": "קכה",
+ "running_head": "הפטרה ליום ראשון של פסח",
+ "catchword": null,
+ "signature": null,
+ "contents": [
+  "Joshua Haftarah conclusion; reading rubrics; Av harachamim"
+ ],
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 5. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and [RASHI-UNPROOFED] retained as supplied"
+ },
+ "supplied_status_line": "PARTIAL — square type proofed; Rashi blocks retained raw",
+ "lines": [
+  {
+   "n": 1,
+   "text": "הפטרה ליום ראשון של פסח",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "קכה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "היום הזה : ויחנו בני ישראל בגלגל ויעשו את הפסח בארבעה עשר יום לחדש בערב",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "בערבות יריחו : ויאכלו מעבור הארץ ממחרת הפסח מצות וקלוי בעצם היום הזה :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "וישבות המן ממחרת באכלם מעבור הארץ ולא היה עוד לבני ישראל מן ויאכלו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "מתבואת ארץ כנען בשנה ההיא : ויהי בהיות יהושע ביריחו וישא עיניו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "וירא והנה איש עומד לנגדו וחרבו שלופה בידו וילך יהושע אליו ויאמר לו הלנו אתה אם",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "לצרינו : ויאמר לא כי אני שר צבא ידוה עתה באתי ויפול יהושע אל פניו ארצה וישתחו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "ויאמר לו מה אדני מדבר אל עבדו : ויאמר שר צבא ידוה אל יהושע של נעלך מעל",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "רגלך כי המקום אשר אתה עומד עליו קודש הוא ויעש יהושע כן : ויריחו סוגרת ומסגרת",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "מפני בני ישראל אין יוצא ואין בא :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "[RASHI-UNPROOFED]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "יה שומן | הקריחות סל ח' ימי הפסח ˙ מוסך ˙ תורח ˙ קרם ˙ בכספח ˙ פסל במדב רחי סלחיב וכרחי",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "וזק פי ביום ח' מסכו בפרס' בח' חל' פרעה עד מימים ימימה ˙ ביום סני סור חו כסב [בפ']",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "תלוה [ו'] | ו פרשת המועדות ˙ ביום נ' קדם ליכל בכור בפרס בח' עד סוף הפרסה ˙ ביום ד' חם כסף",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "חלב חמו בפרס מספטים ˙ ביום ה' פסל לך בפרס כי תסחיוחם חל בסבת מת חילין רחם חתה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "נחלב חמו ˙ | ביום ו' במדבר סיני עד ולחזרח החרץ ˙ ביום ז' סקוח יט ויהי בסלח מפכי",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "ירדו לים וחמרו סירה : עד חני ה רפחך : ביום ח'כל הבכור בפרט רחם עד סוף הפרסה ˙ וחם",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "את חיל מעסר תעסר ˙ ולעולם סבת סב חול המועד קורי רחה וחם חל פסח ביום נ' בח' פסל",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "אמנו כמו סכתבנו ˙ וחם חל ביום ה' קורין רחם במקום קדם וביום ח' ב' נ' קורין קדם בכספ במדברח",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "בו סחיזסבת בחול הפסח חנח חו בג חו בהולחח ססיים ההפטרה חמר מי סבירך :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "אב הרחמים שוכן במרומים הוא יפקוד ברחמיו הצדיקים והישרים והתמימים",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "כל קהלות הקדש שמסרו נפשם על קדושת השם הנאהבים והנעימים",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "בחייהם ובמותם שלא נפרדו מנשרים קלו מאריות גברו לעשות רצון קונם וחפץ צורם",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "יזכרם אלהינו לטובה עם שאר צדיקי עולם וינקום דם עבדיו השפוך ככתוב בתורת משה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "איש האלהים הרנינו גוים עמו כי דם עבדיו יקום ונקם ישיב לצריו וכפר אדמתו עמו :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "ועל ידי עבדיך הנביאים נאמר ונקיתי דמם לא נקיתי וידוה שוכן בציון ˙ ובכתבי הקדש",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "נאמר יודע בגוים לעינינו נקמת דם עבדיך השפוך ˙ ואומר כי דורש דמים אותם זכר לא",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "שכח צעקת ענוים ˙ ואומר ידין בגוים מלא גויות מחץ ראש על ארץ רבה ˙ מנחל בדרך",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "ישתה על כן ירימו ראש :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "[RASHI-UNPROOFED]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "וחרב | והלק לרוד ומאחזירי הספרים למקומם וחומ' אזמו לדוד חסוס דכתיב ה' עוז לעמו [יתן",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "עם לאומות בסעת מתן תורה ויםחומ לה החרץ ומלוחה מסוס דכתיב ביח [סחו']",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "רחסיכם סחמר סלמה בסעה סהעלה החרון לבית קרם הקדסים ודפקו סערים [סל']",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "היכל כדחותח [בנח'] | וחומר [/]",
+   "confidence": "low",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "137b7048132d2b20ac94e333e941802b7c114756e37521d83ddbb02f979dcb6b",
+ "proofed": false,
+ "status": "partial",
+ "text_available": true,
+ "marginalia_regions": [
+  {
+   "kind": "handwriting",
+   "bbox": [
+    150,
+    170,
+    370,
+    300
+   ],
+   "note": "Pencilled upper outer-margin number 249; excluded."
+  },
+  {
+   "kind": "facing_page_overlap",
+   "bbox": [
+    2030,
+    200,
+    2097,
+    2700
+   ],
+   "note": "Facing-page letters beyond right gutter excluded."
+  }
+ ],
+ "ocr": {
+  "engine": "Kraken 7.1.1",
+  "model": "BiblIA_01 (doi:10.5281/zenodo.5468286)"
+ },
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.046,
+   "wer": 0.097,
+   "metric": "Levenshtein(raw,corrected)/corrected length; whitespace collapsed; status header and [RASHI-UNPROOFED] markers removed; punctuation and [?] retained"
+  }
+ },
+ "text_file": "../text/fol125a_spread127_left.txt",
+ "proofing_note": "Partly proofed page: square type checked against the page image; Rashi-type notes or rubrics, or other explicitly marked lines, await expert proofreading. Supplied markers are retained unchanged. Supplied CER/WER values are approximate."
+}

@@ -1,0 +1,289 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 130,
+ "side": "right",
+ "folio": "127b",
+ "printed_folio_number": null,
+ "running_head": "תפלות של פסח",
+ "catchword": "שבטיו",
+ "signature": null,
+ "contents": [
+  "Dew piyyut, continuation",
+  "Continuation of tal piyyut"
+ ],
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 5. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and [RASHI-UNPROOFED] retained as supplied"
+ },
+ "supplied_status_line": "PARTIAL — diplomatic transcription; square type checked against image",
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של פסח",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "הטביע אדני נשי ˙ הדום וכס המנוטל ˙ הוליד כתולדותם ˙ תולדות אגלי טל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "השתיל שתילי עדן ˙ בריווי ענינת טל ˙ הכין ותקן בשחק ˙ אוסם אוצרות טל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "ומשתיית אבן ˙ מקום חרמון טל ˙ ויתק להשתות ˙ שתותי טל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ומשם צר חומר ˙ גולם מוטל ˙ ונפח בו נשם ˙ חיות בחיי טל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "זבת מקדם ˙ אושש באיד טל ˙ זרע ופרח ודשא ˙ לפרנסם במתן טל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "זרם עד לא המטיר ˙ וגשם היטל ˙ זכרה ועדנה ˙ חיות בטיפי טל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "חבלים נפלו לה ˙ אסמי אורות טל ˙ חית ישיניה ˙ להחיות באור טל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "חשרת מי גשם ˙ עליה להיטל ˙ חזיו לארבעים שנה ˙ לפוקדה יוטל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "טורח מטרות עוז ˙ עד עתה לה לא הוטל ˙ טוללה עד דור עשירי ˙ מתנובבת בטל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "טפשו דריה ˙ וגאו כאיד טל ˙ טרחות גשמים מה צורך ˙ דיינו בטל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "יען באשר מדו ˙ מדד למו והיטל ˙ יקומם מחה ˙ וזכרם ביטל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "זקר כעסם כחול ˙ וכאבן נוטל ˙ יזורבו נצמתו ˙ בחורב וחום טל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "כמוס גופר ולוייו ˙ מכל נוטל ˙ כי מי נח זאת לי ˙ לעולם לנטל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "כרת לו ולנשי ˙ אות כל יבטל ˙ כל ימי הארץ להקוות ˙ בקווי מטר וטל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "לא בנו נושאי קדם ˙ משאון מקוטל ˙ לוהקו ויזמו עלות ˙ לרוק המנוטל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "לבם חלק ˙ ועצתם ביטל ˙ לנפש לזרם לצול ˙ להיטל טל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "מוט התמוטטה גיא ˙ בחורב בלי טל ˙ מואסה עד צץ אב ˙ והפריח בטל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "מטו הטליל ˙ והטלילם בטל ˙ משם צדק נחול ˙ לילדותיו טל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "נחשב כצור אוטם ˙ זרם מלהיטל ˙ נחשב את עדנה ˙ להפקד בעת טל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "נפקדו במועד זה ˙ בקץ זכירת טל ˙ נעקד להפריח ˙ כשושנה בטל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "סדר תלם לזרע ˙ ובקצירו לן טל ˙ שדה מבורך בהריח בירך ˙ במתן טל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "סכם אתו ציר ˙ חתום בברכת טל ˙ שרידיו להתברך ˙ בבטח ערך שמי טל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "ענפיו שורדו ˙ היות בגוים בטל ˙ עלי עין לברך ˙ ממגד ומטל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "עדיו נעו [?] ˙ ונזם טולטל ˙ עול ברזל שם ˙ עלימו להיטל :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 26,
+   "text": "פסע ודילג קץ ˙ בזכר ברית טל ˙ פתחים דפק ˙ בראש נמלא טל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "פדות שלח לישע ˙ בראשון להרסיס טל ˙ פגע בכן חקתי בראשון להזכיר פגיעת טל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "צאתי לארוש ˙ עודנתי ברדת טל ˙ צעקתי והוזכרה לי ˙ ברית ילדות טל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "צבאי כולכלו ˙ במן אביר טל ˙ צידה שלח לשובע ˙ בעלות שכבת טל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "קבצתי להר חמד ˙ נחול אמרי טל ˙ קהלי על אברת נשרים ˙ נושא ונטל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "קול וברק ונשף ˙ זילת טל ˙ קוני עלי הזיל ˙ עיפות להקר בטל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "רשפי להב וקול כח ˙ הדר לי בטל ˙ רעש בשורי חלתי ˙ ויעורו כטל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "רגש שפעת ענני הוד ˙ מסך והיטל ˙ רצים לפני תור ארץ ˙ טבעת משמני טל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "שכינה אוהל ציר ˙ בין שרי בלין טל ˙ שמן משח את ˙ שיורך בטל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "שבטיו",
+   "confidence": "low",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 25,
+   "span": "[?]"
+  }
+ ],
+ "sha256_text": "113bc84b0b1712ccff1a4e5fc6f12803be45b9ecf4e58034a028bd3608b31eb6",
+ "proofed": false,
+ "status": "partial",
+ "text_available": true,
+ "marginalia_regions": [
+  {
+   "kind": "handwriting",
+   "bbox": [
+    1710,
+    215,
+    1910,
+    325
+   ],
+   "note": "Pencil numeral omitted"
+  },
+  {
+   "kind": "handwriting",
+   "bbox": null,
+   "note": "Short diagonal pen stroke beside the gap between קהלי and קוני, omitted; no words discernible."
+  },
+  {
+   "kind": "facing_page_overlap",
+   "bbox": [
+    0,
+    150,
+    170,
+    2800
+   ],
+   "note": "Facing-page fragments beyond left gutter excluded."
+  }
+ ],
+ "ocr": {
+  "engine": "Kraken 7.1.1",
+  "model": "BiblIA_01 (doi:10.5281/zenodo.5468286)"
+ },
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.124,
+   "wer": 0.322,
+   "metric": "Levenshtein(raw,corrected)/corrected length; whitespace collapsed; status header and [RASHI-UNPROOFED] markers removed; punctuation and [?] retained"
+  }
+ },
+ "text_file": "../text/fol127b_spread130_right.txt",
+ "proofing_note": "Partly proofed page: square type checked against the page image; Rashi-type notes or rubrics, or other explicitly marked lines, await expert proofreading. Supplied markers are retained unchanged. Supplied CER/WER values are approximate."
+}

@@ -1,0 +1,267 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 122,
+ "side": "right",
+ "folio": "119b",
+ "printed_folio_number": null,
+ "running_head": "תפלות של פסח",
+ "catchword": "התרני",
+ "signature": null,
+ "contents": [
+  "Passover: concluding verses of a preceding piyyut",
+  "Two ברכו piyyutim: שחי לאל יחידה; שאי עין יחידתי",
+  "Rashi blessing paragraph",
+  "אור ישע מאושרים: Song of Songs piyyut, opening stanzas"
+ ],
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 5. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and [RASHI-UNPROOFED] retained as supplied"
+ },
+ "supplied_status_line": "PARTIAL — square type proofed; Rashi block retained raw",
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של פסח",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "נשאתם אז כעל כנפי נשרים ˙ והובשת מצולות לעמקים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "משכתם צור בעמוד אש וענן ˙ והפכת למי מרה מתוקים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "שעה מלכי לקול עמך ורחם ˙ ושובה את שביתם כאפיקים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "הכי יגדל ויתקדש שבחך ˙ בעל ים סוף בפי עוללים ויונקים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "ברכו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "שחי לאל יחידה החכמה ˙ ורוצי לעבוד אותו באימה :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "לעולמך פנה לילך ויומך ˙ ולמה תרדפי הבל ולמה :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "משולה את לעולמך לאל חי ˙ וכאשר נעלם את נעלמה :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "הלא אם יוצרך טהור ונקי ˙ דעי כי כן טהורה את וקמה :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "חסין ישא שחקים על זרועו ˙ כמו תשאי גויה נעלמה :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "זמירות קדמי נפשי לצורך ˙ אשר לא שם דמותך באדמה :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "קרבי ברכו תמיד לצורכם ˙ אשר לשמו תהלל כל נשמה :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "ברכו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "שאי עין יחידתי לצורך ˙ וזכרי בוראך בימי בחורך :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "לפניו צעקי ליל ויומם ˙ ולשמו זמרי תמיד בשירך :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "מנת חלקך וכוסך באדמה ˙ ומבטחך בצאתך מבשרך :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "הלא הכין לפניו לך מנוחת ˙ ומתחת לכסאו שם דבירך :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "אני על כן אברך את אדני ˙ כמו כל הנשמה לו תברך :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "[RASHI-UNPROOFED]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "ברכו חת ה' המבורך ˙ ברוך חתם ה' אלהינו חלך העולם הפותח לכו סערי מזרח ואחיור",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "עיכי המחכים לו ˙ יובר חוד ובורח' חסך עוסה סלוס ובורח חת חכל חור עולם חוכר[ח]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "חורות מחופל חמר ויהי",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "אור ישע מאושרים ˙ שימור זה מוכשרים ˙ אהודנו בידידיו בשירים ˙ שיר השירים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "אילת אווי תשוקות ˙ לחלות עיוף שוקקות ˙ אסמי שבע להשקות ˙ ישקני מנשיקות",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "ברוכי מעלמות משמניך ˙ מושלי גנזבי מכמניך ˙ בשמתם תמרוק סממניך ˙ לריח שמניך :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "בני ביתך וחוריך ˙ חנם חזר סחוריך ˙ בית מדין צחריך ˙ משכני אחריך :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "גאה ורב ענוה ˙ חודי מבנות ניוה ˙ גם כי דוה ˙ שחורה אני ונאוה :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "גחל כי מחורחרת ˙ קרב רגז סחרחרת ˙ גחן קדורנית כחרת ˙ אל תראוני שאני שחרחרת :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "דולי ומכמדלי בדלי ˙ טוטפת בלילו גדלי ˙ דגלי עוז מגדלי ˙ הגידה לי :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "דרבוני מלמד מרדעי ˙ נתון רועה דרדעי ˙ דן והוכיח פרעי ˙ אם לא תדעי :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "הדריך סוס למנוסתי ˙ בים בקע לכסיסתי ˙ תמירו ומלא בפיסתי ˙ לסוסתי :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "התרני",
+   "confidence": "low",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "7d7764165b4d87a0b649c2e1fc42c66de938b27f475f0c74502190818d2ac267",
+ "proofed": false,
+ "status": "partial",
+ "text_available": true,
+ "marginalia_regions": [
+  {
+   "kind": "handwriting",
+   "bbox": [
+    1730,
+    130,
+    1960,
+    290
+   ],
+   "note": "Pencilled outer upper-margin number, apparently 228; excluded."
+  },
+  {
+   "kind": "facing_page_overlap",
+   "bbox": [
+    0,
+    250,
+    180,
+    2500
+   ],
+   "note": "Letters left of gutter excluded."
+  }
+ ],
+ "ocr": {
+  "engine": "Kraken 7.1.1",
+  "model": "BiblIA_01 (doi:10.5281/zenodo.5468286)"
+ },
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.114,
+   "wer": 0.292,
+   "metric": "Levenshtein(raw,corrected)/corrected length; whitespace collapsed; status header and [RASHI-UNPROOFED] markers removed; punctuation and [?] retained"
+  }
+ },
+ "text_file": "../text/fol119b_spread122_right.txt",
+ "proofing_note": "Partly proofed page: square type checked against the page image; Rashi-type notes or rubrics, or other explicitly marked lines, await expert proofreading. Supplied markers are retained unchanged. Supplied CER/WER values are approximate."
+}

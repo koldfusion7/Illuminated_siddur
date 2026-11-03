@@ -1,0 +1,283 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 134,
+ "side": "left",
+ "folio": "132a",
+ "printed_folio_number": "קלב",
+ "running_head": "יוצר ליום שני של פסח",
+ "catchword": null,
+ "signature": "יז ד",
+ "contents": [
+  "Conclusion of piyyut with repeated סירו refrain",
+  "יוצר דיום שני",
+  "Small semi-cursive blessing rubric",
+  "Yotzer for second day of Passover, Song of Songs piyyut",
+  "יוצר ליום שני של פסח; שיר השירים פיוט continuation"
+ ],
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 5. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and [RASHI-UNPROOFED] retained as supplied"
+ },
+ "supplied_status_line": "PARTIAL — diplomatic transcription; square type checked against image",
+ "lines": [
+  {
+   "n": 1,
+   "text": "יוצר ליום שני של פסח",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "קלב",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "תודה וזמרה תתנו ˙ בכל לב רננו ˙ צדיקים בידוה : סירו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "יראיו פלאיו יזכרו ˙ בכל דור יאמרו ˙ גאולי ידוה : סירו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "חסדיו מתמיד לידידיו ˙ רודה את מורדיו ˙ האומרים עזב ידוה : סירו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "בעשר מכות הכה לפרעה ˙ סוס ורוכבו רמה להודיעו ˙ כי אין כידוה : סירו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "ישיר אז משה שיר מזמור ˙ ויאמרו לאמר ˙ אשירה לידוה : סירו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "במצולות ים צללו ˙ המצרים אז הללו ˙ הבוטחים בידוה : סירו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "כמאז צור הושיעה נא ˙ ועתה יגדל נא ˙ כח ידוה : סירו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "יוצר דיום שני",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "[RASHI-UNPROOFED]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "ולכוחת ה' המבורך : ברוך חתה ה' אלקינו מלך העולם הפותח לכו סערי חורה ומחיר עיני המחכים [לו']",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "כל חור ובורח חסך עוסה סנוס ובורח חת הכנ חור עולם חובר חיים חורות מחוכל חמר ויקי :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "[?] מושרים ˙ משפטים ישרים ˙ אחולל כשרים ˙ שיר השירים :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 15,
+   "text": "אמרות חשוקות ˙ בר נשיקות ˙ אלף המגן מנשיקות ˙ ישקני מנשיקות :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "ביררת המוניך ˙ לברור למו טמוניך ˙ באהבה אמנוך ˙ לריח שמניך :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "בחרת בוחריך ˙ ופדית משחריך ˙ בבקשה באים אל חדריך ˙ משכני אחריך :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "גיה יופי אוה ˙ ותחסרו לי צוה ˙ גם הוא לי לתאוה ˙ שחורה אני ונאוה :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "גדרי אל מובחרת ˙ משיחור שחרחורת ˙ גוי רגע ממשחורת ˙ אל תראוני שאני שחרחורת :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "דודי לי ˙ ישעו מגדיל לי ˙ דברו מגיד לי ˙ הגידה לי :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "דחי הודיעי ˙ בתלאובות ידעי ˙ דעי ישעי ידעי ˙ אם לא תדעי :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "הודעתי היסתי ˙ לאום ארוסתי ˙ הן את משושתי ˙ דמיתיך לסוסתי :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "השפרת מאחיך ˙ היושבים נכחיך ˙ הדלחתי דולחיך ˙ נאוו לחייך :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "וכל כלי מוצב ˙ וכסף מואהב ˙ ותעדי באהב ˙ תורי זהב :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "והוא במסבו ˙ בתחבולות הסביבו ˙ ונתהדר מכל סביבו ˙ עד שהמלך במסבו :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "זאת [?] לשמור ˙ להגיד ולאמר ˙ זהרי זכור ושמור ˙ צרור המור :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 27,
+   "text": "זכור ואל תפר ˙ חוק פדיון וכופר ˙ זמירות אספר ˙ אשכל הכופר :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "חשוף חשפה ˙ פליטה להוסיפה ˙ חנם לנכספה ˙ הנך יפה :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "חנם רפא ˙ פצו לשם פה ˙ חמוד ומיופה ˙ הנך יפה :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "טפינו חרוזים ˙ ורכולתינו ארוזים ˙ טעייתינו פרזים ˙ קורות בתינו ארזים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "טוב טעם ארז ˙ בשובי לבצרון ˙ טוללתי בחביון צל מחרון ˙ אני חבצלת השרון :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "ישמחו אנוחים ˙ יושבו זנוחים ˙ יפריחו אפרוחים ˙ כשושנה בין החוחים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "ישר אל נער ˙ יצאו בשער ˙ יה בצלו יער ˙ כתפוח בעצי היער :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "כל גוים כאין ˙ ופעלם מאין ˙ בתכלילות עין ˙ הביאני אל בית היין :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "כמהתי בבקשות ˙ להיישיר מעקשות ˙ כנוגה להאיר עששות ˙ סמכוני באשישות :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 36,
+   "text": "יז ד",
+   "confidence": "low",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 14,
+   "span": "[?]"
+  },
+  {
+   "line": 26,
+   "span": "[?]"
+  }
+ ],
+ "sha256_text": "a5929cb30d4b3bc9857f6e5704438a74036328d59cedd75da37d3c559035943b",
+ "proofed": false,
+ "status": "partial",
+ "text_available": true,
+ "marginalia_regions": [
+  {
+   "type": "handwriting",
+   "region": "upper-left margin, beside printed folio"
+  }
+ ],
+ "ocr": {
+  "engine": "Kraken 7.1.1",
+  "model": "BiblIA_01 (doi:10.5281/zenodo.5468286)"
+ },
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.173,
+   "wer": 0.38,
+   "metric": "Levenshtein(raw,corrected)/corrected length; whitespace collapsed; status header and [RASHI-UNPROOFED] markers removed; punctuation and [?] retained"
+  }
+ },
+ "text_file": "../text/fol132a_spread134_left.txt",
+ "proofing_note": "Partly proofed page: square type checked against the page image; Rashi-type notes or rubrics, or other explicitly marked lines, await expert proofreading. Supplied markers are retained unchanged. Supplied CER/WER values are approximate."
+}

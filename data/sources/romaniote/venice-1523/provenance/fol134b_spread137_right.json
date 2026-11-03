@@ -1,0 +1,257 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 137,
+ "side": "right",
+ "folio": "134b",
+ "printed_folio_number": null,
+ "running_head": "תפלות של פסח",
+ "catchword": "אריות",
+ "signature": null,
+ "contents": [
+  "Haftarah for second day of Passover, continuation of Kings account of Josiah",
+  "Haftarah conclusion, 2 Kings",
+  "Mincha Song of Songs 3",
+  "Song of Songs 3–4, afternoon reading continuation"
+ ],
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 5. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and [RASHI-UNPROOFED] retained as supplied"
+ },
+ "supplied_status_line": "PARTIAL — diplomatic transcription; square type checked against image",
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של פסח",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "ימי מלכי ישראל ומלכי יהודה : כי אם־בשמנה עשרה שנה למלך יאשיהו נעשה הפסח",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "הזה לידוה בירושלם : וגם את־האבות ואת־הידענים ואת־התרפים ואת־הגללים ואת כל־",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "השקצים אשר נראו בארץ יהודה ובירושלם בער יאשיהו למען הקים את דברי התורה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "הכתבים על־הספר אשר מצא חלקיהו הכהן בית ידוה : וכמהו לא־היה לפניו מלך אשר־",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "שב את ידוה בכל־לבבו ובכל־נפשו ובכל־מאדו ככל תורת משה ואחריו לא־קם כמהו : אך",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "לא־שב ידוה מחרון אפו הגדול אשר־חרה אפו ביהודה על כל־הכעסים אשר הכעיסו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "מנשה : ויאמר ידוה גם את־יהודה אסיר מעל פני כאשר הסרתי את־ישראל ומאסתי את־",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "העיר הזאת אשר־בחרתי את־ירושלם ואת־הבית אשר אמרתי יהיה שמי שם : ויתר דברי",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "יאשיהו וכל־אשר עשה הלא־הם כתובים על־ספר דברי הימים למלכי יהודה : בימיו עלה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "פרעה נכה מלך־מצרים על־מלך אשור על־נהר פרת וילך המלך יאשיהו לקראתו וימיתהו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "במגדו כראתו אתו : וירכבהו עבדיו מת ממגדו ויביאהו ירושלם ויקברהו בקברתו ויקח",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "עם־הארץ את־יהואחז בן יאשיהו וימשחו אתו וימליכו אתו תחת אביו :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "[RASHI-UNPROOFED]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "ומתפללין מוסף",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "במנחה אחר התפלה אומרים על משכבי בלילות",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "על משכבי בלילות בקשתי את שאהבה נפשי בקשתיו ולא מצאתיו : אקומה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "נא ואסובבה בעיר בשוקים וברחבות אבקשה את שאהבה נפשי בקשתיו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "ולא מצאתיו : מצאוני השמרים הסבבים בעיר את שאהבה נפשי ראיתם : כמעט",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "שעברתי מהם עד שמצאתי את שאהבה נפשי אחזתיו ולא ארפנו עד־שהביאתיו אל־בית",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "אמי ואל־חדר הורתי : השבעתי אתכם בנות ירושלם בצבאות או באילות השדה אם",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "תעירו ואם־תעוררו את־האהבה עד שתחפץ : מי־זאת עלה מן־המדבר כתימרות עשן",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "מקטרת מר ולבונה מכל אבקת רוכל : הנה מטתו שלשלמה ששים גברים סביב לה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "מגברי ישראל : כלם אחזי חרב מלמדי מלחמה איש חרבו על־ירכו מפחד בלילות :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "אפריון עשה לו המלך שלמה מעצי הלבנון : עמודיו עשה כסף רפידתו זהב מרכבו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "ארגמן תוכו רצוף אהבה מבנות ירושלם : צאנה וראינה בנות ציון במלך שלמה בעטרה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "שעטרה־לו אמו ביום חתנתו וביום שמחת לבו : הנך יפה רעיתי הנך יפה עיניך יונים",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "מבעד לצמתך שערך כעדר העזים שגלשו מהר גלעד : שניך כעדר הקצובות שעלו מן",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "הרחצת שכלם מתאימות ושכלה אין בהם : כחוט השני שפתותיך ומדברך נאוה כפלח",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "הרמון רקתך מבעד לצמתך : כמגדל דויד צוארך בנוי לתלפיות אלף המגן תלוי עליו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "כל שלטי הגברים : שני שדיך כשני עפרים תאומי צביה הרעים בשושנים : עד שיפוח",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "היום ונסו הצללים אלך לי אל־הר המור ואל־גבעת הלבונה : כלך יפה רעיתי ומום אין בך :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "אתי מלבנון כלה אתי מלבנון תבואי תשורי : מראש אמנה מראשי שניר וחרמון ממענות",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "אריות",
+   "confidence": "low",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "b8459e8f2cc94c0505aff186d66a5053271e5c3fb7e127bcfa2f88a80e3e8e66",
+ "proofed": false,
+ "status": "partial",
+ "text_available": true,
+ "marginalia_regions": [
+  {
+   "type": "handwriting",
+   "region": "upper-right margin, pencilled numerals"
+  }
+ ],
+ "ocr": {
+  "engine": "Kraken 7.1.1",
+  "model": "BiblIA_01 (doi:10.5281/zenodo.5468286)"
+ },
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.144,
+   "wer": 0.497,
+   "metric": "Levenshtein(raw,corrected)/corrected length; whitespace collapsed; status header and [RASHI-UNPROOFED] markers removed; punctuation and [?] retained"
+  }
+ },
+ "text_file": "../text/fol134b_spread137_right.txt",
+ "proofing_note": "Partly proofed page: square type checked against the page image; Rashi-type notes or rubrics, or other explicitly marked lines, await expert proofreading. Supplied markers are retained unchanged. Supplied CER/WER values are approximate."
+}

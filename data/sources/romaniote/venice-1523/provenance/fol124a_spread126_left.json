@@ -1,0 +1,287 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 126,
+ "side": "left",
+ "folio": "124a",
+ "printed_folio_number": "קכד",
+ "running_head": "קריאת יום ראשון של פסח",
+ "catchword": null,
+ "signature": "יו ד",
+ "contents": [
+  "First-day Torah reading: Exodus 12–13"
+ ],
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 5. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and [RASHI-UNPROOFED] retained as supplied"
+ },
+ "supplied_status_line": "PROOFED",
+ "lines": [
+  {
+   "n": 1,
+   "text": "קריאת יום ראשון של פסח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "קכד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "ויקרא משה לכל זקני ישראל ויאמר אלהם משכו וקחו לכם צאן למשפחתיכם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "ושחטו הפסח : ולקחתם אגדת אזוב וטבלתם בדם אשר בסף והגעתם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "אל המשקוף ואל שתי המזוזות מן הדם אשר בסף ואתם לא תצאו איש מפתח ביתו עד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "בקר : ועבר ידוה לנגף את מצרים וראה את הדם על המשקוף ועל שתי המזוזות ופסח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "ידוה על הפתח ולא יתן המשחית לבא אל בתיכם לנגף : ושמרתם את הדבר הזה לחק לך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "ולבניך עד עולם : והיה כי תבאו אל הארץ אשר יתן ידוה לכם כאשר דבר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "ושמרתם את העבדה הזאת : והיה כי יאמרו אליכם בניכם מה העבדה הזאת לכם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "ואמרתם זבח פסח הוא לידוה אשר פסח על בתי בני ישראל במצרים בנגפו את מצרים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "ואת בתינו הציל ויקד העם וישתחוו : וילכו ויעשו בני ישראל כאשר צוה ידוה את משה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "ואהרן כן עשו : ויהי בחצי הלילה וידוה הכה כל בכור בארץ מצרים מבכר פרעה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "הישב על כסאו עד בכור השבי אשר בבית הבור וכל בכור בהמה : ויקם פרעה לילה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "הוא וכל עבדיו וכל מצרים ותהי צעקה גדלה במצרים כי אין בית אשר אין שם מת :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "ויקרא למשה ולאהרן לילה ויאמר קומו צאו מתוך עמי גם אתם גם בני ישראל ולכו עבדו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "את ידוה כדברכם : גם צאנכם גם בקרכם קחו כאשר דברתם ולכו וברכתם גם אתי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "ותחזק מצרים על העם למהר לשלחם מן הארץ כי אמרו כלנו מתים : וישא העם את",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "בצקו טרם יחמץ משארתם צררת בשמלתם על שכמם : ובני ישראל עשו כדבר משה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "וישאלו ממצרים כלי כסף וכלי זהב ושמלות : וידוה נתן את חן העם בעיני מצרים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "וישאלום וינצלו את מצרים : ויסעו בני ישראל מרעמסס סכתה כשש מאות אלף רגלי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "הגברים לבד מטף : וגם ערב רב עלה אתם וצאן ובקר מקנה כבד מאד : ויאפו את הבצק",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "אשר הוציאו ממצרים עגות מצות כי לא חמץ כי גרשו ממצרים ולא יכלו להתמהמה וגם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "צדה לא עשו להם : ומושב בני ישראל אשר ישבו במצרים שלשים שנה וארבע מאות שנה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "ויהי מקץ שלשים שנה וארבע מאות שנה ויהי בעצם היום הזה יצאו כל צבאות ידוה מארץ",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "מצרים ליל שמרים הוא לידוה להוציאם מארץ מצרים הוא הלילה הזה לידוה שמרים לכל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "בני ישראל לדרתם : ויאמר ידוה אל משה ואהרן זאת חקת הפסח כל בן נכר לא יאכל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "בו : וכל עבד איש מקנת כסף ומלתה אתו אז יאכל בו : תושב ושכיר לא יאכל בו : בבית",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "אחד יאכל לא תוציא מן הבית מן הבשר חוצה ועצם לא תשברו בו : כל עדת ישראל יעשו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "אתו : וכי יגור אתך גר ועשה פסח לידוה המול לו כל זכר ואז יקרב לעשתו והיה כאזרח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "הארץ וכל ערל לא יאכל בו : תורה אחת יהיה לאזרח ולגר הגר בתוככם : ויעשו כל בני",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "ישראל כאשר צוה ידוה את משה ואת אהרן כן עשו : ויהי בעצם היום הזה הוציא ידוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "את בני ישראל מארץ מצרים על צבאתם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "וידבר ידוה אל משה לאמר :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "קדש לי כל בכור פטר כל רחם בבני ישראל באדם ובבהמה לי הוא : ויאמר משה אל העם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "זכור את היום הזה אשר יצאתם ממצרים מבית עבדים כי בחזק יד הוציא ידוה אתכם מזה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 36,
+   "text": "ולא יאכל חמץ : היום אתם יצאים בחדש האביב : והיה כי יביאך ידוה אל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 37,
+   "text": "יו ד",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "f97f91deb7c6c8bb049be46889a0ae1f2ff1d03b6962fa39d19234a0e3eec501",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "marginalia_regions": [
+  {
+   "kind": "handwriting",
+   "bbox": [
+    170,
+    150,
+    410,
+    290
+   ],
+   "note": "Pencilled upper outer-margin number 247; excluded."
+  },
+  {
+   "kind": "facing_page_overlap",
+   "bbox": [
+    2030,
+    200,
+    2097,
+    2700
+   ],
+   "note": "Facing-page fragments beyond right gutter excluded."
+  }
+ ],
+ "ocr": {
+  "engine": "Kraken 7.1.1",
+  "model": "BiblIA_01 (doi:10.5281/zenodo.5468286)"
+ },
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.104,
+   "wer": 0.228,
+   "metric": "Levenshtein(raw,corrected)/corrected length; whitespace collapsed; status header and [RASHI-UNPROOFED] markers removed; punctuation and [?] retained"
+  }
+ },
+ "text_file": "../text/fol124a_spread126_left.txt"
+}

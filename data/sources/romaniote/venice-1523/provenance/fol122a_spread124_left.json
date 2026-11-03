@@ -1,0 +1,285 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 124,
+ "side": "left",
+ "folio": "122a",
+ "printed_folio_number": "קכב",
+ "running_head": "תפלות של פסח",
+ "catchword": null,
+ "signature": "יו ב",
+ "contents": [
+  "Conclusion of Song of Songs zulat: ציון רשפים מלובך",
+  "Rashi transition rubric",
+  "Geulah piyyut: מי כמוך שוכן עד, with שלום verse endings and Exodus themes"
+ ],
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 5. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and [RASHI-UNPROOFED] retained as supplied"
+ },
+ "supplied_status_line": "PARTIAL — square type proofed; Rashi rubric retained raw",
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של פסח",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "קכב",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "ציון רשפים מלובך ˙ מי זאת בלבבך ˙ שמני כחותם על לבך :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "אותות ראות מרובים ˙ דרך לעבור מסובים ˙ מים רבים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "[?]יטה עניות ˙ לנחמה תערת אחות אם חומה ˙ אני חומה :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]יטה"
+   ]
+  },
+  {
+   "n": 6,
+   "text": "ויהודה כרם גפני ˙ רגל ההיכל לפני ˙ כרמי שלי לפני :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "אלף המגן מגינים ˙ אדר שרים סגנים ˙ היושבת בגנים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "מסריות מסרית ידידי ˙ נרד ורד רדידי ˙ ברח דודי :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "ודמה לך בטיולים ˙ אמץ כאז חיולים ˙ לצבי או לעופר האילים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "משקל במשקל סמים ˙ ניחוח מור שמים ˙ על הרי בשמים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "[RASHI-UNPROOFED]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "עזרתינו וכזרת חבותיכו עד תחלות חי כמוך לאל עליון",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "מי כמוך שוכן עד ˙ אחד בלי אחדות מיועד ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "לעצמותו מחויב המציאות עד לא עד ˙ יוצר אור ובורא חשך עושה שלום :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "לו ידיעה בעצמותו ˙ ובלתי נעלמת מעצמותו ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "בחינת ההתחלה לזולתו ˙ דרכיה דרכי נועם וכל נתיבותיה שלום :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "והוא כאחד ˙ נמשך הרבוי מאחד ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "והראשון נבדל לאחד ˙ המשל ופחד עמו עושה שלום :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "מציאות התנועה בגרמים ˙ ארבעה נפרדים לארבעה דומים ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "הם הם המרכבה לארבעה עצמים ˙ חסד ואמת נפגשו צדק ושלום :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "מוליך לימין משה זרוע תפארתו ˙ פקד את עמו את כל ענותו ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "ויזכור להם בריתו ˙ דורש טוב לעמו ודובר שלום :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "ובכל עבודה בשדה את כל עבודתם ˙ האריכו למעניתם ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "למען ענותו בסבלותם ˙ ולא יכלו דברו לשלום :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "קדוש צדיק וגואל ˙ יועד בסנה ליקותיאל ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "לכן אמור לבני ישראל ˙ הנני נותן לו את בריתי שלום :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "בא אל פרעה מלך מצרים ˙ ואמרת אליו כה אמר אלהי העברים ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "שלח את עמי ויחגו לי על אחד ההרים ˙ וכרתי להם ברית שלום :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "פקד פקדתי אתכם ˙ ואת העשוי לכם ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "ואומר אעלה אתכם ˙ ואתם עלו לשלום :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "ידעתי כי לא יתן ˙ כה אמר ידוה הנותן ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "בים דרך עוז לעמו יתן ˙ ידוה יברך את עמו בשלום :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "רב חסד נוצר ˙ הכה עשר בעשר ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "ועשר נגד עשר ˙ איש על מקומו יבא בשלום :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "יו ב",
+   "confidence": "low",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 5,
+   "span": "[?]יטה"
+  }
+ ],
+ "sha256_text": "c40a3640ab853afb5b9baae23643e707764646488eae66129a0cfa2fec6e49e7",
+ "proofed": false,
+ "status": "partial",
+ "text_available": true,
+ "marginalia_regions": [
+  {
+   "kind": "handwriting",
+   "bbox": [
+    130,
+    170,
+    370,
+    290
+   ],
+   "note": "Pencilled upper outer-margin number, apparently 243; excluded."
+  },
+  {
+   "kind": "facing_page_overlap",
+   "bbox": [
+    2010,
+    200,
+    2097,
+    2450
+   ],
+   "note": "Facing-page fragments beyond right gutter excluded."
+  }
+ ],
+ "ocr": {
+  "engine": "Kraken 7.1.1",
+  "model": "BiblIA_01 (doi:10.5281/zenodo.5468286)"
+ },
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.234,
+   "wer": 0.491,
+   "metric": "Levenshtein(raw,corrected)/corrected length; whitespace collapsed; status header and [RASHI-UNPROOFED] markers removed; punctuation and [?] retained"
+  }
+ },
+ "text_file": "../text/fol122a_spread124_left.txt",
+ "proofing_note": "Partly proofed page: square type checked against the page image; Rashi-type notes or rubrics, or other explicitly marked lines, await expert proofreading. Supplied markers are retained unchanged. Supplied CER/WER values are approximate."
+}

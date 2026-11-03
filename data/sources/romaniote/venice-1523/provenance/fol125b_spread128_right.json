@@ -1,0 +1,270 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 128,
+ "side": "right",
+ "folio": "125b",
+ "printed_folio_number": null,
+ "running_head": "תפלות של פסח",
+ "catchword": "אתה",
+ "signature": null,
+ "contents": [
+  "Book-return prayer; dew announcement; Musaf Avot, Gevurot and Keter"
+ ],
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 5. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and [RASHI-UNPROOFED] retained as supplied"
+ },
+ "supplied_status_line": "PARTIAL — square type proofed; Rashi rubrics retained raw",
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של פסח",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "קבצנו מכנפות ארץ וראו כל עמי הארץ ויאמרו בגוים ידוה אלהי ישראל מלך ומלכותו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "בכל משלה ˙ וידעו כי מלך ידוה צבאות בהר ציון ובירושלם לנצח נצחים ˙ קבצנו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "מכנפות ארץ ותצמיח צבי לצדיק ונאמר זה היום קוינו לתת עוז במלכותך שובה למעונך",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ושכון בבית מאוייך וכל פה וכל לשון יתנו שבח והדר לשמך הקדוש :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "[RASHI-UNPROOFED]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "וים קהנות חומ' הרחמן הוח יענה עתירתכו ויסמע ויקסיב ווחזין לכל תפלתיכו עם כל תפלת",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "תחנת סועת עמו יסרחל ברחמים וברכון ויעתר לכו בתפלת מוספינו וחמרו כל העם חמן [/]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "ועומדין בתפלת מוסף ומכחן וחילך חין מזכירין גבורות גסמים וחין חומרים בחול סחלח",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "מטר בברכת קפנים וחומר קדים וחחד כך כקגו לחמר סליח כבור בקול רם [:]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "שאתהו ידוה אלהינו רב להושיע מוריד הטל ˙ ועונין הקהל סימן טוב",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "[RASHI-UNPROOFED]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "וחת חילין בתפלת תוסף",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "אדני שפתי תפתח ופי יגיד תהלתך ˙ ברוך אתה ידוה אלהינו ואלהי",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "אבותינו אלהי אברהם אלהי יצחק ואלהי יעקב האל הגדול",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "הגבור והנורא אל עליון גומל חסדים טובים וקונה את הכל זוכר חסדי אבות ומביא גואל",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "לבני בניהם למען שמו באהבה מלך רחמן אל חי גואל עוזר ומושיע ומגן ברוך אתה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "ידוה מגן אברהם :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "אתה גבור לעולם ידוה מחיה מתים אתה רב להושיע מוריד הטל מכלכל",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "חיים בחסד מחיה מתים ברחמים רבים סומך נופלים רופא חולים",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "מתיר אסורים משען לאביונים ומקים אמונתו לישיני עפר מי כמוך אדון הגבורות ומי",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "דומה לך מלך ממית ומחיה ומצמיח לנו ישועה בקרוב ונאמן אתה להחיות מתים ברוך",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "אתה ידוה מחיה המתים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "כתר יתנו לך ידוה אלהינו מלאכים המוני מעלה עם עמך ישראל קבוצי",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "מטה יחד כלם קדושה לך ישלשו ושבחך בכל יום תמיד יקדשו כ",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "כדבר האמור על יד נביאך וקרא זה אל זה ואמר",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "קדוש קדוש קדוש",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "ידוה צבאות מלא כל הארץ כבודו : כבודו והודו מלא עולם ומשרתיו שואלין זה לזה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "איה מקום כבודו להעריצו לעומתם משבחים ואומרים ברוך כבוד ידוה ממקומו פעמים",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "בכל יום אומרים שמע ישראל ידוה אלהינו ידוה אחד להיות לכם לאלהים אני ידוה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "אלהיכם ובדברי קדשך כתוב לאמר ימלוך ידוה לעולם אלהיך ציון לדור ודור הללויה :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "לדור ודור נגיד גדלך ולנצח נצחים קדושתך נקדיש ושבחך ידוה אלהינו מפינו לא ימוש",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "לעולם ועד כי אל מלך גדול וקדוש אתה ברוך אתה ידוה האל הקדוש :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "אתה",
+   "confidence": "low",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "d2a33ea4ecc28e611d59c539d4b4350b4f3104970d062cc7ce97e7cbf7c2b192",
+ "proofed": false,
+ "status": "partial",
+ "text_available": true,
+ "marginalia_regions": [
+  {
+   "kind": "handwriting",
+   "bbox": [
+    1700,
+    160,
+    1980,
+    290
+   ],
+   "note": "Pencilled number 250 and blue mark; excluded."
+  },
+  {
+   "kind": "facing_page_overlap",
+   "bbox": [
+    0,
+    150,
+    170,
+    2700
+   ],
+   "note": "Facing-page fragments beyond left gutter excluded."
+  }
+ ],
+ "ocr": {
+  "engine": "Kraken 7.1.1",
+  "model": "BiblIA_01 (doi:10.5281/zenodo.5468286)"
+ },
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.113,
+   "wer": 0.243,
+   "metric": "Levenshtein(raw,corrected)/corrected length; whitespace collapsed; status header and [RASHI-UNPROOFED] markers removed; punctuation and [?] retained"
+  }
+ },
+ "text_file": "../text/fol125b_spread128_right.txt",
+ "proofing_note": "Partly proofed page: square type checked against the page image; Rashi-type notes or rubrics, or other explicitly marked lines, await expert proofreading. Supplied markers are retained unchanged. Supplied CER/WER values are approximate."
+}

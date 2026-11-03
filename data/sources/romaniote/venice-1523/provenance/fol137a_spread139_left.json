@@ -1,0 +1,274 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 139,
+ "side": "left",
+ "folio": "137a",
+ "printed_folio_number": "קלז",
+ "running_head": "תפלות של פסח",
+ "catchword": null,
+ "signature": "יח א",
+ "contents": [
+  "Torah reading, Passover and second Passover in Numbers",
+  "Chol Hamoed Torah conclusion, Numbers 9",
+  "Last days of Passover: Psalm 18",
+  "Psalm 18 continuation, order for final festival days"
+ ],
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 5. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and [RASHI-UNPROOFED] retained as supplied"
+ },
+ "supplied_status_line": "PARTIAL — diplomatic transcription; square type checked against image",
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של פסח",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "קלז",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "וידבר משה אל־בני ישראל לעשת הפסח : ויעשו את־הפסח בראשון בארבעה עשר",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "יום לחדש בין הערבים במדבר סיני ככל אשר צוה ידוה את־משה כן עשו בני ישראל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ויהי אנשים אשר היו טמאים לנפש אדם ולא־יכלו לעשות הפסח ביום ההוא ויקרבו לפני",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "משה ולפני אהרן ביום ההוא : ויאמרו האנשים ההמה אליו אנחנו טמאים לנפש אדם",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "למה נגרע לבלתי הקריב את־קרבן ידוה במעדו בתוך בני ישראל : ויאמר אלהם משה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "עמדו ואשמעה מה־יצוה ידוה לכם : וידבר ידוה אל־משה לאמר :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "דבר אל־בני ישראל לאמר איש איש כי־יהיה טמא לנפש או בדרך רחקה לכם או לדרתיכם",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "ועשה פסח לידוה : בחדש השני בארבעה עשר יום בין הערבים יעשו אתו על־מצות",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "ומררים יאכלהו : לא־ישאירו ממנו עד־בקר ועצם לא ישברו־בו ככל־חקת הפסח יעשו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "אתו : והאיש אשר־הוא טהור ובדרך לא־היה וחדל לעשות הפסח ונכרתה הנפש",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "ההוא מעמיה כי קרבן ידוה לא הקריב במעדו חטאו ישא האיש ההוא : וכי־יגור אתכם",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "גר ועשה פסח לידוה כחקת הפסח וכמשפטו כן יעשה חקה אחת יהיה לכם ולגר ולאזרח",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "הארץ :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "סדר ימים אחרונים",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "[RASHI-UNPROOFED]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "טוב להודות ה' אלך וחחר כך חומר קודו לה ויקרח רעב כמו סכתוב",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "בימים רחפונים וים קהלות סחומרים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "למנצח לעבד ידוה לדוד אשר דבר לידוה את דברי השירה הזאת ביום",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "הציל ידוה אתו מכף כל אויביו ומיד שאול : ויאמר ארחמך",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "ידוה חזקי : ידוה סלעי ומצודתי ומפלטי אלי צורי אחסה בו מגני וקרן ישעי משגבי :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "מהלל אקרא ידוה ומן איבי אושע : אפפוני חבלי מות ונחלי בליעל יבעתני : חבלי שאול",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "סבבוני קדמוני מוקשי מות : בצר לי אקרא ידוה ואל אלהי אשוע ישמע מהיכלו קולי",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "ושועתי לפניו תבא באזניו : ותגעש ותרעש הארץ ומוסדי הרים ירגזו ויתגעשו כי חרה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "לו : עלה עשן באפו ואש מפיו תאכל גחלים בערו ממנו : ויט שמים וירד וערפל תחת",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "רגליו : וירכב על כרוב ויעף וידא על כנפי רוח : ישת חשך סתרו סביבותיו סכתו חשכת",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "מים עבי שחקים : מנגה נגדו עביו עברו ברד וגחלי אש : וירעם בשמים ידוה ועליון יתן",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "קלו ברד וגחלי אש : וישלח חציו ויפיצם וברקים רב ויהמם : ויראו אפיקי מים ויגלו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "מוסדות תבל מגערתך ידוה מנשמת רוח אפך : ישלח ממרום יקחני ימשני ממים רבים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "יצילני מאיבי עז ומשנאי כי אמצו ממני : יקדמוני ביום אידי ויהי ידוה למשען לי :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "ויוציאני למרחב יחלצני כי חפץ בי : יגמלני ידוה כצדקי כבור ידי ישיב לי : כי שמרתי",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "דרכי ידוה ולא רשעתי מאלהי : כי כל משפטיו לנגדי וחקתיו לא אסיר מני : ואהי תמים",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "עמו ואשתמר מעוני : וישב ידוה לי כצדקי כבר ידי לנגד עיניו : עם חסיד תתחסד עם",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "יח א",
+   "confidence": "low",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "3b544c65c988bb0245e592909699a0e01ac9ac10c4de23e6868787bf5e35557c",
+ "proofed": false,
+ "status": "partial",
+ "text_available": true,
+ "marginalia_regions": [
+  {
+   "kind": "handwriting",
+   "bbox": null,
+   "note": "Pencilled numerals in upper-left margin omitted."
+  },
+  {
+   "kind": "facing_page_overlap",
+   "bbox": [
+    2040,
+    1780,
+    2097,
+    2550
+   ],
+   "note": "Facing-page fragments at far right of gutter excluded."
+  }
+ ],
+ "ocr": {
+  "engine": "Kraken 7.1.1",
+  "model": "BiblIA_01 (doi:10.5281/zenodo.5468286)"
+ },
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.177,
+   "wer": 0.396,
+   "metric": "Levenshtein(raw,corrected)/corrected length; whitespace collapsed; status header and [RASHI-UNPROOFED] markers removed; punctuation and [?] retained"
+  }
+ },
+ "text_file": "../text/fol137a_spread139_left.txt",
+ "proofing_note": "Partly proofed page: square type checked against the page image; Rashi-type notes or rubrics, or other explicitly marked lines, await expert proofreading. Supplied markers are retained unchanged. Supplied CER/WER values are approximate."
+}

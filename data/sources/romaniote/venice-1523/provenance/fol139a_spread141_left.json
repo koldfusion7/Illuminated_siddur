@@ -1,0 +1,297 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 141,
+ "side": "left",
+ "folio": "139a",
+ "printed_folio_number": "קלט",
+ "running_head": "תפלות של פסח",
+ "catchword": null,
+ "signature": "יח ג",
+ "contents": [
+  "Yotzer דויושע: אתה הארת",
+  "Sea-crossing yotzer continuation with Song of the Sea quotations"
+ ],
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 5. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and [RASHI-UNPROOFED] retained as supplied"
+ },
+ "supplied_status_line": "PROOFED",
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של פסח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "קלט",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "אתה הארת יומם ולילה לפני מחני ˙ אחרי רדפו מרכבות מעני ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "אבדת גופם על שפת ים ראו עיני אמונים שהדו ביום ההוא ויושע ידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ברית בתרים הזהיר כדיין וגואל ˙ בנטותו זרועו וגדולת יד כאל ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "בכן עם ויריאיו להאמין שהוא אל ˙ בלועים הקיא ים סוף וירא ישראל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "גאולים יצאו מעבדות לחירות חפושי ˙ גשו לים סוף ולמות אנושי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "גאים רדפו ואבדו בגלי ים חלושי ˙ גאה גאה שיר ישועה אז ישיר משה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "דפק פתחי לי ישנה בנפש בזויה ˙ דרור נחת מעבדות לחירות עטויה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "דודה הוציאה בזרוע נטויה ˙ דובבו יונקים זה אלי עזי וזמרת יה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "הלכו בתוך ים והמים להם חומה ˙ הוליכם בתהומות כבבקעה אדם ובהמה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "הבאים אחריהם טבע באף ובחימה ˙ הדורים שבחו לשמו ידוה איש מלחמה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "ויחזק לבו לרדוף עם כל צבא קהלו ˙ ושש מאות רכב בחור לקח לו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "ויורם בחצי אש המם והבהילו ˙ וטובעו בים סוף מרכבות פרעה וחילו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "זממו פן ירבה עצי מוללימו ˙ זעו בפרך והכבידו עולימו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "זדון מחשבותיו נהפך עלימו ˙ זורקי ילוד במי ים תהומות יכסיומו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "חותם על הרי בתר נקמת דיני ˙ חבל נוגשי ודן דיני ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "חולקו בגלי ים פגרי מדייני ˙ חזקתני בכח נאדרי ימינך ידוה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "טומנו בנגף בכורי שוטניך ˙ טורדו פעמי צוררי אמוניך ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "טבעו בלב תהום רודפי המוניך ˙ טואטאו קמיך בחרון וברב גאונך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "ירית באש וענן חצי רשפיך ˙ ירדו על מחנות צבא מחרפך ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "יען כי רדפו אחר עם מצפיך ˙ יקפת תהום בקרח וברוח אפך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "כנס כל עמו יהיר חסר לב ˙ כעסו העיר לרדוף כדוב אורב ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "כחופר בור ולנפול בו חוייב ˙ כלה להוריש שור ושה אמר אויב :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "לשפוט זרים במי מבול יספת ˙ לאדירי מים כדגים לרשת אספת ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "ללוחצי עמך מכות על מכות הוספת ˙ לכסותם במי ים ברוחך נשפת :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "מושעי ים סוף בשירה קדמוך ˙ מספרים מעשיך יחד הנעימוך ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "מנשאים כבודך בהלול רוממוך ˙ משבחים לשמך כמו ידוה מי כמוכה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "נאנחת מעבדות ואוזן הטית ˙ נקמה לבשת וקנאה עטית ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "נוגשמו גערת וכולם טאטאת ˙ נבלתם בלוע גיא ימינך נטית :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "סובלי עול כבר לחצם ראית ˙ סכורי כור ברזל לוחציהם דחית ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "סוסנמו סערת ולב תהום דחות ˙ סמוכים על שם קדשך בחסדך נחית :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "עורר סערה בשאגת רעמים ˙ עובר זדים במשברי ימים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "עריץ ואים והשפיל רמים ˙ עלילות נסי נוראותיו שמעו עמים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "פדויים לחירות לגואלם הללוך ˙ פזורי כנען רגזו וחלו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 36,
+   "text": "יח ג",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "3edfe5aa0b720d2f38fb388c79e8260f06ff351f4de3db812173db17c608818b",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "marginalia_regions": [
+  {
+   "kind": "handwriting",
+   "bbox": [
+    190,
+    150,
+    370,
+    300
+   ],
+   "note": "Pencilled numeral-like annotation in upper-left margin, omitted."
+  },
+  {
+   "kind": "facing_page_overlap",
+   "bbox": [
+    2000,
+    0,
+    2097,
+    3006
+   ],
+   "note": "Facing-page print beyond far-right gutter excluded."
+  },
+  {
+   "kind": "handwriting",
+   "bbox": null,
+   "note": "Faint diagonal pencil stroke, omitted. blank left margin roughly x390–430 y1200–1240"
+  },
+  {
+   "bbox": [
+    1875,
+    2530,
+    1930,
+    2600
+   ],
+   "type": "tiny faint handwritten hook in gutter-side blank margin",
+   "transcribed": false
+  }
+ ],
+ "ocr": {
+  "engine": "Kraken 7.1.1",
+  "model": "BiblIA_01 (doi:10.5281/zenodo.5468286)"
+ },
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.158,
+   "wer": 0.388,
+   "metric": "Levenshtein(raw,corrected)/corrected length; whitespace collapsed; status header and [RASHI-UNPROOFED] markers removed; punctuation and [?] retained"
+  }
+ },
+ "text_file": "../text/fol139a_spread141_left.txt"
+}

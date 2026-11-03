@@ -1,0 +1,297 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 134,
+ "side": "right",
+ "folio": "131b",
+ "printed_folio_number": null,
+ "running_head": "תפלות של פסח",
+ "catchword": "תודה",
+ "signature": null,
+ "contents": [
+  "Second-night Passover evening piyyut, ליל שמורים, continuation",
+  "תפלות של פסח — ליל שמורים piyyut continuation",
+  "Conclusion of ליל שמורים piyyut",
+  "Post-evening and morning-service rubrics, Rashi type unproofed",
+  "פתיחה לרבי שבתי חביב"
+ ],
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 5. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and [RASHI-UNPROOFED] retained as supplied"
+ },
+ "supplied_status_line": "PARTIAL — diplomatic transcription; square type checked against image",
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של פסח",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "ליל שמורים השעיר בתי פלך ˙ ויבא אלהים אל אבימלך ˙ בלילי חג פסח :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "ליל שמורים ויוכח טוען ועקוב ˙ השמר לך מדבר עם יעקב ˙ בלילי חג פסח :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "ליל שמורים זורז בחיל נעימו ˙ ויאבק איש עמו ˙ בלילי חג פסח :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ליל שמורים חלק עשות נוראים ˙ ויך כל בכור במצרים ˙ בלילי חג פסח :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "ליל שמורים טיכס בעזים נתיבה ˙ וישם את הים לחרבה ˙ בלילי חג פסח :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "ליל שמורים ירודון מלאכי רזי ˙ ולא קרב זה אל זה ˙ בלילי חג פסח :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "ליל שמורים כבש קריה לתוהו ˙ וילן שם בלילה הוא ˙ בלילי חג פסח :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "ליל שמורים לוחצי עמו נחלמו ˙ מן שמים נלחמו ˙ בלילי חג פסח :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "ליל שמורים מחנות צוררים הפך ˙ והנה צליל שעורים מתהפך ˙ בלילי חג פסח :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "ליל שמורים נועדו כל בני שור ˙ ויך אלהים במחנה אשור ˙ בלילי חג פסח :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "ליל שמורים סדרי קדושה הנטול ˙ ביה בליליא קטיל ˙ בלילי חג פסח :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "ליל שמורים עתיד לאיש חסידיו ˙ כי אם גלה סודו אל עבדיו ˙ בלילי חג פסח :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "ליל שמורים פי אריות סתם ˙ מפותחות פתוחי חותם ˙ בלילי חג פסח :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "ליל שמורים צוה ישועות עמדה ˙ בלילה ההוא נדדה ˙ בלילי חג פסח :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "ליל שמורים קוים עוד לאחרונות ˙ את ספר הזכרונות ˙ בלילי חג פסח :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "ליל שמורים רבה עוז ישועות ˙ האל לנו אל למושעות ˙ בלילי חג פסח :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "ליל שמורים שמור לשיר יוחג ˙ בליל התקדש חג ˙ בלילי חג פסח :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "ליל שמורים תמוך לשמע גמולה ˙ יוסף שנית לגאלה ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "בראשם יעלו קבוצי גולה ˙ ועליהם כבודך נגלה :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "ליל שמורים טבע זכרו לדורות ˙ יומו לענות בחוק גזירות :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "בליל התקדש חג בו הדרות ˙ לבוקע ים סוף שירות באדרות :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "ליל שמורים מועד יציאת גאולים ˙ נועד ראשון וראש לרגלים ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "סגנון עולה ודברים נגלים ˙ עוברי עמק עלות נגאלים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "ליל שמורים פקח קוח שבי ואוסר ˙ צמח להרים קרנות עשר ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "קולות להשמיע קול מבשר ˙ שלום תחיש וטוב נתבשר :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "[RASHI-UNPROOFED]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "ומתסללין ערבות ותפלה כסדר ליל רחסון וחחר התפלה חומר קדים | ועורוד | אזת | חולון | סם",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "לספור העומר מליל ב' וחילך ודי ספירת העורר כתוב בסוף סרר הפסח [בח'] | כם | חה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "שחרית",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "[RASHI-UNPROOFED]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "מסכימין לב'ה ומסררין הברכות כסדר ועומר סלי",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "פתיחם וקוח כתוב בפתיחות :/]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "פתיחה לרבי שבתי חביב",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "שירו נאמני ˙ משכילי ונבוני ˙ שיר חדש לידוה : שירו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 36,
+   "text": "בית יעקב ברכו ˙ לאלהים רון ערכו ˙ פסח הוא לידוה : שירו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 37,
+   "text": "תודה",
+   "confidence": "low",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "c696b48eb133064be42ea3fcd4448625bec32ed2308542c6fbb7ae3a8f2db523",
+ "proofed": false,
+ "status": "partial",
+ "text_available": true,
+ "marginalia_regions": [
+  {
+   "kind": "handwriting",
+   "bbox": [
+    1750,
+    230,
+    1950,
+    335
+   ],
+   "note": "Pencil numeral omitted"
+  },
+  {
+   "kind": "handwriting",
+   "bbox": [
+    800,
+    2660,
+    950,
+    2740
+   ],
+   "note": "Faint curved mark in lower margin, no readable letters, omitted."
+  },
+  {
+   "kind": "facing_page_overlap",
+   "bbox": null,
+   "note": "Facing-page letters beyond gutter excluded; see proof band notes."
+  }
+ ],
+ "ocr": {
+  "engine": "Kraken 7.1.1",
+  "model": "BiblIA_01 (doi:10.5281/zenodo.5468286)"
+ },
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.154,
+   "wer": 0.378,
+   "metric": "Levenshtein(raw,corrected)/corrected length; whitespace collapsed; status header and [RASHI-UNPROOFED] markers removed; punctuation and [?] retained"
+  }
+ },
+ "text_file": "../text/fol131b_spread134_right.txt",
+ "proofing_note": "Partly proofed page: square type checked against the page image; Rashi-type notes or rubrics, or other explicitly marked lines, await expert proofreading. Supplied markers are retained unchanged. Supplied CER/WER values are approximate."
+}

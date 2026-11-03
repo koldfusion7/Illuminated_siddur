@@ -1,0 +1,306 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 128,
+ "side": "left",
+ "folio": "126a",
+ "printed_folio_number": "קכו",
+ "running_head": "תפלות ליום ראשון של פסח",
+ "catchword": null,
+ "signature": null,
+ "contents": [
+  "Musaf festival blessing and offerings"
+ ],
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 5. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and [RASHI-UNPROOFED] retained as supplied"
+ },
+ "supplied_status_line": "PARTIAL — square type proofed; Rashi rubrics retained raw",
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות ליום ראשון של פסח",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "קכו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "אתה בחרתנו מכל העמים אהבת אותנו רצית בנו רוממתנו מכל הלשונות",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "קדשתנו במצותיך וקרבתנו מלכנו לעבודתך ושמך הגדול והקדוש",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "עלינו קראת ותתן לנו ידוה אלהינו באהבה שבתות למנוחה מועדים לשמחה חגים וזמנים",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "לששון ימים טובים לישועה את יום המנוח ואת יום חג המצות הזה זמן חירותינו באהבה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "מקרא קדש זכר ליציאת מצרים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "ומפני חטאינו גלינו מארצנו ונתרחקנו מעל אדמתינו ואין אנו יכולים",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "לעלות ולראות בבית בחירתך בבית הגדול והקדוש שנקרא",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "שמך עליו ומפני היד שנשתלחה בבית מקדשך ובכן יהי רצון מלפניך אב הרחמן שתשוב",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "ותרחם עלינו ותבנהו מהרה ותגדל כבודו בימינו אלהינו ואלהי אבותינו גלה כבוד",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "מלכותך ומלוך עלינו מהרה והופע והנשא עלינו לעיני כל חי וקרב פזורינו מן הגוים",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "נפוצותינו כנס מירכתי הארץ והביאנו ידוה אלהינו בציון עירך ברינה ולירושלם עיר",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "מקדשך בשמחת עולם ושם נעשה לפניך את קרבנות חובותינו תמידין כסדרן ומוספין",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "כהלכתן ומוסף יום המנוח ויום חג המצות נעשה ונקריב לפניך באהבה כמצות",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "רצונך כמו שכתבת עלינו בתורתך על ידי משה עבדך מפי כבודך :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "וביום השבת שני כבשים בני שנה תמימים ושני עשרונים סלת מנחה בלולה בשמן",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "ונסכו עולת שבת בשבתו על עולת התמיד ונסכה :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "ובחדש הראשון בארבעה עשר יום לחדש פסח לידוה ובחמשה עשר יום לחדש הזה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "חג שבעת ימים מצות יאכל : ביום הראשון מקרא קדש כל מלאכת עבודת",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "לא תעשו :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "[RASHI-UNPROOFED]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "חכחן אתחיל מיום ג וחילך",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "והקרבתם אשה עולה לידוה פרים בני בקר שנים ואיל אחד ושבעה כבשים בני שנה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "תמימים יהיו לכם : ומנחתם סלת בלולה בשמן שלשה עשרונים לפר",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "ושני עשרונים לאיל תעשו : עשרון עשרון תעשה לכבש האחד לשבעת הכבשים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "ושעיר חטאת אחד לכפר עליכם : מלבד עולת הבקר אשר לעולת התמיד תעשו את",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "אלה : כאלה תעשו ליום שבעת ימים לחם אשה ריח ניחוח לידוה על עולת התמיד יעשה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "ונסכו :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "[RASHI-UNPROOFED]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "ובב ימים אחרונים אחר ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "וביום השביעי מקרא קדש יהיה לכם כל",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "מלאכת עבודה לא תעשו : מלך רחמן רחם עלינו טוב ומטיב הדרש לנו שובה עלינו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "בהמון רחמיך בגלל אבותינו שעשו רצונך בנה ביתך כבתחלה שכלל היכלך כבראשונה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "והראנו בבנינו שמחנו בתקונו והשב כהנים בעבודתם ולוים בדוכנם וישראל במעמדם",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 36,
+   "text": "ושם נעלה ונראה ונשתחוה בשלוש פעמי רגלינו ככתוב בתורתך שלש פעמים בשנה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 37,
+   "text": "יראה כל זכורך את פני ידוה אלהיך במקום אשר יבחר בחג המצות ובחג השבועות ובחג",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 38,
+   "text": "הסכות ולא יראה את פני ידוה ריקם : איש כמתנת ידו כברכת ידוה אלהיך אשר נתן לך :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 39,
+   "text": "והשיאנו ידוה אלהינו את ברכת שבתותיך מועדיך לחיים ולשלום כאשר רצית",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 40,
+   "text": "ואמרת לברכנו כן ברכנו סלה ˙ קדשנו במצותיך תן חלקנו בתורתך",
+   "confidence": "low",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "bed3cf1c2fab272055e9f65fb3cd3c28614e6b75aff5e4e9d18b1925b46d49ac",
+ "proofed": false,
+ "status": "partial",
+ "text_available": true,
+ "marginalia_regions": [
+  {
+   "kind": "handwriting",
+   "bbox": [
+    140,
+    150,
+    390,
+    300
+   ],
+   "note": "Pencilled 251 and blue outer-margin marks; excluded."
+  },
+  {
+   "kind": "facing_page_overlap",
+   "bbox": [
+    2030,
+    200,
+    2097,
+    2700
+   ],
+   "note": "Facing-page letters beyond right gutter excluded."
+  }
+ ],
+ "ocr": {
+  "engine": "Kraken 7.1.1",
+  "model": "BiblIA_01 (doi:10.5281/zenodo.5468286)"
+ },
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.098,
+   "wer": 0.238,
+   "metric": "Levenshtein(raw,corrected)/corrected length; whitespace collapsed; status header and [RASHI-UNPROOFED] markers removed; punctuation and [?] retained"
+  }
+ },
+ "text_file": "../text/fol126a_spread128_left.txt",
+ "proofing_note": "Partly proofed page: square type checked against the page image; Rashi-type notes or rubrics, or other explicitly marked lines, await expert proofreading. Supplied markers are retained unchanged. Supplied CER/WER values are approximate."
+}
