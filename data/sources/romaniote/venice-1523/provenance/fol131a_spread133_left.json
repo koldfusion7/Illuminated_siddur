@@ -1,0 +1,280 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 133,
+ "side": "left",
+ "folio": "131a",
+ "printed_folio_number": "קלא",
+ "running_head": "תפלות של פסח",
+ "catchword": null,
+ "signature": "ז ג",
+ "contents": [
+  "Song of Songs, continuation of chapter 1 through chapter 2",
+  "תפלות של פסח — Song of Songs reading, chapter 2",
+  "Second Passover evening service rubrics, Rashi type unproofed",
+  "Piyyut ליל שמורים"
+ ],
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 5. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and [RASHI-UNPROOFED] retained as supplied"
+ },
+ "supplied_status_line": "PARTIAL — diplomatic transcription; square type checked against image",
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של פסח",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "אחריך נרוצה הביאני המלך חדריו נגילה ונשמחה בך נזכירה דדיך מיין מישרים אהבוך :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "שחורה אני ונאוה בנות ירושלם כאהלי קדר כיריעות שלמה : אל־תראוני שאני",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "שחרחרת ששזפתני השמש בני אמי נחרו־בי שמני נטרה את־הכרמים כרמי שלי לא נ",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "טרתי : הגידה לי שאהבה נפשי איכה תרעה איכה תרביץ בצהרים שלמה אהיה כעטיה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "על עדרי חבריך : אם־לא תדעי לך היפה בנשים צאי־לך בעקבי הצאן ורעי את גדיתיך",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "על משכנות הרעים : לססתי ברכבי פרעה דמיתיך רעיתי : נאוו לחייך בתורים צוארך",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "בחרוזים : תורי זהב נעשה לך עם נקדות הכסף : עד־שהמלך במסבו נרדי נתן ריחו :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "צרור המר דודי לי בין שדי ילין : אשכל הכפר דודי לי בכרמי עין גדי : הנך יפה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "רעיתי הנך יפה עיניך יונים : הנך יפה דודי אף נעים אף ערשנו רעננה : קרות",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "בתינו ארזים רחיטנו ברותים : אני חבצלת השרון שושנת העמקים : כשושנה בין",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "החוחים כן רעיתי בין הבנות : כתפוח בעצי היער כן דודי בין הבנים בצלו חמדתי",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "וישבתי ופריו מתוק לחכי : הביאני אל־בית היין ודגלו עלי אהבה : סמכוני באשישות",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "רפדוני בתפוחים כי חולת אהבה אני : שמאלו תחת לראשי וימינו תחבקני :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "השבעתי אתכם בנות ירושלם בצבאות או באילות השדה אם־תעירו ואם־תעוררו את־",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "האהבה עד שתחפץ : קול דודי הנה זה בא מדלג על־ההרים מקפץ על־הגבעות :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "דומה דודי לצבי או לעפר האילים הנה זה עומד אחר כתלנו משגיח מן החלנות מציץ מן־",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "החרכים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "ענה דודי ואמר לי קומי לך רעיתי יפתי ולכי־לך : כי הנה הסתו עבר",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "הגשם חלף הלך לו : הנצנים נראו בארץ עת הזמיר הגיע וקול התור נשמע בארצנו :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "התאנה חנטה פגיה והגפנים סמדר נתנו ריח קומי לכי רעיתי יפתי ולכי־לך : יונתי בחגוי",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "הסלע בסתר המדרגה הראיני את־מראיך השמיעיני את־קולך כי קולך ערב ומראך נאוה :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "אחזו לנו שעלים שעלים קטנים מחבלים כרמים וכרמינו סמדר : דודי לי ואני לו הרעה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "בשושנים : עד שיפוח היום ונסו הצללים סב דמה לך דודי לצבי או לעפר האילים על־",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "הרי בתר :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "[RASHI-UNPROOFED]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "והנו לקרעיב עברן ביום ח' כדי לחכול חבה לתיחבון בליל ב' אספק וחי' קובעין בו סעורה | בעוד יום",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "ערבית ככנסין לבית הכנסת ומתפללין כסדר סל חתמול וים קקלות סחומ",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "במקום ליל סימורים מעריב זם בליל סכי :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "ליל שמורים אור עולמו נגלה ˙ בצאתו לשבור מוטות עגלה ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "גוי מקרב גוי באותות לגאלה ˙ דור דורשיך בקר וגם לילה :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "ליל שמורים אאמיץ עוז גדולות ˙ לעושה נפלאות גדולות ˙ בלילי חג פסח :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "ליל שמורים בראות עולמו נגלה ˙ ויאר את הלילה ˙ בלילי חג פסח :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "ליל שמורים גלגל עריצים להלום ˙ ירדפם יעבור שלום ˙ בלילי חג פסח :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "ליל שמורים דולקים אחר נגלו ˙ ומצות אפה ויאכלו ˙ בלילי חג פסח :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 36,
+   "text": "ז ג",
+   "confidence": "low",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "9b318e2009697ce1e381debffc769c2206c1b6c55e30398834aef85458ff3a6f",
+ "proofed": false,
+ "status": "partial",
+ "text_available": true,
+ "marginalia_regions": [
+  {
+   "kind": "handwriting",
+   "bbox": [
+    140,
+    180,
+    240,
+    265
+   ],
+   "note": "Pencil numeral omitted"
+  },
+  {
+   "kind": "facing_page_overlap",
+   "bbox": null,
+   "note": "Facing-page letters beyond gutter excluded; see proof band notes."
+  }
+ ],
+ "ocr": {
+  "engine": "Kraken 7.1.1",
+  "model": "BiblIA_01 (doi:10.5281/zenodo.5468286)"
+ },
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.135,
+   "wer": 0.376,
+   "metric": "Levenshtein(raw,corrected)/corrected length; whitespace collapsed; status header and [RASHI-UNPROOFED] markers removed; punctuation and [?] retained"
+  }
+ },
+ "text_file": "../text/fol131a_spread133_left.txt",
+ "proofing_note": "Partly proofed page: square type checked against the page image; Rashi-type notes or rubrics, or other explicitly marked lines, await expert proofreading. Supplied markers are retained unchanged. Supplied CER/WER values are approximate."
+}

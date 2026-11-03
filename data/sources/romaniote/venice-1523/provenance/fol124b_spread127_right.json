@@ -1,0 +1,282 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 127,
+ "side": "right",
+ "folio": "124b",
+ "printed_folio_number": null,
+ "running_head": "הפטרה ליום ראשון של פסח",
+ "catchword": "היום",
+ "signature": null,
+ "contents": [
+  "Torah conclusion; between-scroll verses; maftir; Joshua 5 Haftarah"
+ ],
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 5. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and [RASHI-UNPROOFED] retained as supplied"
+ },
+ "supplied_status_line": "PARTIAL — square type proofed; Rashi rubrics retained raw",
+ "lines": [
+  {
+   "n": 1,
+   "text": "הפטרה ליום ראשון של פסח",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "ארץ הכנעני והחתי והאמרי והחוי והיבוסי אשר נשבע לאבתיך לתת לך ארץ זבת חלב",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "ודבש ועבדת את העבדה הזאת בחדש הזה : שבעת ימים תאכל מצת וביום השביעי חג",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "לידוה : מצות יאכל את שבעת הימים ולא יראה לך חמץ ולא יראה לך שאר בכל גבלך :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "והגדת לבנך ביום ההוא לאמר בעבור זה עשה ידוה לי בצאתי ממצרים : והיה לך לאות",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "על ידך ולזכרון בין עיניך למען תהיה תורת ידוה בפיך כי ביד חזקה הוציאך ידוה ממצרים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "ושמרת את החקה הזאת למועדה מימים ימימה :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "[RASHI-UNPROOFED]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "וחומר קדים וחומר חלק הפסוקים בין ספר לספר",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "אלהים השיבנו והאר פניך ונושעה : ידוה אלהים השיבנו והאר פניך ונושעה :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "ידוה אלהים צבאות השיבנו והאר פניך ונושעה :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "אין כאל ישרון רכב שמים בעזרך ובגאותו שחקים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "[RASHI-UNPROOFED]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "וחם חל סבת בינו חין חומרים ופותחין ספר סני וקורחין בפרסת פנחס קרבן היום ובחדם הרחטון",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "ובחדש הראשון בארבעה עשר יום לחדש פסח לידוה : ובחמשה עשר יום",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "לחדש הזה חג שבעת ימים מצות יאכל : ביום הראשון מקרא קדש כל",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "מלאכת עבדה לא תעשו : והקרבתם אשה עלה לידוה פרים בני בקר שנים ואיל אחד",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "ושבעה כבשים בני שנה תמימים יהיו לכם : ומנחתם סלת בלולה בשמן שלשה עשרנים",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "לפר ושני עשרנים לאיל תעשו : עשרון עשרון תעשה לכבש האחד לשבעת הכבשים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "ושעיר חטאת אחד לכפר עליכם : מלבד עלת הבקר אשר לעלת התמיד תעשו את אלה :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "כאלה תעשו ליום שבעת ימים לחם אשה ריח ניחח לידוה על עולת התמיד יעשה ונסכו :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "וביום השביעי מקרא קדש יהיה לכם כל מלאכת עבודת לא תעשו :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "[RASHI-UNPROOFED]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "ומכטר | יהונם",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "הפטרה ליום ראשון של פסח",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "בעת ההיא אמר ידוה אל יהושע עשה לך חרבות צורים ושוב מל את בני",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "ישראל שנית : ויעש לו יהושע חרבות צורים וימל את בני ישראל אל",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "גבעת הערלות : וזה הדבר אשר מל יהושע כל העם היוצא ממצרים הזכרים כל אנשי",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "המלחמה מתו במדבר בדרך בצאתם ממצרים : כי מולים היו כל העם היוצאים וכל העם",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "הילדים במדבר בדרך בצאתם ממצרים לא מלו : כי ארבעים שנה הלכו בני ישראל",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "במדבר עד תם כל הדור אנשי המלחמה היוצאים ממצרים אשר לא שמעו בקול ידוה אשר",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "נשבע ידוה להם לבלתי הראותם את הארץ אשר נשבע ידוה לאבותם לתת לנו ארץ זבת",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "חלב ודבש ואת בניהם הקים תחתם אתם מל יהושע כי ערלים היו כי לא מלו אותם בדרך :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "ויהי כאשר תמו כל הגוי להמול וישבו תחתם במחנה עד חיותם : ויאמר",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "ידוה אל יהושע היום גלותי את חרפת מצרים מעליכם ויקרא שם המקום ההוא גלגל עד",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 36,
+   "text": "היום",
+   "confidence": "low",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "8b1794faaf309cfd3349116c18db3683ec63988f45c1b56903d9e72c692dd682",
+ "proofed": false,
+ "status": "partial",
+ "text_available": true,
+ "marginalia_regions": [
+  {
+   "kind": "handwriting",
+   "bbox": [
+    1730,
+    150,
+    1950,
+    300
+   ],
+   "note": "Pencilled upper outer-margin number 248; excluded."
+  },
+  {
+   "kind": "facing_page_overlap",
+   "bbox": [
+    0,
+    200,
+    180,
+    2700
+   ],
+   "note": "Facing-page fragments beyond left gutter excluded."
+  }
+ ],
+ "ocr": {
+  "engine": "Kraken 7.1.1",
+  "model": "BiblIA_01 (doi:10.5281/zenodo.5468286)"
+ },
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.085,
+   "wer": 0.186,
+   "metric": "Levenshtein(raw,corrected)/corrected length; whitespace collapsed; status header and [RASHI-UNPROOFED] markers removed; punctuation and [?] retained"
+  }
+ },
+ "text_file": "../text/fol124b_spread127_right.txt",
+ "proofing_note": "Partly proofed page: square type checked against the page image; Rashi-type notes or rubrics, or other explicitly marked lines, await expert proofreading. Supplied markers are retained unchanged. Supplied CER/WER values are approximate."
+}

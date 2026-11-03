@@ -1,0 +1,288 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 129,
+ "side": "left",
+ "folio": "127a",
+ "printed_folio_number": "קכז",
+ "running_head": "יוצר ליום ראשון של פסח",
+ "catchword": null,
+ "signature": null,
+ "contents": [
+  "Passover Musaf dew piyyutim; ארשה and אזכרה"
+ ],
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 5. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and [RASHI-UNPROOFED] retained as supplied"
+ },
+ "supplied_status_line": "PARTIAL — diplomatic transcription; square type checked against image",
+ "lines": [
+  {
+   "n": 1,
+   "text": "יוצר ליום ראשון של פסח",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "קכז",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "טל זכרו גבורות מוסיפים ˙ חקוק בגישת מוספים ˙ טל להחיות בו נקוקי סעיפים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "ארשה ארוש רחשון ˙ בארש ניב ולשון ˙ אתחין בחין לחשון ˙ דבכי מלעשון :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "בעד נצורי באישון ˙ אפגעה בלי לישון ˙ בקשה כשי נחשון ˙ ארצה בראשון :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "גרוני בל ינטל ˙ מקרוא לרם ונוטל ˙ גוי בל יוטל ˙ מלהזכיר גבורות טל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "דעי בל יבטל ˙ רשות מלטל ˙ דודי יחנטל ˙ בשיח תפילת טל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "המון לו נכסף ˙ לעדת אל אאסף ˙ הוא אתם יתאסף ˙ ולמעשיו יכסף :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "ואתיצב בסף ˙ לחלות פני יסף ˙ ואמרת טל אחסף ˙ לחברנה במוסף :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "זכר משאת בר ˙ ואבב נשיקות בר ˙ זעק פי יוכבר ˙ ושיח לשוני יוגבר :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "חן וחסד יחבר ˙ לחנני על דבר ˙ חשרת מים יועבר ˙ כי הנה הסתו עבר :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "[?]עם רנון ˙ [?] שנון ˙ טלתי בתחנון ˙ את פני חנון :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]עם",
+    "[?]"
+   ]
+  },
+  {
+   "n": 13,
+   "text": "ושישי לחנון ˙ בזכר יין לבנון ˙ ירועי לגנון ˙ פסוח וגנון :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "בשרים וכחוללים ˙ אהולל כבחלילים ˙ מפי עוללים ˙ אשורר הלולים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "לישא דיע פלילים ˙ צנתי במסלולים ˙ להזכיר בפילולים ˙ שיוע גבורות טללים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "מטעם זקנים ˙ אתבונן עד זקונים ˙ מורים תקונים ˙ כדת מתוקנים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "נופת נבונים ˙ בינת עם מבינים ˙ נטיעת דרבונים ˙ תוכני בין שני לחות אבנים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "שפתי בשוע אפתח ˙ כאולם המפותח ˙ שיחות פי אפתח ˙ כאיתון אשר פתח :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "עוז וכח לי יפתח ˙ כדוק אשר מתח ˙ עב טל יפתח ˙ וחורב לבל יורתח :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "פני רם ונשא ˙ עין בחין אשא ˙ פארו לנוססה ˙ כמו כטל נוסה :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "צבאיו לו אגייסה ˙ ואתם אתגייסה ˙ צעק בעדם אתגסה ˙ ולא ברוח גסה :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "קמתי ממשפתים ˙ להפגיע בעד לני שפתים ˙ קול מה אתן בשפתותים ˙ והן אני ערל שפתים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "רון בלי עצרתים ˙ ערכתי במחנותים ˙ רחשתי גשות שתים ˙ בעד שאלות שתים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "שורות חנתי למטר ˙ בלוקשו גיא לעטר ˙ שבתי עוד לקחי לנטר ˙ מתבוע ערף מטר :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "תפלת גבורות טל ˙ חלתי בצוהר לנטל ˙ תזל אמרתי כטל ˙ לקחי רסיסי טל : ככת בתורתך",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "יערוף כמטר לקחי תזל כטל אמרתי כשעירים עלי דשא וכרביבים עלי עשב :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "ונאמר ידוה שפתי תפתח ופי יגיד תהלתך ˙ ונאמר ברוך אתה ידוה למדני חוקך :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "אזכרה בני איש ˙ המושרד בטל ˙ אועד אתם ˙ לחנן בעד טל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "בפתחון פי ˙ אבשר בקהל רב ˙ זכר גבורות טל ˙ אחלה פני צורם ˙ בזיל אמרת טל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "בהפיקי מען ˙ איחלנו עלי טל ˙ במענה לשוני ˙ ארצנו עלי טל ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "גל ביני ובינו ˙ ירצה כרסים טל ˙ בגשתי צקוני ˙ יעל בשכבת טל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "גמר מאז אומר ˙ סיום אות טל ˙ גלוי לכל כאש אוכלת ˙ ולי בפריחת טל ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "דרוש וחקור מאז ˙ היות לי כטל ˙ גם בהופיעו בי ˙ דפק בראש נמלא טל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "דת קנוית קדם ˙ וחילש היטל ˙ דוק וחלד לכונן ˙ בקץ עתות טל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "רשות מנה נטל ˙ דיעה בה נועץ ˙ ומאום לא בטל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 12,
+   "span": "[?]עם"
+  },
+  {
+   "line": 12,
+   "span": "[?]"
+  }
+ ],
+ "sha256_text": "a1eac53df7bb5e5d7833067c52d5f602d31b232fb629bd4c736f15f0fcf98939",
+ "proofed": false,
+ "status": "partial",
+ "text_available": true,
+ "marginalia_regions": [
+  {
+   "kind": "handwriting",
+   "bbox": [
+    150,
+    100,
+    500,
+    300
+   ],
+   "note": "Pencil foliation/blue outer-margin marks omitted."
+  },
+  {
+   "kind": "facing_page_overlap",
+   "bbox": [
+    2030,
+    200,
+    2097,
+    2800
+   ],
+   "note": "Letters beyond right gutter excluded."
+  }
+ ],
+ "ocr": {
+  "engine": "Kraken 7.1.1",
+  "model": "BiblIA_01 (doi:10.5281/zenodo.5468286)"
+ },
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.159,
+   "wer": 0.337,
+   "metric": "Levenshtein(raw,corrected)/corrected length; whitespace collapsed; status header and [RASHI-UNPROOFED] markers removed; punctuation and [?] retained"
+  }
+ },
+ "text_file": "../text/fol127a_spread129_left.txt",
+ "proofing_note": "Partly proofed page: square type checked against the page image; Rashi-type notes or rubrics, or other explicitly marked lines, await expert proofreading. Supplied markers are retained unchanged. Supplied CER/WER values are approximate."
+}

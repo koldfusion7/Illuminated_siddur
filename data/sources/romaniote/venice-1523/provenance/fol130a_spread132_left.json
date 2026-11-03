@@ -1,0 +1,286 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 132,
+ "side": "left",
+ "folio": "130a",
+ "printed_folio_number": "קל",
+ "running_head": "תפלות של פסח",
+ "catchword": null,
+ "signature": "ז ב",
+ "contents": [
+  "Dew piyyut continuation with biblical dew quotations",
+  "תפלות של פסח — preceding dew piyyut conclusion",
+  "Unproofed Rashi-type instruction",
+  "Dew piyyut beginning אלהינו ואלהי אבותינו אמונים החסורים",
+  "Tal petition continuation"
+ ],
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 5. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and [RASHI-UNPROOFED] retained as supplied"
+ },
+ "supplied_status_line": "PARTIAL — diplomatic transcription; square type checked against image",
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של פסח",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "קוראיך לטוב תקוב ˙ להסיר מהם לב עקוב ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "טל קמות בלי לעקוב ˙ לשכון בדד עין יעקב :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "ככתוב בתורתך וישכון ישראל בטח בדד עין יעקב אל ארץ דגן ותירוש אף שמיו יערפו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "טל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "רשע מר מדלי ˙ מצלם החדילי ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "טל רסיסים תדלי ˙ להזיל לגדאי מגדלי ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "רשף נצוצים באור חדק ˙ בצל צלמון [?]ורם לחדק ˙",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]ורם"
+   ]
+  },
+  {
+   "n": 9,
+   "text": "טל רחף עלי זו בצדק ˙ ושחקים ירעפו טל ויזלו צדק ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "ככתוב בדברי קדשך בדעתו תהומות נבקעו ושחקים ירעפו טל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "שפר אסמו טל דר ˙ בקדש נאדר ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "טל שתולים יהדר ˙ החנוטים מאדר ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "טל תרשיש אבי ושנה ˙ להפריח כטל שושנה :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "ככתוב על ידי נביאך אהיה כטל לישראל יפרח כשושנה ויך שרשיו כלבנון :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "[RASHI-UNPROOFED]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "ים קסלות סחוחרים זה [/]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "אלהינו ואלהי אבותינו אמונים החסורים ˙ בהשכמת טל ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "גשים לרצונך ˙ בם תואמן ˙ ותתקיים ברית ילדות טל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "דרוש למו עקרת בית ˙ מיוטבת כמו טל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "הזורעים בדמעה ˙ ומחכים קציר טל ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "והזכר למו זרע ˙ זבורך בשערת טל ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "זכות עט גדיים ˙ נחול מחנת טל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "חשוב למזכירי היום ˙ בשחיטת גדיים טל ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "טעם בקהלים ˙ להזכיר במוסף טל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "יה זכרה למו נוסף לו ˙ תוספת ברכת טל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "פתגם בראשון ˙ כשנית תפלת טל ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "למו מוסיף יד שנית ˙ בראש נמלא טל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "מה אעשה לך ˙ וחסדכם כענן טל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "טורא עוד משמיע לגזע ˙ ממוגד בטל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "סדר מעשה בראשית ˙ שנית בטל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "עת אשר מ[?]וק רדק ˙ ועלה מגיא טל ˙",
+   "confidence": "low",
+   "uncertain_spans": [
+    "מ[?]וק"
+   ]
+  },
+  {
+   "n": 32,
+   "text": "מקוי יושר ˙ זרת מתן טל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "ז ב",
+   "confidence": "low",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 8,
+   "span": "[?]ורם"
+  },
+  {
+   "line": 31,
+   "span": "מ[?]וק"
+  }
+ ],
+ "sha256_text": "c4669f8e7f2f72000125c502c2c540b6bf540d4a46f9cb5deff2ac00033916e5",
+ "proofed": false,
+ "status": "partial",
+ "text_available": true,
+ "marginalia_regions": [
+  {
+   "kind": "handwriting",
+   "bbox": [
+    195,
+    140,
+    335,
+    270
+   ],
+   "note": "Pencil numeral omitted"
+  },
+  {
+   "kind": "handwriting",
+   "bbox": [
+    430,
+    730,
+    620,
+    850
+   ],
+   "note": "Faint pencil marking omitted"
+  },
+  {
+   "kind": "facing_page_overlap",
+   "bbox": null,
+   "note": "Facing-page letters beyond gutter excluded; see proof band notes."
+  }
+ ],
+ "ocr": {
+  "engine": "Kraken 7.1.1",
+  "model": "BiblIA_01 (doi:10.5281/zenodo.5468286)"
+ },
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.312,
+   "wer": 0.565,
+   "metric": "Levenshtein(raw,corrected)/corrected length; whitespace collapsed; status header and [RASHI-UNPROOFED] markers removed; punctuation and [?] retained"
+  }
+ },
+ "text_file": "../text/fol130a_spread132_left.txt",
+ "proofing_note": "Partly proofed page: square type checked against the page image; Rashi-type notes or rubrics, or other explicitly marked lines, await expert proofreading. Supplied markers are retained unchanged. Supplied CER/WER values are approximate. High OCR error rate (CER 31%); this side needs re-checking."
+}

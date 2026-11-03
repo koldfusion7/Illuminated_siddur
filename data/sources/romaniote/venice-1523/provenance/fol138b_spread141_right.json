@@ -1,0 +1,271 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 141,
+ "side": "right",
+ "folio": "138b",
+ "printed_folio_number": null,
+ "running_head": "תפלות של פסח",
+ "catchword": "אתה",
+ "signature": null,
+ "contents": [
+  "Conclusion of פתיחה יעירוני ימי קדם",
+  "פתיחה לרבי יהודה קלטי: אשלם",
+  "פתיחה לרבי שלמה הקטן: שרש בנו ישי",
+  "Yotzer דויושע and opening blessing"
+ ],
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 5. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and [RASHI-UNPROOFED] retained as supplied"
+ },
+ "supplied_status_line": "PARTIAL",
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של פסח",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "ויצאתי ביד רמה ˙ חשוקה בעדי זהב ˙ לאלפים ולרבבות ˙ בשנאנים ומרכבה :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "ונבקע התהום לפני ˙ המוננו ומה יפו ˙ פעמינו בתוך ים סוף ˙ ביבשת וחרבה ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "והכתירם בתורתיו ˙ והנחילם יסוד חוקיו ˙ והשביעם במעדני ˙ בני עליון והצבא :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ומה נאדר צבאינו ˙ בארבעת דגלינו ˙ והכבוד לצלנו ˙ כקיר חומה אשר שגבה :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "ונתן צוארי עמים ˙ ומלכיהם במוסרותם ˙ והושיבם באפריון ˙ בארץ הצבי אוה :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "והקדישם בסוד מקדש ˙ ומשכן הכרובים שם ˙ ושם ייחוד ובית מועד ˙ ושמה נעמה אהבה ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "אהה על מעשי ברחו ˙ ימי כבוד וסר צלי ˙ ונס לחי ואתהלך ˙ באבני אש ולהבה :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "הלא רב לך ידיד נפשי ˙ לענותי ביד זרים ˙ ומה בצע בשבתי ˙ בשבי דוה ושוכבה :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "שמך מלכי אני שואל ˙ הכי אתה למגדל עוז ˙ ונפשי עזרך תשאל ˙ לך תרוץ ונשגבה :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "פתיחה לרבי יהודה קלטי",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "אשלם לאלוה חי נדרים ˙ לגוזר ים שנים עשר גזרים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "נגינותי אנצח ושירי ˙ לצור טבע בצול פרעה ומצרים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "יגיעם ועמלם שב בראשם ˙ וצללו הם במים האדירים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "ישרים דרכי צורי וטובים ˙ ועמקו מעשיו אל המצרים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "המון עמו אזי עברו ברנה ˙ והודו לו ברוב זמרה ושירים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "והגדיל לעשות אותות ומופתים ˙ והאיר את בני עמו והרים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "דרור קרא לאום חומה תמימה ˙ בעת זכר ברית אבות והורים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "הביאם צור להר קדשו וחבלו ˙ והושיעם מאד מכל עברים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "כגאלת עדתך ממצרים ˙ כמו כן חיש וקבץ הפזורים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "פתיחה לרבי שלמה הקטן",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "שרש בנו ישי עד אן תהי נקבר ˙ הוצא לך פרח ˙ כי חסמו עברו :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "למה יהי עבד ˙ מושל בבן שרים ˙ תחת מלוך צעיר ˙ שעיר הלא גברו :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "מני זמן אלף ˙ שנים אני נעבד ˙ ארמה בתוך שביי ˙ לקאת בתוך מדבר :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "האין לבוש בדים ˙ לשאול ואיך יגלה ˙ הקץ ואל צוה ˙ סתום חתום דבר :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "יוצר דויושע",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "ברוך אתה יהוה אלהינו מלך העולם הפותח לנו שערי מזרח המאיר עיני המצפים",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "[?] יוצר אור ובורא חשך עושה שלום ובורא את הכל אור עולם אוצר היום",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 29,
+   "text": "אורות מאופל אמר ויהי",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "אתה",
+   "confidence": "low",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 28,
+   "span": "[?]"
+  }
+ ],
+ "sha256_text": "dd81d3489763ccf360d96c5216b6f67f6634023a2587a1100ad52e36db6aa661",
+ "proofed": false,
+ "status": "partial",
+ "text_available": true,
+ "marginalia_regions": [
+  {
+   "kind": "handwriting",
+   "bbox": null,
+   "note": "Faint pencilled numeral-like mark, omitted. upper outer margin, roughly x1740–1900 y150–290"
+  },
+  {
+   "kind": "handwriting",
+   "bbox": null,
+   "note": "Faint pencil strokes, omitted. upper margin around x1430–1560 y220–290"
+  },
+  {
+   "kind": "handwriting",
+   "bbox": null,
+   "note": "Faint handwritten mark overlapping margin space, omitted without omitting print. gutter-side margin by second/third lines, roughly x200–280 y400–480"
+  },
+  {
+   "kind": "facing_page_overlap",
+   "bbox": [
+    0,
+    0,
+    170,
+    3006
+   ],
+   "note": "Facing-page fragments beyond left gutter excluded."
+  },
+  {
+   "bbox": [
+    590,
+    2500,
+    1080,
+    2800
+   ],
+   "type": "faint rubbed ink / possible handwritten traces",
+   "transcribed": false
+  }
+ ],
+ "ocr": {
+  "engine": "Kraken 7.1.1",
+  "model": "BiblIA_01 (doi:10.5281/zenodo.5468286)"
+ },
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.103,
+   "wer": 0.26,
+   "metric": "Levenshtein(raw,corrected)/corrected length; whitespace collapsed; status header and [RASHI-UNPROOFED] markers removed; punctuation and [?] retained"
+  }
+ },
+ "text_file": "../text/fol138b_spread141_right.txt",
+ "proofing_note": "Partly proofed page: square type checked against the page image; Rashi-type notes or rubrics, or other explicitly marked lines, await expert proofreading. Supplied markers are retained unchanged. Supplied CER/WER values are approximate."
+}

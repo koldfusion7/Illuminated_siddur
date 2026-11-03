@@ -1,0 +1,276 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 123,
+ "side": "right",
+ "folio": "120b",
+ "printed_folio_number": null,
+ "running_head": "תפלות ליום ראשון של פסח",
+ "catchword": "צפותינו",
+ "signature": null,
+ "contents": [
+  "First-day Passover yotser: continuation of Song of Songs piyyut",
+  "Large initials צאינה וראינה, כמגדל, שלחיך"
+ ],
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 5. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and [RASHI-UNPROOFED] retained as supplied"
+ },
+ "supplied_status_line": "PROOFED — image checked",
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות ליום ראשון של פסח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "שירות שפריר שטתו ˙ מטות וריבות חטתו ˙ שער צא ושטתו ˙ הנה מטתו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "שורת ערבוב מלערב ˙ אומנות אבנוב ערב ˙ שירת נבוב הרב ˙ כלם אחוזי חרב :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "תאב פסק לו ˙ מלאת כני טרסקלו ˙ תטליל חסה לו ˙ אפריון עשה לו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "תאר פנים מהכסף ˙ נועמו ידידות כוסף ˙ תבנית אות יוסף ˙ עמודיו עשה כסף :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "צאינה וראינה ˙ משכיל שיר ידידים ˙ רנת חתונת דודים ˙ הנך יפה דת דין ופקודים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "כפל יחיד לפקודים ˙ שניך יולבנו ביאור חמודים ˙ קלוס לשון למורים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "כחוט השני טעם זיון ילדים ˙ נגדה שולם לילדים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "כמגדל דוד פנת יקרת יסודים ˙ גבול הורית יסודים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "שני שריך זכות אחים חסידים ˙ לרועים תיירים חסודים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "עד שיפוח היום יום צדקה לחרדים ˙ חבול זידים זרדים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "כולך יפה בלי מום מכובדים ˙ תם וחלקו מזובדים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "אתי מלבנון כלה ויעוד שכינה בשעבודים ˙ רצוף בבא מאבודים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "לבבתיני אחותי כלה הבת בת נגידים ˙ אהבת חבת אגודים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "מה יפו דודיך אחותי כלה מנוחה נשאר ויעודים ˙ ושמניך קרית מועדים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "נופת תטופנה שפתותיך כלה אחות משוחים עומדים ˙ מבלי קנאה מצומדים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "גן נעול נקם ואין מגידים ˙ סתום לתלבושת הבגדים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "שלחיך פרדס שפר נאים והדורים ˙ לטכסיס מלכים אדורים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "נרד וכרכום מזה ומזה סדורים ˙ החוט המשולש גדורים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "מעין גנים הדרת קלים וחמורים ˙ טבילת נקיות שמורים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "עורי צפון ובואי תימן יחד לכנס משערים ˙ גלות כל שערים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "באתי לגני אחותי כלה דוגמת מלאים גמורים ˙ לקבל איברים ואימורים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "אני ישינה ביאת עיר משעירים ˙ תוחלת יסחבום צעירים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "פשטתי את כתנתי רבתי ושני כמרים ˙ האורים ותומי סתרים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "דודי שלח ידו אז לסעוד הורים ˙ מזומן עוד לכמהורים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "קמתי נצבתי בחמד הרים ˙ ורצתי אצתי בזהרים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "פתחתי מאלי בניטוף מורים ˙ נעשה ונשמע אומרים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "מצאוני לגיונות סבבוני כנהרים ˙ עומר כהדסים בהרים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "השבעתי דרוש דור מישרים ˙ סור מרוכסי קשרים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "מה דודך מדוד לעתיד שאול נפשרים ˙ הן באומות הכשרים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "מה דודך מדוד נואמים בזה הקושרים ˙ נגד נהרגים כשוורים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "נזר ייחודו קושרים ˙ נצח מלכותו שרים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "דודי נועמו עמו מישרים ˙ נכתב נקרא בשירים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "צדקותיו לרקים מחזרים שחרים ˙ צביונו עשות מתאזרים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "צפותינו",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "4d2e12ccf65628b12033e9f046b4fdac2776e71ea65fbdd9d017adf241b07650",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "marginalia_regions": [
+  {
+   "kind": "handwriting",
+   "bbox": [
+    1750,
+    230,
+    1950,
+    330
+   ],
+   "note": "Pencilled outer upper-margin number 240; excluded."
+  },
+  {
+   "kind": "facing_page_overlap",
+   "bbox": [
+    0,
+    300,
+    145,
+    2550
+   ],
+   "note": "Facing-page letters beyond left gutter excluded."
+  }
+ ],
+ "ocr": {
+  "engine": "Kraken 7.1.1",
+  "model": "BiblIA_01 (doi:10.5281/zenodo.5468286)"
+ },
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.08,
+   "wer": 0.236,
+   "metric": "Levenshtein(raw,corrected)/corrected length; whitespace collapsed; status header and [RASHI-UNPROOFED] markers removed; punctuation and [?] retained"
+  }
+ },
+ "text_file": "../text/fol120b_spread123_right.txt"
+}

@@ -1,0 +1,263 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 138,
+ "side": "right",
+ "folio": "135b",
+ "printed_folio_number": null,
+ "running_head": "תפלות של פסח",
+ "catchword": "ואכלת",
+ "signature": null,
+ "contents": [
+  "Small Rashi direction for Sabbath reading",
+  "Torah reading beginning ויאמר משה אל ידוה",
+  "Chol Hamoed Sabbath Torah reading, Exodus 33–34",
+  "Torah reading ויאמר משה, covenant and prohibitions"
+ ],
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 5. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and [RASHI-UNPROOFED] retained as supplied"
+ },
+ "supplied_status_line": "PARTIAL — diplomatic transcription; square type checked against image",
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של פסח",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "[RASHI-UNPROOFED]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "וחם הוח סבת קריחתו היח זחת ויחמר מסה חל ה'רחם חתה חומר [וכו'",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "ויאמר משה אל־ידוה ראה אתה אמר אלי העל את־העם הזה ואתה לא",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "הודעתני את אשר־תשלח עמי ואתה אמרת ידעתיך בשם וגם־",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "מצאת חן בעיני : ועתה אם־נא מצאתי חן בעיניך הודיעני נא את דרכך ואדעך למען",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "אמצא חן בעיניך וראה כי עמך הגוי הזה : ויאמר פני ילכו והנחתי לך : ויאמר אליו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "אם אין פניך הלכים אל־תעלנו מזה : ובמה יודע אפוא כי־מצאתי חן בעיניך אני ועמך",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "הלוא בלכתך עמנו ונפלינו אני ועמך מכל־העם אשר על־פני האדמה :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "ויאמר ידוה אל־משה גם את־הדבר הזה אשר דברת אעשה כי־מצאת חן",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "בעיני ואדעך בשם : ויאמר הראני נא את־כבדך : ויאמר אני אעביר כל־טובי על־",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "פניך וקראתי בשם ידוה לפניך וחנתי את־אשר אחן ורחמתי את־אשר ארחם : ויאמר",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "לא תוכל לראת את־פני כי לא־יראני האדם וחי : ויאמר ידוה הנה מקום אתי ונצבת על־",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "הצור : והיה בעבר כבדי ושמתיך בנקרת הצור ושכתי כפי עליך עד־עברי : והסרתי",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "את־כפי וראית את־אחרי ופני לא יראו :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "[RASHI-UNPROOFED]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "וב חול חת חיל מכחן",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "ויאמר ידוה אל־משה פסל־לך שני־לחת אבנים כראשונים וכתבתי על־",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "הלחת את־הדברים אשר היו על־הלחת הראשונים אשר שברת :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "והיה נכן לבקר ועלית בבקר אל־הר סיני ונצבת לי שם על־ראש ההר : ואיש לא־יעלה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "עמך וגם־איש אל־ירא בכל־ההר גם־הצאן והבקר אל־ירעו אל־מול ההר ההוא :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "ויפסל שני־לחת אבנים כראשונים וישכם משה בבקר ויעל אל־הר סיני כאשר צוה ידוה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "אתו ויקח בידו שני לחת אבנים : וירד ידוה בענן ויתיצב עמו שם ויקרא בשם ידוה :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "ויעבר ידוה על־פניו ויקרא ידוה ידוה אל רחום וחנון ארך אפים ורב־חסד ואמת :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "נצר חסד לאלפים נשא עון ופשע וחטאה ונקה לא ינקה פקד עון אבות על־בנים ועל",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "בני בנים על־שלשים ועל־רבעים : וימהר משה ויקד ארצה וישתחו : ויאמר אם־",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "נא מצאתי חן בעיניך אדני ילך־נא אדני בקרבנו כי עם־קשה־ערף הוא וסלחת לעוננו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "ולחטאתינו ונחלתנו : ויאמר הנה אנכי כרת ברית נגד־כל־עמך אעשה נפלאת אשר",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "לא־נבראו בכל־הארץ ובכל־הגוים וראה כל־העם אשר־אתה בקרבו את־מעשה ידוה כי־",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "נורא הוא אשר אני עשה עמך : שמר־לך את אשר אנכי מצוך היום הנני גרש מפניך",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "את־האמרי והכנעני והחתי והפרזי והחוי והיבוסי : השמר לך פן־תכרת ברית ליושב",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "הארץ אשר אתה בא עליה פן יהיה למוקש בקרבך : כי את־מזבחתם תתצון ואת־",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "מצבתם תשברון ואת־אשריו תכרתון : כי לא תשתחוה לאל אחר כי ידוה קנא שמו אל",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "קנא הוא : פן־תכרת ברית ליושב הארץ וזנו אחרי אלהיהם וזבחו לאלהיהם וקרא לך",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "ואכלת",
+   "confidence": "low",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "ed009d72b5ea94b7e0944d6ddc2ec8b860d99531f51db11f735e9a7461e8be6b",
+ "proofed": false,
+ "status": "partial",
+ "text_available": true,
+ "marginalia_regions": [
+  {
+   "type": "handwriting",
+   "region": "upper-right margin, pencilled numerals"
+  }
+ ],
+ "ocr": {
+  "engine": "Kraken 7.1.1",
+  "model": "BiblIA_01 (doi:10.5281/zenodo.5468286)"
+ },
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.183,
+   "wer": 0.565,
+   "metric": "Levenshtein(raw,corrected)/corrected length; whitespace collapsed; status header and [RASHI-UNPROOFED] markers removed; punctuation and [?] retained"
+  }
+ },
+ "text_file": "../text/fol135b_spread138_right.txt",
+ "proofing_note": "Partly proofed page: square type checked against the page image; Rashi-type notes or rubrics, or other explicitly marked lines, await expert proofreading. Supplied markers are retained unchanged. Supplied CER/WER values are approximate."
+}

@@ -1,0 +1,264 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 136,
+ "side": "right",
+ "folio": "133b",
+ "printed_folio_number": null,
+ "running_head": "ליום שני של פסח",
+ "catchword": "השביעית",
+ "signature": null,
+ "contents": [
+  "Conclusion of piyyut for second day of Passover",
+  "Rashi directions for prayers, Torah reading and haftarah",
+  "קריאת יום שני שור או כשב",
+  "Torah reading for second day of Passover: Leviticus 22–23",
+  "Torah reading for second day of Passover: שור או כשב, מועדים, עמר"
+ ],
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 5. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and [RASHI-UNPROOFED] retained as supplied"
+ },
+ "supplied_status_line": "PARTIAL — diplomatic transcription; square type checked against image",
+ "lines": [
+  {
+   "n": 1,
+   "text": "ליום שני של פסח",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "פתחי בבואך ˙ אערוך לנושאך ˙ אנהגך אביאך :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "צוף ומן הורישי ˙ ישע נסוך תירושי ˙ שמאלו תחת לראשי :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "קרב מלחמתכם ˙ מלהעיר עד בא עתכם ˙ השבעתי אתכם :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ראות באהבה חולה ˙ רוגשת בגולה ˙ מי זאת עולה :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "שבטי איש תם ˙ זכור להנחותם ˙ שימני כחותם :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "תוקף אהבת אהובים ˙ גם לא מכבים ˙ מים רבים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "[RASHI-UNPROOFED]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "עזרתינו ועזרת חבותינו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "ומתפל לין יובד ותפלה כסדר יום רחסון וגומרי את ההלל' ומובחין ב' ספרים בחחד קורי סול",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "חוכסב בפרס חמור ד וקחמיסי קורח בסכי כמו חתמול ומפטיר חוזר וקורח' בסני בקרבן",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "ומפטיר במלכים ויכו החלך חת כל העם לחמר עד לתת לפרעה נכה :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "קריאת יום שני שור או כשב",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "וידבר ידוה אל־משה לאמר : שור או־כשב או־עז כי יולד והיה שבעת ימים",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "תחת אמו ומיום השמיני והלאה ירצה לקרבן אשה לידוה : ושור או",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "שה אתו ואת־בנו לא תשחטו ביום אחד : וכי תזבחו זבח־תודה לידוה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "לרצנכם תזבחו : ביום ההוא יאכל לא־תותירו ממנו עד־בקר אני ידוה : ושמרתם מצותי",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "ועשיתם אתם אני ידוה : ולא תחללו את־שם קדשי ונקדשתי בתוך בני ישראל אני ידוה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "מקדשכם : המוציא אתכם מארץ מצרים להיות לכם לאלהים אני ידוה :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "וידבר ידוה אל־משה לאמר : דבר אל־בני ישראל ואמרת אלהם",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "מועדי ידוה אשר־תקראו אתם מקראי קדש אלה הם מועדי : ששת ימים תעשה מלאכה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "וביום השביעי שבת שבתון מקרא־קדש כל־מלאכה לא תעשו שבת הוא לידוה בכל",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "מושבתיכם : אלה מועדי ידוה מקראי קדש אשר־תקראו אתם",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "במועדם : בחדש הראשון בארבעה עשר לחדש בין הערבים פסח לידוה : ובחמשה עשר",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "יום לחדש הזה חג המצות לידוה שבעת ימים מצות תאכלו : ביום הראשון מקרא קדש",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "יהיה לכם כל־מלאכת עבדה לא־תעשו : והקרבתם אשה לידוה שבעת ימים ביום השביעי",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "מקרא־קדש כל מלאכת עבדה לא תעשו : וידבר ידוה אל־משה לאמר :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "דבר אל־בני ישראל ואמרת אלהם כי־תבאו אל־הארץ אשר אני נתן לכם וקצרתם את",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "קצירה והבאתם את־עמר ראשית קצירכם אל הכהן : והניף את־העמר לפני ידוה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "לרצנכם ממחרת השבת יניפנו הכהן : ועשיתם ביום הניפכם את־העמר כבש תמים בן",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "שנתו לעלה לידוה ומנחתו שני עשרנים סלת בלולה בשמן אשה לידוה ריח ניחח ונסכה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "יין רביעת ההין : ולחם וקלי וכרמל לא תאכלו עד־עצם היום הזה עד הביאכם את־קרבן",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "אלהיכם חקת עולם לדרתיכם בכל משבתיכם : וספרתם לכם ממחרת",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "השבת מיום הביאכם את עמר התנופה שבע שבתות תמימת תהיינה : עד ממחרת השבת",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "השביעית",
+   "confidence": "low",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "cfb72b391086e452a2fdc60d9271324a3e43e9469aeebe296bc5a459efa342c8",
+ "proofed": false,
+ "status": "partial",
+ "text_available": true,
+ "marginalia_regions": [
+  {
+   "type": "handwriting",
+   "region": "upper-right margin, pencilled numerals"
+  }
+ ],
+ "ocr": {
+  "engine": "Kraken 7.1.1",
+  "model": "BiblIA_01 (doi:10.5281/zenodo.5468286)"
+ },
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.15,
+   "wer": 0.386,
+   "metric": "Levenshtein(raw,corrected)/corrected length; whitespace collapsed; status header and [RASHI-UNPROOFED] markers removed; punctuation and [?] retained"
+  }
+ },
+ "text_file": "../text/fol133b_spread136_right.txt",
+ "proofing_note": "Partly proofed page: square type checked against the page image; Rashi-type notes or rubrics, or other explicitly marked lines, await expert proofreading. Supplied markers are retained unchanged. Supplied CER/WER values are approximate."
+}

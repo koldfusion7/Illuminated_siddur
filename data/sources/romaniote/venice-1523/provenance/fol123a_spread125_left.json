@@ -1,0 +1,423 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 125,
+ "side": "left",
+ "folio": "123a",
+ "printed_folio_number": "קכג",
+ "running_head": "תפלות של פסח",
+ "catchword": null,
+ "signature": "יו ג",
+ "contents": [
+  "Amidah: Gevurot blessing",
+  "Parallel Kedushah texts: נקדש and ונקדישך קדוש יעקב",
+  "Festival blessing: אתה בחרתנו, Passover and Sabbath inserts",
+  "יעלה ויבא, opening through מכל צרה ומחלה"
+ ],
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 5. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and [RASHI-UNPROOFED] retained as supplied"
+ },
+ "supplied_status_line": "PROOFED",
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של פסח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "קכג",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "אתה גבור לעולם ידוה מחיה מתים אתה רב להושיע משיב הרוח ומוריד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "הגשם מכלכל חיים בחסד מחיה מתים ברחמים רבים סומך נופלים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "רופא חולים מתיר אסורים משען לאביונים מקיים אמונתו לישיני עפר ˙ מי כמוך אדון",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "הגבורות ומי דומה לך מלך ממית ומחיה ומצמיח לנו ישועה בקרוב ונאמן אתה להחיות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "מתים ברוך אתה ידוה מחיה המתים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "נקדש את שמך בעולם כשם שמקדישין",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "אותו בשמי מרום וכן כתוב על יד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "נביאך וקרא זה אל זה ואמר : קדוש קדוש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "קדוש ידוה צבאות מלא כל הארץ",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "כבודו : לעומתם ברוך יאמרו משבחים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "ואומרים ברוך כבוד ידוה ממקומו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "ובדברי קדשך כתוב לאמר : ימלוך ידוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "לעולם אלהיך ציון לדור ודור הללויה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "לדור ודור נגיד גדלך ולנצח נצחים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "קדושתך נקדיש ושבחך ידוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "אלהינו מפינו לא ימוש לעולם ועד כי אל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "מלך גדול וקדוש אתה ברוך אתה ידוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "האל הקדוש :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "אתה בחרתנו מכל העמים אהבת אותנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "רצית בנו רוממתנו מכל הלשונות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "קדשתנו במצותיך וקרבתנו מלכנו לע",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "לעבודתיך ושמך הגדול והקדוש עלינו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "קראת ותתן לנו ידוה אלהינו באהבת",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "שבתות למנוחה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "מועדים לשמחה חגים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "וזמנים לששון ימים טובים לישועה את יום",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "המנוח הזה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "ו את יום חג המצות הזה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "זמן חרותינו באהבה מקרא קדש זכר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "ליציאת מצרים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "ונקדישך קדוש יעקב ונעריצך א",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "אלהי ישראל ונשלש לך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "קדושה כסוד אלי קדש ככתוב על יד נביאך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 36,
+   "text": "בשנת מות המלך עזיהו ואראה את ידוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 37,
+   "text": "יושב על כסא רם ונשא ושוליו מלאים את",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 38,
+   "text": "ההיכל ˙ שרפים עומדים ממעל לו שש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 39,
+   "text": "כנפים שש כנפים לאחד בשתים יכסה פניו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 40,
+   "text": "ובשתים יכסה רגליו ובשתים יעופף ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 41,
+   "text": "וקרא זה אל זה ואמר קדוש קדוש",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 42,
+   "text": "קדוש ידוה צבאות מלא כל הארץ כבודו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 43,
+   "text": "אז בקול רעש גדול אדיר וחזק משמיעים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 44,
+   "text": "קול מתנשאים לעומת שרפים לעומתם",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 45,
+   "text": "משבחים ואומרים ברוך כבוד ידוה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 46,
+   "text": "ממקומו ממקומך מלכנו תופיע ותמלוך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 47,
+   "text": "עלינו כי מחכים אנו לך מתי תמלוך בציון",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 48,
+   "text": "בקרוב בימינו לעולם ועד תשכון תתגדל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 49,
+   "text": "ותתקדש תוך ירושלם עירך לדור ודור",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 50,
+   "text": "ולנצח נצחים ˙ ועינינו תראינה מלכותך",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 51,
+   "text": "כדבר האמור בשירי עוזך על ידי דוד משיח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 52,
+   "text": "צדקך : ימלוך ידוה לעולם אלהיך ציון",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 53,
+   "text": "לדור ודור הללויה : לדור ודור כו׳",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 54,
+   "text": "אלהינו ואלהי אבותינו יעלה ויבא ויגיע ויראה וירצה וישעה וישמע ויפקד",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 55,
+   "text": "ויזכר זכרוננו וזכרון אבותינו וזכרון ירושלם עירך וזכרון מ",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 56,
+   "text": "משיח בן דוד עבדך וזכרון כל עמך בית ישראל יעלה לפניך לטובה ולרחמים ביום המנוח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 57,
+   "text": "וביום חג המצות הזה זכרנו ידוה אלהינו בו לטובה פקדנו בו לברכה והושיענו בו לחיים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 58,
+   "text": "טובים בדבר ישועה ורחמים חוס וחננו ורחם עלינו והושיענו מלטנו מכל צרה ומחלה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 59,
+   "text": "יו ג",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "b4392ffe16a17d6961483932f09212ada2271a833e8b33951ec877147ab7c50b",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "marginalia_regions": [
+  {
+   "kind": "handwriting",
+   "bbox": [
+    120,
+    150,
+    350,
+    290
+   ],
+   "note": "Faint pencilled upper outer-margin number, apparently 245; excluded."
+  },
+  {
+   "kind": "facing_page_overlap",
+   "bbox": [
+    2020,
+    200,
+    2097,
+    2550
+   ],
+   "note": "Facing-page fragments beyond right gutter excluded."
+  }
+ ],
+ "ocr": {
+  "engine": "Kraken 7.1.1",
+  "model": "BiblIA_01 (doi:10.5281/zenodo.5468286)"
+ },
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.512,
+   "wer": 0.753,
+   "metric": "Levenshtein(raw,corrected)/corrected length; whitespace collapsed; status header and [RASHI-UNPROOFED] markers removed; punctuation and [?] retained"
+  }
+ },
+ "text_file": "../text/fol123a_spread125_left.txt",
+ "proofing_note": "High OCR error rate (CER 51%); this side needs re-checking."
+}

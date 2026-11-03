@@ -1,0 +1,271 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 130,
+ "side": "left",
+ "folio": "128a",
+ "printed_folio_number": "קכח",
+ "running_head": "תפלות של פסח",
+ "catchword": null,
+ "signature": null,
+ "contents": [
+  "Dew piyyut, continuation; biblical dew verse; dew piyyut beginning תחת אילת עופר",
+  "Conclusion of tal piyyut with scriptural citations",
+  "אלים: ביום המחוסן"
+ ],
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 5. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and [RASHI-UNPROOFED] retained as supplied"
+ },
+ "supplied_status_line": "PROOFED — diplomatic transcription; square type checked against image",
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של פסח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "שבטיו בירך בעקב ˙ כעין נתברך בטל ˙ שירה שר למו ˙ באמרת זיל טל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "תחתיו צג נצר ˙ מגזע מבורך בטל ˙ תכל עם להנחיל ˙ בתוך עיינות טל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "רגלם נשאם בשכם ˙ כאומן בן נטל ˙ תקופת צר ואור ˙ בשלם ביטל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ככתוב בתורתך ויתן לך האלהים מטל השמים ומשמני הארץ ורב דגן ותירוש :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "תחת אילת עופר ˙ בורך מושיע בטל ˙ אומץ ונוצץ כאיתן ˙ בחורב בגיזת טל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "שוענתי מאז עד אז בהבטחת טל ˙ לעד בלי להמנע ˙ מאתי טל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "רגז תשבי ˙ כחז ועצר אסמי טל ˙ על פת לחם וטרף ˙ טורף וטולטל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "קדוש הביט ˙ לבל תופר ברית טל ˙ זלעף רוח ילד ˙ ונפשו נטל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "צרפת כציר דגנה ˙ תנואות להיטל ˙ ראותו כי פס בן ˙ התיר נדר טל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "פשע אשר העוה ˙ עדי עצירת טל ˙ בכן ערך תחן ˙ למודד ילדי טל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "עתר לפני חי ˙ מחיה כל בטל ˙ ידידת ילד השיב ˙ בהתרת טל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "מרר וחשף לכל ˙ כח גבורות טל ˙ בבגד רמז כי שכונים ˙ יקיצו בטל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "נכרתה זאת להוררי קדם ˙ במתנת טל ˙ בלא יקוה לאיש ˙ ליחל בטל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "ממחרת הפסח ˙ יחננו בעד טל ˙ יניפו במעלה ומוריד ˙ להניף רוע טל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "לכן מלפני עומר ˙ אזכיר בתחן טל ˙ קדום לילה אחד ˙ להלין בו טל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "פורקה לחיים ˙ מחיית ירידת טל ˙ למתים חפשי ˙ הוכנה תחיית טל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "יעוררו יזוררו ˙ יחיו ברדת טל ˙ ועמדו יקיצו ˙ ויעלו כשכבת טל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "שעם זמירות פי ישמיעו ˙ בטל אורות טל ˙ רון יושבי סלע ˙ אשר היו בטל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "חבצלת וערבה ˙ תגלנה בפריחת טל ˙ מדבר וציה ישושום ˙ בטלטול טל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "דרך ושרב ושמש ˙ וחורב חומת טל ˙ קמות לא יקדירו ˙ בגיא טלולת טל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "וסוכה תהיה לצל ˙ קדים מלהיטל ˙ רבוצים על כל כבוד ˙ חופת עב טל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "הוני זמירות ˙ יניפו רסיסי טל ˙ יפתחו אסמים ˙ להניף נזלי טל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "ידידיו המון חוגג ˙ שאריתם בטל ˙ תרשישים ינהלום ˙ במרפא כנף טל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "גיל בקול רנה ˙ לעבור בסך וטל ˙ סלולים עלות אל נכון ˙ נושא ונוטל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "משוררים מאמנה ˙ מקום חרמון טל ˙ פרוח יפרחו ˙ כשושנה בטל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "אל ארץ דגן ותירוש ˙ אף שמיו יערפו טל ˙ ראותם אש אוכלת ˙ כי נהייתה בטל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "ככתוב על ידי נביאך ˙ אהיה כטל לישראל יפרח כשושנה ויך שרשיו כלבנון :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "ונאמר ישושום מדבר וציה ותגל ערבה ותפרח כחבצלת ˙ ונאמר אתה הצבת כל גבולות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "ארץ קיץ וחרף אתה יצרתם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "אלים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "ביום המחוסן ˙ חילו פני מנוסן ˙ טל אורות לנוססן ˙ להטלילם בעצם ניסן :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "אשאלה בעדם מען ˙ גבורות טל להען ˙ טל אב הובטח לשען ˙ יתן להמתיק לען :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "ככתוב בתורתך ויתן לך האלהים מטל השמים ומשמני הארץ ורב דגן ותירוש :",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "7e12a2104d316acbde6f48b88ae1729f52e873ab9244545981de766b3df85217",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "marginalia_regions": [
+  {
+   "kind": "handwriting",
+   "bbox": [
+    195,
+    170,
+    360,
+    290
+   ],
+   "note": "Pencil numeral omitted"
+  },
+  {
+   "kind": "handwritten strike",
+   "bbox": null,
+   "note": "Thin stroke crosses printed בבגד; stroke excluded; printed word retained."
+  },
+  {
+   "kind": "facing_page_overlap",
+   "bbox": null,
+   "note": "Facing-page letters beyond gutter excluded; see proof band notes."
+  }
+ ],
+ "ocr": {
+  "engine": "Kraken 7.1.1",
+  "model": "BiblIA_01 (doi:10.5281/zenodo.5468286)"
+ },
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.178,
+   "wer": 0.361,
+   "metric": "Levenshtein(raw,corrected)/corrected length; whitespace collapsed; status header and [RASHI-UNPROOFED] markers removed; punctuation and [?] retained"
+  }
+ },
+ "text_file": "../text/fol128a_spread130_left.txt"
+}

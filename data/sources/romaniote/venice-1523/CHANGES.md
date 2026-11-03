@@ -45,3 +45,22 @@ Rashi-type notes and rubrics need an expert proofreader.
 - All four c47 sides are flagged partial because their individual measurement scopes leave Rashi-type rubrics unproofed. The full corrected files are used instead of the duplicate _body variants.
 - Separate unproofed note or rubric OCR for 88b, 100a, 100b and 101a is omitted from corrected page text, following the earlier separate-rubric convention. References and proofing labels in the selected page texts remain byte-exact, and the omissions are recorded in provenance.
 - Rashi-type text awaits expert proofreading. Supplied error rates are preserved without recomputation; partly proofed measurements are approximate.
+
+## OCR sweep 5 - 2026-11-03
+
+# Venice 1523 Romaniote OCR, sweep 5 (chunks c51-c60, leaves 119b-139a)
+
+Exact diplomatic transcription. Divine name kept as printed; abbreviations not expanded; ˙ separators kept.
+Lines marked [RASHI-UNPROOFED] are raw OCR and must not be treated as proofed text.
+CER/WER values for partly proofed sides are approximate.
+
+Not included: c61 (leaves 139b-141a), proofing pending.
+
+### Import coverage and proofing flags
+
+- Added 40 corrected page texts and 40 matching leaf provenance records. The index now contains 260 records; 257 have text.
+- New leaf statuses: 9 proofed and 31 partial. Proofed: 120a, 120b, 121b, 123a, 124a, 128a, 128b, 129b, 139a.
+- The one-line supplied status header of each corrected file is moved to provenance (`supplied_status_line`); page text is otherwise byte-exact.
+- Needs re-check (high OCR error rate): 123a (spread 125 left, CER 51%), 130a (spread 132 left, 31%), 129a (spread 131 left, 27%), 133a (spread 135 left, 26%).
+- Rashi-type text awaits expert proofreading. Supplied error rates are retained (rounded to three decimals) without recomputation.
+

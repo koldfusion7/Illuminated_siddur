@@ -1,0 +1,257 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 137,
+ "side": "left",
+ "folio": "135a",
+ "printed_folio_number": "קלה",
+ "running_head": "תפלות של פסח",
+ "catchword": null,
+ "signature": null,
+ "contents": [
+  "Conclusion of Song of Songs reading at minḥah",
+  "Small Rashi directions for ḥol ha-moed readings",
+  "Torah first weekday of Chol Hamoed Passover, Exodus 13",
+  "Conclusion of קדש לי כל בכור Torah reading"
+ ],
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 5. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and [RASHI-UNPROOFED] retained as supplied"
+ },
+ "supplied_status_line": "PARTIAL — diplomatic transcription; square type checked against image",
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של פסח",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "קלה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "אריות מהררי נמרים : לבבתני אחתי כלה לבבתני באחד מעיניך באחד ענק מצורניך :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "מה־יפו דדיך אחתי כלה מה טבו דדיך מיין וריח שמניך מכל־בשמים : נפת תטפנה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "שפתותיך כלה דבש וחלב תחת לשונך וריח שלמתיך כריח לבנון : גן נעול אחתי כלה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "גל נעול מעין חתום : שלחיך פרדס רמונים עם פרי מגדים כפרים עם נרדים : נרד",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "וכרכם קנה וקנמון עם כל־עצי לבונה מר ואהלות עם כל־ראשי בשמים : מעין גנים באר",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "מים חיים ונזלים מן־לבנון : עורי צפון ובואי תימן הפיחי גני יזלו בשמיו יבא דודי לגנו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "ויאכל פרי מגדיו : באתי לגני אחתי כלה אריתי מורי עם־בשמי אכלתי יערי עם־דבשי",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "שתיתי ייני עם־חלבי אכלו רעים שתו ושכרו דודים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "[RASHI-UNPROOFED]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "בחול המועד קורין הקלל בדלוג כמו סכתוב ברח והטועס כתוב בחול סכות ומוביחון סני",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "ספריס בח' קורין ג' בפר היום ובב קורח הרביעי בקרבן כפי מה סחומ במוסף וקרבן",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "מוסף כתוב למעלה ביום רחסון וסבת טבחול המועד קורין רחם :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "קריאת יום ראשון של חול המועד אם הוא חול וידבר ה' אל משה לאמר",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "וידבר ידוה אל־משה לאמר : קדש־לי כל־בכור פטר כל־רחם בבני ישראל",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "באדם ובבהמה לי הוא : ויאמר משה אל־העם זכור את־היום הזה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "אשר יצאתם ממצרים מבית עבדים כי בחזק יד הוציא ידוה אתכם מזה ולא יאכל חמץ :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "היום אתם יצאים בחדש האביב : והיה כי־יביאך ידוה אל־ארץ",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "הכנעני והחתי והאמרי והחוי והיבוסי אשר נשבע לאבתיך לתת לך ארץ זבת חלב ודבש",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "ועבדת את־העבדה הזאת בחדש הזה : שבעת ימים תאכל מצת וביום השביעי חג לידוה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "מצות יאכל את שבעת הימים ולא־יראה לך חמץ ולא־יראה לך שאר בכל־גבלך : והגדת",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "לבנך ביום ההוא לאמר בעבור זה עשה ידוה לי בצאתי ממצרים : והיה לך לאות על־ידך",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "ולזכרון בין עיניך למען תהיה תורת ידוה בפיך כי ביד חזקה הוציאך ידוה ממצרים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "ושמרת את־החקה הזאת למועדה מימים ימימה : והיה כי־יבאך",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "ידוה אל־ארץ הכנעני כאשר נשבע לך ולאבתיך ונתנה לך : והעברת כל־פטר רחם לידוה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "וכל־פטר שגר בהמה אשר יהיה לך הזכרים לידוה : וכל־פטר חמר תפדה בשה ואם־לא",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "תפדה וערפתו וכל בכור אדם בבניך תפדה : והיה כי־ישאלך בנך מחר לאמר מה־זאת",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "ואמרת אליו בחזק יד הוציאנו ידוה ממצרים מבית עבדים : ויהי כי־הקשה פרעה לשלחנו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "ויהרג ידוה כל־בכור בארץ מצרים מבכר אדם ועד־בכור בהמה על־כן אני זבח לידוה כל־",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "פטר רחם הזכרים וכל־בכור בני אפדה : והיה לאות על־ידכה ולטוטפת בין עיניך כי",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "בחזק יד הוציאנו ידוה ממצרים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "[RASHI-UNPROOFED]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "עד כחון",
+   "confidence": "low",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "da5c5c0508d29bf515e0f80a0da7aad599db98ca9fd9b6c4d6220a79b37f75f9",
+ "proofed": false,
+ "status": "partial",
+ "text_available": true,
+ "marginalia_regions": [
+  {
+   "type": "handwriting",
+   "region": "upper-left margin, pencilled numerals"
+  }
+ ],
+ "ocr": {
+  "engine": "Kraken 7.1.1",
+  "model": "BiblIA_01 (doi:10.5281/zenodo.5468286)"
+ },
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.121,
+   "wer": 0.377,
+   "metric": "Levenshtein(raw,corrected)/corrected length; whitespace collapsed; status header and [RASHI-UNPROOFED] markers removed; punctuation and [?] retained"
+  }
+ },
+ "text_file": "../text/fol135a_spread137_left.txt",
+ "proofing_note": "Partly proofed page: square type checked against the page image; Rashi-type notes or rubrics, or other explicitly marked lines, await expert proofreading. Supplied markers are retained unchanged. Supplied CER/WER values are approximate."
+}

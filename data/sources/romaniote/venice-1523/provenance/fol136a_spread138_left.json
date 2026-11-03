@@ -1,0 +1,244 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 138,
+ "side": "left",
+ "folio": "136a",
+ "printed_folio_number": "קלו",
+ "running_head": "תפלות של פסח",
+ "catchword": null,
+ "signature": null,
+ "contents": [
+  "Torah reading, conclusion of Exodus festival and covenant passage",
+  "Shabbat Chol Hamoed haftarah, Ezekiel 37 dry bones",
+  "Conclusion of Ezekiel dry-bones haftarah"
+ ],
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 5. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and [RASHI-UNPROOFED] retained as supplied"
+ },
+ "supplied_status_line": "PARTIAL — diplomatic transcription; square type checked against image",
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של פסח",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "קלו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "ואכלת מזבחו : ולקחת מבנתיו לבניך וזנו בנתיו אחרי אלהיהן והזנו את־בניך אחרי",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "אלהיהן : אלהי מסכה לא תעשה־לך : את־חג המצות תשמר שבעת ימים תאכל",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "מצות אשר צותיך למועד חדש האביב כי בחדש האביב יצאת ממצרים : כל־פטר רחם",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "לי וכל־מקנך תזכר פטר שור ושה : ופטר חמור תפדה בשה ואם־לא תפדה וערפתו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "כל בכור בניך תפדה ולא־יראו פני ריקם : ששת ימים תעבד וביום השביעי תשבת",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "בחריש ובקציר תשבת : וחג שבעת תעשה לך בכורי קציר חטים וחג האסיף תקופת",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "השנה : שלש פעמים בשנה יראה כל־זכורך את־פני האדן ידוה אלהי ישראל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "כי אוריש גוים מפניך והרחבתי את־גבלך ולא־יחמד איש את־ארצך בעלתך לראות את־",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "פני ידוה אלהיך שלש פעמים בשנה : לא־תשחט על־חמץ דם־זבחי ולא־ילין לבקר זבח",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "חג הפסח : ראשית בכורי אדמתך תביא בית ידוה אלהיך לא־תבשל גדי בחלב אמו :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "[RASHI-UNPROOFED]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "ומפטיר ביחזקחל היתה עלי יד העד סוף הסדד וכן כת' רב החייג חון סמעתי מכי חכמים",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "ויתחית החתים עתידה להיו בניסן ונביחת נוג ומגוג בתסרי ומסום הכי חפטירי [בניס/]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "העכמות היב סות ובתסרי ביום בחנוג [:]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "היתה עלי יד־ידוה ויוציאני ברוח ידוה ויניחני בתוך הבקעה והיא מלאה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "עצמות : והעבירני עליהם סביב סביב והנה רבות מאד על־פני",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "הבקעה והנה יבשות מאד : ויאמר אלי בן־אדם התחיינה העצמות האלה ואמר אדני",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "ידוה אתה ידעת : ויאמר אלי הנבא על־העצמות האלה ואמרת אליהם העצמות היבשות",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "שמעו דבר־ידוה : כה אמר אדני ידוה לעצמות האלה הנה אני",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "מביא בכם רוח וחייתם : ונתתי עליכם גידים והעליתי עליכם בשר וקרמתי עליכם עור",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "ונתתי בכם רוח וחייתם וידעתם כי־אני ידוה : ונבאתי כאשר צויתי ויהי־קול כהנבאי והנה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "רעש ותקרבו עצמות עצם אל־עצמו : וראיתי והנה עליהם גידים ובשר עלה ויקרם",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "עליהם עור מלמעלה ורוח אין בהם : ויאמר אלי הנבא אל־הרוח הנבא בן־אדם ואמרת",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "אל־הרוח כה־אמר אדני ידוה מארבע רוחות באי הרוח ופחי בהרוגים האלה ויחיו :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "והנבאתי כאשר צוני ותבוא בהם הרוח ויחיו ויעמדו על־רגליהם חיל גדול מאד מאד :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "ויאמר אלי בן־אדם העצמות האלה כל־בית ישראל המה הנה אמרים יבשו עצמותינו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "ואבדה תקותנו נגזרנו לנו : לכן הנבא ואמרת אליהם כה־אמר אדני ידוה הנה אני פתח",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "את־קברותיכם והעליתי אתכם מקברותיכם עמי והבאתי אתכם אל־אדמת ישראל : וידעתם",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "כי־אני ידוה בפתחי את־קברותיכם ובהעלותי אתכם מקברותיכם עמי : ונתתי רוחי בכם",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "וחייתם והנחתי אתכם על־אדמתכם וידעתם כי־אני ידוה דברתי ועשיתי נאם־ידוה :",
+   "confidence": "low",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "afb6937532e69023fc47c61cff445c95a4d4c3f03b8ca9cf80e395bd0f660a3e",
+ "proofed": false,
+ "status": "partial",
+ "text_available": true,
+ "marginalia_regions": [
+  {
+   "type": "handwriting",
+   "region": "upper-left margin, pencilled numerals"
+  }
+ ],
+ "ocr": {
+  "engine": "Kraken 7.1.1",
+  "model": "BiblIA_01 (doi:10.5281/zenodo.5468286)"
+ },
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.145,
+   "wer": 0.415,
+   "metric": "Levenshtein(raw,corrected)/corrected length; whitespace collapsed; status header and [RASHI-UNPROOFED] markers removed; punctuation and [?] retained"
+  }
+ },
+ "text_file": "../text/fol136a_spread138_left.txt",
+ "proofing_note": "Partly proofed page: square type checked against the page image; Rashi-type notes or rubrics, or other explicitly marked lines, await expert proofreading. Supplied markers are retained unchanged. Supplied CER/WER values are approximate."
+}

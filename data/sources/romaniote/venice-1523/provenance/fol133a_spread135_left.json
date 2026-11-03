@@ -1,0 +1,258 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 135,
+ "side": "left",
+ "folio": "133a",
+ "printed_folio_number": "קלג",
+ "running_head": "תפלות ליום שני של פסח",
+ "catchword": null,
+ "signature": null,
+ "contents": [
+  "אופן for second day of Passover",
+  "Ofan continuation",
+  "Zulat for second day of Passover",
+  "זולת; שיר השירים פיוט continuation"
+ ],
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 5. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and [RASHI-UNPROOFED] retained as supplied"
+ },
+ "supplied_status_line": "PARTIAL — diplomatic transcription; square type checked against image",
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות ליום שני של פסח",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "קלג",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "אופן",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "גן נעול אוספו אראלים ˙ שלחיך בם מסלסלים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "נרד וכרכום גבעות מזילים ˙ מעין גנים דפקו נוזלים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "עורי צפון הפיחי גני ˙ באתי לגני ושתיתי ייני :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "אני ישנה דרומה ואלי גנני ˙ פשטתי חלילי וקול נגוני :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "דודי שלח טפסר ˙ מיכאל השר ˙ קמתי אני יחד לקבל מוסר :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "פתחתי אני כבוד עבר וסר ˙ מצאוני לבושי בידם נמסר :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "השבעתי מחוללת כחולת אהבה ˙ מה דודך נאוה ואהובה :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "דודי צח ודגול מרבבה ˙ ראשו עטור פז בסוד קדושים רבה :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "עיניו פקוחות משוטטות בכל ˙ לחייו צפון בושם אשכל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "ידיו קדושות אמונות מכל ˙ שוקיו ורגליו יכילו הכל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "חכו ממתקים שוכן שחקים ˙ אנה הלך שהוא מבוקש בשוקים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "דודי ירד דלותי ממעמקים ˙ אני לדודי אחלל בקול המולת ברקים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "לאל הברוך עד ואין לנו זולתך",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "זולת",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "אמת יום גאלתני ˙ על במות הרכבתני ˙ לא ידעתי נפשי שמתני :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "בקראי קשבי ˙ יקרני וחשבי ˙ וגם שובי שובי :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "נחמתי להחליץ עצמך ˙ גם להרבות חכמיך ˙ מה יפו פעמיך :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "דרשתי בני יצהר ˙ דת להרבות כנהר ˙ שררך אגן הסהר :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "הוטבו דודיך ˙ וכריח נרדיך ˙ שני שדיך :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "[?] על מטות שן ˙ בתענוג דשן ˙ צוארך כמגדל השן :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 24,
+   "text": "זקפך כתבור וכרמל ˙ ירום ולא יאמל ˙ ראשך עליך ככרמל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "חיך נועם נועמת ˙ נתרוממת ועצמת ˙ מה יפית ומה נעמת :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "שכם חומד קומתך ˙ חיי עדי עד קיומתך ˙ זאת קומתך :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "יפרח בתמר ˙ בחצרות קדש יזומר ˙ אמרתי אעלה בתמר :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "כלולה בלקח טוב ˙ זמרי כי טוב ˙ וחכך כיין הטוב :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "לי דודי והוא כבודי ˙ אפיח לו נרדי ˙ אני לדודי :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "כל כוש גאון עדה ˙ וחן וחסד אערה ˙ לכה דודי נצא השדה :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "נראה בנעימים ˙ ובטוב בנוי במו רמים ˙ נשכימה לכרמים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "שעורת ברית ˙ לטובו דודיך מארית ˙ הדודאים נתנו ריח :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "עמי מתנותך ˙ ועוז שכינתך ˙ מי יתנך :",
+   "confidence": "low",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 23,
+   "span": "[?]"
+  }
+ ],
+ "sha256_text": "356dc86fcb3a0737a9547d0ac1c9e58ef985288090bc285421a704d12683c60d",
+ "proofed": false,
+ "status": "partial",
+ "text_available": true,
+ "marginalia_regions": [
+  {
+   "type": "handwriting",
+   "region": "upper-left margin, faint pencilled numerals"
+  }
+ ],
+ "ocr": {
+  "engine": "Kraken 7.1.1",
+  "model": "BiblIA_01 (doi:10.5281/zenodo.5468286)"
+ },
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.257,
+   "wer": 0.532,
+   "metric": "Levenshtein(raw,corrected)/corrected length; whitespace collapsed; status header and [RASHI-UNPROOFED] markers removed; punctuation and [?] retained"
+  }
+ },
+ "text_file": "../text/fol133a_spread135_left.txt",
+ "proofing_note": "Partly proofed page: square type checked against the page image; Rashi-type notes or rubrics, or other explicitly marked lines, await expert proofreading. Supplied markers are retained unchanged. Supplied CER/WER values are approximate. High OCR error rate (CER 26%); this side needs re-checking."
+}

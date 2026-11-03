@@ -1,0 +1,267 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 132,
+ "side": "right",
+ "folio": "129b",
+ "printed_folio_number": null,
+ "running_head": "תפלות של פסח",
+ "catchword": "קוראי",
+ "signature": null,
+ "contents": [
+  "Dew piyyut continuation with biblical dew quotations",
+  "תפלות של פסח — dew piyyut continued",
+  "Scriptural quotations interspersed within dew piyyut",
+  "Continuation of tal piyyut with prophetic citation"
+ ],
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 5. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and [RASHI-UNPROOFED] retained as supplied"
+ },
+ "supplied_status_line": "PROOFED — diplomatic transcription; square type checked against image",
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של פסח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "ככתוב בתורתך יערוף כמטר לקחי תזל כטל אמרתי כשעירים עלי דשא וכרביבים עלי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "עשב :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "נאק נושאי לך עינים ˙ לענותם הט אזנים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "טל נופף במחולת מחנים ˙ להכריע צדקם במאזנים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "נתברך ממגד ומטל ˙ באחים מנושא ומנוטל ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "טל נשב אגלים תטל ˙ מוליד אגלי טל ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "ככתוב בדברי קדשך היש למטר אב או מי הוליד אגלי טל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "שיח זו אזון לישבן ˙ בטח להושיבן ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "טל שעירים לחשבן ˙ מעת מרחשון ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "סדור עבים להטלילם ˙ כילד שעשעים לנטלם ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "טל שבע רצון לטללם ˙ צו לשמים תת טלם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "ככתוב על ידי נביאך כי זרע השלום הגפן תתן פריה והארץ תתן יבולה והשמים יתנו",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "טלם והתנחלתי את שארית העם הזה את כל אלה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "עתירת טל תערב ˙ ולפניך תקרב ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "טל עלי שרב ˙ יפרח כבמקום עקרב :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "עליית שכבת מפרחת ˙ כאבי נחל פורחת ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "טל עלי עין מרום ומתחת ˙ וממגד תהום רובצת תחת :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "ככתוב בתורתך וליוסף אמר מבורכת ידוה ארצו ממגד שמים מטל ומתהום רובצת תחת :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "פרחי חלד תשלו ˙ בטח שלאנן ושלו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "טל פרח להרגיא ולהשלו ˙ צמחי תנוב כסלו ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "פקוד בחורב בציון ˙ לטללם מחורב צחיון ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "טל פירות לברך בצביון ˙ כטל חרמון על הררי ציון :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "ככתוב בדברי קדשך כטל חרמון שיורד על הררי ציון כי שם צוה ידוה את הברכה חיים",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "עד העולם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "ציה אם מולקשת ˙ ומלקוש אם מבקשת ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "טל צוק עבים תהא מאוששת ˙ בענית קשת ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "צמאון צחרים ˙ בל ישזוף עדנים אחרים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "טל צליחת אתוי נהרים ˙ תצליח בו יהודה ואפרים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "ככתוב על ידי נביאך מה אעשה לך אפרים מה אעשה לך יהודה וחסדכם כענן בקר וכטל",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "משכים הולך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "קלי בטל ויצבט ˙ כלי בחורב יולבט ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "טל קרח בל יוחבט ˙ לזרעוני טבת ושבט :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "קוראי",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "a10807f38a58b9cf9f1c6861edf606fd1b2111dd54f2a81ebd29662f27b5cea8",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "marginalia_regions": [
+  {
+   "kind": "handwriting",
+   "bbox": [
+    1740,
+    190,
+    1920,
+    300
+   ],
+   "note": "Pencil numeral omitted"
+  },
+  {
+   "kind": "facing_page_overlap",
+   "bbox": null,
+   "note": "Facing-page letters beyond gutter excluded; see proof band notes."
+  }
+ ],
+ "ocr": {
+  "engine": "Kraken 7.1.1",
+  "model": "BiblIA_01 (doi:10.5281/zenodo.5468286)"
+ },
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.122,
+   "wer": 0.295,
+   "metric": "Levenshtein(raw,corrected)/corrected length; whitespace collapsed; status header and [RASHI-UNPROOFED] markers removed; punctuation and [?] retained"
+  }
+ },
+ "text_file": "../text/fol129b_spread132_right.txt"
+}

@@ -1,0 +1,265 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 139,
+ "side": "right",
+ "folio": "136b",
+ "printed_folio_number": null,
+ "running_head": "ליום שני של פסח",
+ "catchword": "וידבר",
+ "signature": null,
+ "contents": [
+  "Small Rashi direction for second weekday reading",
+  "Torah reading beginning אם כסף תלוה",
+  "Second weekday Chol Hamoed Torah reading, Exodus 23",
+  "Conclusion of אם כסף תלוה",
+  "Rashi rubrics for third/fourth weekday readings",
+  "Opening of וידבר במדבר סיני"
+ ],
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 5. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and [RASHI-UNPROOFED] retained as supplied"
+ },
+ "supplied_status_line": "PARTIAL — diplomatic transcription; square type checked against image",
+ "lines": [
+  {
+   "n": 1,
+   "text": "ליום שני של פסח",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "[RASHI-UNPROOFED]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "קריחת יום סני סל חול המועד חם הים היום הקודם לו חול חם כסף תלוה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "אם־כסף תלוה את־עמי את־העני עמך לא־תהיה לו כנשה לא־תשימון עליו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "נשך : אם־חבל תחבל שלמת רעך עד־בא השמש תשיבנו לו :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "כי הוא כסותה לבדה הוא שמלתו לערו במה ישכב והיה כי־יצעק אלי ושמעתי כי־חנון אני :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "אלהים לא תקלל ונשיא בעמך לא תאר : מלאתך ודמעך לא",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "תאחר בכור בניך תתן־לי : כן־תעשה לשרך לצאנך שבעת ימים יהיה עם־אמו ביום",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "השמיני תתנו־לי : ואנשי־קדש תהיון לי ובשר בשדה טרפה לא תאכלו לכלב תשלכון",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "אתו : לא תשא שמע שוא אל־תשת ידך עם־רשע להיות עד חמס :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "לא־תהיה אחרי־רבים לרעת ולא־תענה על־רב לנטת אחרי רבים להטת : ודל לא תהדר",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "בריבו : כי תפגע שור איבך או חמרו תעה השב תשיבנו לו : כי תראה חמור שנאך רבץ",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "תחת משאו וחדלת מעזב לו עזב תעזב עמו : לא תטה משפט",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "אבינך בריבו : מדבר־שקר תרחק ונקי וצדיק אל־תהרג כי לא־אצדיק רשע : ושחד",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "לא תקח כי השחד יעור פקחים ויסלף דברי צדיקים : וגר לא תלחץ ואתם ידעתם את־נפש",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "הגר כי־גרים הייתם בארץ מצרים : ושש שנים תזרע את־ארצך ואספת את־תבואתה :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "והשביעת תשמטנה ונטשתה ואכלו אביוני עמך ויתרם תאכל חית השדה כן־תעשה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "לכרמך לזיתך : ששת ימים תעשה מעשיך וביום השביעי תשבת למען ינוח שורך וחמרך",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "וינפש בן־אמתך והגר : ובכל אשר־אמרתי אליכם תשמרו ושם אלהים אחרים לא תזכירו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "לא ישמע על־פיך : שלש רגלים תחג לי בשנה : את־חג המצות תשמר שבעת ימים תאכל",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "מצות כאשר צויתך למועד חדש האביב כי־בו יצאת ממצרים ולא־יראו פני ריקם : וחג",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "הקציר בכורי מעשיך אשר תזרע בשדה וחג האסף בצאת השנה באספך את־מעשיך מן",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "השדה : שלש פעמים בשנה יראה כל־זכורך אל־פני האדן ידוה : לא־תזבח על־חמץ דם",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "זבחי ולא־ילין חלב־חגי עד־בקר : ראשית בכורי אדמתך תביא בית ידוה אלהיך לא־תבשל",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "גדי בחלב אמו :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "[RASHI-UNPROOFED]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "קריחת יום סליסי סל חול המועד חם יום ח' ויום ני]של חול המועד הם חול ויחמר ה' חל' חסה כסל לו | אם",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "בחלב חמו וקוח כתוב ביום רחסון ˙ וחם קוח סבת חתחיל חרחה חתה חומר וכו כחו סל | חי",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "ח' סל חול המועד ומפטיר ההפטרח הכתובה סס ˙ וחם היה יום ח' סל חול המועד בסבהת",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "ביום ב' סל חול המועד קרם לי וכו' וביום ג' סל חול המועד חם כסף תלוה וכו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "קרחת יום ד' סל חול המועד וידבר ה'חל' אסה במדבר סיני [וכו'] | ום בל | ה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "וידבר ידוה אל־משה במדבר־סיני בשנה השנית לצאתם מארץ מצרים בחדש",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "הראשון לאמר : ויעשו בני־ישראל את־הפסח במועדו : בארבעה עשר",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "יום בחדש הזה בין הערבים תעשו אתו במעדו ככל־חקתיו וככל־משפטיו תעשו אתו :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "וידבר",
+   "confidence": "low",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "9c8e0e907f846cb2a3d1a5a730bee2da9184645f15439306bca1d0f461596ded",
+ "proofed": false,
+ "status": "partial",
+ "text_available": true,
+ "marginalia_regions": [
+  {
+   "type": "handwriting",
+   "region": "upper-right margin, pencilled numerals"
+  }
+ ],
+ "ocr": {
+  "engine": "Kraken 7.1.1",
+  "model": "BiblIA_01 (doi:10.5281/zenodo.5468286)"
+ },
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.17,
+   "wer": 0.46,
+   "metric": "Levenshtein(raw,corrected)/corrected length; whitespace collapsed; status header and [RASHI-UNPROOFED] markers removed; punctuation and [?] retained"
+  }
+ },
+ "text_file": "../text/fol136b_spread139_right.txt",
+ "proofing_note": "Partly proofed page: square type checked against the page image; Rashi-type notes or rubrics, or other explicitly marked lines, await expert proofreading. Supplied markers are retained unchanged. Supplied CER/WER values are approximate."
+}

@@ -1,0 +1,273 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 131,
+ "side": "right",
+ "folio": "128b",
+ "printed_folio_number": null,
+ "running_head": "תפלות של פסח",
+ "catchword": "חבא",
+ "signature": null,
+ "contents": [
+  "Dew piyyut continuation with biblical dew quotations",
+  "תפלות של פסח — dew piyyut continued",
+  "Scriptural quotations interspersed within dew piyyut",
+  "Continuation of tal piyyut with scriptural citations"
+ ],
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 5. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and [RASHI-UNPROOFED] retained as supplied"
+ },
+ "supplied_status_line": "PROOFED — diplomatic transcription; square type checked against image",
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של פסח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "בשמך בטל אטלח ˙ בילדות טל להטרה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "טל בו איתן מוטלה ˙ בדיו ירעו כמו טלה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "ברית כרותה לראש אבות ˙ חייליו בטל להרבות ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "טל כל יזון מבני אבות ˙ להרסיס עם נדבות :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "ככתוב בדברי קדשך עמך נדבות ביום חילך בהדרי קדש מרחם משחר לך טל ילדותך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "גזע ברביב טל משויר ˙ ששים ואחת ארחו במשויר ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "טל גד לצידם תויר ˙ מחמשה עשר באייר :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "גיל טל לכל יגעים ˙ ודודאי בכור בו רגועים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "טל גאולים בו נאים ˙ עם כטל נשארו בגוים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "ככתוב על ידי נביאך והיה שארית יעקב בקרב עמים רבים כטל מאת ידוה וכרביבים עלי",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "עשב אשר לא יקוה לאיש ולא ייחל לבני אדם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "דופקי דלתיך לשור ˙ להטלילם באגל מישור ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "טל דוק למו חשור ˙ עד עת קץ לחיכת שור :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "דגלי אסור מוף ענה ˙ וגיא דגניה תענה ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "טל דשאימו יחנה ˙ כטל סביבות המחנה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "ככתוב בתורתך ויהי בערב ותעל השלו ותכס את המחנה ובבקר היתה שכבת הטל סביב",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "למחנה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "הפגעת טל תכוין ˙ מול מכון שבת כוין ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "טל הנפת עב תתכוין ˙ במתנת טל סיון :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "הילול קדש תירושי ˙ ומגוד בטלליו קדושי ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "טל הטלת קציר שרשי ˙ ולין בטל להשרישי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "ככתוב בדברי קדשך שרשי פתוח אלי מים וטל ילין בקצירי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "ואות טוב לחסוף חתומים ˙ ורמז לצחצח כתמים ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "טל וותר לתמימים ˙ להאחות בך כתאומים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "זרד עם אל להכן ˙ וגם מנשי לחכן ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "טל וועד צור לשכן ˙ אותו בכם לעשות כן :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "ככתוב על ידי נביאך ויעש אלהים כן בלילה ההוא ויהי חורב אל הגזה לבדה ועל כל הארץ",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "היה טל :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "זעקי בל תבוז ˙ להדלילי מעוץ ומבוז ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "טל זמנת לרמוז ˙ לחתל בו כאב תמוז :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "זרע בין עתים חיפש ˙ לעד בל יאפס ˙",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "טל זורד על פס ˙ במדבר דק מחוספס :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "ככתוב בתורתך ותעל שכבת הטל והנה על פני המדבר דק מחוספס דק ככפור על הארץ",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "חבא",
+   "confidence": "high",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "9eb107bddf691063b8cee2f1e85ab42afd5f8ea435d94c2046914db134df3a2d",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "marginalia_regions": [
+  {
+   "kind": "handwriting",
+   "bbox": [
+    1740,
+    245,
+    1940,
+    355
+   ],
+   "note": "Pencil numeral omitted"
+  },
+  {
+   "kind": "facing_page_overlap",
+   "bbox": null,
+   "note": "Facing-page letters beyond gutter excluded; see proof band notes."
+  }
+ ],
+ "ocr": {
+  "engine": "Kraken 7.1.1",
+  "model": "BiblIA_01 (doi:10.5281/zenodo.5468286)"
+ },
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.116,
+   "wer": 0.262,
+   "metric": "Levenshtein(raw,corrected)/corrected length; whitespace collapsed; status header and [RASHI-UNPROOFED] markers removed; punctuation and [?] retained"
+  }
+ },
+ "text_file": "../text/fol128b_spread131_right.txt"
+}

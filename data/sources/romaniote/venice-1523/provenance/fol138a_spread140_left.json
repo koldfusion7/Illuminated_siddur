@@ -1,0 +1,286 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 140,
+ "side": "left",
+ "folio": "138a",
+ "printed_folio_number": "קלח",
+ "running_head": "תפלות של פסח",
+ "catchword": null,
+ "signature": "יח ב",
+ "contents": [
+  "Small Rashi concluding evening directions",
+  "סדר שחרית",
+  "פתיחה beginning עברו העברים",
+  "Shacharit opening piyyut, Exodus plagues and sea crossing",
+  "Conclusion of פתיחה עברו",
+  "פתיחה אחרת: יעירוני ימי קדם"
+ ],
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 5. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and [RASHI-UNPROOFED] retained as supplied"
+ },
+ "supplied_status_line": "PARTIAL — diplomatic transcription; square type checked against image",
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של פסח",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "קלח",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "[RASHI-UNPROOFED]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "ברוך חתה ה' הפורם סוכת סלוס עלינו ועל ירוסלם עיר הקדם ˙ וסמרו חלה מועדי כו כתוב",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ביום רחסון וחומ' קדים ומתפלנין תפלה מם סכתוב בימים רחסוכים בלי סכוי [/]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "וכפטרין לבתיהם לסלום ומקדסין על הכוס כסדר הכתוב סס וחין חומ' סהחיינו בחלה סכי",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "ומים ח'חרונים מפני סחג ח' הם עם הימים הרחסוכי' וחינו דומה ליט חחרון סל סוכו סהוח'",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "חג בפכי עכמו לענין פזר קסב :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "סדר שחרית",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "פתיחה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "עברו העברים ˙ בים ובו צללו המצרים : עברו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "מהסנה אל למשה קרא ˙ לך ואני עמך אל תירא ˙ עמי גאל נא ברית אזכרה ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "מעבודת זרים ˙ אפדם באותות ולא במחירים : עברו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "שבטי ישורון בשמעם חרדו ˙ לדבר ידוה ויחדו הודו ˙ לשמו ופרעה ועמו מרדו ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "צוררים אכזרים ˙ כופרים ביוצרם בריתו עוברים : עברו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "הראם שפטיו וחזק לבם ˙ הכם בעשר ושרף לבם ˙ עם אין תבונה ולא אמון בם ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "מי ידוה אומרים ˙ רואים פלאיו ואותו ממרים : עברו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "בדם ובצפרדעים וכנם ˙ הכם בערוב ומות קנינם ˙ בשחין וברד וארבה ענם ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "ועליהם אורים ˙ החשיך והמית בכורי מצרים : עברו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "נגף בכורות חצות לילה ˙ ובכל גבולם בכי ויללה ˙ קמו בחזקה וגרשום כלה ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "כי בליל שמורים ˙ לו העבירם ולשמו שרים : עברו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "דבר לעמו היועץ קשים ˙ בואו ונכם ונשלול עדים ˙ באו עליהם והם על הים ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "אל ידוה קוראים ˙ אנא זכור לשלשה הורים : עברו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "ולנאמן גם הידי תקצר ˙ בני אחיה ואמית כל צר ˙ לחץ עבדי ולהם הצר ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "ים גזור לגזרים ˙ אעביר עדתי אנער צרים : עברו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "דרכה בתוך ים עלי יבשה ˙ אמה וגם חופשה ˙ אחר אשר נשברה חובשה ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "וכתרם בכתרים ˙ מפז וקרים ומספירים : עברו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "חנון זכור קוראים בשמך ˙ וגאל עדתך בעוז עצמך ˙ השב שבותם לאולמך ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "יפצחו ההרים ˙ רנה ונשיר פעל ים שירים : עברו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "פתיחה אחרת",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "יעירוני ימי קדם ˙ היותי אות לכל צבאי ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "בעת שבתי שחרחורת ˙ כלילת היפי וצבי ˙ כמו היכל מחוטבה :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "אז ביד כפתור ועונתי ˙ בסבלותם וקראתי ˙ אלי דודי והנה בא :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "אזי ירד ידיד נפשי ˙ בתוך גני ופרדסי ˙ ושם כרת ברית אתי ˙ ידידות אהבת רבה :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "יח ב",
+   "confidence": "low",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "02f19db08e0f98a3a7a8cc141b1c9faee2b8d1df5faeede1eee462768d42cd56",
+ "proofed": false,
+ "status": "partial",
+ "text_available": true,
+ "marginalia_regions": [
+  {
+   "kind": "handwriting",
+   "bbox": null,
+   "note": "Upper-left pencilled numerals omitted."
+  },
+  {
+   "kind": "facing_page_overlap",
+   "bbox": [
+    2000,
+    1780,
+    2097,
+    2550
+   ],
+   "note": "Facing-page print beyond right gutter excluded."
+  },
+  {
+   "kind": "handwriting",
+   "bbox": [
+    930,
+    2500,
+    1490,
+    2820
+   ],
+   "note": "Bold cursive inscription/flourish plus faint marks beneath final body rows, omitted."
+  }
+ ],
+ "ocr": {
+  "engine": "Kraken 7.1.1",
+  "model": "BiblIA_01 (doi:10.5281/zenodo.5468286)"
+ },
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.119,
+   "wer": 0.251,
+   "metric": "Levenshtein(raw,corrected)/corrected length; whitespace collapsed; status header and [RASHI-UNPROOFED] markers removed; punctuation and [?] retained"
+  }
+ },
+ "text_file": "../text/fol138a_spread140_left.txt",
+ "proofing_note": "Partly proofed page: square type checked against the page image; Rashi-type notes or rubrics, or other explicitly marked lines, await expert proofreading. Supplied markers are retained unchanged. Supplied CER/WER values are approximate."
+}

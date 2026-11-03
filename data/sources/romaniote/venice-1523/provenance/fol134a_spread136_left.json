@@ -1,0 +1,269 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 136,
+ "side": "left",
+ "folio": "134a",
+ "printed_folio_number": "קלד",
+ "running_head": "תפלות ליום שני של פסח",
+ "catchword": null,
+ "signature": null,
+ "contents": [
+  "Torah reading, continuation of Leviticus festivals passage",
+  "Torah second-day Passover, Leviticus 23: Day of Atonement and Sukkot",
+  "Conclusion of Torah reading: Sukkot",
+  "Beginning of haftarah: ויצו המלך"
+ ],
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 5. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and [RASHI-UNPROOFED] retained as supplied"
+ },
+ "supplied_status_line": "PARTIAL — diplomatic transcription; square type checked against image",
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות ליום שני של פסח",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "קלד",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "השביעת תספרו חמשים יום והקרבתם מנחה חדשה לידוה : ממושבתיכם תביאו לחם",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "תנופה שתים שני עשרנים סלת תהיינה חמץ תאפינה בכורים לידוה : והקרבתם על־",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "הלחם שבעת כבשים תמימים בני שנה ופר בן־בקר אחד ואילם שנים יהיו עלה לידוה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "ומנחתם ונסכיהם אשה ריח־ניחח לידוה : ועשיתם שעיר־עזים אחד לחטאת ושני",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "כבשים בני שנה לזבח שלמים : והניף הכהן אתם על לחם הבכרים תנופה לפני",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "ידוה על־שני כבשים קדש יהיו לידוה לכהן : וקראתם בעצם היום הזה מקרא־קדש",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "יהיה לכם כל־מלאכת עבדה לא תעשו חקת עולם בכל־מושבתיכם לדרתיכם : ובקצרכם",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "את־קציר ארצכם לא־תכלה פאת שדך בקצרך ולקט קצירך לא תלקט לעני ולגר תעזב",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "אתם אני ידוה אלהיכם : וידבר ידוה אל־משה לאמר : דבר אל־בני ישראל",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "לאמר בחדש השביעי באחד לחדש יהיה לכם שבתון זכרון תרועה מקרא קדש :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "כל־מלאכת עבדה לא תעשו והקרבתם אשה לידוה : וידבר ידוה אל־משה לאמר :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "אך בעשור לחדש השביעי הזה יום הכפרים הוא מקרא־קדש יהיה לכם ועניתם את־",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "נפשתיכם והקרבתם אשה לידוה : וכל־מלאכה לא תעשו בעצם היום הזה כי יום כפרים",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "הוא לכפר עליכם לפני ידוה אלהיכם : כי כל־הנפש אשר לא־תענה בעצם היום הזה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "ונכרתה מעמיה : וכל־הנפש אשר תעשה כל־מלאכה בעצם היום הזה והאבדתי את־",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "הנפש ההוא מקרב עמה : כל־מלאכה לא תעשו חקת עולם לדרתיכם בכל משבתיכם :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "שבת שבתון הוא לכם ועניתם את־נפשתיכם בתשעה לחדש בערב מערב עד־ערב",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "תשבתו שבתכם : וידבר ידוה אל־משה לאמר : דבר אל־בני ישראל לאמר",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "בחמשה עשר יום לחדש השביעי הזה חג הסכות שבעת ימים לידוה : ביום הראשון",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "מקרא־קדש כל־מלאכת עבדה לא תעשו : שבעת ימים תקריבו אשה לידוה ביום השמיני",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "מקרא־קדש יהיה לכם והקרבתם אשה לידוה עצרת הוא כל־מלאכת עבדה לא תעשו :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "אלה מועדי ידוה אשר־תקראו אתם מקראי קדש להקריב אשה לידוה עלה ומנחה זבח",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "ונסכים דבר־יום ביומו : מלבד שבתת ידוה ומלבד מתנותיכם ומלבד כל־נדריכם",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "ומלבד כל־נדבתיכם אשר תתנו לידוה : אך בחמשה עשר יום לחדש השביעי באספכם",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "את־תבואת הארץ תחגו את־חג־ידוה שבעת ימים ביום הראשון שבתון וביום השמיני",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "שבתון : ולקחתם לכם ביום הראשון פרי עץ הדר כפת תמרים וענף עץ עבת וערבי־",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "נחל ושמחתם לפני ידוה אלהיכם שבעת ימים : וחגתם אתו חג לידוה שבעת ימים בשנה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "חקת עולם לדרתיכם בחדש השביעי תחגו אתו : בסכות תשבו שבעת ימים כל־האזרח",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "בישראל ישבו בסכות : למען ידעו לדרתיכם כי בסכות הושבתי את־בני ישראל בהוציאי",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "אותם מארץ מצרים אני ידוה אלהיכם : וידבר משה את מועדי ידוה אל־בני ישראל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "[RASHI-UNPROOFED]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "הפנורת יום סכי במלכים ויכו המלך",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "ויצו המלך את־כל־העם לאמר עשו פסח לידוה אלהיכם ככתוב על־ספר הברית",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 36,
+   "text": "הזה : כי לא נעשה כפסח הזה מימי השפטים אשר שפטו את ישראל וכל",
+   "confidence": "low",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "788e66489fb91b41f54691cef69ca808bc22596e241a930ab0273ef6c6d9e3a8",
+ "proofed": false,
+ "status": "partial",
+ "text_available": true,
+ "marginalia_regions": [
+  {
+   "type": "handwriting",
+   "region": "upper-left margin, pencilled numerals"
+  }
+ ],
+ "ocr": {
+  "engine": "Kraken 7.1.1",
+  "model": "BiblIA_01 (doi:10.5281/zenodo.5468286)"
+ },
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.127,
+   "wer": 0.412,
+   "metric": "Levenshtein(raw,corrected)/corrected length; whitespace collapsed; status header and [RASHI-UNPROOFED] markers removed; punctuation and [?] retained"
+  }
+ },
+ "text_file": "../text/fol134a_spread136_left.txt",
+ "proofing_note": "Partly proofed page: square type checked against the page image; Rashi-type notes or rubrics, or other explicitly marked lines, await expert proofreading. Supplied markers are retained unchanged. Supplied CER/WER values are approximate."
+}

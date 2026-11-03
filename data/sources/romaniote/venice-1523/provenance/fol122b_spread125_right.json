@@ -1,0 +1,286 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 125,
+ "side": "right",
+ "folio": "122b",
+ "printed_folio_number": null,
+ "running_head": "תפלות של פסח",
+ "catchword": "אתה",
+ "signature": null,
+ "contents": [
+  "Conclusion of geulah piyyut מי כמוך שוכן עד: Passover observance and שלום endings",
+  "Rashi instruction rubric",
+  "קול נתנה מי זאת: exile lament and redemption blessing",
+  "Amidah opening and Avot blessing"
+ ],
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 5. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and [RASHI-UNPROOFED] retained as supplied"
+ },
+ "supplied_status_line": "PARTIAL — square type proofed; Rashi rubric retained raw",
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של פסח",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "בזאת תבחנו ˙ המחצבת רהב נפלאת בעינינו ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "היא שעמדה לאבותינו ולנו ˙ וקראת אליה לשלום :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "זכרון לבני ישראל לדורותם ˙ יצאו מארץ מצרים על צבאותם ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "משארותם צרורות בשמלותם ˙ וישב עמי בנוה שלום :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "מצות הפסח בעשירי מקחו ˙ רמז לחצי הצומח ונכחו ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "ויתר הרביעי הולך נכוחו ˙ אמת ומשפט שלום :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "י[?]ות דם פסח לדם מאדים הפככם ˙ כי הוא בעל הצומח למשפטיכם ˙",
+   "confidence": "low",
+   "uncertain_spans": [
+    "י[?]ות"
+   ]
+  },
+  {
+   "n": 9,
+   "text": "ולא יתן המשחית לבא אל בתיכם ˙ ואתה שלום וביתך שלום :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "טעם ראשו על כרעיו ועל קרבו ˙ רמז לחלק הנעבד במסבו ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "לכן כל ערל לא יאכל בו ˙ אין שלום :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "בראשון בחמשה עשר יום לחדש ˙ יהיה לכם מקרא קדש ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "כי בנכח הלבנה שפלות מתחדש ˙ ונתתי שלום :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "מצות יאכל לשבעת הימים ˙ כי בתקף הבינוני ישתנו הגרמים ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "א[?]ן לא הגרם תתמים ˙ אתו החיים והשלום :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "א[?]ן"
+   ]
+  },
+  {
+   "n": 16,
+   "text": "ליל שמורים הוא לידוה ˙ בהוציאי אתכם מארץ מצרים אמוני ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "ואמרתם זבח פסח הוא לידוה ˙ כי בשמחה תצאו ובשלום :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "שירה חדשה שבחו גאולים ˙ למלך עוזר דלים ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "מי כמוך באלים ˙ בורא ניב שפתים שלום :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "[RASHI-UNPROOFED]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "מי כמוך בחלים ה' מי כמוך נחדר בקדם כורח תהנות עוס פלח' וים חומרים",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "עוסק פלח' כתוב בהגדה וחחר כך חומרי סירה חדסק סבחו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "גחולים עד כחסר נחלת חת חבותינו וחתחיל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "קול נתנה מי זאת מקוצר רוח ומעבודה קשה ˙ ארץ אבותי היתה שממה ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "מגוי אל גוי הייתי גולה ˙ לא שלותי בבבל ולא שקטתי במדי ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "ולא נחתי ביון וקדמני אדום ˙ ובכן כאשר ינוס איש מפני הארי ופגעו הדוב ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "ובא הבית וסמך ידו אל הקיר ˙ ונשכו הנחש ˙ כן בזת אדום עמלי ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "ואכלו ישמעאלים חילי ˙ עשה משפטי ודיני ˙ כי אתה צורי וגואלי ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "ברוך אתה ידוה גאל ישראל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "אדני שפתי תפתח ופי יגיד תהלתך : ברוך אתה ידוה אלהינו ואלהי אבותינו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "אלהי אברהם אלהי יצחק ואלהי יעקב האל הגדול הגבור והנורא אל עליון",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "גומל חסדים טובים וקונה את הכל וזוכר חסדי אבות ומביא גואל לבני בניהם למען שמו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "באהבה מלך רחמן אל חי גואל עוזר ומושיע ומגן ברוך אתה ידוה מגן אברהם :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "אתה",
+   "confidence": "low",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 8,
+   "span": "י[?]ות"
+  },
+  {
+   "line": 15,
+   "span": "א[?]ן"
+  }
+ ],
+ "sha256_text": "5b9b2629617bd03d3719e02cac3092650f8d80563761e52a648ff8d33f3974be",
+ "proofed": false,
+ "status": "partial",
+ "text_available": true,
+ "marginalia_regions": [
+  {
+   "kind": "handwriting",
+   "bbox": [
+    1730,
+    170,
+    1970,
+    310
+   ],
+   "note": "Pencilled upper outer-margin number 244; excluded."
+  },
+  {
+   "kind": "facing_page_overlap",
+   "bbox": [
+    0,
+    200,
+    180,
+    2550
+   ],
+   "note": "Facing-page fragments beyond left gutter excluded."
+  }
+ ],
+ "ocr": {
+  "engine": "Kraken 7.1.1",
+  "model": "BiblIA_01 (doi:10.5281/zenodo.5468286)"
+ },
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.094,
+   "wer": 0.26,
+   "metric": "Levenshtein(raw,corrected)/corrected length; whitespace collapsed; status header and [RASHI-UNPROOFED] markers removed; punctuation and [?] retained"
+  }
+ },
+ "text_file": "../text/fol122b_spread125_right.txt",
+ "proofing_note": "Partly proofed page: square type checked against the page image; Rashi-type notes or rubrics, or other explicitly marked lines, await expert proofreading. Supplied markers are retained unchanged. Supplied CER/WER values are approximate."
+}

@@ -1,0 +1,307 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 122,
+ "side": "left",
+ "folio": "120a",
+ "printed_folio_number": "קכ",
+ "running_head": "יוצר ליום ראשון של פסח",
+ "catchword": null,
+ "signature": null,
+ "contents": [
+  "Yotser for first day of Passover: continued Song of Songs piyyut",
+  "נחלה / ניגון אחר: continuation with alternate tune rubric"
+ ],
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 5. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and [RASHI-UNPROOFED] retained as supplied"
+ },
+ "supplied_status_line": "PROOFED — image checked; doubtful spans marked",
+ "lines": [
+  {
+   "n": 1,
+   "text": "יוצר ליום ראשון של פסח",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "קכ",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "התריני מלי חייך ˙ רטיית נומי מחייך ˙ הזה והבא לתחייך ˙ נאוו לחייך :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "וחנני חן מוצהב ˙ בנצול צול רהב ˙ וכביר הצביר יהב ˙ תורי זהב :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "ולפי גם בו ˙ ידע סיג סבו ˙ וסר באוכל עשבו ˙ עד שהמלך במסיבו :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "זמן זמן מזמור ˙ ייחוד עריצים לזמור ˙ זבלני בצר לכמוד ˙ צרור המור :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "זלזול כרום כפר ˙ הזיל כרכום חפר ˙ זייף חוב מספר ˙ אשכול הכופר :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "חשק חבת רעיתי ˙ וחפץ חלבי רעתי ˙ חוה לחופת יריעתי ˙ הנך יפה רעיתי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "חוש חפשי מרודי ˙ דיץ ברווי דודי ˙ חננתיו חתני ידידי ˙ קול דודי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "טלטל פניקסי נחרזים ˙ הרים עוקר ותרזים ˙ טס מטע מזורזים ˙ קורות בתינו ארזים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "טירת ביתו נאצלת ˙ יתנני רון מצהלת ˙ טקסיס חתונה מצלצלת ˙ אני חבצלת :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "יעלה רום מתוחים ˙ חרושים רושים תיחוחים ˙ יאים ערבי ניחוחים ˙ כשושנה בין החוחים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "יציץ לא למצער ˙ יתר שאת מזער ˙ יפרח לויי מער ˙ כתפוח בעצי היער :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "פרחי מהכשר זין ˙ הרוני מלא עין ˙ כתב ראות ומנין ˙ הביאני אל בית היין :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "כלכל עדני מתשישות ˙ יסרי קשות מקוששות ˙ כונתי חולת חשישות ˙ סמכוני באשישות",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "לא דרך בתפלישי ˙ גם ציה כהפרישי ˙ למסך ופנוי טרשי ˙ שמאלו תחת לראשי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "לב אחרושכם ˙ דאים בעב למשכם ˙ לאסירים יחפוץ כסכם ˙ השבעתי אתכם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "מפור תחיות רדודי ˙ לחץ עקרבי גדודי ˙ מהר קדר מדודי ˙ קול דודי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "מפיח חמר קצבי ˙ בית חיים הציבי ˙ מצפי מציפי מצבי ˙ דומה דודי לצבי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "נחלה",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "ניגון אחר",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "שפרה לי ˙ תקות שלש גורלי ˙ נעימות כמר לי ˙ ענה דודי ואמר לי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "גם תתי סבר ˙ ורק אין דבר ˙ נוסו נודו כבר ˙ כי הנה הסתו עבר :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "סרסור [?] מרץ ˙ ראש פירוז הרץ ˙ סליל שלום ותרץ ˙ הנצנים נראו בארץ :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 25,
+   "text": "ספק עתים מפיגה ˙ הפק ממתיק פיגה ˙ סלת סלת ספוגיה ˙ התאנה חנטה פגיה :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "עקלתון [?]ושף קולע ˙ ופיתון מכשף נצלע ˙ ערב שלשול בהקלע ˙ יונתי בחגוי הסלע :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]ושף"
+   ]
+  },
+  {
+   "n": 27,
+   "text": "ערירים עם עוללים ˙ מדו זרו שעלים ˙ ענין לא מעלים ˙ אחזו לנו שעלים :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "פ[?]זולי ועגול בדלי ˙ ענוק פנוק כדלי ˙ פנים בפנים השדילי ˙ דודי לי :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "פ[?]זולי"
+   ]
+  },
+  {
+   "n": 29,
+   "text": "פועל גם תפוח ˙ שכר לא קפוח ˙ פקוד דיר טפוח ˙ עד שיפוח :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "צמצם שכנו מרכבי ˙ יום חנוך כרכבי ˙ צפיתי פה עכובי ˙ על משכבי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "צבי קדש מעונה ˙ מקום מבחר מנה ˙ ציון ראש אמנה ˙ אקומה נא :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "[?] רצתי באומרים ˙ טפתי נפתי במורים ˙ קל קלתי שמרים שמנים ˙ מצאוני השומרים :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  },
+  {
+   "n": 33,
+   "text": "קנין כי שברתי ˙ וטוב לא שברתי ˙ קדשו לולי חברתי ˙ כמעט שעברתי :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "רשם אשר בצבאותיכם ˙ בזעזוע חיל אילותכם ˙ ריחוק ריחוק אתכם ˙ השבעתי אתכם :",
+   "confidence": "high",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "ריש גלי [?] ˙ יונה תמה עולה ˙ רגשו בני עולה ˙ מי זאת עולה :",
+   "confidence": "low",
+   "uncertain_spans": [
+    "[?]"
+   ]
+  }
+ ],
+ "uncertain_spans": [
+  {
+   "line": 24,
+   "span": "[?]"
+  },
+  {
+   "line": 26,
+   "span": "[?]ושף"
+  },
+  {
+   "line": 28,
+   "span": "פ[?]זולי"
+  },
+  {
+   "line": 32,
+   "span": "[?]"
+  },
+  {
+   "line": 35,
+   "span": "[?]"
+  }
+ ],
+ "sha256_text": "9e865373fbc86798043a485767dd360e22b7066f7708638b302c6052c87bf837",
+ "proofed": true,
+ "status": "proofed",
+ "text_available": true,
+ "marginalia_regions": [
+  {
+   "kind": "handwriting",
+   "bbox": [
+    130,
+    165,
+    410,
+    300
+   ],
+   "note": "Faint pencilled outer upper-margin number, apparently 229; excluded."
+  },
+  {
+   "kind": "facing_page_overlap",
+   "bbox": [
+    2030,
+    300,
+    2097,
+    2460
+   ],
+   "note": "Thin fragments beyond right gutter excluded."
+  }
+ ],
+ "ocr": {
+  "engine": "Kraken 7.1.1",
+  "model": "BiblIA_01 (doi:10.5281/zenodo.5468286)"
+ },
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.186,
+   "wer": 0.361,
+   "metric": "Levenshtein(raw,corrected)/corrected length; whitespace collapsed; status header and [RASHI-UNPROOFED] markers removed; punctuation and [?] retained"
+  }
+ },
+ "text_file": "../text/fol120a_spread122_left.txt"
+}

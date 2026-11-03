@@ -1,0 +1,282 @@
+{
+ "rite": "romaniote",
+ "source": "MTAK Kaufmann B 605",
+ "work": "Mahzor Romania, Venice 1523",
+ "pdf_page": 133,
+ "side": "right",
+ "folio": "130b",
+ "printed_folio_number": null,
+ "running_head": "תפלות של פסח",
+ "catchword": "אחריך",
+ "signature": null,
+ "contents": [
+  "Dew piyyut ending",
+  "Alternative dew piyyut beginning אלהינו ואלהי אבותינו טל תן",
+  "תפלות של פסח — dew piyyut conclusion",
+  "Dew petitions and resurrection blessing",
+  "Post-Amidah Passover rubrics, Rashi type unproofed",
+  "Opening of Song of Songs"
+ ],
+ "page_image_dpi": 300,
+ "transcription_scope": "Supplied consonantal transcription for OCR sweep 5. Punctuation, abbreviations, uncertainty marks and editorial layout markers retained as supplied; vowel points are not transcribed.",
+ "conventions": {
+  "[?]": "reading uncertain",
+  "|": "printed column or cell break",
+  "punctuation": "all supplied separator and colon forms retained without normalization",
+  "editorial markers": "bracketed layout and proofing labels and [RASHI-UNPROOFED] retained as supplied"
+ },
+ "supplied_status_line": "PARTIAL — diplomatic transcription; square type checked against image",
+ "lines": [
+  {
+   "n": 1,
+   "text": "תפלות של פסח",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 2,
+   "text": "צור חשוב נא לעם ˙ ניטפי סמים וטל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 3,
+   "text": "קוצים אשר לא קבלו ˙ שמוע אמרת טל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 4,
+   "text": "רשף ולהט ˙ כיום אין בו טל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 5,
+   "text": "שפרת שחקים ˙ מעון אגלי טל ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 6,
+   "text": "תצוה להרביב ˙ על זרע השלום בטל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 7,
+   "text": "[RASHI-UNPROOFED]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 8,
+   "text": "וים קהילות סחומרים [ו/]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 9,
+   "text": "אלהינו ואלהי אבותינו טל תן לרצות ארצך ˙ שיתנו ברכה בדיצך ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 10,
+   "text": "רוב דגן ותירוש בהפריצך ˙ קומם עיר בה חפצך בטל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 11,
+   "text": "טל צוה בשנת טובה מעוטרת ˙ פרי הארץ לגאון ולתפארת ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 12,
+   "text": "עיר בסוכה נותרת ˙ שימה בידך עטרת בטל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 13,
+   "text": "טל נופף על ארץ ברוכה ˙ ממגד שמים שבענו ברכה ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 14,
+   "text": "להאיר מתוך החשיכה ˙ פנה אחריך משוכה בטל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 15,
+   "text": "טל יעסיס צוף הרים ˙ טעם במאורך מובחרים ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 16,
+   "text": "חנוניך חלץ ממסגרים ˙ זמרה ננעים וקול נרים בטל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 17,
+   "text": "טל ושובע מלא אסמינו ˙ הכעת תחדש ימינו ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 18,
+   "text": "דור כערכך מעמיד שמינו ˙ גן רות שימנו בטל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 19,
+   "text": "טל בו תברך מזון ˙ במשמנינו אל יהי רזון ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 20,
+   "text": "איומה אשר היסעת כצאן ˙ אנא תפיק לה רצון בטל :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 21,
+   "text": "שאתהו ידוה אלהינו רב להושיע מוריד הטל ˙ לברכה ולא לקללה ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 22,
+   "text": "לחיים ולא למות ˙ לשובע ולא לרזון ˙ לשלום ולא למלחמה ˙",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 23,
+   "text": "מלך ממית ומחיה ומצמיח לנו ישועה בקרוב ונאמן אתה להחיות מתים ברוך אתה ידוה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 24,
+   "text": "מחיה המתים :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 25,
+   "text": "[RASHI-UNPROOFED]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 26,
+   "text": "חמחת",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 27,
+   "text": "בתר ותמכו כמו סכתוב לעיל חסריך וסרחל וקדים סלם תתקבל חין כחל קיכו וקדים וברכו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 28,
+   "text": "כסנסין לבק' ומתחיליק גילי חחד וחם הוח' סבת מתחיל חם תסיב מסבת כו תהלה ובח' לכי | ובתם",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 29,
+   "text": "ומתפללין תפלה כמו בסחרית וחחר התפלה ים קהלו סחומרים מסיר הסירים רב יעיתופ | אה | לון",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 30,
+   "text": "וביום סני בחכחם מתחילין על מסכבי עד סתו וסכדו דודים ˙ וביום רחסק סל יום טוב חחדו : | אותי",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 31,
+   "text": "חני יסינה עד חני לדודי ועלי תסוקתו וביום חחרון חתחינין לכה דורי עד הסוף וים קחלות סחחניה י | סתו",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 32,
+   "text": "לסכים וחומרק חותו בסני ומים החחרוכים וים קורין הכל ביום חחרון הכל כמכהג הקה",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 33,
+   "text": "סיר הסירים בפסח מפני סמססר מיביחת מברים [:]",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 34,
+   "text": "שיר השירים אשר לשלמה : ישקני מנשיקות פיהו כי־טובים דודיך מיין :",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 35,
+   "text": "לריח שמניך טובים שמן תורק שמך על־כן עלמות אהבוך : משכני",
+   "confidence": "low",
+   "uncertain_spans": []
+  },
+  {
+   "n": 36,
+   "text": "אחריך",
+   "confidence": "low",
+   "uncertain_spans": []
+  }
+ ],
+ "uncertain_spans": [],
+ "sha256_text": "5d8185a7f01b3e49d04556ddfddc16f254263940d89b586e4209d459e0a1542b",
+ "proofed": false,
+ "status": "partial",
+ "text_available": true,
+ "marginalia_regions": [
+  {
+   "kind": "handwriting",
+   "bbox": [
+    1740,
+    245,
+    1940,
+    340
+   ],
+   "note": "Pencil numeral omitted"
+  },
+  {
+   "kind": "facing_page_overlap",
+   "bbox": null,
+   "note": "Facing-page letters beyond gutter excluded; see proof band notes."
+  }
+ ],
+ "ocr": {
+  "engine": "Kraken 7.1.1",
+  "model": "BiblIA_01 (doi:10.5281/zenodo.5468286)"
+ },
+ "ocr_error_rates_vs_proofed_text": {
+  "initial": {
+   "cer": 0.095,
+   "wer": 0.216,
+   "metric": "Levenshtein(raw,corrected)/corrected length; whitespace collapsed; status header and [RASHI-UNPROOFED] markers removed; punctuation and [?] retained"
+  }
+ },
+ "text_file": "../text/fol130b_spread133_right.txt",
+ "proofing_note": "Partly proofed page: square type checked against the page image; Rashi-type notes or rubrics, or other explicitly marked lines, await expert proofreading. Supplied markers are retained unchanged. Supplied CER/WER values are approximate."
+}
